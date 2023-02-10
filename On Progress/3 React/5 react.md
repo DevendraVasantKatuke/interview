@@ -1,3 +1,9 @@
+##### Update React
+```
+npm update react@next react-dom@next
+yarn upgrade react@next react-dom@next
+```
+
 https://handsonreact.com/
 https://reactresources.com/
 https://refine.dev/
