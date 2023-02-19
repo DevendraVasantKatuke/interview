@@ -7,6 +7,7 @@ https://sst.dev/
 https://usehooks.com/
 https://usehooks-ts.com/
 https://react-hook-form.com/
+https://www.patterns.dev/
 https://github.com/topics/react-tutorial
 https://github.com/enaqx/awesome-react
 https://www.joshwcomeau.com/tutorials/react/
