@@ -1,3 +1,9 @@
+##### Update React
+```
+npm update react@next react-dom@next
+yarn upgrade react@next react-dom@next
+```
+
 ## React 18 features
 - automatic batching: new APIs (like startTransition), and a new streaming server renderer with built-in support for React.lazy. These features are possible due to “concurrent rendering” and it lets React prepare multiple versions of the UI at the same time. 
 
