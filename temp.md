@@ -1,3 +1,88 @@
+- SOLID Principals
+- https://developers.cloudflare.com/
+- https://afteracademy.com/tech-interview/
+- https://www.tutorialspoint.com/articles/category/data-structure
+- https://devhints.io/
+- Javascript
+    - https://www.w3schools.com/js/
+    - Lydia Halle
+    - https://www.programiz.com/javascript/examples
+    - https://www.jondjones.com/frontend/javascript-latest-tutorials/
+    - https://frontarm.com/courses/async-javascript/
+    - https://exploringjs.com/impatient-js/toc.html
+    - https://www.javascripttutorial.net/
+    - https://blog.greenroots.info/series/javascript-promises
+    - https://www.promisejs.org/
+    - https://www.smashingmagazine.com/2020/11/comparison-async-await-versus-then-catch/
+    - https://www.tutorialspoint.com/articles/category/Javascript
+    - Call Stack
+    - Primitive Types
+    - Value Types and Reference Types
+    - Implicit, Explicit, Nominal, Structuring and Duck Typing
+    - == vs === vs typeof
+    - Function Scope, Block Scope and Lexical Scope
+    - Expression vs Statement
+    - IIFE, Modules and Namespaces
+    - Message Queue and Event Loop
+    - setTimeout, setInterval and requestAnimationFrame
+    - JavaScript Engines
+    - Bitwise Operators, Type Arrays and Array Buffers
+    - DOM and Layout Trees
+    - Factories and Classes
+    - this, call, apply and bind
+    - new, Constructor, instanceof and Instances
+    - Prototype Inheritance and Prototype Chain
+    - Object.create and Object.assign
+    - map, reduce, filter
+    - Pure Functions, Side Effects, State Mutation and Event Propagation
+    - Closures
+    - High Order Functions
+    - Recursion
+    - Collections and Generators
+    - Promises
+    - async/await
+    - Data Structures
+    - Expensive Operation and Big O Notation
+    - Algorithms
+    - Inheritance, Polymorphism and Code Reuse
+    - Design Patterns
+    - Partial Applications, Currying, Compose and Pipe
+    - Clean Code
+- Typescript
+    - https://www.w3schools.com/typescript/index.php
+    - https://basarat.gitbook.io/typescript/
+    - https://react-typescript-cheatsheet.netlify.app/
+- React
+    - https://devhints.io/react
+    - https://overreacted.io/
+    - Old
+    - new
+    - https://handsonreact.com/
+    - https://www.digitalocean.com/community/tutorials?q=%5BReact%5D&hits_per_page=12
+    - https://blog.greenroots.info/
+- Redux
+    - Redux
+    - Redux Toolkit
+    - Iterator and Generatior functions
+    - Redux Saga
+    - Immer
+    - https://react-redux-firebase.com/docs/integrations/redux-persist.html
+        (https://github.com/rt2zz/redux-persist)
+    - Egghead courses 2
+- Jest, React Testing Library
+    - Videos
+    - https://devhints.io/jest
+- NodeJS
+    - https://nodejs.dev/en/learn
+    - https://nodesource.com/resources/
+    - https://docs.nodesource.com/nsolid/4.9/docs#overview
+    - ExpressJS
+    - https://www.express-gateway.io/about/
+    - https://developers.cloudflare.com/workers/
+    - https://www.digitalocean.com/community/tutorials?q=%5BNode.js%5D&hits_per_page=12
+    - https://janisharali.com/blog/design-node-js-backend-architecture-like-a-pro
+    - https://blog.risingstack.com/
+
 Chapter 10: Comparison Operations
 Section 10.1: Abstract equality / inequality and type
 conversion

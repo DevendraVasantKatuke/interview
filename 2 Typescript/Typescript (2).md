@@ -1,32 +1,11 @@
-https://ui.mantine.dev/
-https://www.typescripttutorial.net/
-https://www.typescriptlang.org/
-https://www.ibrahima-ndaw.com/
-https://fettblog.eu/advanced-typescript-guide/
-https://leanpub.com/functional-programming-in-Ts-with-categories
-https://leanpub.com/functionalprogrammingintypescriptapracticalguide
-
-
-// There are 3 basic types in TypeScript
-let isDone: boolean = false;
-let lines: number = 42;
-let name: string = "Anders";
-
-// But you can omit the type annotation if the variables are derived
-// from explicit literals
-let isDone = false;
-let lines = 42;
-let name = "Anders";
-
-// When it's impossible to know, there is the "Any" type
-let notSure: any = 4;
-notSure = "maybe a string instead";
-notSure = false; // okay, definitely a boolean
-
-// Use const keyword for constants
-const numLivesForCat = 9;
-numLivesForCat = 1; // Error
-
+- https://ui.mantine.dev/
+- https://www.typescripttutorial.net/
+- https://www.typescriptlang.org/
+- https://www.ibrahima-ndaw.com/
+- https://fettblog.eu/advanced-typescript-guide/
+- https://leanpub.com/functional-programming-in-Ts-with-categories
+- https://leanpub.com/functionalprogrammingintypescriptapracticalguide
+```
 // For collections, there are typed arrays and generic arrays
 let list: number[] = [1, 2, 3];
 // Alternatively, using the generic array type
@@ -273,3 +252,4 @@ interface Foo {
 let foo = {} as Foo; // Type assertion here
 foo.bar = 123;
 foo.baz = 'hello world'
+```
