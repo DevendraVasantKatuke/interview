@@ -1,3 +1,7 @@
+- https://www.totaltypescript.com/tutorials
+- https://www.totaltypescript.com/workshops
+- https://zod.dev/?id=table-of-contents
+- https://www.youtube.com/watch?v=6zojOpZGrtg
 - https://www.typescriptlang.org/docs/
 - https://www.freecodecamp.org/news/make-react-components-great-again-with-typescript-mapped-and-conditional-types-fa729bfc1a79/
 - https://handsonreact.com/docs/labs/react-tutorial-typescript

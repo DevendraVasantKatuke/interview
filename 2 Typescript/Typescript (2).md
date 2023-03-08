@@ -6,37 +6,6 @@
 - https://leanpub.com/functional-programming-in-Ts-with-categories
 - https://leanpub.com/functionalprogrammingintypescriptapracticalguide
 ```
-// For collections, there are typed arrays and generic arrays
-let list: number[] = [1, 2, 3];
-// Alternatively, using the generic array type
-let list: Array<number> = [1, 2, 3];
-
-// For enumerations:
-enum Color { Red, Green, Blue };
-let c: Color = Color.Green;
-console.log(Color[c]); // "Green"
-
-// Lastly, "void" is used in the special case of a function returning nothing
-function bigHorribleAlert(): void {
-  alert("I'm a little annoying box!");
-}
-
-// Functions are first class citizens, support the lambda "fat arrow" syntax and
-// use type inference
-
-// The following are equivalent, the same signature will be inferred by the
-// compiler, and same JavaScript will be emitted
-let f1 = function (i: number): number { return i * i; }
-// Return type inferred
-let f2 = function (i: number) { return i * i; }
-// "Fat arrow" syntax
-let f3 = (i: number): number => { return i * i; }
-// "Fat arrow" syntax with return type inferred
-let f4 = (i: number) => { return i * i; }
-// "Fat arrow" syntax with return type inferred, braceless means no return
-// keyword needed
-let f5 = (i: number) => i * i;
-
 // Interfaces are structural, anything that has the properties is compliant with
 // the interface
 interface Person {

@@ -1,29 +1,127 @@
-##### Update React
-```
-npm update react@next react-dom@next
-yarn upgrade react@next react-dom@next
-```
+- https://vasanthk.gitbooks.io/react-bits/content/
+- https://rajatexplains.com/
+- https://levelup.gitconnected.com/7-interview-questions-every-senior-react-developer-should-know-d85730fb04d5
+- https://asimzaidi.medium.com/advanced-data-fetching-technique-in-react-for-senior-engineers-9d9b6f95d50b
 
-## React 18 features
-- automatic batching: new APIs (like startTransition), and a new streaming server renderer with built-in support for React.lazy. These features are possible due to “concurrent rendering” and it lets React prepare multiple versions of the UI at the same time. 
-
-> there is no concurrent mode, only concurrent features.
 ```js
-// before
-const container = document.getElementById('root');
-ReactDOM.render(<App />, container);
-
-// after
-const container = document.getElementById('root');
-const root = ReactDOM.createRoot(container);
-root.render(<App/>);
+const element = (
+  <h1 className="greeting">
+    Hello, world!
+  </h1>
+);
 ```
-## Streaming Server Rendering with Suspense
+Babel compiles JSX down to `React.createElement()` calls.
+```js
+const element = React.createElement(
+  'h1',
+  {className: 'greeting'},
+  'Hello, world!'
+);
+```
+`React.createElement()` creates an object like this:
 
-React 18 also includes improvements to server-side rendering performance using Suspense.
+```js
+// Note: this structure is simplified
+const element = {
+  type: 'h1',
+  props: {
+    className: 'greeting',
+    children: 'Hello, world!'
+  }
+};
+```
+some jsx examples
+```js
+const element = <a href="https://www.reactjs.org"> link </a>;
+const element = <img src={user.avatarUrl}></img>;
+const element = (// JSX tags may contain children:
+    <div>
+        <h1>Hello!</h1>
+        <h2>Good to see you here.</h2>
+    </div>
+);
+```
+returning a falsy expression will still cause the element after `&&` to be skipped but will return the falsy expression. In the example below, `<div>0</div>` will be returned by the render method.
+```
+render() {
+  const count = 0;
+  return (
+    <div>
+      {count && <h1>Messages: {count}</h1>}
+    </div>
+  );
+}
+```
 
-Streaming server rendering lets you generate HTML from React components on the server, and stream that HTML to your users. In React 18, you can use `Suspense` to break down your app into smaller independent units which can be streamed independently of each other without blocking the rest of the app. This means users will see your content sooner and be able to start interacting with it much faster.
+Returning `null` from a component's `render` method does not affect the firing of the component's lifecycle methods. For instance `componentDidUpdate` will still be called.
+```
+function WarningBanner(props) {
+  if (!props.warn) {
+    return null;
+  }
 
-## React without memo {/*react-without-memo*/}
+  return (
+    <div className="warning">
+      Warning!
+    </div>
+  );
+}
+```
 
-Looking further into the future, [Xuan Huang (黄玄)](https://twitter.com/Huxpro) shared an update from our React Labs research into an auto-memoizing compiler. Check out this talk for more information and a demo of the compiler prototype:
+Keys serve as a hint to React but they don't get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name:
+```
+const content = posts.map((post) =>
+  <Post
+    key={post.id}
+    id={post.id}
+    title={post.title} />
+);
+```
+With the example above, the `Post` component can read `props.id`, but not `props.key`.
+
+### Controlled Form Controls
+```
+class NameForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {value: ''};
+
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  handleChange(event) {
+    this.setState({value: event.target.value});
+  }
+
+  handleSubmit(event) {
+    alert('A name was submitted: ' + this.state.value);
+    event.preventDefault();
+  }
+
+  render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+        <label>
+          Name:
+          <input type="text" value={this.state.value} onChange={this.handleChange} />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+    );
+  }
+}
+```
+>```
+><select multiple={true} value={['B', 'C']}>
+>```
+
+The input is locked at first but becomes editable after a short delay.
+```javascript
+ReactDOM.createRoot(mountNode).render(<input value="hi" />);
+
+setTimeout(function() {
+  ReactDOM.createRoot(mountNode).render(<input value={null} />);
+}, 1000);
+```
+> use [render props](/docs/render-props.html) if the child needs to communicate with the parent before rendering.

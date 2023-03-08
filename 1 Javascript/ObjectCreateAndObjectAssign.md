@@ -13,3 +13,14 @@
 - 📜 [Object.create(): When and Why to Use — VZing](https://dev.to/vzing/object-create-when-and-why-to-use-20m9)
 - 🎥 [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
 - 🎥 [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
+
+```
+const band = {
+    vocals: "Robert Plant",
+    guitarL: "Jimmy Page"
+}
+const { guitar: myVariable } = band;
+guitar      // "Robert Plant"
+myVariable  // "Robert Plant"
+
+```
