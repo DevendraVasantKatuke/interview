@@ -1,10 +1,4 @@
----
-id: render-props
-title: Render Props
-permalink: docs/render-props.html
----
-
-The term ["render prop"](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) refers to a technique for sharing code between React components using a prop whose value is a function.
+The term "render prop" refers to a technique for sharing code between React components using a prop whose value is a function.
 
 A component with a render prop takes a function that returns a React element and calls it instead of implementing its own render logic.
 
@@ -14,11 +8,11 @@ A component with a render prop takes a function that returns a React element and
 )}/>
 ```
 
-Libraries that use render props include [React Router](https://reacttraining.com/react-router/web/api/Route/render-func), [Downshift](https://github.com/paypal/downshift) and [Formik](https://github.com/jaredpalmer/formik).
+Libraries that use render props include `React Router`, `Downshift` and `Formik`.
 
 In this document, we’ll discuss why render props are useful, and how to write your own.
 
-## Use Render Props for Cross-Cutting Concerns {#use-render-props-for-cross-cutting-concerns}
+## Use Render Props for Cross-Cutting Concerns 
 
 Components are the primary unit of code reuse in React, but it's not always obvious how to share the state or behavior that one component encapsulates to other components that need that same state.
 

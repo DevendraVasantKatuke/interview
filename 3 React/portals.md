@@ -1,30 +1,12 @@
----
-id: portals
-title: Portals
-permalink: docs/portals.html
----
-
-> Try the new React documentation.
-> 
-> These new documentation pages teach modern React and include live examples:
->
-> - [`createPortal`](https://beta.reactjs.org/reference/react-dom/createPortal)
->
-> The new docs will soon replace this site, which will be archived. [Provide feedback.](https://github.com/reactjs/reactjs.org/issues/3308)
-
 Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component.
-
-```js
+```
 ReactDOM.createPortal(child, container)
 ```
+The first argument (child) is any renderable React child, such as an element, string, or fragment. The second argument (container) is a DOM element.
 
-The first argument (`child`) is any [renderable React child](/docs/react-component.html#render), such as an element, string, or fragment. The second argument (`container`) is a DOM element.
-
-## Usage {#usage}
-
-Normally, when you return an element from a component's render method, it's mounted into the DOM as a child of the nearest parent node:
-
-```js{4,6}
+### Usage
+Normally, when you return an element from a component’s render method, it’s mounted into the DOM as a child of the nearest parent node:
+```
 render() {
   // React mounts a new div and renders the children into it
   return (
@@ -34,10 +16,8 @@ render() {
   );
 }
 ```
-
-However, sometimes it's useful to insert a child into a different location in the DOM:
-
-```js{6}
+However, sometimes it’s useful to insert a child into a different location in the DOM:
+```
 render() {
   // React does *not* create a new div. It renders the children into `domNode`.
   // `domNode` is any valid DOM node, regardless of its location in the DOM.
@@ -47,24 +27,17 @@ render() {
   );
 }
 ```
+A typical use case for portals is when a parent component has an overflow: hidden or z-index style, but you need the child to visually “break out” of its container. For example, dialogs, hovercards, and tooltips.
 
-A typical use case for portals is when a parent component has an `overflow: hidden` or `z-index` style, but you need the child to visually "break out" of its container. For example, dialogs, hovercards, and tooltips.
+> When working with portals, remember that managing keyboard focus becomes very important.
 
-> Note:
->
-> When working with portals, remember that [managing keyboard focus](/docs/accessibility.html#programmatically-managing-focus) becomes very important.
->
-> For modal dialogs, ensure that everyone can interact with them by following the [WAI-ARIA Modal Authoring Practices](https://www.w3.org/WAI/ARIA/apg/patterns/dialogmodal/).
+> For modal dialogs, ensure that everyone can interact with them by following the WAI-ARIA Modal Authoring Practices.
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/yzMaBd)
+### Event Bubbling Through Portals
+Even though a portal can be anywhere in the DOM tree, it behaves like a normal React child in every other way. Features like context work exactly the same regardless of whether the child is a portal, as the portal still exists in the React tree regardless of position in the DOM tree.
 
-## Event Bubbling Through Portals {#event-bubbling-through-portals}
-
-Even though a portal can be anywhere in the DOM tree, it behaves like a normal React child in every other way. Features like context work exactly the same regardless of whether the child is a portal, as the portal still exists in the *React tree* regardless of position in the *DOM tree*.
-
-This includes event bubbling. An event fired from inside a portal will propagate to ancestors in the containing *React tree*, even if those elements are not ancestors in the *DOM tree*. Assuming the following HTML structure:
-
-```html
+This includes event bubbling. An event fired from inside a portal will propagate to ancestors in the containing React tree, even if those elements are not ancestors in the DOM tree. Assuming the following HTML structure:
+```
 <html>
   <body>
     <div id="app-root"></div>
@@ -72,10 +45,8 @@ This includes event bubbling. An event fired from inside a portal will propagate
   </body>
 </html>
 ```
-
-A `Parent` component in `#app-root` would be able to catch an uncaught, bubbling event from the sibling node `#modal-root`.
-
-```js{28-31,42-49,53,61-63,70-71,74}
+A Parent component in #app-root would be able to catch an uncaught, bubbling event from the sibling node #modal-root.
+```
 // These two containers are siblings in the DOM
 const appRoot = document.getElementById('app-root');
 const modalRoot = document.getElementById('modal-root');
@@ -157,7 +128,4 @@ function Child() {
 const root = ReactDOM.createRoot(appRoot);
 root.render(<Parent />);
 ```
-
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/jGBWpE)
-
-Catching an event bubbling up from a portal in a parent component allows the development of more flexible abstractions that are not inherently reliant on portals. For example, if you render a `<Modal />` component, the parent can capture its events regardless of whether it's implemented using portals.
+Catching an event bubbling up from a portal in a parent component allows the development of more flexible abstractions that are not inherently reliant on portals. For example, if you render a <Modal /> component, the parent can capture its events regardless of whether it’s implemented using portals.

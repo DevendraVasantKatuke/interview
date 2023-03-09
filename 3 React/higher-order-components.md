@@ -1,30 +1,12 @@
----
-id: higher-order-components
-title: Higher-Order Components
-permalink: docs/higher-order-components.html
----
+# Higher-Order Components
 
-A higher-order component (HOC) is an advanced technique in React for reusing component logic. HOCs are not part of the React API, per se. They are a pattern that emerges from React's compositional nature.
-
-Concretely, **a higher-order component is a function that takes a component and returns a new component.**
+**a higher-order component is a function that takes a component and returns a new component.**
 
 ```js
 const EnhancedComponent = higherOrderComponent(WrappedComponent);
 ```
 
-Whereas a component transforms props into UI, a higher-order component transforms a component into another component.
-
-HOCs are common in third-party React libraries, such as Redux's [`connect`](https://github.com/reduxjs/react-redux/blob/master/docs/api/connect.md#connect) and Relay's [`createFragmentContainer`](https://relay.dev/docs/v10.1.3/fragment-container/#createfragmentcontainer).
-
-In this document, we'll discuss why higher-order components are useful, and how to write your own.
-
 ## Use HOCs For Cross-Cutting Concerns {#use-hocs-for-cross-cutting-concerns}
-
-> **Note**
->
-> We previously recommended mixins as a way to handle cross-cutting concerns. We've since realized that mixins create more trouble than they are worth. [Read more](/blog/2016/07/13/mixins-considered-harmful.html) about why we've moved away from mixins and how you can transition your existing components.
-
-Components are the primary unit of code reuse in React. However, you'll find that some patterns aren't a straightforward fit for traditional components.
 
 For example, say you have a `CommentList` component that subscribes to an external data source to render a list of comments:
 
@@ -163,15 +145,11 @@ function withSubscription(WrappedComponent, selectData) {
 }
 ```
 
-Note that a HOC doesn't modify the input component, nor does it use inheritance to copy its behavior. Rather, a HOC *composes* the original component by *wrapping* it in a container component. A HOC is a pure function with zero side-effects.
+> a HOC doesn't modify the input component, nor does it use inheritance to copy its behavior. Rather, a HOC *composes* the original component by *wrapping* it in a container component. 
 
-And that's it! The wrapped component receives all the props of the container, along with a new prop, `data`, which it uses to render its output. The HOC isn't concerned with how or why the data is used, and the wrapped component isn't concerned with where the data came from.
+> A HOC is a pure function with zero side-effects.
 
-Because `withSubscription` is a normal function, you can add as many or as few arguments as you like. For example, you may want to make the name of the `data` prop configurable, to further isolate the HOC from the wrapped component. Or you could accept an argument that configures `shouldComponentUpdate`, or one that configures the data source. These are all possible because the HOC has full control over how the component is defined.
-
-Like components, the contract between `withSubscription` and the wrapped component is entirely props-based. This makes it easy to swap one HOC for a different one, as long as they provide the same props to the wrapped component. This may be useful if you change data-fetching libraries, for example.
-
-## Don't Mutate the Original Component. Use Composition. {#dont-mutate-the-original-component-use-composition}
+## Don't Mutate the Original Component. Use Composition. 
 
 Resist the temptation to modify a component's prototype (or otherwise mutate it) inside a HOC.
 
@@ -215,8 +193,7 @@ This HOC has the same functionality as the mutating version while avoiding the p
 
 You may have noticed similarities between HOCs and a pattern called **container components**. Container components are part of a strategy of separating responsibility between high-level and low-level concerns. Containers manage things like subscriptions and state, and pass props to components that handle things like rendering UI. HOCs use containers as part of their implementation. You can think of HOCs as parameterized container component definitions.
 
-## Convention: Pass Unrelated Props Through to the Wrapped Component {#convention-pass-unrelated-props-through-to-the-wrapped-component}
-
+## Convention: Pass Unrelated Props Through to the Wrapped Component 
 HOCs add features to a component. They shouldn't drastically alter its contract. It's expected that the component returned from a HOC has a similar interface to the wrapped component.
 
 HOCs should pass through props that are unrelated to its specific concern. Most HOCs contain a render method that looks something like this:
@@ -243,7 +220,7 @@ render() {
 
 This convention helps ensure that HOCs are as flexible and reusable as possible.
 
-## Convention: Maximizing Composability {#convention-maximizing-composability}
+## Convention: Maximizing Composability
 
 Not all HOCs look the same. Sometimes they accept only a single argument, the wrapped component:
 

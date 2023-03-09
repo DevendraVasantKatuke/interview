@@ -1,29 +1,19 @@
----
-id: profiler
-title: Profiler API
-layout: docs
-category: Reference
-permalink: docs/profiler.html
----
+# Profiler API
 
 The `Profiler` measures how often a React application renders and what the "cost" of rendering is.
-Its purpose is to help identify parts of an application that are slow and may benefit from [optimizations such as memoization](/docs/hooks-faq.html#how-to-memoize-calculations).
+Its purpose is to help identify parts of an application that are slow and may benefit from optimizations such as memoization.
 
-> Note:
->
 > Profiling adds some additional overhead, so **it is disabled in [the production build](/docs/optimizing-performance.html#use-the-production-build)**.
->
-> To opt into production profiling, React provides a special production build with profiling enabled.
-> Read more about how to use this build at [fb.me/react-profiling](https://fb.me/react-profiling)
 
-## Usage {#usage}
+> To opt into production profiling, React provides a special production build with profiling enabled.
+
+## Usage
 
 A `Profiler` can be added anywhere in a React tree to measure the cost of rendering that part of the tree.
 It requires two props: an `id` (string) and an `onRender` callback (function) which React calls any time a component within the tree "commits" an update.
 
 For example, to profile a `Navigation` component and its descendants:
-
-```js{3}
+```
 render(
   <App>
     <Profiler id="Navigation" onRender={callback}>
@@ -33,9 +23,8 @@ render(
   </App>
 );
 ```
-
 Multiple `Profiler` components can be used to measure different parts of an application:
-```js{3,6}
+```
 render(
   <App>
     <Profiler id="Navigation" onRender={callback}>
@@ -47,9 +36,8 @@ render(
   </App>
 );
 ```
-
 `Profiler` components can also be nested to measure different components within the same subtree:
-```js{3,5,8}
+```
 render(
   <App>
     <Profiler id="Panel" onRender={callback}>
@@ -65,12 +53,9 @@ render(
   </App>
 );
 ```
-
-> Note
->
 > Although `Profiler` is a light-weight component, it should be used only when necessary; each use adds some CPU and memory overhead to an application.
 
-## `onRender` Callback {#onrender-callback}
+## `onRender` Callback
 
 The `Profiler` requires an `onRender` function as a prop.
 React calls this function any time a component within the profiled tree "commits" an update.
@@ -112,8 +97,4 @@ This value is shared between all profilers in a commit, enabling them to be grou
 * **`interactions: Set`** -
 Set of ["interactions"](https://fb.me/react-interaction-tracing) that were being traced when the update was scheduled (e.g. when `render` or `setState` were called).
 
-> Note
->
 > Interactions can be used to identify the cause of an update, although the API for tracing them is still experimental.
->
-> Learn more about it at [fb.me/react-interaction-tracing](https://fb.me/react-interaction-tracing)

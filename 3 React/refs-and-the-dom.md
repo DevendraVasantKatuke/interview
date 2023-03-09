@@ -1,27 +1,4 @@
----
-id: refs-and-the-dom
-title: Refs and the DOM
-permalink: docs/refs-and-the-dom.html
-redirect_from:
-  - "docs/working-with-the-browser.html"
-  - "docs/more-about-refs.html"
-  - "docs/more-about-refs-ko-KR.html"
-  - "docs/more-about-refs-zh-CN.html"
-  - "tips/expose-component-functions.html"
-  - "tips/children-undefined.html"
----
-
-> Try the new React documentation.
-> 
-> These new documentation pages teach modern React and include live examples:
->
-> - [Referencing Values with Refs](https://beta.reactjs.org/learn/referencing-values-with-refs)
-> - [Manipulating the DOM with Refs](https://beta.reactjs.org/learn/manipulating-the-dom-with-refs)
-> - [`useRef`](https://beta.reactjs.org/reference/react/useRef)
-> - [`forwardRef`](https://beta.reactjs.org/reference/react/forwardRef)
->
-> The new docs will soon replace this site, which will be archived. [Provide feedback.](https://github.com/reactjs/reactjs.org/issues/3308)
-
+# Refs and the DOM
 Refs provide a way to access DOM nodes or React elements created in the render method.
 
 In the typical React dataflow, [props](/docs/components-and-props.html) are the only way that parent components interact with their children. To modify a child, you re-render it with new props. However, there are a few cases where you need to imperatively modify a child outside of the typical dataflow. The child to be modified could be an instance of a React component, or it could be a DOM element. For both of these cases, React provides an escape hatch.
@@ -200,7 +177,7 @@ function CustomTextInput(props) {
 }
 ```
 
-### Exposing DOM Refs to Parent Components {#exposing-dom-refs-to-parent-components}
+### Exposing DOM Refs to Parent Components 
 
 In rare cases, you might want to have access to a child's DOM node from a parent component. This is generally not recommended because it breaks component encapsulation, but it can occasionally be useful for triggering focus or measuring the size or position of a child DOM node.
 

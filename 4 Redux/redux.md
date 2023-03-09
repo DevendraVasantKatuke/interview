@@ -1,70 +1,12 @@
-# Getting Started with Redux
-
-Redux is a predictable state container for JavaScript apps.
-
-It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as [live code editing combined with a time traveling debugger](https://github.com/reduxjs/redux-devtools).
-
-You can use Redux together with [React](https://reactjs.org), or with any other view library. It is tiny (2kB, including dependencies), but has a large ecosystem of addons available.
-
-## Installation
-
-### Redux Toolkit
-
-[**Redux Toolkit**](https://redux-toolkit.js.org) is our official recommended approach for writing Redux logic. It wraps around the Redux core, and contains packages and functions that we think are essential for building a Redux app. Redux Toolkit builds in our suggested best practices, simplifies most Redux tasks, prevents common mistakes, and makes it easier to write Redux applications.
-
-RTK includes utilities that help simplify many common use cases, including [store setup](https://redux-toolkit.js.org/api/configureStore),
-[creating reducers and writing immutable update logic](https://redux-toolkit.js.org/api/createreducer),
-and even [creating entire "slices" of state at once](https://redux-toolkit.js.org/api/createslice).
-
-Whether you're a brand new Redux user setting up your first project, or an experienced user who wants to
-simplify an existing application, **[Redux Toolkit](https://redux-toolkit.js.org/)** can help you
-make your Redux code better.
-
-Redux Toolkit is available as a package on NPM for use with a module bundler or in a Node application:
-
-```bash
-# NPM
-npm install @reduxjs/toolkit
-
-# Yarn
-yarn add @reduxjs/toolkit
 ```
-
-### Create a React Redux App
-
-The recommended way to start new apps with React and Redux is by using the [official Redux+JS template](https://github.com/reduxjs/cra-template-redux) or [Redux+TS template](https://github.com/reduxjs/cra-template-redux-typescript) for [Create React App](https://github.com/facebook/create-react-app), which takes advantage of **[Redux Toolkit](https://redux-toolkit.js.org/)** and React Redux's integration with React components.
-
-```bash
 # Redux + Plain JS template
 npx create-react-app my-app --template redux
 
 # Redux + TypeScript template
 npx create-react-app my-app --template redux-typescript
 ```
-
-### Redux Core
-
-The Redux core library is available as a package on NPM for use with a module bundler or in a Node application:
-
-```bash
-# NPM
-npm install redux
-
-# Yarn
-yarn add redux
-```
-
-It is also available as a precompiled UMD package that defines a `window.Redux` global variable. The UMD package can be used as a [`<script>` tag](https://unpkg.com/redux/dist/redux.js) directly.
-
-For more details, see the [Installation](Installation.md) page.
-
 ## Basic Example
-
-The whole global state of your app is stored in an object tree inside a single _store_.
-The only way to change the state tree is to create an _action_, an object describing what happened, and _dispatch_ it to the store.
-To specify how state gets updated in response to an action, you write pure _reducer_ functions that calculate a new state based on the old state and the action.
-
-```js
+```
 import { createStore } from 'redux'
 
 /**
