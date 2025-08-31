@@ -1,0 +1,16 @@
+-	https://remotive.com/
+-	https://otta.com/
+-	https://cord.co/
+-	https://wellfound.com/
+-	https://remoteok.com/
+-	https://remoteok.com/
+-	https://jsremotely.com/
+-	https://echojobs.io/
+-	https://fullstackjob.com/remote/jobs
+-	https://webcurate.co/c/remote-job (list of 15 job sites)
+-	https://ats.uplers.com/talent/joinus
+-	https://developers.turing.com/login?redirect=%2Fdashboard%2Fprofile
+-	naukri.com
+-	Urbanpro, Youtube, Medium
+-	US-based GSV Ventures, which invests solely in edtech companies around the world,
+-	https://app.vidiq.com/channels/a0be49bb-dc66-4429-bcc1-f37c8a2ee890/dashboard
