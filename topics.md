@@ -1,5 +1,4 @@
 1. ECMAScript
-    - https://eloquentjavascript.net/
     - https://www.javascripttutorial.net/
     - https://exploringjs.com/es5/toc.html
     - https://exploringjs.com/es6/index.html
@@ -45,6 +44,7 @@
     - https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/
     - https://www.interviewkickstart.com/blogs/interview-questions/advanced-node-js-interview-questions
     - https://github.com/malgamves/CommunityWriterPrograms
+    - https://esdiscuss.org/
 2. Python
     - https://afterhoursprogramming.com/tutorials/python
     - https://www.learnpython.org/
@@ -166,6 +166,7 @@
 24. Mongoose IM (XMPP)
 25. RabbitMQ (AMQP, MQTT)
 26. Kafka
+    1. https://docs.kurrent.io/
 27. Pulsar
 28. Flink
 29. Delta-Lake
@@ -176,3 +177,27 @@
 34. Grafana
 35. NextJS
 36. ReactJS
+37. Android
+    1. Kotlin
+    2. Kotlin CoRoutines
+    3. https://ktor.io/
+    4. Dagger+Hilt
+    5. MVVM
+    6. KMP(CMP)
+    7. Responsive
+    8. Cassandra, Docker, DataGrip
+    9. Hapi API
+    10. Website
+    - Jetpack Compose Full Course [672] https://www.youtube.com/watch?v=U5dE-_E1wsg
+    - https://www.youtube.com/@shivam21009
+    - Kotlin Multiplatform Modularization | Build a Scalable KMP Multi Module Project [125] https://www.youtube.com/watch?v=xbF6nTpltXw
+    - https://www.youtube.com/watch?v=rUnXeJ7zC1w
+    - https://www.youtube.com/@himanshugaur684
+    - https://www.youtube.com/@CheezyCode
+    - https://www.youtube.com/@ProgrammingSimplified0
+    - https://www.youtube.com/@devatrii
+    - https://www.youtube.com/@NeatRoots
+    - https://www.youtube.com/@TechpassMaster
+    - https://www.youtube.com/@TechnicalCoder-o6x
+    - https://www.youtube.com/@PapayaCoders
+    - https://developer.android.com/compose
