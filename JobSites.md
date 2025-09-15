@@ -14,3 +14,5 @@
 -	Urbanpro, Youtube, Medium
 -	US-based GSV Ventures, which invests solely in edtech companies around the world,
 -	https://app.vidiq.com/channels/a0be49bb-dc66-4429-bcc1-f37c8a2ee890/dashboard
+-   https://www.techgig.com/
+-   https://developers.turing.com/signup

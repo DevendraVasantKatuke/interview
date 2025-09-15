@@ -45,12 +45,6 @@
     - https://www.interviewkickstart.com/blogs/interview-questions/advanced-node-js-interview-questions
     - https://github.com/malgamves/CommunityWriterPrograms
     - https://esdiscuss.org/
-2. Python
-    - https://afterhoursprogramming.com/tutorials/python
-    - https://www.learnpython.org/
-    - https://realpython.com/
-    - https://python-course.eu/
-    - https://www.pythontutorial.net/
 3. Bash
     - https://linuxjourney.com/
     - https://guide.bash.academy/
