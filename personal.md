@@ -28,6 +28,7 @@
 -   https://www.fashionbeans.com/article/the-new-rules-of-formal-attire/
 -   https://www.macys.com
 -   https://www.zodiaconline.com
+-   https://uspoloassn.nnnow.com/us-polo-assn-men-trousers
 -   https://mywebstoreshopping.com
 -   https://www.bombayshirts.com/
 -   https://www.ajio.com
@@ -496,7 +497,6 @@
 -   https://www.darveys.com/
 -   https://www.darveys.com/classic-3-piece-dark-blue-suit-586231.html?showPrice=yes&g=1
 -   https://www.darveys.com/grey-solid-suit-pants.html
--   https://uspoloassn.nnnow.com/
 -   https://www.limpkin.in/
 -   https://dyinem.com/?v=c86ee0d9d7ed
 -   https://thomas-earnshaw.com/collections/mens/products/es-8001-03-investigator
@@ -646,7 +646,6 @@
 -   https://www.darveys.com/
 -   https://www.darveys.com/classic-3-piece-dark-blue-suit-586231.html?showPrice=yes&g=1
 -   https://www.darveys.com/grey-solid-suit-pants.html
--   https://uspoloassn.nnnow.com/
 -   https://www.limpkin.in/
 -   https://dyinem.com/?v=c86ee0d9d7ed
 -   https://thomas-earnshaw.com/collections/mens/products/es-8001-03-investigator

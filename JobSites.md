@@ -10,6 +10,8 @@
 -	https://webcurate.co/c/remote-job (list of 15 job sites)
 -	https://ats.uplers.com/talent/joinus
 -	https://developers.turing.com/login?redirect=%2Fdashboard%2Fprofile
+-   https://www.instahyre.com/
+-   https://www.uplers.com/
 -	naukri.com
 -	Urbanpro, Youtube, Medium
 -	US-based GSV Ventures, which invests solely in edtech companies around the world,
