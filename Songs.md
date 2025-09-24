@@ -2934,6 +2934,8 @@ hatka| ISD India Speaks Daily
 	-	Why Does My Heart Feel So Bad
 -   Modern Talking
     -   No Face, No Name, No Number
+	-	After your love is gone
+	-	From coast to coast
 -   Moloko
     -   The Time Is Now
 -	Monica Belluci

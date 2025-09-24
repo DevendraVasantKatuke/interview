@@ -75,6 +75,9 @@
 - https://youtu.be/_C8kWso4ne4?si=JXw35GPhUy9hpwPS
 ## RAG
 - https://youtu.be/swvzKSOEluc?si=dCepJgHhXRpv6Qe6
+- https://youtu.be/4xAiviw1X8M?si=zBkPDGC1HR6rFuEZ
+- https://youtu.be/0z9_MhcYvcY?si=8e--lZfg4qgy7VAA
+- https://youtu.be/DaXQ5L7r7Lg?si=0t7chgihXjulLDoc
 ## DS, Algorithm, LeetCode
 - https://www.youtube.com/playlist?list=PLTWyTH8_xEvH28xCcOCtYbn1SjqfHb1WC
 - https://www.youtube.com/playlist?list=PL13aQMQVPecA33n8w9S-cwD9geQsY8JhU
