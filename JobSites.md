@@ -18,3 +18,10 @@
 -	https://app.vidiq.com/channels/a0be49bb-dc66-4429-bcc1-f37c8a2ee890/dashboard
 -   https://www.techgig.com/
 -   https://developers.turing.com/signup
+- https://youtu.be/-fHdQABU5JE?si=ky2UCGEF7FwCrVmO
+- https://youtu.be/zfy8UAou-cU?si=P4LgjONf0_NZqklF
+- https://youtu.be/JvzjT07O_yY?si=QZtIYAW8AUxq8vBt
+- https://youtu.be/_m-rlZFwy-g?si=s2_ce0g8Z4hk9w5n
+- https://youtu.be/bVdf1FdLP40?si=cv8kitKWEjr3n0MC
+- https://youtu.be/VDr08j2OlEM?si=B4WkvHjORkBIH08Q
+- https://youtu.be/HoQ5iluNJz8?si=Wx2IguILqoQarH5w
