@@ -1,0 +1,1279 @@
+# 0-9
+
+-   https://1loc.dev
+-   https://bits.24ways.org
+-   https://2ality.com/
+-   https://www.30secondsofcode.org, css.30secondsofcode.org
+-   https://www.3blue1brown.com/all-videos
+-   https://500tech.com/articles
+-   https://6figr.com
+-   https://80000hours.org/blog/
+
+# A
+
+-   https://ably.com/blog
+-   nptel.ac.in/courses/106/106/106106142
+-   https://academind.com
+-   https://www.addthis.com/social-buttons/whatsapp-button/
+-   https://adrianmejia.com/blog
+-   https://adamrackis.dev/suspense-explained
+-   http://www.adequatelygood.com/
+-   https://advancedweb.hu/
+-   https://age-of-product.com/product-mindset
+-   https://agile-unternehmen.de/agilitaet-in-unternehmen-studie
+-   https://agileforall.com
+-   https://www.agilesocks.com/combining-scrum-roles-scrum-master-developer
+-   https://slingshot.agorize.com/en/challenges/slingshot-2019-competition?t=3qHz9XKTnfAQnptnOEzlew
+-   https://aircto.com/interview-questions
+-   https://blog.alexdevero.com
+-   https://algodaily.com/curriculum
+-   https://www.algoexpert.io/product
+-   http://www.algorithmsandme.com/category/algorithms
+-   https://www.alibabacloud.com/blog/learning-kafka-from-scratch-a-guide-to-kafka_595603
+-   https://alligator.io
+-   https://www.amazon.in/dp/B08VN4N3G6
+-   https://www.amazon.in/dp/B08W9MR15P
+-   https://www.amitmerchant.com/
+-   https://developer.android.com/training/sync-adapters
+-   https://www.atlassian.com/git/tutorials
+-   https://analyticsindiamag.com, www.analyticsindiamag.com
+-   www.analyticsvidhya.com/blog
+-   https://and.digital/spotlight/blog/importance-scrum-master
+-   https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core
+-   https://angel.co/blog/the-basics-of-test-driven-development-code-for-code
+-   https://angularjobs.com/remote/#s=1
+-   https://storm.apache.org, openwhisk.apache.org, heron.incubator.apache.org, openwhisk.apache.org
+-   https://appinstitute.com/takeaway-apps/
+-   developer.apple.com/design
+-   https://blog.appsignal.com
+-   https://appsilon.com/careers/job-offer/?job=create-your-own-position
+-   https://apption.co
+-   https://aralroca.com/blog
+-   https://arc.dev/w/refer-remote-talent-get-rewarded
+-   https://ascendle.com/ideas/the-business-value-of-test-driven-development
+-   https://www.asyncapi.com
+-   https://attacomsian.com
+-   spin.atomicobject.com
+-   https://auth0.com/blog, https://auth0.com/developers/hub
+-   awsdevops.io
+-   www.awsgeek.com
+-   blog.axosoft.com/tag/learn-git/page/2
+
+# B
+
+-   https://www.backblaze.com/blog/wide-partitions-in-apache-cassandra-3-11
+-   https://medium.baqend.com/
+-   http://dmitry.baranovskiy.com/post/91403200
+-   https://barrel-db.org
+-   https://www.baytechconsulting.com/migrating-to-event-sourcing-and-microservices
+-   https://benediktmeurer.de
+-   https://blog.bernd-ruecker.com
+-   http://www.basware.com/en-us/about-basware/careers
+-   https://blog.betomorrow.com
+-   https://betterprogramming.pub
+-   https://www.biotecnika.org/2019/05/programming-knowledge-necessary-for-career-in-bioinformatics/amp
+-   http://www.bixee.com
+-   https://blog.bitsrc.io
+-   https://bloggeek.me/webrtc-p2p-mesh/
+-   https://www.bluefruit.co.uk
+-   https://www.bmc.com/blogs/serverless-faas
+-   https://www.bmw-deutschemotoren-bengaluru.in/test-drive?bmw_leadsource=Recco-GSN-3-2-series-2-Gran-Coupe-VT-Oct&model=2-series-2-Gran-Coupe&gclid=Cj0KCQiAwMP9BRCzARIsAPWTJ_GSqutNxpAZYSizgOgDDdpvrDpWD_VSswxer1C7uTJb5uRdnpPRQcIaAs2cEALw_wcB
+-   https://bobbyhadz.com/
+-   https://bondle.app
+-   https://www.bountysource.com
+-   https, http://philippe.bourgau.net
+-   https://brandnewbox.com/notes/2020/01/test-driven-development
+-   https://general.support.brightcove.com/developer/index.html
+-   https://brilliant.org
+-   https://www.browserstack.com/blog/
+-   builderbook.org
+-   www.buildwagon.com/guide.html
+-   https://builtin.com/blockchain
+-   https://bulldogjob.pl/articles/1210-test-driven-development-obstacles-and-best-practices
+-   https://www.byte-by-byte.com
+
+# C
+
+-   https://ace.c9.io/
+-   https://capnproto.org
+-   https://www.capitalone.com/tech/software-engineering/event-storming-for-microservice-architecture
+-   https://carlosroso.com/this-is-what-i-did-to-ace-the-toptal-interview
+-   https://ceph.io
+-   https://www.chainshot.com/dashboard
+-   https://www.cigniti.com/blog/5-practices-for-test-driven-development
+-   https://www.cinemagics.com/post/the-definitive-guide-to-aspect-ratio
+-   https://www.cio.com/article
+-   https://clearlyagile.com/agile-blog
+-   https://clickup.com, app.clickup.com
+-   www.cloudflare.com/learning, blog.cloudflare.com
+-   https://cloudirregular.substack.com/p/the-cold-reality-of-the-kinesis-incident
+-   https://www.cloudjourney.io/articles/publiccloud/why-serverless-architectures-matter-ls
+-   https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
+-   https://cloudmersive.com/products
+-   https://cloudnative.ly/
+-   https://cloudonaut.io/resilient-event-driven-serverless-architectures-isolate-your-dependencies
+-   https://cloudxlab.com/course/specialization/1/machine-learning-specialization
+-   https://www.cluemediator.com
+-   https://www.cncf.io/blog/2020/11/23/devops-serverless-event-driven-automation
+-   https://www.movable-type.co.uk/scripts/sha256.html
+-   https://medium.cobeisfresh.com/agile-scrum-kanban-demystified-a08d5d383f3
+-   https://www.codecademy.com
+-   codedaily.io/tutorials
+-   https://blog.codecentric.de/en/2019/06/test-driven-development-theory-practice
+-   codebrahma.com/blog
+-   https://codeburst.io
+-   discuss.codechef.com/t/data-structures-and-algorithms/6599
+-   https://codedamn.com
+-   https://codeforgeek.com
+-   https://www.codegrepper.com/search.php
+-   https://codeguppy.com // 51 extensive JS+DOM Code Projects
+-   https://www.codementor.io/community, hire.codementor.io/
+-   https://coderbyte.com
+-   https://codersociety.com/blog
+-   codequs.com
+-   https://coderrocketfuel.com
+-   www.codesdope.com/course/algorithms-introduction
+-   resources.codeship.com/ebooks
+-   https://codesignal.com
+-   http://codestoryapp.com/
+-   https://codingcompetitions.withgoogle.com
+-   https://www.contus.com/careers.php
+-   https://csx.codesmith.io/ good buttons also
+-   https://codesource.io
+-   https://codewithmosh.com/courses
+-   codeutopia.net/blog
+-   https://www.codewars.com
+-   https://www.codility.com
+-   www.codingeek.com/data-structure-tutorials
+-   https://codingthesmartway.com
+-   https://www.codota.com
+-   https://www.codingame.com
+-   https://cevo.com.au/post/tdd-test-driven-disaster
+-   https://colorideas.net/
+-   https://colorlib.com
+-   www.commonlounge.com
+-   https://www.computerminds.co.uk/articles/review-driven-development
+-   https://www.confluent.io/blog
+-   docs.confluent.io/current
+-   developer.confluent.io
+-   kafka-tutorials.confluent.io
+-   https://developer.confluent.io/learn-kafka/
+-   consolia-comic.com/archive
+-   https://www.contentful.com/
+-   https://contextmapper.org
+-   https://countthings.com/
+-   https://www.coursera.org/learn/machine-learning
+-   coursetro.com/courses
+-   cp-algorithms.com
+-   https://cqrs.nu
+-   https://blog.craftlab.hu
+-   www.creativebloq.com/features/10-amazing-new-css-techniques
+-   https://www.creativecodingclub.com/courses/take/FreeGSAP3Express/lessons/16523777-our-development-environment
+-   http://crockford.com, www.crockford.com
+-   https://www.crio.do
+-   css-irl.info
+-   https://css-tricks.com
+-   css-weekly.com/archives
+-   https://cutshort.io
+
+# D
+
+-   https://www.dacast.com/blog/rtmp-real-time-messaging-protocol/
+-   https://dadevhoney.com/
+-   www.dappuniversity.com
+-   daringfireball.net/projects/markdown
+-   https://databricks.com
+-   https://www.datacamp.com
+-   www.dataquest.io/directory
+-   https://academy.datastax.com/#/dashboard, www.datastax.com/blog
+-   https://daveceddia.com
+-   https://davidea.st/articles/firebase-bundle-size
+-   http://davidshariff.com/blog
+-   https://davidwalsh.name
+-   https://debounce.io
+-   https://decembersoft.com/posts
+-   https://www.deezer.com/en/channels/rnb?deferredFl=1
+-   https://www.delftstack.com/
+-   https://depth-first.com
+-   http://domosavant.com/
+-   https://designmodo.com/bootstrap-5-form
+-   https://www.designsystems.com
+-   https://devclass.com/
+-   https://devdocs.io
+-   www.developerdrive.com
+-   https://developerhandbook.com
+-   http://developingthoughts.co.uk/tag/functional-programming
+-   www.developphp.com
+-   http://devguides.io
+-   https://devhints.io
+-   https://www.devopsonline.co.uk/devops-and-the-emergence-of-testops
+-   https://www.devprojournal.com/business-operations/devops/its-a-great-time-to-transition-to-microservices-architecture
+-   https://devskiller.com/coding-tests-skill
+-   www.devsprout.io
+-   https://digitaldefynd.com/best-git-github-tutorial-training-course
+-   https://documentation.divio.com/
+-   https://dmitripavlutin.com
+-   http://dmitrysoshnikov.com
+-   https://www.dmitrysoshnikov.education
+-   domenlightenment.com
+-   dreamerslab.com/blog/en
+-   http://droppdf.com/v/N0QnP
+-   https://blogs.dxc.technology
+-   https://dzone.com
+
+# E
+
+-   https://edabit.com
+-   https://www.edge.org/edgenews/2019
+-   https://www.educative.io
+-   https://www.educba.com
+-   www.eduonix.com
+-   https://www.edureka.co
+-   https://www.eduthrill.com
+-   www.edwardbeazer.com
+-   courses.edx.org, www.edx.org
+-   https://www.eficode.com/blog/tdd-atdd
+-   https://egghead.io/
+-   https://www.elastic.co/enterprise-search/search-ui?size=n_6_n
+-   https://elvery.net/demo/responsive-tables, responsive-tables/#no-more-tables
+-   https://blog.emumba.com/local-state-management-cfa849427888
+-   https://www.endava.com/en/blog/Engineering/2019/Microservices-and-Serverless-Computing
+-   https://engineering.circle.com/
+-   https://enjoycss.com/gallery/text_fields
+-   https://enterprisersproject.com
+-   https://erldocs.com/current/index.html?i=0#asn1
+-   https://www.exin.com/agile-scrum/agile-vs-scrum
+-   https://www.eventstore.com/
+-   https://everyday.codes/
+-   https://www.evidyarthi.in
+-   http://www.eztech.in/world-wide-database/
+
+# F
+
+-   https://www.felixinstruments.com
+-   https://fettblog.eu/
+-   https://homepages.fhv.at/thjo/lecturenotes/sysarch/
+-   https://flaviocopes.com
+-   https://www.flexjobs.com/
+-   https://www.florin-pop.com/blog // >100 Code Projects with good explanation
+-   https://fluent-windows.com/hooks/guide
+-   https://formidable.com
+-   foxmula.com/courses
+-   https://www.franshalsmuseum.nl/en
+-   http://fredkschott.com/post
+-   https://www.freecodecamp.org/news/
+-   https://frontarm.com/
+-   https://frontendmasters.com/
+-   https://www.frontiersin.org/articles/10.3389/fbloc.2020.00007/full
+-   https://www.fullstack.cafe
+-   https://www.functionize.com
+-   https://futureoflife.org/
+
+# G
+
+-   https://www.geeksforgeeks.org, https://practice.geeksforgeeks.org
+-   getstream.io/cabin
+-   https://www.getrevue.co, "/profile/rwieruch"
+-   https://www.gignow.com
+-   https://anotheruiguy.gitbooks.io/gitforeveryone/content/
+-   git-rebase.io
+-   git-scm.com/doc
+-   www.git-tower.com/learn
+-   gitimmersion.com
+-   www.gitkraken.com/learn-git
+-   https://www.gitpod.io
+-   gitready.com
+-   https://www.glassdoor.co.in/index.htm
+-   https://glitch.com/
+-   books.goalkicker.com
+-   https://goiabada.blog/using-spec-driven-development-to-build-consistent-apis-e391daafae71?gi=677d3c1446cc
+-   gomakethings.com
+-   https://developers.google.com/web, codelabs.developers.google.com
+-   https://www.google.com/amp/s/beebom.com/best-artificial-intelligence-courses-online/amp/
+-   goshakkk.name
+-   https://grandstack.io/docs/graphql-filtering
+-   https://gumroad.com/l/TSFGj
+-   https://www.gun.io/freelancing-with-gunio
+-   https://www.guru99.com, career.guru99.com
+-   www.guvi.in/courses
+
+# H
+
+-   https://www.hackerearth.com
+-   https://hackernoon.com/
+-   https://hackr.io
+-   https://www.hackerrank.com/dashboard
+-   hacksource.xyz
+-   https://hapticmedia.fr/blog/en/agile
+-   https://hasura.io/learn, blog.hasura.io
+-   https://hazelcast.com/
+-   https://www.hedera.com
+-   https://henryandsmith.com/
+-   blog.hichroma.com
+-   https://hired.com
+-   http://www.hiringmonk.com
+-   https://www.hirist.com/c/frontend-developer-jobs-2.html?ref=homepagecat&pref=rl
+-   https://hmh.engineering/
+-   hnpwa.com
+-   https://www.honeypot.io
+-   https://blog.hootsuite.com/how-to-use-instagram-for-business/
+-   https://www.housediver.com/worldwide/cospla/8
+-   http://houseofbots.com/news-detail/4027-1-top-10-best-countries-to-outsource-software-development
+-   https://www.howtogeek.com/category/linux/page/20/
+-   https://hpbn.co
+-   https://www.hpe.com/us/en/insights/articles/understanding-the-smack-stack-for-big-data-1803.html
+-   https://marijn.huizendveld.com/blog/experimenting-with-event-sourcing-and-cqrs-where-it-matters
+-   https://humanwhocodes.com
+-   https://www.hwzdigital.ch
+
+# I
+
+-   www.zurich.ibm.com, developer.ibm.com
+-   https://www.ibrahima-ndaw.com/
+-   https://iesf.com/2020/02/25/agile-leadership
+-   jeffe.cs.illinois.edu/teaching
+-   images.guide
+-   https://in.indeed.com/
+-   https://www.infoq.com
+-   https://www.informationweek.com
+-   https://www.innoq.com/en/articles/2020/07/domain-driven-design-in-the-large
+-   blog.insiderattack.net
+-   https://www.instaclustr.com/
+-   instruqt.com/public/topics/getting-started-with-git
+-   internetingishard.com/html-and-css
+-   https://www.internetsociety.org/
+-   https://www.interviewbit.com
+-   https://www.interviewcake.com
+-   www.interviewchance.com
+-   https://intuitgiantmission.com/?cid=dis_gg_click_in_ttt-giant-mission-fy19_aw_giantmission-emergingtech-300x600_img_intuit-talent
+-   https://www.intmath.com
+-   https://www.invensislearning.com/blog/everything-you-need-to-know-about-scrum-master
+-   https://ipindia.gov.in
+-   https://www.ishn.com
+-   https://blog.isquaredsoftware.com/
+-   https://www.iteanz.com
+-   https://itenium.be/blog/
+-   https://itrevolution.com/trust-and-test-driven-development-for-people
+-   https://itnext.io
+
+# J
+
+-   https://jakesidsmith.com/blog/
+-   blog.jakoblind.no
+-   http://jamesknelson.com
+-   http://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html?m=1
+-   https://www.javatpoint.com
+-   jeremy.codes/writing
+-   https://jeremenichelli.io
+-   https://www.jeremydaly.com
+-   jestjs.io
+-   http://jibbering.com/faq
+-   jlord.us/git-it
+-   https://joecortopassi.com
+-   johnpapa.net/articles
+-   https://johnresig.com/apps/learn
+-   https://www.joinffl.com/cloud-credits#gcp-credits
+-   www.joyent.com/blog
+-   https://jvns.ca/blog/how-updating-dns-works/
+
+# K
+
+-   https://kaazing.com/kaazing.io/doc
+-   https://www.kaggle.com
+-   https://kajabi.com/lbt
+-   https://www.katacoda.com
+-   https://keith-mifsud.me/blog/start-a-new-project-with-an-event-sourcing-architecture
+-   https://kentcdodds.com
+-   www.keycdn.com/blog
+-   www.khanacademy.org/computing/computer-science/algorithms
+-   kinsta.com/learn/what-is-http2
+-   https://www.kirupa.com
+-   https://www.knowledgehut.com
+-   https://www.knowthen.com/elixir-and-phoenix-for-beginners
+-   kolosek.com/blog
+-   https://krakensystems.co/blog
+-   https://www.kundankishore.in/
+-   https://kwesforms.com/docs/v2/form-validation-rules
+
+# L
+
+-   labex.io/courses
+-   laracasts.com/series/git-me-some-version-control
+-   https://www.laserpecker.net
+-   launchschool.com/books/git, launchschool.com/books/http/read/introduction
+-   https://learn.co
+-   https://learn2torials.com
+-   www.learnenough.com/courses
+-   www.learneroo.com
+-   https://learngitbranching.js.org/
+-   https://www.learningtree.com/courses/
+-   learnlayout.com/no-layout.html
+-   learnmongodbthehardway.com
+-   https://learntdd.in
+-   learntocodestartups.com
+-   https://leetcode.com/problemset/all
+-   lethalbrains.com
+-   https://www.letsdeel.com/
+-   https://levelup.gitconnected.com, gitconnected.com
+-   www.lightbend.com/ebooks
+-   https://linguinecode.com/blog
+-   www.linkedin.com/learning, in.linkedin.com
+-   linuxacademy.com
+-   https://livecodestream.dev/
+-   https://blog.logrocket.com
+-   https://love2dev.com/blog/what-is-a-service-worker
+-   http://loyc.net/blog-list.html
+-   https://www.lucidchart.com/techblog/2019/01/22/what-you-should-know-before-making-a-service-worker
+-   lzone.de/cheat-sheet/
+
+# M
+
+-   https://www.macrometa.co/blog/why-global-edge-fabric
+-   https://mainawycliffe.dev/blog/
+-   makandracards.com/makandra
+-   https://blog.makersacademy.com/my-test-driven-development-journey-so-far-5e770d1c189f
+-   https://www.manning.com, livebook.manning.com, - livevideo.manning.com, freecontent.manning.com
+-   https://www.manning.com/books/istio-in-action
+-   https://explore.mathworks.com/machine-learning-vs-deep-learning
+-   https://mattgreer.dev/articles/
+-   maryrosecook.com/blog/post/git-in-six-hundred-words
+-   https://mastergatsby.com/
+-   https://mdn.dev
+-   meowni.ca
+-   blog.mgechev.com
+-   mherman.org
+-   michalzalecki.com
+-   www.microverse.org
+-   https://www.mightybytes.com/blog/tips-for-agile-project-execution
+-   https://mind.wtf
+-   courses.csail.mit.edu/6.851/fall17
+-   ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures
+-   university.mongodb.com
+-   https://talent.moralis.io/
+-   https://morioh.com/topics (nice practical selection of code snippets), morioh.com/courses
+-   www.monsterindia.com
+-   https://mowe.studio/common-video-aspect-ratios
+-   https://developer.mozilla.org, hacks.mozilla.org
+-   mrale.ph
+-   https://channel9.msdn.com/Shows/Learn-Live/Learn-Git-Episode-2-Collaborate-with-Git
+-   http://www.myjoiningbonus.com/faqs
+-   https://mymorningowl.com/cart
+-   https://www.mysirg.com
+
+# N
+
+-   https://www.nap.edu/
+-   http://natpryce.com/articles/000819.html
+-   https://natureofcode.com/book/
+-   ndpsoftware.com/git-cheatsheet.html
+-   https://www.nearform.com
+-   www.naukri.com
+-   https://www.newline.co/
+-   https://newbedev.com/
+-   https://nitric.io/
+-   https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation
+-   https://www.npmjs.com/package/xdm, shape-json, tree-data-structure
+-   blog.nrwl.io
+-   https://nylatechnologysolutions.com/test-driven-development
+
+# O
+
+-   https://observablehq.com/d/2cd957ae5e9e8549
+-   https://onepagelove.com/conversion
+-   http://onlineintegra.com/Retail%20ERP%20Modules.aspx
+-   https://beta.openai.com/docs/introduction
+-   https://blog.openreplay.com/
+-   https://opensource.com
+-   https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/
+-   https://ourcodeworld.com
+-   https://overapi.com
+
+# P
+
+-   https://p42.ai/blog
+-   https://subscription.packtpub.com/book/programming/9781800204737/12
+-   https://pathway.ai
+-   https://microverse.pathwright.com/library/microverse-pre-course-work-317b43d3/74348/path
+-   https://www.pentalog.com/blog/the-scrum-master-paradox
+-   http://perfectionkills.com
+-   https://www.pirple.com
+-   https://www.plex.tv/your-media
+-   www.pluralsight.com/courses
+-   https://polypane.app
+-   https://pomb.us
+-   https://www.ponicode.com/blog
+-   https://ponyfoo.com
+-   https://portswigger.net/web-security
+-   https://portexe.com/
+-   pragprog.com
+-   https://prateeksurana.me/blog/
+-   https://www.preethikasireddy.com
+-   https://prismic.io
+-   https://www.process.st/fake-agile
+-   http://www.projectmanagement.ie/blog/understanding-scrum
+-   https://blog.prototypr.io
+-   https://blog.pshrmn.com
+-   https://www.pramp.com/#
+-   tom.preston-werner.com/2009/05/19/the-git-parable.html
+-   https://www.pushtechnology.com/
+
+# Q
+
+-   https://engineering.q42.nl/event-sourcing
+-   qnimate.com
+-   https://www.quora.com/How-can-I-find-a-real-remote-position
+-   https://www.quora.com/What-are-the-right-ways-to-get-remote-jobs-being-in-India
+-   https://www.quora.com/q/datascientistinterviews/Can-I-become-a-data-scientist-with-no-experience
+-   https://www.quora.com/q/algorithm
+-   https://qph.fs.quoracdn.net/main-qimg-3dfb2171a0263da6b27c35e3b258554f
+-   http://www.quadrangle.in
+-   www.quirksmode.org/blog
+
+# R
+
+-   raganwald.com
+-   https://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/
+-   https://rangle.io/blog/page/8
+-   https://www.rapidvaluesolutions.com/test-driven-development-in-a-clean-code-architecture
+-   https://www.raywenderlich.com/
+-   https://dalmatiner.readme.io/v0.3.0/reference#execute-a-query
+-   https://www.real.discount
+-   readthedocs.org
+-   https://readwrite.com
+-   https://blog.recruitee.com/best-job-boards-software-engineers
+-   codewords.recurse.com/issues
+-   https://recoiljs.org/docs/introduction/getting-started
+-   https://www.redhat.com/architect/12-factor-app
+-   https://reedbarger.com
+-   https://regexr.com
+-   https://remote.com/
+-   https://remoteok.com/
+-   https://relevel.com
+-   blog.restcase.com
+-   restcookbook.com
+-   restfulapi.net
+-   https://rethinkdb.com/docs/architecture
+-   risingstack.com/resources, blog.risingstack.com
+-   https://www.richardkotze.com
+-   https://rome.tools/#development-status
+-   https://www.rithmschool.com/courses
+-   robdodson.me
+-   https://www.robinwieruch.de/
+-   https://www.rupeeredee.com
+-   rxmarbles.com/#delay
+
+# S
+
+-   https://sabe.io/
+-   trailhead.salesforce.com/en/home
+-   https://sandstorm.de
+-   https://sandstorm.io
+-   https://www.scaler.com/event/how-to-land-data-science-jobs-outside-india/
+-   https://www.sciencedaily.com/releases/2014/06/140626121657.htm
+-   https://scitronboy.com/code/simple-git-github-tutorial
+-   https://scrimba.com
+-   https://scotch.io // Courses
+-   https://www.scrum.org
+-   https://searchengineland.com
+-   https://sebhastian.com
+-   https://blog.semmle.com/unit-testing-code-alerts
+-   https://sendbird.com/
+-   https://www.serverless-cqrs.com
+-   https://serverless-stack.com/
+-   blog.sessionstack.com/tagged/tutorial
+-   learn.shayhowe.com
+-   https://shine.wiki/1.1.x/?theme=antd#/
+-   rclayton.silvrback.com
+-   https://simpleprogrammer.com/minimum-guide-deep-learning
+-   https://www.simplyhired.com/
+-   https://www.simplethread.com
+-   https://www.simplilearn.com
+-   https://www.singlestore.com/blog
+-   https://www.sitepoint.com
+-   https://skillenza.com
+-   https://www.skillshare.com/
+-   http://slides.com/omnidan/hor#/
+-   https://www.smashingmagazine.com
+-   www.sohamkamani.com/blog
+-   https://www.soldevelo.com/blog/what-is-a-scrum-master-the-role-and-its-responsibilities
+-   https://sparkfuneducation.com
+-   http://spawnedshelter.com
+-   https://spify.io/blog/image-map-advantages-drawbacks-and-how-to-create-it-in-html
+-   https://spike.sh/
+-   https://docs.splunk.com/Documentation
+-   https://www.ssh.com/academy
+-   https://stackabuse.com/
+-   https://stackoverflow.com/jobs/why-jobs
+-   https://stackoverflow.blog/
+-   https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/
+-   https://stackoverflow.com/questions/50963556/es6-concise-methods-and-non-concise-methods-in-object-literals
+-   https://starboard.gg/
+-   https://stargate.io
+-   https://www.startupyo.com/trainings
+-   https://stashchuk.com/apache-kafka
+-   www.stefanjudis.com/today-i-learned
+-   https://www.strategicfront.org/
+-   https://www.sternglas.com/collections/extras
+-   www3.cs.stonybrook.edu/~algorith/video-lectures
+-   https://www.studytonight.com/library
+-   https://surma.dev
+-   https://danmartensen.svbtle.com
+-   https://svelte.dev, sapper.svelte.dev/docs#Getting_started
+-   https://www.swyx.io/writing/jamstack-og-images/
+-   www.syncfusion.com/ebooks
+
+# T
+
+-   https://www.tabnine.com/
+-   https://tacta.io/life-after-event-sourcing
+-   https://talent500.co
+-   https://talentservice.com/
+-   https://talkingserverless.com/2020/10/27/microservices-serverless-functions-the-difference
+-   www.taniarascia.com/blog
+-   https://teamtreehouse.com/library, blog.teamtreehouse.com/category/learn
+-   techinpink.com
+-   https://www.technologyreview.com
+-   https://techworld-with-nana.teachable.com/p/gitlab-cicd-course-curriculum
+-   https://testdriven.io
+-   https://www.testgorilla.com, help.testgorilla.com/for-candidates
+-   https://testlio.com/blog/meet-a-tester-hayk
+-   wyag.thb.lt
+-   https://theburningmonk.com
+-   thecodebarbarian.com
+-   https://theconversation.com/us
+-   https://blog.thecuriouscoder.in/
+-   https://www.thedroidsonroids.com/blog/pros-of-tdd-test-driven-development-for-business
+-   http://www.themesindustry.com/html/synx-demo/index3.html
+-   https://www.thenativeweb.io/wolkenkit/framework
+-   thenewcode.com/986/Web-Developer-Reading-List-Galleries
+-   https://thenewstack.io
+-   https://thenextweb.com
+-   http://thepaulrayner.com/eventstorming-team-flow
+-   https://www.thesideblogger.com/shop
+-   https://www.theverge.com
+-   https://thewebdev.info/
+-   think-like-a-git.net
+-   www.thinkful.com/learn
+-   https://thinkster.io
+-   https://www.thisdot.co/blog
+-   https://tina.io
+-   https://www.topcoder.com
+-   https://www.toptal.com/top-3-percent
+-   https://towardsdatascience.com
+-   https://triplebyte.com
+-   https://tsh.io
+-   https://www.tsmean.com/articles/
+-   ttorial.com
+-   www.turbo360.co
+-   https://algorithms.tutorialhorizon.com
+-   https://www.tutorialist.io/tutorials/graph-theory-williamfiset
+-   https://www.tutorialspoint.com/software_testing_dictionary/index.htm
+-   webdesign.tutsplus.com/ebooks
+-   https://tylermcginnis.com/subscribe
+-   tympanus.net/codrops
+-   https://tympanus.net/Freebies/libre/#
+-   https://tyrrrz.me/blog/unit-testing-is-overrated
+-   https://typeofnan.dev/an-easy-way-to-build-a-tree-with-object-references
+
+# U
+
+-   https://ubahthebuilder.tech/
+-   https://www.udacity.com/
+-   https://classroom.udacity.com/courses/ud711
+-   www.udacity.com/course/version-control-with-git--ud123
+-   https://classroom.udacity.com/courses/ud711/lessons/504843ae-ba16-4573-a859-94da7a7d1dd4/concepts/409c8e65-59c6-4d67-8ea8-6934fad5ab0b
+-   https://classroom.udacity.com/courses/ud123/lessons/1b369991-f1ca-4d6a-ba8f-e8318d76322f/concepts/06b0775b-b703-45ca-9935-939487706728
+-   https://www.udemy.com
+-   https://www.udemy.com/the-advanced-web-developer-bootcamp/?couponCode=LAUNCH-CODE
+-   https://www.udemy.com/course/microfrontend-course/
+-   https://ui.dev/
+-   https://docs.uipath.com
+-   http://www.unc.edu/depts/our/hhmi/hhmi-ft_learning_modules/proteinsmodule/why/index.html
+-   https://unimuginable.company.site
+-   https://usehooks.com
+-   https://usehooks-ts.com/
+-   https://www.upwork.com
+-   https://usersnap.com/blog/software-testing-basics
+-   https://uxdesign.cc/emotionally-responsive-webdesign-64e213f93b63
+-   https://uxplanet.org
+
+# V
+
+-   https://www.valentinog.com/blog
+-   https://vanhack.com/
+-   https://www.varite.com/jobs-in-india/
+-   https://www.varvet.com/blog
+-   https://www.vettery.com
+-   https://offers.viddyoze.com/special?utm_campaign=10018713074&utm_term=101320270976&utm_content=434459917407&gclid=CjwKCAjw7-P1BRA2EiwAXoPWA6gINlkmUSBcZswlEf4LeqTjggQBqVv0COfR_ofRbN9-_h-rZ9XL5xoCYUEQAvD_BwE
+-   viromedia.com
+-   voidcanvas.com
+-   https://www.vondom.com/us/
+-   https://www.vskills.in
+
+# W
+
+-   w3bits.com
+-   https://www.w3docs.com/
+-   docs.w3cub.com/cheatsheets
+-   https://www.w3resource.com
+-   https://www.w3schools.com/howto/default.asp
+-   https://docs.wasmer.io
+-   watchandcode.com/courses
+-   https://www.watson-inc.com
+-   https://web.dev
+-   https://www.webbrain.io
+-   https://webflow.com/blog/css-grid-release-2-0
+-   http://spacetemplate.webflow.io
+-   https://www.weforum.org/reports
+-   wesbos.com/blog, courses
+-   https://weworkremotely.com/
+-   wildlyinaccurate.com/a-hackers-guide-to-git
+-   https://winningwp.com/most-popular-html-website-templates/
+-   www.wired.com
+-   https://www.wisdomjobs.com/e-university/expressjs-interview-questions.html
+-   https://rbrt.wllr.info/2019/03/11/what-are-different-types-code-tests.html
+-   wqu.org/programs/data-science
+
+# Y
+
+-   yourbasic.org/algorithms
+
+# Z
+
+-   https://academy.zenva.com/shop/
+-   https://zeroserver.io
+-   https://zimarev.com
+-   https://www.zocdoc.com/about/blog/tech/event-driven-architecture
+-   zpao.com/posts
+
+-   https://www.example-code.com/vbnet/rest.asp
+-   https://www.demilked.com/
+-   https://cathydutton.co.uk/posts/why-i-stopped-using-sass/
+-   https://www.techseries.dev/coderpro
+-   https://syncfab.com/
+-   https://rollout.io/blog/
+-   https://tech.okcupid.com/
+-   https://stackshare.io/featured-posts
+-   https://www.notion.so/product
+-   https://mindmajix.com/kafka-tutorial
+-   https://codescracker.com/exam/showtest.php?subid=6 // ~1000 Advanced Objective Qustions
+-   https://www.elemental-architects.com/the-eco-house
+-   https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376
+-   https://www.ridgewallet.com/
+-   https://blockchaintrainingalliance.com/?mc_cid=14c03b1966&mc_eid=0f47498dde
+-   https://m.jpost.com/health-science/israeli-scientists-say-they-found-a-way-to-reverse-the-human-aging-process-649798/amp
+-   https://www.learnvern.com/
+-   https://jxnblk.com/blog
+-   https://krasimirtsonev.com
+-   http://cheng.logdown.com/
+-   https://code.likeagirl.io/what-done-looks-like-test-driven-development-e9b0eaa38836
+-   https://www.wirewax.com/showcase
+-   https://redstapler.co/tutorials/
+-   https://deepscan.io/
+-   https://www.patreon.com/mindyourdecisions
+-   https://www.mint-lang.com/
+-   https://scriptverse.academy/
+-   https://fontello.com/
+-   https://webpaw.net/
+-   https://flems.io/
+-   https://www.searchkit.co/
+-   https://blog.sqreen.com/
+-   https://searcherp.techtarget.com/
+-   https://datacadamia.com/start
+-   https://www.snowpack.dev/posts/2021-01-13-snowpack-3-0?ck_subscriber_id=1095127155
+-   https://frontend.horse/?ck_subscriber_id=360183834
+-   https://clar.dev/en/
+-   https://shouts.dev/
+-   https://www.nicesnippets.com/
+-   https://clarity.design/
+-   https://www.nomlist.com/
+-   https://editorialnew.com/ // Good Website Design
+-   https://collectui.com/designs
+-   https://www.takarabio.com/learning-centers
+-   https://acloudguru.com/pricing
+-   https://www.amboss.com/us
+-   https://tophire.co/
+-   https://unilock.com/
+-   https://www.interviewmart.com/
+-   https://fsgql.com/
+-   https://rustic.abetel.com/ // Good Website Design
+-   https://ratersapp.com/
+-   https://www.hostbooks.com/in/gst-tutorials/
+-   https://dev-academy.teachable.com/p/web-security-fundamentals/?affcode=487495_1jo0savi&inf_contact_key=eb98ad609df877bad3e8977749b0ac33680f8914173f9191b1c0223e68310bb1
+-   https://www.gyanblog.com/
+-   https://cloudacademy.com/library/amazon-web-services/
+-   https://in.msi.com/Landing/Prestige-Evo-Essence-of-Elite/nb?gclid=EAIaIQobChMIzdL6uPjk7wIVFPiPCh0TFgT_EAEYASAAEgLgvvD_BwE // Good Website Design
+-   https://refactoring.guru/
+-   https://fleetroot.com/
+-   https://www.tutorialrepublic.com/snippets/gallery.php
+-   https://feathericons.com/
+-   https://davidtkatz.com/#/about
+-   https://johno.com/
+-   https://openbase.com/categories
+-   https://log2base2.com
+-   https://discord.com/channels/@me
+-   https://squoosh.app/
+-   https://www.kaleyra.com/sms-text-messaging/
+-   https://www.bigshyft.com/
+-   https://pisumfoods.com/certificates
+-   https://sso.godaddy.com/login?app=ox&realm=pass
+-   http://youmightnotneedjquery.com/
+-   http://www.objectplayground.com/
+-   https://cds.nyu.edu/math-tools/
+-   https://v8.dev/features
+-   https://nicepage.com/html5-template?pages=True
+-   https://freefrontend.com/
+-   https://www.oracle.com/news/connect/gmdx-genomics-applying-oracle-cloud-technology-to-help-clinicians.html?source=:em:nw:mt::::RC_WWMK200429P00044C0053:NSL400162782&elq_mid=194884&sh=2322522132392616267616221505895&cmid=WWMK200429P00044C0053301928
+-   https://ljungblad.nu/post/82178114836/ddd-cqrs-and-event-sourcing
+-   https://www.idus.in/?nav=header&placement=top_left&content=logo
+-   https://micro-frontends.org/
+-   https://www.express-gateway.io/
+-   https://apply.workable.com/walkover/j/2D413FD6B5/apply/
+-   https://lifesaver.codes/
+-   https://www.insofe.edu.in/certification/dba_ds_rsb.html
+-   https://simplelifemom.com/2019/02/03/melt-and-pour-soap-vs-cold-process-soap-making/
+-   https://www.programmersought.com/article/3694955508/
+-   http://html5index.org/
+-   https://platform.html5.org/
+-   https://dillionmegida.com/p/web-share-api/
+-   https://www.computervision.zone/
+-   https://html.spec.whatwg.org/multipage/
+-   https://convertkit.com/pricing
+-   https://www.booster.cloud/
+-   https://fullstackfeed.com/
+-   https://rishabh1403.com/posts/
+-   https://dyclassroom.com/content
+-   http://blog.davidecoppola.com/2016/12/how-to-set-up-a-git-repository-locally-and-on-a-remote-server/
+-   https://jigarius.com/blog/multiple-git-remote-repositories
+-   https://gitexercises.fracz.com/
+-   https://www.programiz.com
+-   https://www.orfonline.org/
+-   https://www.scaler.com/academy/
+-   https://www.sourcecodester.com/android
+-   https://neostox.com/
+-   https://maggieappleton.com/resources
+-   https://alexsidorenko.com
+-   https://www.judo.app/solutions
+-   https://tkdodo.eu/blog/all
+-   https://ngis.stpi.in
+-   https://blog.devgenius.io/my-favorite-html-features-that-nobody-is-talking-about-88dc28c9e92b
+-   https://www.logicmojo.com/index.html
+-   https://dgraph.io/learn, tour
+-   https://zepel.io/blog/how-to-commit-to-github
+-   https://dequeuniversity.com
+-   https://elopage.com/s/philipplackner/canvas-masterclass-for-jetpack-compose?locale=en
+-   https://ducklearning.com/pages/coderz-india?site=icicinotification&__sta_linkid=2352&__sta=%7CHUIJJ&__stm_medium=apn&__stm_source=smartech&__stm_id=55134
+-   http://timeandmoney.sourceforge.net
+-   https://domaindrivendesign.org
+-   https://www.martinfowler.com/bliki/FluentInterface.html
+-   https://deepal.io
+-   https://www.scikey.ai
+-   https://workflexi.in/home, www.workflexi.in/home
+-   https://help.msg91.com/article/348-dlt-registration
+-   https://www.theavocoder.com
+-   https://replit.com
+-   https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/mobile-api-gateway/4-2/mobile-policies/configure-policies/login-authentication-and-authorization-policies/one-time-password-policies.html
+-   https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/mobile-sdk-for-ca-mobile-api-gateway/2-2/android-sdk/android-2-2-guide/Access-APIs/One-Time-Password-(OTP).html
+-   https://chain.link/education
+-   https://tsh.io/blog/
+    https://www.atlassian.com/git
+    https://docs.github.com/en/get-started/quickstart/hello-world
+    https://docs.docker.com/get-started/overview/
+    https://nx.dev/getting-started/intro
+    https://khalilstemmler.com/blog/
+    http://dmitrysoshnikov.com/
+
+https://gRPC
+https://zod.dev
+https://www.prisma.io
+https://jestjs.io
+https://testing-library.com/docs
+https://pm2.keymetrics.io/docs/usage/process-actions/
+https://hapi.com
+https://docs.nestjs.com
+https://wanago.io
+https://moleculer.services/docs/0.14/
+https://docs.wolkenkit.io/3.1.0/getting-started/understanding-wolkenkit/why-wolkenkit/
+https://reimagined.github.io/resolve/docs/
+https://www.redisrush.com/
+
+-   https://www.30secondsofcode.org/collections/p/1/
+-   https://reintech.io/blog
+-   https://www.educative.io/explore
+-   Sudhirji
+-   https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html
+-   https://www.programcreek.com/2011/11/what-do-java-objects-look-like-in-memory/
+-   https://projecteuler.net/archives
+-   https://byby.dev/t
+-   https://nextjs.org/docs/app/building-your-application/optimizing/images
+-   https://expressjs.com/en/starter/examples.html
+-   https://redis.io/docs/about/
+-   https://developer.redis.com/howtos/quick-start/
+-   https://university.redis.com/#courses
+-   https://redis.io/learn/howtos/quick-start
+-   https://moleculer.services/index.html
+-   https://reimagined.github.io/resolve/
+-   https://docs.wolkenkit.io/3.1.0/
+
+-   Valibot
+-   Tmux
+
+-   https://www.30secondsofcode.org/collections/p/1/
+-   https://reintech.io/blog
+-   https://www.educative.io/explore
+-   Sudhirji
+-   https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html
+-   https://www.programcreek.com/2011/11/what-do-java-objects-look-like-in-memory/
+-   https://projecteuler.net/archives
+-   https://nextjs.org/docs/app/building-your-application/optimizing/images
+-   https://expressjs.com/en/starter/examples.html
+-   https://redis.io/docs/about/
+-   https://developer.redis.com/howtos/quick-start/
+-   https://university.redis.com/#courses
+-   https://moleculer.services/index.html
+-   https://reimagined.github.io/resolve/
+-   https://docs.wolkenkit.io/3.1.0/
+-   https://www.freecodecamp.org/learn/back-end-development-and-apis/
+-   https://dmitripavlutin.com/all-posts/
+
+-   https://thenewstack.io/
+-   https://www.softcover.io/read/96e92051/hapi/_single-page
+-   https://typealias.com/
+-   https://v2.scrimba.com/courses
+-   https://sinja.io/
+-   https://www.developerway.com/
+-   https://ui.dev/blog
+-   https://marklodato.github.io/visual-git-guide/index-en.html
+-   https://greenonsoftware.com/articles/
+-   https://www.scaler.com/topics/kubernetes/
+-   https://www.scaler.com/topics/docker/
+-   https://www.scaler.com/topics/git/
+-   https://www.scaler.com/topics/data-structures/
+-   https://blog.greenroots.info/?source=top_nav_blog_home
+-   https://leewarrick.com/blog/
+-   https://maximorlov.com/articles/
+-   https://www.w3docs.com/
+-   https://www.dofactory.com/tutorials
+-   https://bobbyhadz.com/
+-   https://www.analyticsvidhya.com/blog/2023/09/data-engineering-project/
+-   https://www.jest-preview.com/
+-   https://www.30secondsofcode.org/collections/p/1/
+-   https://reintech.io/blog
+-   https://www.educative.io/explore
+-   Sudhirji
+-   https://projecteuler.net/archives
+-   https://nextjs.org/docs/app/building-your-application/optimizing/images
+-   https://expressjs.com/en/starter/examples.html
+-   https://redis.io/docs/about/
+-   https://developer.redis.com/howtos/quick-start/
+-   https://university.redis.com/#courses
+-   https://frontarm.com/learn
+-   https://www.learnwithjason.dev/blog]
+-   https://www.pirple.com/enrollments
+-   https://byby.dev/
+-   https://datacadamia.com/
+-   https://datacadamia.com/web/http/http
+-   https://datacadamia.com/code/test/test
+-   https://docs.microsoft.com/en-us/learn/browse/?source=learn&products=github" Browse all - Learn | Microsoft Docs
+-   https://www.30secondsofcode.org/" 30 seconds of code
+-   https://nx.dev/getting-started/intro" Intro to Nx | Nx
+-   https://nxplaybook.com/p/nx-workspaces" Nx Workspaces (by Nrwl) | Nx Playbook
+-   https://www.remotely.works/?fbclid=IwAR0ORx0FwsNFSHwjn1Ffc1wfBxEfCmxIDmedkfv-hBhoix2yROxmgRE8iGU" Remotely • High paid dev jobs at best USA startups
+-   https://www.faun.dev/c/" FAUN
+-   https://blog.logrocket.com/" LogRocket Blog - For Frontend Developers and Web App Engineers
+-   https://codehike.org/" Code Hike
+-   https://upstash.com/" Upstash: Serverless Data for Redis® and Kafka®
+-   https://www.sanity.io/" The Platform For Structured Content - Sanity.io
+-   https://www.copycat.dev/blog/" CopyCat Blog - Perfect the art of copying code
+-   https://streamnative.cn/blog/engineering/2021-12-14-developing-event-driven-microservices-with-apache-pulsar-zh/" Developing Event-Driven Microservices with Apache Pulsar: Part I - StreamNative
+-   https://www.getmyuni.com/olympiad" Olympiad: National &amp; International Olympiad Exams in India 2022
+-   https://www.studynlearn.com/downloads" https://www.studynlearn.com/downloads
+-   https://edurev.in/home" Home | EduRev
+-   https://jungroo.com/math_buddy" Jungroo
+-   https://www.learnvern.com/course/tally-course" Best Quality Tally Course Online in Hindi for 2022
+-   https://bookdown.org/yihui/rmarkdown-cookbook/" R Markdown Cookbook
+-   https://openclassrooms.com/en/" Online programs and free-access courses - OpenClassrooms
+-   https://designcode.io/jetpack-compose" Jetpack Compose for Designers - Design+Code
+-   https://dmitripavlutin.com/all-posts/" All posts
+-   https://www.benmvp.com/blog/" Blog | Ben Ilegbodu
+-   https://resultfor.dev/t/ecmascript-6" Questions tagged ecmascript-6 - Result For Dev
+-   https://www.topcoder.com/thrive/tracks?author=All%20authors&endDate=2022-08-30&ref=navb&sortBy=Content%20Publish%20Date&startDate=2001-01-02&track=Development" Tutorials And Workshops That Matter | Thrive | Topcoder
+-   https://pusher.com/tutorials/" Pusher Tutorials
+-   https://blog.jakoblind.no/" All posts | blog.jakoblind.no
+-   https://tsh.io/blog/" 300+ guides: outsourcing &amp; web development blog | TSH.io
+-   https://www.the-guild.dev/blog" Blog – The Guild
+-   https://infinum.com/handbook/android/common-android/view-styles" Android Handbook | Common Android / View styles
+-   https://fettblog.eu/guides/" Guides
+-   https://ibaslogic.com/blog/" Comprehensive articles | Ibaslogic
+-   https://ui.dev
+-   https://www.30secondsofcode.org/
+-   https://dev.to
+-   https://www.valentinog.com/blog/
+-   https://www.robinwieruch.de/
+-   https://css-tricks.com/
+-   https://geshan.com.np/posts/1/" Posts on Geshan&#39;s Blog Page 1
+-   https://www.geeksforgeeks.org/" GeeksforGeeks | A computer science portal for geeks
+-   https://attacomsian.com/topics" All Topics
+-   https://jasonwatmore.com/archive" Fetch - HTTP POST Request Examples | Jason Watmore&#39;s Blog
+-   https://sunscrapers.com/blog/" Blog - Web &amp; Software Development | Sunscrapers
+-   https://www.marchtee.com/mug/natural" March – Mug
+-   https://www.marchtee.com/tank-tee/men/natural" March – Tank Tee
+-   https://betterprogramming.pub/
+-   https://www.freecodecamp.org/" Learn to Code — For Free — Coding Courses for Busy People
+-   https://blog.thoughtspile.tech/" Vladimir Klepov as a Coder
+-   https://bobbyhadz.com/" Blog | bobbyhadz
+-   https://www.codingdeft.com/blog/" CodingDeft.Com | Learn Coding
+-   https://daveceddia.com/archives/" Every Post Ever
+-   https://www.delftstack.com/tutorial/data-structure/circular-linked-list/" Circular Linked List | Delft Stack
+-   https://www.querythreads.com/
+-   https://kentcdodds.com/blog" The Kent C. Dodds Blog
+-   https://www.insaraf.com/collections/accessories/products/solid-wood-curvy-wastebasket-from-mahogany-collection" Buy Solid Wood Curvy Wastebasket from Mahogany Collection Online | New Launches Kitchenware Chopping Boards | Latest Collections | Saraf Furniture
+-   https://www.digitalocean.com/community/tutorials" Tutorials | DigitalOcean
+-   https://web.dev/" web.dev
+-   https://noob2geek.in/" Noob2Geek | Every Geek starts with Hello World!
+-   https://medium.com/ionicfirebaseapp/readymade-grocery-app-version-2-2-0-has-released-ee987d766cd6" Readymade Grocery App Version 2.2.0 has Released | by Ionic Firebase App | Ionic Firebase App | Medium
+-   https://blog.learncodeonline.in/" Learn Code Online | Written guides for programmers
+-   https://blog.learncodeonline.in/community-posts/learncodeonline" #learncodeonline stream — Learn Code Online
+-   https://blog.learncodeonline.in/community-posts/iwritecode" #iwritecode stream — Learn Code Online
+-   https://courses.learncodeonline.in/learn" 1 new message
+-   https://dev.to/halilcanozcelik" Halil Can Ozcelik - DEV Community 👩‍💻👨‍💻
+-   https://web.dev/learn-core-web-vitals/" Core Web Vitals
+-   https://strider-cd.github.io/index.html" Strider
+-   https://futurestud.io/tutorials" Future Studio Tutorials
+-   https://www.benmvp.com/" Ben Ilegbodu
+-   https://learning.intel.com/Developer/pages/34/edge-ai-certification-page" Intel Edge AI Certification Dashboard - Intel Learning
+-   https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/overview.html" AI &amp; Machine Learning
+-   https://en.wikipedia.org/wiki/SOLID" SOLID - Wikipedia
+-   https://vishalmanocha.in/live-yt?gclid=Cj0KCQjw1bqZBhDXARIsANTjCPIR6hTbaxcBH2yA4n83KH-uhpcKIWSXjy13x-H8ve_fYRKj1zr2jxkaAnTPEALw_wcB" 2X Your Salary | Join Me Live
+-   https://www.semicolonandsons.com/code_diary" Code Diary
+-   https://www.semicolonandsons.com/" Semicolon&amp;Sons - Hardcore Programming Screencasts
+-   https://thecompetentdev.com/" The Competent Developer
+-   https://www.kamuklife.com/all-products.html" All Products
+-   https://illustrated.dev/" Illustrated.dev
+-   https://redis.com/ebook/redis-in-action/" Redis in Action - Foreword
+-   https://blog.devgenius.io/the-difference-between-cookie-session-and-tokens-79b62df6f860" The Difference Between Cookie, Session, and Tokens | by JIN | Oct, 2022 | Dev Genius
+-   https://articles.wesionary.team/why-useeffect-is-a-bad-place-to-make-api-calls-98a606735c1c" Why useEffect is a bad place to make API calls | by Rojan Maharjan | Sep, 2022 | wesionaryTEAM
+-   https://www.iamtk.co/" TK&#39;s website about software engineering, web development, and career in tech
+-   https://blog.fildon.me/" Rupert &#39;fildon&#39; McKay&#39;s Blog
+-   https://www.learnwithjason.dev/blog" Posts About Modern Web Development — Learn With Jason
+-   https://frontarm.com/learn" Learning Resources
+-   https://www.discount-courses.com/" Discount Courses: The lowest prices, guaranteed.
+-   https://testing-library.com/docs/" Introduction | Testing Library
+-   https://procoders.tech/blog/difference-between-usememo-and-usecallback/" useMemo and useCallback: Full Comparison | ProCoders
+-   https://www.developerway.com/" Developer way: improve your technical skills with in-depth explanations, practical advices and useful tips and tricks.
+-   https://www.epicweb.dev/the-webs-next-transition?ck_subscriber_id=927932574" The Web’s Next Transition | Epic Web Dev by Kent C. Dodds
+-   https://www.code22.eu/shop/en/" CODE 22
+-   https://www.freecodecamp.org/news/author/reed" Reed Barger - freeCodeCamp.org
+-   https://everyday.codes/" everyday.codes - personal blog by Michael Krasnov
+-   https://www.freecodecamp.org/news/author/reed/" Reed Barger - freeCodeCamp.org
+-   https://htmx.org/" &lt;/&gt; htmx - high power tools for html
+-   https://codingbeautydev.com/" Home - Coding Beauty
+-   https://takk.in/collections/all-products" Takk Smart Products – TAKK
+-   https://devanywhere.io/help?subject=DevAnywhere%20Application" Help | DevAnywhere
+-   https://www.peterweightman.com/posts/" Peter Weightman
+-   https://jumpchart.com/" Website Planning and Organization Tool » Jumpchart
+-   https://www.poeticoding.com/understanding-liveview-build-a-gallery-app/" Understanding Phoenix LiveView: build a Gallery app
+-   https://www.creaform3d.com/en" Portable &amp; Robot Mounted 3D Scanners and CMM Solutions | Creaform
+-   https://www.hirist.com/" Find Your Dream Tech Job at hirist.com - India&#39;s #1 IT Job Portal
+-   https://www.scikey.ai/jobs/jobs-by-job-type/refer-earn-jobs?utm_source=email&utm_medium=email&utm_campaign=email" Refer Your Friends For Jobs And Earn Rewards - SCIKEY
+-   https://architecturenotes.co/" Architecture Notes — System Design &amp; Software Architectures Explained
+-   https://launchpad.redis.com/?_gl=1*wrz4ov*_ga*MTQ1OTQ5MDkxMS4xNjg4MDIyMDE5*_ga_8BKGRQKRPV*MTY4ODAyMjAxOS4xLjEuMTY4ODAyMjI0OC4xMC4wLjA." Redis Launchpad
+-   https://developer.redis.com/howtos/ratelimiting/" How to build a Rate Limiter using Redis | The Home of Redis Developers
+-   https://www.scikey.ai/jobs/" Jobs Marketplace | Jobs Across The Globe - SCIKEYjob
+-   https://www.appmixer.com/" Embedded iPaaS and Workflow Automation System – Appmixer
+-   https://codegino.com/en/blog/remix-seo" Remix Search Engine Optimization
+-   https://www.dzynloot.com/?fbclid=IwAR1GajFVR0tMRvvCzk_mTFAzuo7dxf31wI2UlNreQu3jcP-Mou_dKMUOfHA" Cheap Logo Design Company – We design logos for 299 rupees only
+-   https://clarity.design/documentation/get-started" Clarity Design System - Documentation - Get Started
+-   https://www.radix-ui.com/docs/primitives/components/separator" Separator – Radix UI
+-   https://www.radix-ui.com/" Primitives – Radix UI
+-   https://events.confluent.io/forumsworkshops2023-q3-apac?utm_medium=marketingemail&utm_campaign=tm.fm-apac_cd.eventdrivenarchitecture-q32023-netnew&utm_source=marketo&mkt_tok=NTgyLVFIWC0yNjIAAAGMx-epr8yFcCDdNNbB_haFsWHIciXR0YEJ38b2Ws_0Q51I7qbmzIsMngMzYMYWc58HPAOIdBourQqpOI5BKjPrwSSk3inOWg8AGUlrcqMCLtgIDg" Event-Driven Architecture Learning Series: Confluent Cloud Hands-On Workshop
+-   https://docs.mux.com/?_gl=1*1ue1895*_ga*OTAwNzI2MzA1LjE2ODg3OTgyOTI.*_ga_D3BFYPQXX7*MTY4ODc5ODI5Mi4xLjEuMTY4ODc5ODUxMi4wLjAuMA.." Docs | Mux
+-   https://www.mux.com/?utm_source=docs&_gl=1*t0pvus*_ga*OTAwNzI2MzA1LjE2ODg3OTgyOTI.*_ga_D3BFYPQXX7*MTY4ODc5ODI5Mi4xLjEuMTY4ODc5ODU2Mi4wLjAuMA.." The Internet&#39;s video infrastructure | Mux
+-   https://planetscale.com/pricing" Pricing — PlanetScale
+-   https://ibapi.in/Sale_Info_Landing.aspx" IBAPI
+-   https://vishalmanocha.in/live-yt?gclid=CjwKCAjw2K6lBhBXEiwA5RjtCcfRuaofnspWC-NAXIC7I6B2_Gt4aMIReBYmCyvDkmVhlfgQaxH-aBoCFJ8QAvD_BwE" 2X Your Salary | Join Me Live
+-   https://blog.bitsrc.io/modernizing-frontend-applications-a-guide-b0bac99be932" Modernizing Frontend Applications: A Guide | by Lakindu Hewawasam | Bits and Pieces
+-   https://bit.dev/blog/painless-monorepo-dependency-management-with-bit-l4f9fzyw/" Painless Monorepo Dependency Management with Bit
+-   https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833" How we Build a Component Design System | Bits and Pieces
+-   https://bastianhantsch.com/index.html" Bastian Hantsch | Home
+-   https://www.scaler.com/topics/courses/" Scaler Topics - Technopedia for Your Mastermind
+-   https://blog.saeloun.com/" Ruby on Rails Consulting Company based in Boston | Saeloun Blog | Page 1 | Saeloun Blog
+-   https://gomakethings.com/articles/" Daily Developer Tips | Go Make Things
+-   https://lectera.com/en/promo-cart?promo=TEE386FZTWAC&utm_source=fb_ig&utm_medium=reg_conv&utm_campaign=course_eu&utm_content=wide_stories_app_a3&utm_term=worldwide&fbclid=IwAR11STmqpUuAv1UXwME6daAhvjOP3LQYL4-yAyz_MJPa7jIF6kSZJQ3KyOc" Lectera
+-   https://blog.risingstack.com/" RisingStack Engineering Blog - RisingStack Engineering
+-   https://www.theodinproject.com/paths" All Paths | The Odin Project
+-   https://www.taniarascia.com/blog/" Writing | Tania Rascia
+-   https://blog.skay.dev/" Skay&#39;s Blog
+-   https://www.mux.com/" The Internet&#39;s video infrastructure | Mux
+-   https://www.developermarkepear.com/blog/paid-advertising-developer-marketing" How to advertise to developers: deep dive into paid developer marketing
+-   https://www.ethicalads.io/advertisers/?ref=mar2022-reach-devs-by-topic&ea-publisher=authkitarkadipme" Advertise with Us - EthicalAds
+-   https://www.ethicalads.io/" Developer Ad Network with privacy built in - EthicalAds
+-   https://www.developermarkepear.com/" Developer Markepear
+-   https://www.boot.dev/tracks/backend" Backend Development Track | Boot.dev
+-   https://www.fullstack.cafe/" FullStack.Cafe - Kill Your Next Tech &amp; Coding Interview
+-   https://dev.to/arafat4693/series/21429" Tips and Tutorials Series&#39; Articles - DEV Community
+-   https://www.digitalocean.com/community/tutorial-series/understanding-the-dom-document-object-model" Understanding the DOM — Document Object Model | DigitalOcean
+-   https://tx.shadcn.com/Taxonomy
+-   https://github.com/shadcn-ui/taxonomyGitHub - shadcn-ui/taxonomy: An open source application built using the new router, server components and everything new in Next.js 13.
+-   https://wurfel.in/Best Modular Kitchen Designs in India: European Modular Kitchens and Wardrobes
+-   https://carlogino.com/blog" My Blogs Listing Page | CodeGino | Carlo Gino Catapang
+-   https://anywhere.epam.com/en" EPAM Anywhere
+-   https://www.boucekdev.com/blog" Boucek Dev | Blog Page
+-   https://www.boucekdev.com/" Boucek Dev
+-   https://stackademic.com/" Stackademic: Teaching the next generation of coders, for free.
+-   https://bitsizelearning.medium.com/" bitsizelearning – Medium
+-   https://medium.com/@kunalznk" Kunalznk – Medium
+-   https://medium.com/sysco-labs/state-management-in-micro-frontends-ee273830f95f" State management in Micro-Frontends | by Kaveesha Dinamidu | Sysco LABS Sri Lanka | Medium
+-   https://medium.com/@mujaffarhssn/the-usedeferredvalue-hook-a-simple-way-to-improve-performance-7f457600cab6" The useDeferredValue Hook: A Simple Way to Improve Performance | by TechInsights | Aug, 2023 | Medium
+-   https://medium.com/@mujaffarhssn/say-goodbye-to-debouncing-use-usedeferredvalue-hook-7af7742d4456" Say Goodbye to Debouncing: Use “useDeferredValue” Hook | by TechInsights | Medium
+-   https://blog.stackademic.com/overlapping-executions-with-setinterval-in-js-2583a905b22c" Overlapping Executions with setInterval() in JS | by Vikas Sharma | Aug, 2023 | Stackademic
+-   https://bootcamp.uxdesign.cc/understanding-cumulative-layout-shift-cls-and-how-to-improve-it-8fb5dc2bdfac" Understanding cumulative layout shift (CLS) and how to improve it | by Gaurav Sharma | Sep, 2023 | Bootcamp
+-   https://solidbook.io/" SOLID: The Software Design and Architecture Handbook
+-   https://medium.com/@kemaltf_" Kemal Taufik Fikri – Medium
+-   https://crazyming.medium.com/" MING WU – Medium
+-   https://medium.com/@matthill8286" Matthew Hill – Medium
+-   https://betterprogramming.pub/a-better-way-to-usememo-and-usecallback-58288a19f91c" A Better Way to useMemo and useCallback | by Denny Scott | Better Programming
+-   https://blog.devgenius.io/become-an-expert-backend-projects-that-define-senior-developers-61ac76e17d98" Become An Expert: Backend Projects That Define Senior Developers | by P. Rehan | Jul, 2023 | Dev Genius
+-   https://easycodingschool.com/category/programming/" Programming - Easy Coding School
+-   https://www.essentialist.dev/" essentialist.dev | Master the Essentials of Software Design
+-   https://khalilstemmler.com/articles" Articles | Khalil Stemmler
+-   https://scriptedalchemy.medium.com/the-future-of-module-federation-665dd33947cb" The Future of Module Federation | by Zack Jackson | Aug, 2023 | Medium
+-   https://uiverse.io/all" 3079 UI elements: CSS &amp; Tailwind
+-   https://www.jacobparis.com/" Jacob Paris
+-   https://www.jacobparis.com/content" Articles, Guides, and Cheatsheets | Jacob Paris
+-   https://www.freecodecamp.org/news/everything-you-need-to-know-about-css-variables-c74d922ea855/" Everything You Need to Know About CSS Variables [Full Handbook]
+-   https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/" The CSS Handbook: A Handy Guide to CSS for Developers
+-   https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/" The REST API Handbook – How to Build, Test, Consume, and Document REST APIs
+-   https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/" The Git Merge Handbook – Definitive Guide to Merging in Git
+-   https://www.freecodecamp.org/news/git-diff-and-patch/" Git Diff and Patch – Full Handbook for Developers
+-   https://www.freecodecamp.org/news/git-internals-objects-branches-create-repo/" A Visual Guide to Git Internals — Objects, Branches, and How to Create a Repo From Scratch
+-   https://www.freecodecamp.org/news/systems-design-for-interviews/" System Design Interview Question Handbook – Concepts You Should Know
+-   https://www.freecodecamp.org/news/the-kubernetes-handbook/" The Kubernetes Handbook – Learn Kubernetes for Beginners
+-   https://www.freecodecamp.org/news/the-docker-handbook/" The Docker Handbook – Learn Docker for Beginners
+-   https://www.freecodecamp.org/news/the-nginx-handbook/" The NGINX Handbook – Learn NGINX for Beginners
+-   https://docs.gluster.org/en/latest/" Gluster Docs
+-   https://www.git-tower.com/learn/git/first-aid-kit" First Aid Kit for Git | Learn Version Control with Git
+-   https://www.git-tower.com/learn/git/videos" Learn Git with Our Free Video Course | Learn Version Control with Git
+-   https://www.git-tower.com/learn/git/advanced-git-kit" Advanced Git Kit | Learn Version Control with Git
+-   https://www.git-tower.com/learn/website-optimization" The Beginner&#39;s Guide to Faster Websites | Learn Version Control with Git
+-   https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/what-is-version-control" What is Version Control? | Learn Git Ebook (GUI Edition)
+-   https://developer.mozilla.org/en-US/docs/Web/HTML" HTML: HyperText Markup Language | MDN
+-   https://reqbin.com/" Online API Testing Tool | Test Your API Online
+-   https://github.com/malgamves/CommunityWriterPrograms" GitHub - malgamves/CommunityWriterPrograms: A list of Developer Community Writer Programs
+-   https://visualeducation.com/?fbclid=IwAR2v2euSOd0eixZKanLNAnBncbFIgEx0-mZDY6biOyhuJqIeCEBoPA--QEY" Unleash Your Creative Potential With Award-Winning Online Classes
+-   https://www.theodinproject.com/" Your Career in Web Development Starts Here | The Odin Project
+-   https://blog.isquaredsoftware.com/" Mark&#39;s Dev Blog
+-   https://copyprogramming.com/" IT programming and software development tutorials - Copy Programming
+-   https://www.w3resource.com/index.php" Web development tutorials | w3resource
+-   https://www.crossover.com/jobs/3686/trilogy/portfolio-cto?utm_source=facebook&utm_medium=conversions&utm_campaign=FB-3686-IN-Lookalike.001&fbclid=IwAR1FLdpQt4olqSPmMIwQELqSbfSGouyaoQwGX5NVFabdBjKcWQwSB--uEnU" Portfolio CTO Job at Trilogy | Crossover
+-   https://adeccogroup.com/ceoforonemonth/quick-apply/?utm_source=facebookandinstagram&utm_medium=image&utm_campaign=ceo1m_2022_global&utm_content=salarystatic1_retargeting&fbclid=IwAR0NsGUBV28sfzFiqMHfyieS4lOZE-V75iNZ_8U4X2VYqBvy-7JnGP69-SQ" Apply Now
+-   http://www.adequatelygood.com/
+-   https://advancedweb.hu/tags.html
+-   https://www.amazon.in/dp/B08VN4N3G6?geniuslink=true
+-   https://www.amazon.in/dp/B08W9MR15P?geniuslink=true
+-   https://www.geeksforgeeks.org/system-design-tutorial/
+-   https://www.geeksforgeeks.org/data-structures/
+-   https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+-   https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/
+-   https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/
+-   https://practice.geeksforgeeks.org/explore?page=1&curated[]=1&sortBy=submissions
+-   https://www.geeksforgeeks.org/kotlin-programming-language
+-   https://frontarm.com/learn
+-   https://www.learnwithjason.dev/blog
+-   https://www.youtube.com/watch?v=TlB_eWDSMt4
+-   https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+-   https://www.youtube.com/watch?v=yEHCfRWz-EI&list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG
+-   https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+-   https://www.youtube.com/watch?v=spPtAEmwys4&list=PLS1QulWo1RIb8IwHYfah5pxGU5jgNiEbK
+-   https://www.youtube.com/watch?v=Qwow9xWCHc4&list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K
+-   https://www.youtube.com/watch?v=fBNz5xF-Kx4
+-   https://www.youtube.com/watch?v=TvkXHz6p7JM
+-   https://www.youtube.com/watch?v=jOupHNvDIq8&list=RDQMewSL4NqY70A&start_radio=1
+-   https://www.youtube.com/watch?v=SBvmnHTQIPY
+-   https://www.youtube.com/watch?v=_H6td2GaW3I
+-   https://www.youtube.com/watch?v=vjf774RKrLc
+-   https://www.youtube.com/watch?v=g8wdGNJ_EMg&list=PLlxmoA0rQ-LyMoEYRyd1L9oDaTRXOXdZa
+-   https://www.youtube.com/watch?v=GpGTYp_G9VE
+-   https://www.youtube.com/watch?v=aTEDCotcn20
+-   https://www.youtube.com/watch?v=5WFyhsnU4Ik
+-   https://www.youtube.com/watch?v=Iz0MFOKmmDY
+-   https://www.youtube.com/watch?v=7WxrqOwvnrM
+-   https://www.youtube.com/watch?v=RL9mnX0qXhY
+-   https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu
+-   https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+-   https://www.youtube.com/watch?v=TtPsUq09OZU&list=PLdHg5T0SNpN2c0j8ggRFUU4iRxVznozWt
+-   https://www.youtube.com/watch?v=ZU80F1YIPGA&list=PLlcnQQJK8SUhQwi7MocADlD0w3rf8M0B9
+-   https://www.youtube.com/watch?v=phwzuiJJPpQ&list=PLg7SrwZOiNdUYYEqzoiyfFqeRHFLG_ICf
+-   Building a Microservice using Node js & Docker TechKeka
+
+### NodeJS Tools
+
+-   ActionHero
+-   Broccoli
+-   log.io
+-   danger (danger.systems)
+-   snyk.io
+-   clinicjs.org
+
+-   Mockoon: Mock Windows exe
+-   JSON Server: Mock REST API
+
+- http://pttrns.com/
+- https://exploringjs.com/ (many books from Dr. Axel Rauschmayer)
+- https://eloquentjavascript.net/
+- https://www.codeguage.com/courses/advanced-js
+- http://www.mobile-patterns.com/
+- https://evergreen.segment.com/components/button/
+- https://www.intmath.com/
+- https://www.3blue1brown.com/all-videos
+- https://www.educative.io/track/ace-js-coding-interview
+- https://www.30secondsofcode.org/
+- https://css-tricks.com/snippets/javascript/
+- https://codetogo.io/javascript/
+- https://usefulangle.com/javascript
+- https://snipplr.com/popular?language=javascript
+- https://www.designsystems.com/
+- https://bits.24ways.org/
+- https://medium.com/weekly-webtips/archive
+- https://medium.com/weekly-webtips/transduction-in-javascript-fbe482cdac4d
+- https://www.demilked.com/
+- https://www.jaypore.com/
+- https://clinicjs.org/bubbleprof/
+- https://www.javascriptstuff.com/
+- https://syncfab.com/
+- https://www.techseries.dev/coderpro
+- https://blog.bitsrc.io/memory-leaks-in-nodejs-54ac7bbd4173
+- https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b
+- https://johnresig.com/
+- https://www.smashingmagazine.com/
+- https://christianheilmann.com/
+- https://www.quirksmode.org/
+- https://www.youtube.com/c/Decodedx/featured
+- https://plainenglish.io/
+- https://enjoycss.com/gallery/text_fields
+- https://hubbin.in/bangalore/property/sale/?page=2&city=bangalore
+- https://www.simform.com/nodejs-use-case/
+- https://livecodestream.dev/post/2020-08-11-a-practical-guide-to-jwt-authentication-with-nodejs/?ref=webdesignernews.com
+- https://livecodestream.dev/post/2020-07-31-a-brief-introduction-to-securing-applications-with-jwt/
+- https://rollout.io/blog/
+- https://node.university/courses
+- https://node.university/p/premium-membership
+- https://seeds.sproutsocial.com/components/
+- https://www.pinterest.com/gershuni/hr-giger/
+- https://www.startupyo.com/trainings
+- https://countthings.com/
+- https://medium.com/@GoodMenProject/14-non-sexual-ways-to-turn-your-lover-on-12ea1d28a25c
+- https://javascript.info/
+- https://www.promisejs.org/
+- https://www.javascripttutorial.net/snippets/
+- https://ruanyl.gitbook.io/universal-data-loader/
+- https://emotion.sh/docs/introduction
+- https://www.learnwithjason.dev/blog
+- https://www.pirple.com/enrollments
+- https://nodejs.dev/learn
+- https://www.fastify.io/
+- https://frontarm.com/learn
+- https://javascript.info/async
+- https://web.dev/articles/promises
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises

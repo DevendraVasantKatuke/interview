@@ -389,6 +389,7 @@
 -   The Police - Every Breath You Take (Master Chic Mix)
 -   London Grammar - Non Believer (Audio)
 -   HAEVN - City Lights (LVNDSCAPE Remix) Official Audio
+-	Tina Arena - Chains
 -   Harley & Joker - Voices in my head The Joker Club
 -   Beautiful PERU - Travel World | 秘鲁國家之旅 4k Broaden horizons
 -   Finding Hope - Without You (Lyric Video) feat. Holly Drummond Aminium Music
@@ -551,6 +552,7 @@
 -   John Lennon - "Isolation"
 -   Chris Spheeris - Juliette Abbas
 -   David Foster: "When A Man Loves A Woman/It's A Mans World" (Seal/Michael Bolton) davidfoster
+-	Ain't Nobody - rufus
 -   Jesuton - I'll Never Love This Way Again [Clipe Oficial] Jesuton (Oficial)
 -   Vaya Con Dios - What's A Woman 1990 Hülya Ünalmış Video Creations
 -   Coronaviruses 101: Focus on Molecular Virology Innovative Genomics Institute – IGI
@@ -1132,6 +1134,7 @@ hatka| ISD India Speaks Daily
 -   Uriah Heep - Circle Of Hands 1973 mlbloverock
 -   The Bangles - American Bandstand - May 10, 1986 joe jones
 -   Yello - Call It Love
+-	Bananarama- Cruel Summer
 -   Debbie Harry - Heart of glass (live 1995) B DP
 -   Yello - The Race, extended version (1988) [OWee's 2012 video] ronderw
 -   Manfred Mann’s Earth Band - Don’t Kill It Carol (Rockpop, 19.05.1979) OFFICIAL
@@ -1770,6 +1773,7 @@ hatka| ISD India Speaks Daily
 -   Ultimate Garden Room: Shower & Toilet - Open Plan Kitchen & Lounge - Surrey, UK - REF: 5441 Bakers Timber Buildings
 -   Get It On - Bang A Gong ( T.Rex/Marc Bolan ) Marcus Nimbler Marcus Nimbler
 -   THE UPSTAIRS HOUSE - Wahana Architects
+-	ABC - The night you murdered Love
 -   179m² A Modern Spacious One-Story House With 4 Bedrooms, 2 Car Garage, Simple Design With A Garden 5T1 Ideas
 -   Build a web-app to serve a deep learning model for skin cancer detection Abhishek Thakur
 -   GoPro Fusion 360VR wingsuit Rodeo Jeb Corliss 360°
@@ -2146,6 +2150,7 @@ hatka| ISD India Speaks Daily
 -   Fittest Soldier in the World - Diamond Ott | Muscle Madness
 -   The Octo-Bouncer Electron Dust
 -   Oh Wonder - How It Goes
+-	Black Box - Ride on Time
 -   Yas - Empty Crown MrSuicideSheep
 -   18 ADVANCED WAYS TO SIT DOWN 😅 Jiemba Sands
 -   20 Ways To Style Formal Shirt Pant For Men | Best 20 Formal Dress For Men | Men Fashion IN TREND FASHION&VLOGS
@@ -2274,11 +2279,17 @@ hatka| ISD India Speaks Daily
 -   Rozalla - Everybody's Free w0lf6pack
 -   Sergey Grischuk- Rain..Rain... dariusz gawryszek
 -   Eddy Grant - Electric Avenue (Live in Cape Town)
+-	You Make Me Feel Brand New - The Stylistics
+-	Emotion - Samantha Sang
+-	Yes I'm Ready / Teri Desario with K.C.
+-	Tal Bachman - She's So High
 
 -   4 Non Blondes
     -   What's Up
 -   A Flock Of Seagulls
     -   I Ran
+-	aaron neville
+	-	don't know much
 -	ABC
 	-	The Night You Murdered Love
 -   Adam Lambert
@@ -2297,6 +2308,9 @@ hatka| ISD India Speaks Daily
 	-	Faded
 -   Alex Blue
 	-	Don't Think I Would
+-   Alex. Rasov.
+	-	Just to Be in Love (https://youtu.be/-O4OoVV94PU?si=HYVN_pFiggbQcWdL) JEAN_POUL.Musıc
+	-	Just to be in love (The call of wild)
 -	Alexander O'Neal
 	-	Criticize
 -	Alice Phoebe Lou
@@ -2413,6 +2427,8 @@ hatka| ISD India Speaks Daily
 -   Cannons
     -   Love on the Ground
     -   Bad Dream
+-	Captain Hollywood Project
+	-	More and More
 -   Chaka Khan
     -   Ain't Nobody
 	-	Like Sugar
@@ -2567,10 +2583,10 @@ hatka| ISD India Speaks Daily
 	-	Forever Travelling
 -	Exile
 	-	Kiss You All Over
--   Exposé
-    -   Seasons Change
 -   Everything But The Girl
     -   Missing
+	-	Run A Red Light
+	-	Nothing Left To Lose
 -	Exposé
 	-	Seasons Change
 -	Faithless
@@ -2643,7 +2659,7 @@ hatka| ISD India Speaks Daily
 	-	Insane Like Me
 	-	Voices in my head
 -   Heart
-    -   These Dreams (https://youtu.be/0DLeH2FWFTE)
+    -   These Dreams (https://youtu.be/0DLeH2FWFTE) (Live in Seattle)
 	-   Alone
 -	Heart, The Royal Philharmonic Orchestra
 	-	Alone
@@ -2665,6 +2681,7 @@ hatka| ISD India Speaks Daily
 	-	Mujhe chhu rahi hai - Swayamwar
 	-	O Mere Dil Ke Chain - Mere Jeevan Saathi
 	-	Pal Pal Dil Ke Paas - Blackmail
+	-	Tanha Tanha - Penaz Masani 
 	-	Tera Ramji Karenge Beda Paar - Hariom Sharan Premanjali Pushpanjali
 	-	Tere Dar Par Sanam - Phir Teri Kahani Yaad Aayee
 	-	Tu pyaar ka sagar hai - Seema
@@ -2790,6 +2807,7 @@ hatka| ISD India Speaks Daily
 -	Lana Del Rey
 	-	God knows i tried
 	-	Shades Of Cool
+	-	Summertime Sadness
 -	Last of the Mohicans
 	-	Last of the Mohicans (Guitar instrumental)
 -   Lauri
@@ -2809,10 +2827,16 @@ hatka| ISD India Speaks Daily
     -   Happens to the Heart
     -   Dance Me to the End of Love
 	-	My Oh My
+-	Les Deux Love Orchestra 
+	-	The Moth & The Flame
 -	Level 42
 	-	Lessons In Love
+-	Lewis Capaldi
+	-	Someone You Loved
 -   Lian Ross
     -   Say You'll Never
+-	Limp Bizkit 
+	-	Behind Blue Eyes
 -	Linear
 	-	Sending All My Love
 -	Linda Jo Rizzo
@@ -2902,6 +2926,8 @@ hatka| ISD India Speaks Daily
     -   Not Today
 -	Metallica
 	-	One
+	-	The Unforiven
+	-	Turn the Page
 -	Michael Bolton
 	-	When a Man Loves a Woman
 -   Michael Bublé
@@ -2948,6 +2974,9 @@ hatka| ISD India Speaks Daily
     -   One night in Bangkok (Long 12'' Version Video Clip)
 -   MY MINE
     -   Can delight
+-	Mylène Farmer
+	-	Stolen car (Sting)
+	-	Mad World (Gary Jules)
 -	Mylo VS Miami Sound Machine
 	-	Doctor Pressure (Mash-up Video)
 -	Najee
@@ -3070,6 +3099,7 @@ hatka| ISD India Speaks Daily
 	-	The Fall
 -   Rick Astley
     -   Never Gonna Give You Up
+	-	Walk Like A Panther
 -   Righteous Brothers
     -   Unchained Melody
 -   Robert Palmer
@@ -3086,6 +3116,9 @@ hatka| ISD India Speaks Daily
 	-	Sugar (feat. Francesco Yates)
 -   Rod Stewart
     -   Have i told you lately
+-	Roger Meno 
+	-	What my Heart Wanna Say
+	-	I find the Way
 -   Roger Sanchez
     -   Another Chance
 -   Roxette
@@ -3093,6 +3126,7 @@ hatka| ISD India Speaks Daily
     -   Joyride
     -   Fading like a Flower
     -   A thing about you
+	-	Queen Of Rain
 -   Roxy Music
     -   More Than This
 -	Röyksopp
@@ -3142,6 +3176,8 @@ hatka| ISD India Speaks Daily
     -   Because I Love You
 -	Shalamar
 	-	Dancing In the Sheets
+-	Shanice Wilson
+	-	I Love Your Smile
 -	Shannon
 	-	Let The Music Play
 -	Shawn Colvin
@@ -3185,9 +3221,12 @@ hatka| ISD India Speaks Daily
     -   Arc Of A Diver
 	-	Back In The High Life Again
 	-	The Finer Things
+	-	Higher Love
 -   Sting
     -   Desert Rose
     -   It's Probably Me
+-	Sunday (1994) 
+	-	Tired Boy 
 -	Sunscreem
 	-	Perfect Motion
 -   Sunni Colón
@@ -3215,6 +3254,8 @@ hatka| ISD India Speaks Daily
     -   Twist In My Sobriety
 -   Taylor Dayne
     -   Tell It to My Heart
+-	Tasmin Archer
+	-	Sleeping Satellite
 -   Taylor swift
     -   Love story
 -   Tears For Fears
@@ -3334,6 +3375,8 @@ hatka| ISD India Speaks Daily
     -   gonna get along without you now
 -   Wamdue Project
     -   King of My Castle
+-	Westlife
+	-	Soledad
 -	White Town
 	-	Your Woman
 -	Whitesnake

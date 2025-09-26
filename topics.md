@@ -49,8 +49,10 @@
 - https://youtu.be/7b7c7zz4OZs?si=P8JSPfzAePG0nwRH
 - https://youtu.be/iJLL-KPqBpM?si=2TH8cPkkklZmWHum
 - https://youtu.be/M-l7gVm69KI?si=fQAyRrouo-hR9iPL
+- https://youtu.be/NwR9Lq8qn8c?si=2ZPH4R-8P9piUzbs
 - https://youtu.be/4rPzFb05PaI?si=KpDW7I1kpv6kX_8o
 - https://youtu.be/DXTHb9TqJOs?si=D5XejR5HVka1Vt9f
+- https://youtu.be/zw7VwIlkPPc?si=WBb3B49RjV6tT_kL
 - https://youtu.be/7fkS-18KBlw?si=rLFyO3W1gg1HGn3P
 - https://youtu.be/XvnppkWqJbs?si=3nEJ_RIfsYtarqqV
 - https://youtu.be/FbvK65YzNF8?si=Gf9K8xIbJSLQQc-w
@@ -70,6 +72,14 @@
 - https://youtu.be/xo5V9g9joFs?si=nFncxKYhhHe1wEoF
 - https://youtu.be/7NC-iyZ7vpQ?si=UFk67t_YbLw5BibE
 - https://youtu.be/s9Qh9fWeOAk?si=DrQqff2o8dEt1ip8
+- https://youtu.be/hExRDVZHhig?si=wfwSeEKASzQVDR7a
+- https://youtu.be/2JYT5f2isg4?si=p20W8Bb9p2j8q6CD
+- https://youtu.be/20tpk8A_xa0?si=kS3PaIX1oqP4IvL3
+- https://youtu.be/AtTgcbLOqMM?si=_-Nf5ygUeYyFFX1F
+- https://youtu.be/VmY22KuRDbk?si=ZAtCm3cH0BodOnl4
+- https://youtu.be/xmI-Ubq_AAc?si=n05vxREsebCCKxiz
+- https://youtu.be/3QFaf3N4oVs?si=dhFYVHvBAvgfzzzU
+- https://youtu.be/ZaLSwhciSfs?si=86JU9TMndXYpiMkG
 ## ECMAScript
 - https://www.youtube.com/playlist?list=PLjCYFwDcjeM7cNomPSsdQYOHE4i3WbC0u
 - https://ponyfoo.com/
@@ -91,6 +101,7 @@
 - https://www.educative.io/explore
 - Lydia Halle Javascript tricky questions
 - Sudhirji
+- https://www.youtube.com/@codewithjay
 - https://exercism.org/tracks/javascript/exercises
 - https://www.thatjsdude.com/interview/js1.html
 - https://www.thatjsdude.com/interview/js2.html
@@ -150,6 +161,30 @@
 - https://youtu.be/P9Ldx1eTlRc?si=YkgwUtCziFym_8Fi
 - https://youtu.be/0hxi-Eazz2Y?si=vlmC8mFg-PQUbm9z
 - https://youtu.be/ngCos392W4w?si=RsKQxPDzkF8rodld
+- https://youtu.be/O9v10jQkm5c?si=dQJixYS_CWTxrqwz
+- https://www.youtube.com/live/_-jcg2egB1A?si=XaUMqbUiyIMGQis6
+- https://youtu.be/KwBuV7YZido?si=FpF7ehgLMIcdtKTV
+- https://youtu.be/4LqGJcPWcbU?si=LaZeo39ZEbZAn_-2
+- https://youtu.be/8_tFfRj4NE0?si=sKfa9TRG7CSfJyHL  (https://www.youtube.com/@rahuulmiishra)
+- https://youtu.be/W-Szy00-g_8?si=DQwj6QRLlR7PvCSQ
+- https://youtu.be/j1laALb8OVM?si=IpGZpLed5dsNhZTR
+- https://youtu.be/e5E8HHEYRNI?si=vxgx2z1dK7AIOjJ0
+- https://youtu.be/lXVr3IlPL1I?si=cSF1pBYJF2EwbHRB
+- https://youtu.be/HRP-5MS9DkQ?si=kFajWD7To54P0Nlm
+- https://youtu.be/9jl1lhFylJs?si=9gWRVwF2Pv8HkAGa
+- https://youtu.be/KMaodk7j4Q8?si=t9U7Qk4HL9JYTWYB
+- https://youtu.be/XcSmNcmMTww?si=gpn_CA31E0NU1Mx9
+- https://youtu.be/pZUTdw6zcck?si=3QZ1_gx7btlYidfB
+- https://youtu.be/kMYBKiapc14?si=astF5qrE0rebwKVj
+- https://youtu.be/yjzIYUwp5uI?si=VSp-FYIvdNpB0SvW
+- https://youtu.be/rivBfgaEyWQ?si=lQf9ZqxwRxXKiXEC
+- https://youtu.be/qxICCY9eNwk?si=0Achq1duqo75nEvW
+- https://youtu.be/lb14uZ3SGLM?si=pUWsCL8XvuPwqduF
+- https://youtu.be/wBtPGnVnA9g?si=BkoTwoxm-FyCo5XJ
+- https://youtu.be/dhOO53JjqUM?si=yKBQpPO5JR7214dI
+- https://youtu.be/-J2lmN-DC3k?si=Ow5g4QH_NNIs2Ysr
+- https://youtu.be/de0_9txuudQ?si=22fdYV89kpX2m4yt
+- https://youtu.be/DjYZk8nrXVY?si=hluZGemukHd2NKWu
 ## NodeJS
 - http://nodetuts.com
 - https://youtu.be/5PjbsLwxQkw?si=dl2QON6Rganfv_P-
@@ -173,6 +208,12 @@
 - https://youtu.be/LhlyIUwAbV8?si=d8gZUrHq_bkHIoRe
 - https://youtu.be/bRZTvCwcp20?si=F4imTCCl69NOIlGn
 - https://docs.webhook.site/index.html
+- Webhooks (https://docs.webhook.site/)
+- Webhook vs Event Destinations (https://eventdestinations.org/)
+- Webhook vs https://www.hook0.com/?pricing.destination=cloud (open source)
+- Webhook vs https://hookdeck.com/
+- Webhook vs https://www.svix.com/
+- https://www.postman.com/
 - https://youtu.be/_cNIsBTg8HA?si=GRHaUxDmShElGRTs
 - https://youtu.be/CqWF2fZJ_p0?si=4yNzla8Pi0OodDPF
 - https://youtu.be/vMFcayVfFvM?si=XdizqIcwJqz_I1uP
@@ -181,6 +222,58 @@
 - https://youtu.be/wppzMH7anFM?si=DK3U6_WM0kF-f2mI
 - https://www.youtube.com/live/OGkOxkSYrUg?si=FcClKRZAvNC1DOqP
 - https://youtu.be/aEWstaeXJSw?si=LX42pCmIpkwowAnM
+- https://youtu.be/9843KMK7neY?si=92AWaE5IpmJN5URw
+- https://youtu.be/fSiVvDq4o1g?si=YdVRtp-p2N5eS3y6
+- https://youtu.be/-CvvtwKXYjE?si=VUgfdArLcHcLm5ga
+- https://youtu.be/kvjIMdU3W5A?si=htSiLUj9WjGyPIDj
+- https://youtu.be/IkoGmbNJolo?si=4d0vuRqoxscjmW3-
+- https://youtu.be/1_EVy3tls0k?si=TvfIv6Tyo7aeHgm9
+- https://youtu.be/OirftZJO-rk?si=n1cEemERyxiYOIY-
+- https://youtu.be/VI29mUA8n9w?si=s9goWSTgCxVxJRjt
+- https://youtu.be/-JE8P2TiJEg?si=1kUkIHrTiTVZAbCx
+- https://youtu.be/FrFwHv0upfY?si=Vw-DiQgz1NHi0qwA
+- https://youtu.be/ol56smloW2Q?si=Xyb5fDjeaMuCK_9W
+- https://youtu.be/neGIM7BpluM?si=z5eOHG9onINtWGmB
+- https://www.youtube.com/live/F-5D-n91hMc?si=ycd4N-BLq3HuOSn5
+- https://youtu.be/DyTmFVE_QJU?si=slb3tJ8E23ErdkZz
+- https://youtu.be/m9yjaTG1-Gg?si=VCuvsu0pfbmacx0C
+- https://youtu.be/vAH4GRWbAQw?si=ssNIUk1vYDUdIahT
+- https://youtu.be/YBnN2JpS4hI?si=JwGf37becSM3Hh7a
+- https://youtu.be/qG-PLm3APSs?si=6SInnltIpz_oRAeW
+- https://youtu.be/ZjBLbXUuyWg?si=lOm3X6yinkjUxSvi (https://www.youtube.com/@abdicodes)
+- https://youtu.be/O37n35XUxj0?si=UBWvOstvizjvS2KU
+- https://youtu.be/ZPwgbvCkRpY?si=YpDxVSSXNQ8ki1wn
+- https://youtu.be/wINRm5arVlM?si=n4GGUbQqJCXUh1De
+- https://youtu.be/RtLAwnYJOyQ?si=ezG5o_a7-Xf_q8Wc
+- https://youtu.be/JQoPuXAf92U?si=ZrWx_utOc4Wo78Iy
+- https://youtu.be/oNlMrpnUSFE?si=JBP3He_ZPfmnxMai
+- https://youtu.be/bRZTvCwcp20?si=DzR-VN0wC44kLJNg
+- https://youtu.be/6QnTNKOJk5A?si=66lCQZSuHxajbkZy
+- https://youtu.be/T_OlUb5YwaU?si=8nUqR6bxDPi5gXdJ
+- https://youtu.be/yopIo3P8GAA?si=jGf1J6co3tT8zhPH
+- https://youtu.be/3gHIN6zqG3c?si=UzEQcc7oEHDOkuE7
+- https://youtu.be/4neYz5oCXos?si=C2BIhU3LhWk2HDCE
+- https://youtu.be/VpKwgmBn06s?si=oDgvdyDexJ1IhBDb
+- https://youtu.be/MiqrArNSxSM?si=UVJWRNpPT0564Axd
+- https://youtu.be/prroOyNIl-U?si=witE9LncDyZtgrYX
+- https://youtu.be/d2gfJ8UVPDo?si=-we7ROKVX3bVbHTm
+- https://youtu.be/RxraE2rylMI?si=3nFJ4oYweqpxwo95
+- https://youtu.be/H9d1BwNA3YU?si=jR5BviYDCvZ9zb6L
+- https://youtu.be/mSeyifowdMQ?si=MPi_W8Kv29DFJCHY
+- https://youtu.be/zwcvXd3kGbw?si=jqMim3DltJShNYDz
+- https://youtu.be/l1fBm4WpHb0?si=c5Kbq6qBpztswr6Y
+- https://youtu.be/OGlLOeWVO-8?si=Lfmn63rP5vVpuKTG
+- https://youtu.be/9yW3T5Ug4qw?si=2aWad9TQ43tz3SqN
+- https://youtu.be/FFrPE0vr4Dw?si=cuAiKxcwlJyVKPg8
+- https://youtu.be/rNbWAy4y9Ow?si=LZtouNKSZewvq8DV
+- https://youtu.be/_4TPM6clQjM?si=2N5aLqmAbZpjjogi
+- https://youtu.be/xckH5s3UuX4?si=UljlzT73xY3Ivv0H
+- https://youtu.be/OCjvhCFFPTw?si=HV-d_dEItIkFJWgV
+- https://youtu.be/LdvduBxZRLs?si=taIz2DdOQAubkoHp
+- https://youtu.be/PuP0jZmRaX8?si=4aaJNFjxcbveNGQD
+- https://youtu.be/6RvlKYgRFYQ?si=upboOwDEF6K1S3y1
+- https://youtu.be/eCRvIPPnYs0?si=Nsu_tX_3j8V3Yc0b
+- https://youtu.be/sQ1zvdS8eU8?si=Ny6Z7PI7U2B-HHoT
 ## MicroServices
 - https://youtu.be/AiUazlrtgyU?si=67Erq0qJHGMyvIaz
 - https://youtu.be/ufTKoAJ2OUo?si=PXVg5YNd_rp58tS1
@@ -229,8 +322,10 @@
 - https://youtu.be/OiwyYb8is0s?si=gfMzAwbQuIWdTa5B
 - https://youtu.be/ppRn9Fp4hXI?si=a4GvXCIyuWKo1GSz
 - https://youtu.be/vNplj9LwQSw?si=XqlUMOg-X44Oq8Aa
+- https://youtu.be/y1KJITitFA8?si=qymWXx-Z4t3zaGNZ
 - https://youtu.be/hmkF77F9TLw?si=nLCegHGyv380gFz6
 - https://youtu.be/TiMuJNKECjY?si=RXcpaYwZsilI4rGw
+- https://youtu.be/tiHKefWOyrY?si=08hHIrp_ik6RH72y
 - https://youtu.be/TiMuJNKECjY?si=evbca32rKZk7lD-O
 - https://youtu.be/DQ3D_mplIgY?si=RQ3iMMT7KitzBS_9
 - https://youtu.be/AAMZWZmsLrA?si=RCK82DXeETy_IKeI
@@ -273,7 +368,25 @@
 - https://youtu.be/ewUw0sUxHI4?si=0BObLNf0jWZ79z3w
 - https://youtu.be/tseqdcFfTUY?si=qC0IWB-ICBXpV1o6
 - https://youtu.be/ENr2QvcHrL4?si=ieFqrNEIdHI-r8wU
+- https://youtu.be/ptUV3arx888?si=--Ck3Z15At-flbin
+- https://youtu.be/1Ei4dy9Qfek?si=zoTK7N4fwtCl-rFc
+- https://www.youtube.com/live/UFAaE6c4Gcc?si=PuFzZ4iHjvkUzMea
+- https://youtu.be/S3FBQYOsAbw?si=jvwr6BZA_4NMSsPU
+- https://youtu.be/T-xCylkjSf8?si=fASuQao2NcNwLXOn
+- https://youtu.be/qvJpsQCH954?si=cgZUDxi8EE5CEwV9
+- https://youtu.be/DgVjEo3OGBI?si=lDl0N5kGLIAl6R4A
+- https://youtu.be/Nw4AZs1kLAs?si=RS_ncuG_1d7wcizP
+- https://youtu.be/ByYyk8eMG6c?si=HUQ9CaOghO8XuQGv
+- https://youtu.be/CnailTcJV_U?si=qqBQSxqTJ_kN5H2L
+- https://youtu.be/hmkF77F9TLw?si=hUvmQR_CIj_hSQOm
+- https://youtu.be/L2L_qe-FnUY?si=THySwLWTFsDpADaO
+- https://www.youtube.com/live/A4P9gaqBPRU?si=nlQoiTOEAilsj96k
+- https://youtu.be/tuJqH3AV0e8?si=3n1e04G30TVt3QxF
+- https://youtu.be/1dAnMkF4Mc4?si=jELeSIh3E0hHQLe4
+- https://youtu.be/w3iXACKB_wQ?si=TrJlNSPvt4fDRfbH
+- https://youtu.be/I3Mlt7GCeIU?si=YUCKa4HWc2-cmMFH
 ## RabbitMQ
+- https://youtu.be/vckfyxCb-GE?si=wL679UDsHw-1wnUG
 - https://youtu.be/oUJbuFMyBDk?si=Fx8Lm7Ez97ql6VR_
 - https://youtu.be/ul2EAP8wIPc?si=UEj1HWtsmr5U-kJU
 - https://youtu.be/ZivT0n4qboE?si=hZCcCR0DSH0RZ553
@@ -302,6 +415,12 @@
 - https://youtu.be/fawAouA0kzA?si=cGKmAxv8tSofbUQb
 - https://youtu.be/ppRn9Fp4hXI?si=vnZG8MlhE4VW0PT5
 - https://youtu.be/dlXCodLxhag?si=as_1xVu6wfPjIG7Y
+- https://youtu.be/gesxvFh0U84?si=aSBHHi1M2-bTTtCW
+- https://youtu.be/LHYOBHR2Ms4?si=GfR4dGh9YYH_sKxP
+- https://youtu.be/Zc2mQSQXoS4?si=kVfxxN_07y5mC-Ht
+- https://youtu.be/igaVS0S1hA4?si=0cBltgvo7rpwekAG
+- https://youtu.be/bfVddTJNiAw?si=1s_vD5PSVkJgvbyJ
+- https://youtu.be/ZivT0n4qboE?si=vifiorm0zvTDJ9Ld
 ## Pino
 - https://getpino.io/#/
 ## Bash
@@ -318,6 +437,7 @@
 - https://www.youtube.com/playlist?list=PLqmwiCS_fyTW7xxwkWbEz40dGKb_za26E
 - https://www.youtube.com/playlist?list=PLECOetiSS4M1RxI-Z2-rtxvL4aMgOZVf1
 - https://www.youtube.com/playlist?list=PLBr8obKbpkYtWIluvSsDCNphB0CGqV0lD
+- https://www.youtube.com/playlist?list=PLYLI_nYYAA7LVGGg8Z7OvDOgPYydU4oi3
 - https://youtu.be/idW-an99TAM?si=2_Rbcx_4mPvwYxdp
 - https://youtu.be/ROjZy1WbCIA?si=QH9s1bG0rL88kTsc
 - https://youtu.be/_tCY-c-sPZc?si=Q48nHR4cQnasovdm
@@ -326,6 +446,11 @@
 - https://youtu.be/D9S3P721UV0?si=6YAFCzhe6-YDfl0K
 - https://youtu.be/PNhq_4d-5ek?si=70CN-WqQHLYpLB26
 - https://youtu.be/tK9Oc6AEnR4?si=FVZVlg8SBbazW7uv
+- https://youtu.be/42iQKuQodW4?si=cWpIQzaxhNVTk_6p
+- https://youtu.be/HbgzrKJvDRw?si=okR2JND6N6R5SIR8
+- https://youtu.be/H5AErKbqYmQ?si=sNWoBzbHaSHDxtS9
+- https://youtu.be/ieV4LI6Ntf4?si=sxZ_5SfNcRryUf9D
+- https://youtu.be/n_KVqRscUzs?si=BbSZcjxi9kJMoX1K
 ## hapi
 - https://www.youtube.com/playlist?list=PLL34mf651faNJ6Wm8elGZl5mr9Zf14dWH
 - https://www.youtube.com/playlist?list=PLL34mf651faPPBpD7oouaiL5PFWPr2H28
@@ -334,9 +459,16 @@
 - https://www.youtube.com/playlist?list=PLbGui_ZYuhiiauKVhn2qD5SH8yZBrpbJ4
 - https://youtu.be/eR66m7TaV5A?si=6gyWOUUGObL2dLQC
 ## MolecularJS
+- https://www.youtube.com/playlist?list=PL_kVwOdi-YKSicNUsAXWEmoSPyyP08kdV
+- https://www.youtube.com/playlist?list=PLoUvYJkGKj4D4Q1dU15RvSpKM4iTg9O56
+- https://youtu.be/fEDT4lWWe9g?si=2qp7cbXEovDuEnUO
 - https://youtu.be/RojKJnF_WWQ?si=_FGDXhtb_1MBAuBp
 - https://youtu.be/t4YR6MWrugw?si=BGbgSONsXiIqz0uq
 - https://youtu.be/NWLwGtkBrkQ?si=OzdgaWSK1p4vs5yF
+- https://youtu.be/G4Ag_f-uero?si=9MvZpSBdSa9ZU8eb
+- https://youtu.be/ppRn9Fp4hXI?si=3DJlCHhg_phnpOk9
+- https://youtu.be/zILVISG8qh0?si=TwZOXpAsh6ruAzFO
+- https://youtu.be/fEDT4lWWe9g?si=XfNw25tYNJK4BIqU
 ## ResolveJS
 - https://youtu.be/hrmeeCEqzo8?si=5xJg32FoOy80GL09
 - https://youtu.be/85YbMEb1qkQ?si=hnbgROgI5bK15dBc
@@ -354,6 +486,9 @@
 - https://youtu.be/hHzjDfCbTq4?si=j-VApaQARhWNTQ5q
 - https://youtu.be/1yjAUY1ifUg?si=eUnI9YQJVn6sTL0p
 - https://youtu.be/wcY7bvyE4q4?si=CHWOI5g1PRCUX-8h
+- https://youtu.be/wOLs7x4l-Ys?si=BdPH5lqE-Pdujwzd
+- https://youtu.be/Y92WWaZJl24?si=fCjeQW7C01aacI3_
+- https://youtu.be/mML6GiOAM1w?si=qzCFFlBN4glGLGvZ
 ## PM2
 - https://youtu.be/UaAz27D0Lj4?si=fAf7aOPiybRtt9GF
 - https://youtu.be/gsPPaZ064yI?si=vkLMzoEKIqm-6oh1
@@ -371,6 +506,9 @@
 - https://www.freecodecamp.org/news/git-internals-objects-branches-create-repo/
 - Complete Git and GitHub Tutorial https://youtube.com/playlist?list=PLinedj3B30sCoLe5k0FWtFd-JykESyu6h&si=fAQ-V4iEsNsDsEIV
 - Mastering Git Commands https://youtube.com/playlist?list=PLsz00TDipIfdGZRWNvOdeZfbka9HfpYBg&si=PNy-7YcL4tHHFrbG
+- https://www.youtube.com/@philomatics
+- https://www.youtube.com/@cameronmcnz
+- https://www.youtube.com/@BriefVid
 - https://www.youtube.com/playlist?list=PLp3qkYQbU5kexG03Z79eU7SpoWtTv7Ww3
 - https://www.youtube.com/playlist?list=PLinedj3B30sCoLe5k0FWtFd-JykESyu6h
 - https://www.youtube.com/playlist?list=PLL34mf651faO4IjVNu8LRoN6QOxYM6VlZ
@@ -397,16 +535,21 @@
 - https://www.youtube.com/playlist?list=PLetPf_GrPjYlPe3KF8OW_0Gp6wRNgWQ13
 - https://www.youtube.com/playlist?list=PLE0EioLH23IIsG4PvN-_eyN14SLChpDlh
 - https://www.youtube.com/playlist?list=PL6W8uoQQ2c60dI3V0WrM2XzlTPsvsZCSa
+- https://www.youtube.com/playlist?list=PLYLI_nYYAA7L2gbT91TtWUGLQT_hG-A4L
+- https://www.youtube.com/playlist?list=PLI7v1KGR3HsAXVTaT2PbZmk-xvq8fSfhD
+- https://www.youtube.com/playlist?list=PL8CiOz301vHtt7S3U5Snd_bTOKxVKYR-G
 - https://youtu.be/89R75T9h5Xk?si=mhime7BRuc2Fl61n
 - https://youtu.be/tz82ola3oy0?si=T8gnQ6TkMXuKH-z7
 - https://youtu.be/YbX_5FTOgL8?si=QNbh3BkdExawaI9p
 - https://youtu.be/SEc5PFVSfms?si=gIg1Qw93i-IPmmHh
 - https://youtu.be/SJPJBQWqlrQ?si=pE2ANWptU90ayWYL
+- https://youtu.be/g0NBVOiPFWA?si=G9zmai2oaSAB0diZ
 - https://youtu.be/2qSSfOQuxvQ?si=QfFcnaqdy96itcgK
 - https://youtu.be/jp83Gbn4Wq8?si=1sBYD7y5yyKN6KKa
 - https://youtu.be/-DTpsDjYKCY?si=73tBpN3MnO_d4xdF
 - https://youtu.be/e2IbNHi4uCI?si=cBNZpSVLTO3NPUmN
 - https://youtu.be/Md44rcw13k4?si=GQPZq34awDie4b7h
+- https://youtu.be/ZpBoUntYzoM?si=lQlSoIL6IOPGsZXo
 - https://youtu.be/lX9hsdsAeTk?si=0KvKmquuS6XE9wq7
 - https://youtu.be/fWMKue-WBok?si=YzohGBibzVPAzcz5
 - https://youtu.be/4_p1OdLeDLE?si=oRmO6V9YpAh4TsbE
@@ -417,6 +560,7 @@
 - https://youtu.be/SR5nL_LB-XI?si=weap8z_R_N1V2JMi
 - https://youtu.be/bsfUR50Tf5I?si=VVxJwcGMCSMne65i
 - https://youtu.be/mhZQRBp8dXE?si=SUrnw1Hi0EHayPq6
+- https://youtu.be/Gz3kv9mSNDo?si=JXWKc0zxhFfyhcY_
 - https://youtu.be/rA15X9ZWg6g?si=j8jkgVkmSEiMidsP
 - https://youtu.be/Qy_WiWMiCks?si=Tf_COLeI2CcY7WLu
 - https://youtu.be/3VFsitGUB3s?si=dhaR8a5_Ke74bnwb
@@ -534,6 +678,97 @@
 - https://youtu.be/K6Q31YkorUE?si=zeP5mg9-2JkUKLg9
 - https://youtu.be/rH3zE7VlIMs?si=6YdNH1L23-nrvTpN
 - https://youtu.be/24bJBqjjvBs?si=Q_EDuYnuFVqz0SnP
+- https://youtu.be/pmmEoO2eh8k?si=Rdc_7PybFA7rJHC6
+- https://youtu.be/lG90LZotrpo?si=XF6WEdri3NAvqgYa
+- https://youtu.be/S7XpTAnSDL4?si=61cHayWkP5o6are6
+- https://youtu.be/uci71wZ2M-E?si=t_a69qsxWV1t4hpE
+- https://youtu.be/l2yrJtwoC_E?si=MW4gq4EnISE1ACgD
+- https://youtu.be/7B_km8LrkJw?si=5INB64HlXAhUcYAG
+- https://youtu.be/tRZGeaHPoaw?si=cOQg3tAawf4LMjoI
+- https://youtu.be/cedHz0xyhUI?si=BrbzN0c8AoDZdoH5
+- https://youtu.be/0SJCYPsef54?si=08ndPg0tLNmzxymQ
+- https://youtu.be/dpahpzY5Lyk?si=3CSUbSyAIpoeEGTl
+- https://youtu.be/lz5OuKzvadQ?si=mRQsMRor8zvEJ14C
+- https://youtu.be/MIVW0sijSjY?si=Ejtsmg3zIaYYv9rO
+- https://youtu.be/j7YDbrS9I48?si=WeJ926p959NzDcSl
+- https://youtu.be/DDVME1NaW9s?si=0fLZ0xOSPK8FQVmh
+- https://youtu.be/tukOm3Afd8s?si=J0WZ5Fx9VFxwljRn
+- https://youtu.be/mSfq1SoMocg?si=hvLfrKOr3AK_GzD4
+- https://youtu.be/qk3wcYIYd54?si=Kz98_5PhLVlsN3NR
+- https://youtu.be/kBIMGOxqqnk?si=Iu_U_CzWiLPQOMbK
+- https://youtu.be/Y_lIomTsSjc?si=CtqR2_wOJDrnoEjl
+- https://youtu.be/HosPml1qkrg?si=-FcmQG1ENp9eYlTk
+- https://youtu.be/Ze0xrM5L2-o?si=Pv8rfobHhJoLyR1n
+- https://youtu.be/H7RFt0Pxxp8?si=_XrKi_7zCKbqdXeC
+- https://youtu.be/FyAAIHHClqI?si=_YcIPGcrb3b53tfg
+- https://youtu.be/Q1kHG842HoI?si=S6Ol0JPaB7GmQvtm
+- https://youtu.be/hrTQipWp6co?si=0t7sM74efrzOy9R5
+- https://youtu.be/1ibmWyt8hfw?si=aLsGCywNaDnCHKih
+- https://youtu.be/RwvTrSm7zEY?si=T46ExfXwtoGnwt-y
+- https://youtu.be/uwyP5SNlQAU?si=kWg71e7p7TMEjqV9
+- https://youtu.be/Bg8tiOLZw4A?si=5ANjgknnCzXyvc-Y
+- https://youtu.be/Lj_jAFwofLs?si=4lQQUhy_IZvpxerN
+- https://youtu.be/Y1oFXujkZJI?si=2hYbweoEk5OJ-VbX
+- https://youtu.be/0chZFIZLR_0?si=KjVvmPro2AD13Lju
+- https://youtu.be/geCShzhiz0k?si=dt-XF2MTmsgsDNR1
+- https://youtu.be/xRjKqrHIefY?si=FMxlxp1AZKU2IqJ0
+- https://youtu.be/1h2rpoi5YeE?si=ir5zbqRza7j2SXGA
+- https://youtu.be/8ezj3Rh72Xw?si=p5NHy8ITyvtP9D_I
+- https://youtu.be/CSH2NxSPPug?si=gMlSM_Mjcf3UJvXO
+- https://youtu.be/ziQlAo8H5w8?si=LmVMcmCv6v0gnUlU
+- https://youtu.be/deYOdG87pTA?si=mlLdr_E0QtRbE-J8
+- https://youtu.be/hZS96dwKvt0?si=dYoHF4FuEvsSyRfk
+- https://youtu.be/zOnwgxiC0OA?si=E_6Zjp6HWSCQ-wRg
+- https://youtu.be/uR6G2v_WsRA?si=A8J9nYciYAh1dVWz
+- https://youtu.be/T13gDBXarj0?si=8GkbxORFDnCtHfkZ
+- https://youtu.be/e2IbNHi4uCI?si=8z30o8PwmIciyHmQ
+- https://youtu.be/8JJ101D3knE?si=NRdAw8jp6Q7lykrF
+- https://youtu.be/f1wnYdLEpgI?si=Xe6Kj8yqHGABRkgG
+- https://youtu.be/rFRtsiQEJZw?si=528xCBEiddl5vA0m
+- https://youtu.be/qsTthZi23VE?si=43ivr2CKr2XuCUhF
+- https://youtu.be/ecK3EnyGD8o?si=XzuJJyLkIFrShF3c
+- https://youtu.be/lX9hsdsAeTk?si=6-kuD5QEQMgIdK5T
+- https://youtu.be/Mdo7hvlUJ-U?si=n-vyRxrQbb8JQ3Sj
+- https://youtu.be/SAMESCMwMoo?si=dGut9sbwNP1WvjKX
+- https://youtu.be/TL5ytIlkKuU?si=BFG7pjNb7iO2OSEf
+- https://youtu.be/vwj89i2FmG0?si=G2jneVUF7qvuY0-0
+- https://youtu.be/ykZbBD-CmP8?si=Gmz7b-SHUn8mXTL_
+- https://youtu.be/ElRzTuYln0M?si=s_YlSd8jUpbRbqET
+- https://youtu.be/KmagW60Li-o?si=txZvDxH1C0Tg1tMY
+- https://youtu.be/Gg4bLk8cGNo?si=x9iKz1ZyIqci9DJe
+- https://youtu.be/RxHJdapz2p0?si=npxknIaWmexreeg4
+- https://youtu.be/BSLzA8oCT7g?si=Lc6aHwE81jnLsN4N
+- https://youtu.be/3fUbBnN_H2c?si=oBdqK5E8bh2kv5yM
+- https://youtu.be/Sqsz1-o7nXk?si=5IYQnfpkE8Y3wqhk
+- https://youtu.be/i657Bg_HAWI?si=ZtGIQMHFrH6DOt7y
+- https://youtu.be/OXtdxHTh2oY?si=-6iMsadYmoY5pVln
+- https://youtu.be/p4Cke4D4d1M?si=TqV0tRvg6aOoDWRA
+- https://youtu.be/BzjgJ7vvXVM?si=Eb25Vg7c74SlMUrO
+- https://youtu.be/7Mh259hfxJg?si=mq4Wd2nqSLhSDAyp
+- https://youtu.be/aUeNbpSkY8k?si=OQNP4V1d9tMtQ-aU
+- https://youtu.be/hrTQipWp6co?si=qNHlezqsn5T8eVqH
+- https://youtu.be/kMvLn8WcAII?si=deB0R846yAGUs2up
+- https://youtu.be/NK2BrGpA9wI?si=mSAjE_t1gbnHNrMv
+- https://youtu.be/aolI_Rz0ZqY?si=d23zjmX64rof6oE2
+- https://youtu.be/e6wE0VGAgiw?si=9SQTabVaYJ-EEvUf
+- https://youtu.be/FdZecVxzJbk?si=LH_56s4ZUPGpJ8qr
+- https://youtu.be/Q1kHG842HoI?si=5wzVVuENzqxd_RG9
+- https://youtu.be/7h6_aZZ_iNg?si=0SLRWtTkhmIY7TS-
+- https://youtu.be/7h6_aZZ_iNg?si=3Ju5MqN9gfnQlnfA
+- https://youtu.be/gW6dFpTMk8s?si=5apew7w5LD4kOiOM
+- https://youtu.be/1SXpE08hvGs?si=YKTzd1K9Lwuqi2w1
+- https://youtu.be/4aIazhclURE?si=Wa6mUF0YObkYlpnb
+- https://youtu.be/BWqpTpo1kfw?si=_XxEbV4hwm5exT55
+- https://youtu.be/1XgFWN4TEpc?si=iX-zKQJGvFo7QlIJ
+- https://youtu.be/HzBoMI7yqsU?si=mnaivgmDZ5T48Mg2
+- https://youtu.be/e9lnsKot_SQ?si=jnMSgiDggaDDXkgZ
+- https://youtu.be/mJ-qvsxPHpY?si=qz5pYfbcwboeJGKw
+- https://youtu.be/capyZ2D9Yz0?si=7lAjWa9f1PI50Z9Z
+- https://youtu.be/DVRQoVRzMIY?si=PehEX_GvEzacOLgC
+- https://www.youtube.com/live/jIvw1wEDIl4?si=BDxrDf3mZQ-6mCZD
+- https://youtu.be/2uEqYw-N8uE?si=X-AkPfbcdpthehJw
+- https://youtu.be/aMuhB15mPKY?si=jsrrWAMjdlvVfkoV
+- https://youtu.be/Ez8F0nW6S-w?si=KJr6-UKqEuO2CzwW
 ## Traefik
 - Official Website
 - Expose Your Docker Containers With Traefik https://youtu.be/PzbdEZ4DQTg?si=dbUFv_jp0jNeqP0J
@@ -557,6 +792,27 @@
 ## Jest
 - https://www.youtube.com/playlist?list=PL8p2I9GklV467ShxKSeYyTg_rUT1aduvM
 - https://www.youtube.com/playlist?list=PL285LgYq_FoLtmCURu25fvE4aHGb7-7vp
+- https://youtu.be/z6gOPonp2t0?si=Waz-2JPBBWRomvD7
+- https://youtu.be/3kzHmaeozDI?si=CCyxJniXN4tAwRxX
+- https://youtu.be/GHVvrYD4VRE?si=y2Z5l_mSxweWaiV5
+- https://youtu.be/M44umyYPiuo?si=Nh96voEkI0neQgGH
+- https://youtu.be/r5L1XRZaCR0?si=WsMQqGFJif8J3EXd
+- https://youtu.be/ESiERHHIx54?si=YmyUzKpz0nRt1SSi
+- https://youtu.be/oRAA4d19-Og?si=meerme-NNc1lvjUF
+- https://youtu.be/2YfIB4gia60?si=7jJ1o8YvAoytTc6I
+- https://youtu.be/zuKbR4Q428o?si=K5vQqgFQJcxNNgqk
+- https://youtu.be/IPiUDhwnZxA?si=lRMDKVjbAM2w1wtF
+- https://youtu.be/IPX0OswHoxg?si=61dblG_N2K6ZuJoo
+- https://youtu.be/u5cLK1UrFyQ?si=opHuwtNwLQ22BXqX
+- https://youtu.be/-PuUX9EFGGA?si=dQLdGC3kLSFvWyMh
+- https://youtu.be/Jv2uxzhPFl4?si=WreSprYMy_9jYVrB
+- https://youtu.be/FKnzS_icp20?si=GfjnZdsTo-xT04c3
+- https://youtu.be/tKIuAV2dEl4?si=4W4DeIaVW2fDQV4n
+- https://youtu.be/4OGm-VhiA3M?si=tWupMo0Lz0FTwNW3
+- https://youtu.be/FkuLFKZ2vC4?si=FVp-hc__0_buuZOO
+- https://youtu.be/iy7ItZ8LBzQ?si=Nh80hV6hdB76KXb9
+- https://youtu.be/-MX6nXpHFWM?si=f1PRHjsYnUBYGt1g
+- https://youtu.be/qcCxhLQUnK0?si=FxkrqJgwZaIJF0V5
 ## Pulsar
 - https://www.youtube.com/playlist?list=PL4IHPd27PX5CLmC4OZvcOo_w247ei3Nom
 - https://www.youtube.com/playlist?list=PLLz6Bi1mIXhEwMukSl5JVPjJNZ_wfiN5C
@@ -572,12 +828,23 @@
 - https://youtu.be/_SSFM7FTI8A?si=m3WtVqYw8ZWiwCQo
 - https://youtu.be/hNDjd9I_VGA?si=fSiBUq2DnhFfbQ71
 - https://youtu.be/DU8o-OTeoCc?si=LZUnCKgNaa-mc4g2
+- https://www.youtube.com/live/x9l_6E4jIQY?si=KDw2TAPgRSPoiMxN
+- https://youtu.be/lB5i29GZei8?si=TOPt4GSkIr80GZke
+- https://youtu.be/GqAcTrqKcrY?si=qt8DqDarsfYmndsr
+- https://youtu.be/wNnTNTVdglM?si=3GbvReMInWNi9Oo0
+- https://youtu.be/JM1-WDihR8M?si=XHTUJT3f-h43fWbF
+- https://youtu.be/K-kp3veiyu0?si=gGfnHUMIiuzF0nIU
+- https://youtu.be/N9TDwaDfCW0?si=f-W-8iD3H4FyDPxJ
 ## Flink
 - https://www.youtube.com/playlist?list=PL9ooVrP1hQOHWkoxsFSXGLdKvEqHnye7X
 - https://youtu.be/xu3A_7DcRgQ?si=F75jKI2-be4Gzah2
 - https://youtu.be/2ARIjulLE9M?si=92HpgzFOjB9Qix0t
+- https://youtu.be/_8fHV5woDtQ?si=oLGGHX8-h-6KSTnS
+- https://youtu.be/FoypLT2W91c?si=EUE5zT_SdBgzlh9X
+- https://youtu.be/9D7-BZnPiTY?si=iLuL8-8JzdIePa4s
 ## docker
 - https://youtu.be/EQsYN-ALJZU?si=Mm0od2XliUcmKujS
+- https://youtu.be/t779DVjCKCs?si=FvUuNZzBj8zxab9i
 - https://docs.docker.com/
 --https://j471n.in/blogs
 - Docker Series https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3
@@ -669,6 +936,58 @@
 - https://youtu.be/WQLVK0PnZQE?si=CUYf7vumFrPTm3G7
 - https://youtu.be/9bSbNNH4Nqw?si=nyg8D5KUWGNgnh4M
 - https://youtu.be/ifmnAcRyhxU?si=xdTqa8DDaMNp3Quv
+- https://youtu.be/aZbJ_sGjEns?si=iOAFUucAHkAQS7y3
+- https://youtu.be/b0HMimUb4f0?si=3q__fEi1PfuO6bXF
+- https://youtu.be/zxAmqY63eJE?si=x_U8fbna6u51hMes
+- https://youtu.be/oXb5MMxUPHE?si=W_kASRJqn8frDGsa
+- https://youtu.be/YYfefejSgWY?si=3EQdQHbVH_DeUAQo
+- https://youtu.be/wm7Fy3ZTX_8?si=2UMHLHxfURGP6zcV
+- https://youtu.be/Ws68qHWIFMM?si=mGQ6m0ixBfE4EFP-
+- https://youtu.be/nrQzQfPV4ec?si=TPi4RvEFaJrVy0YX
+- https://youtu.be/rr9cI4u1_88?si=eOSodYcIYZHfMHnB
+- https://youtu.be/m3To85qMOuA?si=KzCJ6HJXxRXLkRmb
+- https://youtu.be/aghIj6A9dxM?si=hYk4hwySW24Sc8Ab
+- https://youtu.be/ZBtcyVIaXMQ?si=DqL2jPqdDT3JqnNs
+- https://youtu.be/E805XcbTzgY?si=JiYQ0749JT9o2F4X
+- https://youtu.be/XTfIVffnapo?si=fmnZD4-QgygJnMez
+- https://youtu.be/eKAQiYu4NyI?si=m4-ag5FfaNY39nv1
+- https://youtu.be/ephiayS50jM?si=QYbCQopyr9st6qMt
+- https://youtu.be/ad4et56YK-w?si=327IRvf3bQhV8M_N
+- https://youtu.be/p9L7YFqHGk4?si=Keac1rooHee2n6ZE
+- https://youtu.be/S8ZiRwuKbpY?si=-xdo51xXL-_ov5-o
+- https://youtu.be/cw34KMPSt4k?si=H75lwH6S65VXLHUM
+- https://youtu.be/bKFMS5C4CG0?si=BkrUJB7nfPcSHcdv
+- https://youtu.be/HEklvsr7q54?si=4ZOS_zlQjzcYbxQR
+- https://youtu.be/zkMRWDQV4Tg?si=Pa5QATEkAPjHVpd_
+- https://youtu.be/3X32yau2b5k?si=Vnrhoz5ipm-ljMei
+- https://youtu.be/SDa3v4Quj7Y?si=W-HSD_8IE6Z64b-3
+- https://youtu.be/0SS6bJczlgs?si=xMhUKFPkM25unmHv
+- https://youtu.be/9zUHg7xjIqQ?si=B01Ww-Xst5SF5DNd
+- https://youtu.be/MpFphzNPOcc?si=z2EdoZ4WVc1oVxx9
+- https://youtu.be/Yr6-2ddhLVo?si=bD1-0D4MGSVFqj08
+- https://youtu.be/zJD7QYQtiKc?si=5XiHxfzULpNDOD7n
+- https://youtu.be/17Bl31rlnRM?si=ovQS9NUSlUVOEH2c
+- https://youtu.be/RqTEHSBrYFw?si=VmyfuB0WfHU24K2u
+- https://youtu.be/p28piYY_wv8?si=yIXQqPUA6bNij_0g
+- https://youtu.be/OU6xOM0SE4o?si=7PYQHbc14jmEXQEK
+- https://youtu.be/3c-iBn73dDE?si=vAV92pNS1vWJDxsY
+- https://youtu.be/S8f5B8-BtzU?si=B-TJ67HCu-6FWrnR
+- https://youtu.be/eYzIPGHxnQo?si=hAcXN8aNp1w7loL5
+- https://youtu.be/DM65_JyGxCo?si=tYBgZPKfrs9Zx6la
+- https://youtu.be/wPejXqqzpBI?si=UBRMihHzHn6wOEZq
+- https://youtu.be/kTp5xUtcalw?si=YhbeI_CrMQ-SrvIr
+- https://youtu.be/DX1T-PKHKhg?si=nITgNTDhzeJLeIny
+- https://youtu.be/qH4ZKfwbO8w?si=yupQf_EitmP5Tc_-
+- https://youtu.be/LNL0h66FXu0?si=5Jcwq-M1hhW7sQ-Q
+- https://youtu.be/vQmk9moF8vw?si=p7bmkthUVjEv1qf5
+- https://youtu.be/GFgJkfScVNU?si=D3Tyw_89pn1eZwLO
+- https://youtu.be/tdxfbxe6r4I?si=TczVWwVbujmx3nZ6
+- https://youtu.be/fBRgw5dyBd4?si=Vds0OKkQqf1vNsag
+- https://youtu.be/zJ6WbK9zFpI?si=DqX7i-bHxEbFKNDa
+- https://youtu.be/BTXfR76WmCw?si=vvmdTvThPvZgY4On
+- https://youtu.be/rIrNIzy6U_g?si=ryuw9d25YIYyVxKc
+- https://youtu.be/HG6yIjZapSA?si=Mmcf2glNWZBrMw1u
+- https://youtu.be/SXwC9fSwct8?si=YKNpv0lyDjT1QcEk
 ## kubernetes
 - https://youtu.be/JD2es72cU6A?si=LGg88_Q9u3W2S2ny
 - https://youtu.be/2vMEQ5zs1ko?si=1lW5dNefZwQxtQwv
@@ -733,6 +1052,14 @@
 - https://youtu.be/UsVtffyShuA?si=y8q9CaHIj9qqFvM1
 - https://youtu.be/W04brGNgxN4?si=ADtAXY5NIHMoBYhL
 - https://youtu.be/mglql-ApISw?si=sch211aiBeCRTXAJ
+- https://youtu.be/XuSQU5Grv1g?si=oVBizhL2PJThqwRn
+- https://youtu.be/zodW7t3NnFs?si=GVPov_K30K7zHhaU
+- https://youtu.be/s0kBqGpThp0?si=qDICTEYzJhaXQkZn
+- https://youtu.be/huiQd2QojXY?si=zQ-XMMJvso2Nf7se
+- https://youtu.be/IA070wtt2iU?si=eBqr0KUv_fspau4z
+- https://youtu.be/toLAU_QPF6o?si=QVDVKif9UufwHYDD
+- https://youtu.be/s_o8dwzRlu4?si=mglRunvrd3SFbJeC
+- https://youtu.be/bhBSlnQcq2k?si=wcu6Kb20HuWzFeRI
 ## Redis
 - https://redis.io/docs/
 - https://redis.io/docs/latest/develop/
@@ -756,6 +1083,13 @@
 - https://youtu.be/IJkYipYNEtI?si=cLuQL-SFNL2EcS9B
 - https://youtu.be/DACToq_WMQ8?si=S3YPg0Dcz7o-UCrw
 - https://youtu.be/Vx2zPMPvmug?si=iLaNdlmwSEXJCeX_
+- https://youtu.be/uptxcaf2s_4?si=DgTfemLkZeOFqgpA
+- https://youtu.be/QqTB97aMa4c?si=WHQxXoU3r_s2CwVo
+- https://www.youtube.com/live/mmeO2VoVLuM?si=2reqIxJvKjZWXIDG
+- https://youtu.be/b7DJEAJZsG0?si=RS_YkO_0lEEeDRf_
+- https://youtu.be/WQ61RL1GpEE?si=5a_fkAvAUoqDxALy
+- https://youtu.be/-Ai7GDa2OgE?si=ndZZtV3yNtj_8jgA
+- https://youtu.be/IJkYipYNEtI?si=E7NTMja6QaJBAub5
 ## PostgreSQL
 - https://www.youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs
 ## Jaeger
@@ -784,347 +1118,64 @@
 - https://youtu.be/lx-6uBdkZtY?si=dbf8skIAbt-P4K30
 - https://youtu.be/a4HBKEda_F8?si=dtuM0CRU7cobfhCF
 - https://youtu.be/33wm_uEYBOo?si=njPCBlAxcB8VUmUD
+- https://www.youtube.com/live/J6FIyhXRGXg?si=4CY9GV1E70-HeIWt
+- https://youtu.be/kjN7mV5POXc?si=vb6aUtKOUvaz62Y2
+- https://youtu.be/5s9pR9UUtAU?si=wi9JYWyS3oRfpP-m
+- https://youtu.be/gWXkAhnYFYw?si=emTcPUnxwWd7_ydY
+- https://youtu.be/83YC4zG48XY?si=ig0KG4XtILxr4GFf
+- https://youtu.be/cg_Ue0odxmI?si=9Ul1tcqn8__p4KBv
+- https://youtu.be/VpAH2IoMzKw?si=poe3g6scBt7abbOY
+## Core, Process vs Threads
+- https://youtu.be/A8XX_thQ99o?si=h_9Olo2Pof16kQLN
+- https://youtu.be/0XIQQxtYBOU?si=gqQJhRifyGM_mhyh
+- https://youtu.be/USlroJToye0?si=rbO8Ngvq8CV8dmC6
+- https://youtu.be/hwTYDQ0zZOw?si=s3zIjAAIWfllTAjT
+- https://youtu.be/ImzYxO3Lsvc?si=TX57qQTYM_2UN6xR
+- https://youtu.be/wrVKnQvDJy0?si=1_TBAb2HJi7lPQXE
+- https://youtu.be/fvNTJang7l4?si=S1RSozJsPePFK2o4
+- https://www.youtube.com/live/F3aDUpP9dzA?si=HDPIKnj5gmGNNQVm
+- https://youtu.be/FJQyv26tFZ8?si=K0lDggMMa56dFioO
+- https://youtu.be/G5b1Zd367sA?si=VMDcq9uuthCCYAdG
+- https://youtu.be/o4EX87_Jezk?si=7tiroGNxvK1h9lfM
+- https://youtu.be/5r8Byu2KRuU?si=fO-yUoTToXLn3NXO
+- https://youtu.be/DeLl_j_oQZc?si=CLdeDiHMk8_TcNx7
+- https://youtu.be/olhCzhOyj_o?si=o68-22-RCIz7fUDF
+- https://youtu.be/M1jxLQu40qo?si=FamAr_rZ8nAlP4tz
+- https://youtu.be/yjUCKSKCQxg?si=RoDua9tqF19Hh_aD
+- https://youtu.be/J1f5b4vcxCQ?si=FD9aC_zT4d4bg3I3
+- https://youtu.be/P7g--FJdUXE?si=0grGA6Y0snPpGGht
+- https://youtu.be/tYZd8hserms?si=p6uJU7jF96XWjDXJ
+- https://youtu.be/Xv9ZxXM2LWM?si=KFxeNPRbY4jt21C1
+- https://youtu.be/l7Gu_XrwtZE?si=ylTHIRZmStUGEy6Q
+- https://youtu.be/EPv9-cHEmQw?si=8g3stn37TQcgNUJr
+- https://youtu.be/vFzP2SaMyA0?si=SYZXiEksdFDvB5QO
+- https://youtu.be/U0LGQjxyuw8?si=5oirGBmEId42P4yr
+- https://youtu.be/zmdWWujU8M4?si=tetMbuPV8H8eyPcE
+- https://youtu.be/K1a2Bk8NrYQ?si=OAYhhbAzV3rByC9h
+- https://youtu.be/52wnTsBI_HE?si=suAZhR4UnOxKsV0v
+- https://youtu.be/FYvl3MzGt-U?si=n7qRM9Wca8EZ4A8f
+- https://youtu.be/tlg4KtkQE9A?si=xmRgpsLCN1QBN9hU
+- https://youtu.be/Nw1mrIshK00?si=dBV2C8AUY9t_OXsy
+- https://youtu.be/Y6T9usavXgY?si=gDlc_issJotbeSPT
+- https://youtu.be/Tcdp3RVcnOI?si=wX9qwpyAJYc4UHSO
+- https://youtu.be/1myWEH8IGt4?si=wgrd966s9pFld2Cy
+- https://youtu.be/Q_qE_pNC0L4?si=LD-5cTEm1CWJ6V2j
+- https://youtu.be/DnsbU0HVLg0?si=k3njWETIN7N724h1
+- https://youtu.be/0vFgKr5bjWI?si=yyx18qXVnnPpk2vf
+- https://youtu.be/brdp6d6KDso?si=H5nYHnYgyxfy-Usc
+- https://youtu.be/EjIjvwLt76Y?si=J_Xq5vmFHvn7hkcy
+- https://youtu.be/exbKr6fnoUw?si=uHAkllyGvfn0HnrV
+- https://youtu.be/Dhf-DYO1K78?si=fPoYkoAWx6MOex3n
+- https://youtu.be/-d0NGzVlZf4?si=9ndko_c4CGMv0KBF
+- https://youtu.be/grriYn6v76g?si=707ZDkmTNd4oVk1W
+- https://youtu.be/hN2Yrf4tqTY?si=Wr6PCUUtBUBwDJ7Q
+- https://youtu.be/-ukFWIjpU5o?si=mGJ2ryZ3QkGPobJe
 ## Channels (now)
 - https://www.youtube.com/@AntonPutra
 - https://www.youtube.com/@nebulit
 - https://www.youtube.com/@codeforinterview
-## Channels (now, on free time)
 - https://www.youtube.com/@Alta3Research
 - https://www.youtube.com/@DevOpsDirective
 - https://www.youtube.com/@TechnoTim
-## Channels (later)
-- https://www.youtube.com/@codewrecks
-- https://www.youtube.com/@dataengineeringforeveryone
-- https://www.youtube.com/@Euron-official
-- https://www.youtube.com/@HiteshCodeLab
-- https://www.youtube.com/@KunalKushwaha
-- https://www.youtube.com/@bootdotdev
-- https://www.youtube.com/@officialtechieansh
-- https://www.youtube.com/@Fireship
-- https://www.youtube.com/@codewithrajranjan
-- https://www.youtube.com/@codingWithTushar
-- https://www.youtube.com/@interviewpen
-- https://www.youtube.com/@MPrashant
-- https://www.youtube.com/@CodeWithSunchitDudeja
-- https://www.youtube.com/@TechPrimers
-- https://www.youtube.com/@SakuraDev
-- https://www.youtube.com/@Computerix
-- https://www.youtube.com/@SanketSingh1
-- https://www.youtube.com/@shreelearning3
-- https://www.youtube.com/@laitureacademy
-- https://www.youtube.com/@onurdatascience
-- https://www.youtube.com/@MilanJovanovicTech
-- https://www.youtube.com/@Codewrinkles
-- https://www.youtube.com/@CodeOpinion
-- https://www.youtube.com/@aiwithbrandon
-- https://www.youtube.com/@jamesbriggs
-- https://www.youtube.com/@alejandro_ao
-- https://www.youtube.com/@FutureSmartAI
-- https://www.youtube.com/@ColeMedin
-- https://www.youtube.com/@daveebbelaar
-- https://www.youtube.com/@pixegami
-- https://www.youtube.com/@AssemblyAI
-- https://www.youtube.com/@611aiwithnoor
-- https://www.youtube.com/@LazzyProgrammer
-- https://www.youtube.com/@maheshkariya
-- https://www.youtube.com/@LearnCodeWithDurgesh
-- https://www.youtube.com/@BiInsightsInc
-- https://www.youtube.com/@AnujSyal
-- https://www.youtube.com/@BackendBuzz
-- https://www.youtube.com/@SoftwareDeveloperDiaries
-- https://www.youtube.com/@MyCodeShala
-- https://www.youtube.com/@beyondfireship
-- https://www.youtube.com/@thinking_neuron
-- https://www.youtube.com/@python-programming
-- https://www.youtube.com/@devopsshack
-- https://www.youtube.com/@TechWithTim
-- https://www.youtube.com/@AkhilSharmaTech
-- https://www.youtube.com/@programmingwithmosh
-- https://www.youtube.com/@codeverse007
-- https://www.youtube.com/@philomatics
-- https://www.youtube.com/@takeUforward
-- https://www.youtube.com/@GregHogg
-- https://www.youtube.com/@StellyArrays
-- https://www.youtube.com/@VikasJha001
-- https://www.youtube.com/@MavenAnalytics
-- https://www.youtube.com/@KeepOnCoding
-- https://www.youtube.com/@CodeDecode
-- https://www.youtube.com/@CodeWithMrunmai
-- https://www.youtube.com/@5-minutesorless
-- https://www.youtube.com/@GetDevOpsReady-yb8ri
-- https://www.youtube.com/@JashRadia
-- https://www.youtube.com/@christianlempa
-- https://www.youtube.com/@Data_with_Jay
-- https://www.youtube.com/@AnshLambaJSR
-- https://www.youtube.com/@mr.ktalkstech
-- https://www.youtube.com/@FullStackDev-w9q
-- https://www.youtube.com/@SmallTown_Coder
-- https://www.youtube.com/@campusx-official
-- https://www.youtube.com/@pravanjanrath
-- https://www.youtube.com/@piyushgargdev
-- https://www.youtube.com/@TechnologicalGeeksHindi
-- https://www.youtube.com/@codingwithsagarcw
-- https://www.youtube.com/@GitKraken
-- https://www.youtube.com/@ConfluentDeveloper
-- https://www.youtube.com/@ssunitech6890
-- https://www.youtube.com/@ByteMonk
-- https://www.youtube.com/@BEPEC
-- https://www.youtube.com/@hayk.simonyan
-- https://www.youtube.com/@souravtechie
-- https://www.youtube.com/@Siddhardhan
-- https://www.youtube.com/@CodeWith_Prashantt
-- https://www.youtube.com/@Netcode-Hub
-- https://www.youtube.com/@TheDotNetOffice
-- https://www.youtube.com/@gkcs
-- https://www.youtube.com/@imravimishraa
-- https://www.youtube.com/@ExecuteAutomation
-- https://www.youtube.com/@KodeKloud
-- https://www.youtube.com/@stratascratch
-- https://www.youtube.com/@TechWorldwithNana
-- https://www.youtube.com/@aniakubow
-- https://www.youtube.com/@tuplespectra
-- https://www.youtube.com/@SheryiansAI
-- https://www.youtube.com/@Vishikaushal
-- https://www.youtube.com/@b001
-- https://www.youtube.com/@BuildersCentral
-- https://www.youtube.com/@SynadiaCommunications
-- https://www.youtube.com/@greatlearning
-- https://www.youtube.com/@codewithjay
-- https://www.youtube.com/@BriefVid
-https://www.youtube.com/@BigDataThoughts
-https://www.youtube.com/@hnasr
-https://www.youtube.com/@TechPrepYT
-https://www.youtube.com/@sheryians
-https://www.youtube.com/@CodersGyan
-https://www.youtube.com/@theiScale
-https://www.youtube.com/@codestepbystep
-https://www.youtube.com/@DataMyselfAI
-https://www.youtube.com/@wscubetech
-https://www.youtube.com/@DSOC3
-https://www.youtube.com/@simpleprog
-https://www.youtube.com/@Mindmajix
-https://www.youtube.com/@rajesh_data_ai
-https://www.youtube.com/@anirvandecodes
-https://www.youtube.com/@DarshilParmar
-https://www.youtube.com/@mischavandenburg
-https://www.youtube.com/@ByteByteGo
-https://www.youtube.com/@manish_kumar_1
-https://www.youtube.com/@CodeWithAarohiHindi-h5b
-https://www.youtube.com/@codebasics
-https://www.youtube.com/@krishnaik06
-https://www.youtube.com/@GambillDataEngineering
-https://www.youtube.com/@AbhishekVeeramalla
-https://www.youtube.com/@TrainWithShubham
-https://www.youtube.com/@mastering_snowflake
-https://www.youtube.com/@SatyajitPattnaik
-https://www.youtube.com/@tkssharma
-@parasmadan_in
-@NickJanetakis
-@TechnicalGuftgu
-@EngineeringDigest
-@ColtSteeleCode
-@VisuallyExplainedEducation
-@easewithdata
-@KeertiPurswani
-@coder2j
-@Amit.Thinks
-@Telusko
-@codewithimran
-@datawithpranjal
-@ZacharyLLM
-@NeetCode
-@COMPILEKARO
-@CoderArmy9
-@sangammukherjee
-@LukeBarousse
-@codingsimplifiedspace
-@dataengineeringvideos
-@WBITT
-@ai_luke
-@learnbydoingit
-@Vagabond_venture
-@shiritech
-@thecodelucky
-@rajasdataengineering7585
-@ChrisBlakely
-@cloudfitness
-@sigma.techies
-@AIEngineeringLife
-@DataTechByAnandKumar
-@ConceptAndCodingByShrayansh
-@sudocode
-@dswithbappy
-@hello_interview
-@techTFQ
-@MargaretMartinez-wl5mq
-@de_clutter_ed
-@casarthakahuja
-@HitanshuSoni
-@derekbanas
-@ByteCoach-ce3cd
-@saumya1singh
-@PyFusion301
-@MonisYousuf
-@AyushSinghSh
-@graceleungyl
-@techclasses0810
-@AliSoomro-z8s
-@Rebellionrider
-@Mathsandmaths-w4j
-@nikoo28
-@DataWithBaraa
-@blackpenredpen
-@DataEngineering
-@Confluent
-@TechnoDevs
-@EcZachly_
-@ITkFunde
-@Inandoutmath
-@mldsmadeeasier
-@manosriram
-@DeltaLake
-@KahanDataSolutions
-@cloudchamp
-@ScalableScripts
-@CodeWith_Chandra
-@BrainStationAdvanced
-@afaqueahmad7117
-@bitsofmandal
-@CKDataTech
-@theengineersdesk7930
-@learnomate
-@sehaconsulting
-@TheBigDataShow
-@dotnetrealworldexample
-@bugbytes3923
-@alexhyettdev
-@LangChain
-@rabbitmetrics
-@OnlineLearningCenterIndia
-@WelchLabsVideo
-@learndepthBySai
-@sumitmittal07
-@datatez
-@DataDepth
-@harish_neel
-@thedatatech
-@harryconnorai
-@ShawhinTalebi
-@bigdatainfotech
-@DigitalOcean
-@IAmTimCorey
-@ZeroToMastery
-@SystemDesignSchool
-@Codanics
-@gptLearningHub
-@gagangautam1265
-@DevMastery
-@Dremio
-@GateSmashers
-@5MinutesEngineering
-@jiejenn
-@DataSavvy
-@SpringSourceDev
-@withaminedaly
-@prithachakraborty6023
-@BitLemonSoftware
-@wrongenoughtokknowbetter
-@fitnessfusion1m
-@tryexponent
-@TheCodingBreakthrough
-@StephenBlum
-@DataEngineerAcademy
-@uncutcoding
-@geek4tutorial
-@LearningPartnerDigital
-@onjsdev
-@irtizahafiz
-@thepodcastshow2024
-@betterstack
-@MiLaboratories
-@AltexSoft
-@QuestKey1
-@viv_tried_coding
-@Databricks
-@Traidev
-@CodeInningsbyWsCube
-@CookingTheCode
-@CODECHOR
-@thejayadad3409
-@ATechLead
-@RoadsideCoder
-@Freedom_WithAI
-@AlexTheAnalyst
-@BangOnTheory
-@MonkeyCoderEd
-@jov_mit
-@anonymoussoydev
-@himanshugaur684
-@exaltitude
-@thedataguygeorge
-@GreatStackDev
-@interviewhappyrawat
-@taruncode_
-@thedatachannel878
-@devops-cloud-ai
-@Data-Activators
-@IndianGuyProgramming
-@sunjanaindata
-@CodeWithYu
-@ellietechnologies
-@theaverageengineer
-@JesperLowgren
-@decomplexify
-@ankitbansal6
-@Code_TryIt
-@akileshrao
-@TheCodingSloth
-@codecompile7
-@cloud_and_beyond
-@mo-chen
-@codewithkristi
-@Clickittech
-@thedatamaster
-@MicrosoftFabricCafe
-@deeecode
-@thecodesamples
-@QriousDev
-@BecodemyOfficial
-@ApexCode46
-@tech.mayankagg
-@AiPodcaster-x3y
-@codingwithpuneet
-@ProgrammingSimplified0
-@RanjeetRanjanJha-d2g
-@rockthejvm
-@AI.with.Hassan
-@kshindi
-@CodeWaleBhaiyaji
-@Nerdslesson
-@mrdbourke
-@notjustdev
-@TechDummiesNarendraL
-@codeKarle
-@SystemDesignInterview
-@adamdhalla1270
-@TheDataGuyIsb
-@Priya_Tech1
-@Nova_Designs_
-@programmingwithalex.585
-@sivalabs
-@cstechtube
-@MyCareersFeed
-@stackypatel
-@LamaDev
-@DigitalDaru
-@AiCodingHub
-@aiquest
-@DataDissection
-@MyLesson007
-@InfiniteCodes_
-@DataFlairHindi
-@DatabricksPro
-@drawingboxes
-@ADevStory
-@iclaldemirz
-@thearthiaicollective
+- https://www.youtube.com/watch?v=2lUr4Mey0is&list=PLTgRMOcmRb3NXaiWg43YQX91t6BtZ-QOn
+- https://www.youtube.com/watch?v=oBt53YbR9Kk
