@@ -1,3 +1,6 @@
+## Phoenix
+	- keyman https://demo.tagdiv.com/newspaper_free_news_pro/
+	- katuke https://demo.tagdiv.com/newspaper_liberty_case_pro/
 ## System Design
 - https://www.youtube.com/playlist?list=PLyHJZXNdCXsfGig2zcWL71kdsZqYS7ltJ
 - https://www.youtube.com/playlist?list=PLVKLWop9wWA8rdaNPIsG6r4a6QZClCH-M
@@ -130,6 +133,7 @@
 - https://www.interviewkickstart.com/blogs/interview-questions/advanced-node-js-interview-questions
 - https://github.com/malgamves/CommunityWriterPrograms
 - https://esdiscuss.org/
+- https://www.dennisokeeffe.com/
 - https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa
 - https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
 - https://www.youtube.com/playlist?list=PL3rNcyAiDYK1fUOYO83KOfF-NriBRAERV
@@ -208,11 +212,7 @@
 - https://youtu.be/LhlyIUwAbV8?si=d8gZUrHq_bkHIoRe
 - https://youtu.be/bRZTvCwcp20?si=F4imTCCl69NOIlGn
 - https://docs.webhook.site/index.html
-- Webhooks (https://docs.webhook.site/)
-- Webhook vs Event Destinations (https://eventdestinations.org/)
-- Webhook vs https://www.hook0.com/?pricing.destination=cloud (open source)
-- Webhook vs https://hookdeck.com/
-- Webhook vs https://www.svix.com/
+- https://blog.risingstack.com/
 - https://www.postman.com/
 - https://youtu.be/_cNIsBTg8HA?si=GRHaUxDmShElGRTs
 - https://youtu.be/CqWF2fZJ_p0?si=4yNzla8Pi0OodDPF
@@ -275,6 +275,7 @@
 - https://youtu.be/eCRvIPPnYs0?si=Nsu_tX_3j8V3Yc0b
 - https://youtu.be/sQ1zvdS8eU8?si=Ny6Z7PI7U2B-HHoT
 ## MicroServices
+- https://microservices.io/index.html
 - https://youtu.be/AiUazlrtgyU?si=67Erq0qJHGMyvIaz
 - https://youtu.be/ufTKoAJ2OUo?si=PXVg5YNd_rp58tS1
 - https://youtu.be/XLJ5_5MsgGQ?si=oEyfBkm7PwpcST43
@@ -790,6 +791,7 @@
 - How to Build and Deploy an app Helm Chart on Kubernetes Cluster with GitLab CI/CD https://youtu.be/qSbE7NOXm8U?si=dr792MY7Q2lhQl-G
 - Helm installation and commands Hindi | Lec-58 | Hands-on Helm | What is Helm in Kubernetes https://youtu.be/FpJpHWe3Va4?si=Mu5Cw0ykSWtAN3d1
 ## Jest
+- https://forwardemail.github.io/superagent/
 - https://www.youtube.com/playlist?list=PL8p2I9GklV467ShxKSeYyTg_rUT1aduvM
 - https://www.youtube.com/playlist?list=PL285LgYq_FoLtmCURu25fvE4aHGb7-7vp
 - https://youtu.be/z6gOPonp2t0?si=Waz-2JPBBWRomvD7
@@ -843,9 +845,20 @@
 - https://youtu.be/FoypLT2W91c?si=EUE5zT_SdBgzlh9X
 - https://youtu.be/9D7-BZnPiTY?si=iLuL8-8JzdIePa4s
 ## docker
+- https://www.okteto.com/
+- https://ona.com/ (earlier gitpod)
+- https://docs.github.com/en/codespaces
+- https://dagger.io/
+- https://www.youtube.com/playlist?list=PLkA60AVN3hh_nsDu5HtEqZ-xfjF-0-PfX
 - https://youtu.be/EQsYN-ALJZU?si=Mm0od2XliUcmKujS
 - https://youtu.be/t779DVjCKCs?si=FvUuNZzBj8zxab9i
-- https://docs.docker.com/
+- https://docs.docker.com/get-started/
+- https://docs.docker.com/reference/
+- https://docs.docker.com/manuals/
+- https://docs.docker.com/guides/
+- https://www.docker.com/trainings/
+- https://app.docker.com/accounts/devendravasantkatuke
+- https://www.youtube.com/@DockerInc
 --https://j471n.in/blogs
 - Docker Series https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3
 - Docker 13 Videos https://youtube.com/playlist?list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC&si=LL5FFnGvFMNnP7PT
@@ -992,6 +1005,7 @@
 - https://youtu.be/JD2es72cU6A?si=LGg88_Q9u3W2S2ny
 - https://youtu.be/2vMEQ5zs1ko?si=1lW5dNefZwQxtQwv
 - https://kubernetes.io/docs/home/
+- https://www.cncf.io/training/courses/
 - Most Common Kubernetes Deployment Strategies (Examples & Code) https://youtu.be/lxc4EXZOOvE?si=TXkT7cvxu-FWKE6N
 - 2-Tier Application Deployment Project Series for DevOps Engineers | Episode 1 https://youtu.be/dXUnAK9_ets?si=uR77sbBjtKifGIKW
 - 2-Tier Application Deployment with Docker in One Video | Episode 2 https://youtu.be/LxPd81wiUP4?si=r5lIpL4V5Cx-Vvg-
@@ -1090,8 +1104,6 @@
 - https://youtu.be/WQ61RL1GpEE?si=5a_fkAvAUoqDxALy
 - https://youtu.be/-Ai7GDa2OgE?si=ndZZtV3yNtj_8jgA
 - https://youtu.be/IJkYipYNEtI?si=E7NTMja6QaJBAub5
-## PostgreSQL
-- https://www.youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs
 ## Jaeger
 - https://www.jaegertracing.io/
 ## Prometheus
@@ -1179,3 +1191,220 @@
 - https://www.youtube.com/@TechnoTim
 - https://www.youtube.com/watch?v=2lUr4Mey0is&list=PLTgRMOcmRb3NXaiWg43YQX91t6BtZ-QOn
 - https://www.youtube.com/watch?v=oBt53YbR9Kk
+## Python
+- https://docs.python.org/3.13/reference/index.html
+- https://docs.python.org/3.13/library/index.html
+- https://docs.python.org/3.13/glossary.html#glossary
+- https://docs.python.org/3.13/tutorial/index.html
+- https://devguide.python.org/
+- https://wiki.python.org/moin/BeginnersGuide
+- https://docs.python.org/3.13/howto/index.html
+- https://www.youtube.com/@Indently
+- https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+- https://www.dataquest.io/blog/
+- https://afterhoursprogramming.com/tutorials/python
+- https://www.pythontutorial.net/
+- https://www.learnpython.org/
+- https://automatetheboringstuff.com/
+- https://python-course.eu/
+- https://www.datacamp.com/blog/category/python
+- https://pandas.pydata.org/pandas-docs/stable/index.html
+- https://numpy.org/
+- https://matplotlib.org/stable/
+- https://docs.pytest.org/en/stable/
+- https://www.kaggle.com/, https://www.kaggle.com/learn
+- https://towardsdatascience.com/
+- https://www.edureka.co/blog/data-cleaning-in-python/
+- https://www.edureka.co/blog/data-structures-in-python/
+- https://realpython.com/ (7 days free)
+- https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+- https://www.youtube.com/playlist?list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7
+- https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
+- https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0
+- https://www.youtube.com/playlist?list=PLTTTcaxrixZQzwtkpQEo9puhWfJdy_-uN
+- https://www.youtube.com/playlist?list=PL8HmoRTjTSlEEQZYr0TWSib7bzPQ7ruLJ
+- https://www.youtube.com/playlist?list=PL8HmoRTjTSlG3AOQhV6paY4wnP5vAKgVZ
+- https://www.youtube.com/playlist?list=PLhR2IpV1b2FzUivnn6TDCVb1ycWYYUmN8
+- https://www.youtube.com/playlist?list=PLhR2IpV1b2FzyOvIkR6SzakXHtVT8DFyZ
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOGsawjkIHnCY6qSYXd7HWHt
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6
+- https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4
+- https://www.youtube.com/playlist?list=PLqmwiCS_fyTURd0Fy9U3K1ZAyCG6OMyth
+- https://youtu.be/HaAdRP-aI5s?si=tJMWD88Dp8Llt2KF
+- https://youtu.be/PXMJ6FS7llk?si=wc6kcb_MEH2-ONrT
+## SQL
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU
+- https://www.youtube.com/playlist?list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i
+- https://www.youtube.com/playlist?list=PLKnIA16_RmvZv_hh_t8vsYopa9DOcGgSf
+## HDFS
+- https://www.youtube.com/playlist?list=PLEiEAq2VkUUJ9lec_aWb4BSigwVBfCIJE
+- https://www.youtube.com/playlist?list=PLVlQHNRLflP-25J2HH5THw854aF2KD3Zk
+- https://www.youtube.com/playlist?list=PLZLq2I6Y6m-k8cUnXqu1yH6rveNOXKWU2
+- https://www.youtube.com/playlist?list=PL6UwySlcwEYJ2hFuGIvr4VEHUAfl-GCNT
+- https://www.youtube.com/playlist?list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit
+## Mathematics
+- https://www.youtube.com/playlist?list=PLF797E961509B4EB5
+- https://www.youtube.com/playlist?list=PLmdFyQYShrjd4Qn42rcBeFvF6Qs-b6e-L
+- https://www.youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK
+## Pandas, Polars. Spark, PySpark
+- https://spark.apache.org/
+- https://www.datacamp.com/blog/learn-pyspark
+- https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark
+- https://www.datacamp.com/tutorial/apache-spark-tutorial-machine-learning
+- https://www.youtube.com/playlist?list=PLGCTB_rNVNUNbuEY4kW6lf9El8B2yiWEo
+- https://www.youtube.com/playlist?list=PLkz1SCf5iB4dXiPdFD4hXwheRGRwhmd6K
+- https://www.youtube.com/playlist?list=PLTsNSGeIpGnFiErPovNizG_2IP2RvrgnK
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOEBF5zdCdoMs2l1wws6be2X
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOH-yEvwMdMmXbZT1CFx5Bv_
+- https://www.youtube.com/playlist?list=PLTsNSGeIpGnGjaMSYVlidqVWSjKWoBhbr
+- https://www.youtube.com/playlist?list=PL6UwySlcwEYKiC-EjEmN4f33c5fVpbzha
+- https://www.youtube.com/playlist?list=PLTsNSGeIpGnGkpfKMf7ilFmzfx6AjMKyT
+- https://www.youtube.com/playlist?list=PLZLq2I6Y6m-kxL4kzDqOqEODixNO_fa3_
+- https://www.youtube.com/playlist?list=PLNRxk1s77zfiaFhN8RSWYY3_bi60x0uUM
+- https://www.youtube.com/playlist?list=PLwFJcsJ61ouiU1wvzzRk3pjU8xT9buJhr
+- https://www.youtube.com/playlist?list=PLOlK8ytA0MgjvOpd-088NRU_vTYw_aryH
+- https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm
+- https://www.youtube.com/playlist?list=PLWf6TEjiiuIAouvMboDNw8Uo3EN8O5-2n
+- https://youtu.be/_C8kWso4ne4?si=JXw35GPhUy9hpwPS
+## RAG
+- https://youtu.be/CbAQUqnrDcA?si=cXY3ELGtWRVMOrkC
+- https://youtu.be/CbAQUqnrDcA?si=I05qrb2aNIS7MQSA
+- https://youtu.be/swvzKSOEluc?si=dCepJgHhXRpv6Qe6
+- https://youtu.be/4xAiviw1X8M?si=zBkPDGC1HR6rFuEZ
+- https://youtu.be/0z9_MhcYvcY?si=8e--lZfg4qgy7VAA
+- https://youtu.be/DaXQ5L7r7Lg?si=0t7chgihXjulLDoc
+## DS, Algorithm, LeetCode
+- https://www.youtube.com/playlist?list=PLTWyTH8_xEvH28xCcOCtYbn1SjqfHb1WC
+- https://www.youtube.com/playlist?list=PL13aQMQVPecA33n8w9S-cwD9geQsY8JhU
+- https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l
+- https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8
+- https://www.youtube.com/playlist?list=PL7ersPsTyYt1HnCgrT6Up-pan4yLBpyFs
+- https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R
+- https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU
+- https://www.youtube.com/playlist?list=PLyqSpQzTE6M_Fu6l8irVwXkUyC9Gwqr6_
+- https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+- https://www.youtube.com/playlist?list=PL2b9acjRfGcm4qYq5MH9LufsJ67-BgkAI
+- https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf
+- https://www.youtube.com/playlist?list=PLYAlGR1wWgUUyYZ3wX2GdnhiL-QVhAXfR
+- https://www.youtube.com/playlist?list=PLk3mOYochcqzMMUaUBSxOypkpOmHGG3k6
+- https://www.youtube.com/playlist?list=PL14c5UWFp9tQVNk8qtbpc_UFvhidOSopT
+- https://youtu.be/hc11eNzdeJQ?si=JRmg0KMmTgqtNvtB
+- https://youtu.be/Z_c4byLrNBU?si=BgWVdfwdB2cVc5l_
+## dbt
+- https://www.youtube.com/playlist?list=PLM68C8Cb4yoO4KPn2XIcW6MIC4L_zCcGu
+- https://www.youtube.com/playlist?list=PLtlmylp_ZK5zIgui7onTLRl288Uddcelh
+- https://www.youtube.com/playlist?list=PLc2EZr8W2QIBegSYp4dEIMrfLj_cCJgYA
+- https://www.youtube.com/playlist?list=PLohMhitTY9xuEVMpLG3xXhsKG9j2XCTeF
+- https://www.youtube.com/playlist?list=PLatT_Ih3yGdq1PMB_GuZAVbaQjmKEoNUJ
+## Data Engineering
+- https://www.datacamp.com/blog/category/data-engineering
+- https://docs.databricks.com/aws/en
+- https://www.youtube.com/playlist?list=PLzxP01GQMpjfxBXBVmzOL43mLLdH0E4TE
+- https://www.youtube.com/playlist?list=PLgPb8HXOGtsQQwqWypRevr6BsL_O9_-on
+- https://www.youtube.com/playlist?list=PLNErm0gNB2VDfbSSMox-n_CRwmK5vOtrg
+- https://www.youtube.com/playlist?list=PLxy0DxWEupiNjGSv1hzRFBXgSzV-bZu94
+- https://www.youtube.com/playlist?list=PL2IsFZBGM_IGiAvVZWAEKX8gg1ItnxEEb
+- https://www.youtube.com/playlist?list=PLc2EZr8W2QIBONOwwf8jt2M0k-z22Mgbw
+- https://www.youtube.com/playlist?list=PLgPb8HXOGtsQeiFz1y9dcLuXjRh8teQtw
+- https://www.youtube.com/playlist?list=PLOlK8ytA0MgjYGVrz0hS4w3UPQ1-VV2uX
+- https://youtu.be/vMgFadPxOLk?si=p6IL_JV4YFLqO-zT
+- https://youtu.be/T23Bs75F7ZQ?si=hiFU8FnFyi7Pzk7v
+- https://youtu.be/PHsC_t0j1dU?si=bX9NK3C2kesQhdT_
+## DeltaLake
+- https://youtu.be/fkWxiesfrgk?si=P13iy3wmB7uIUZ8L
+- https://youtu.be/LJtShrQqYZY?si=WHy2LMHrq8y9LgRY
+## AI, ML, Deep Learning, NLP, LLM
+- https://youtu.be/V4nxbrJ6MFo?si=ZK75SPFUHd_zU6MB
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOGMkx8a9vEgzNopaqkTkewc
+- https://www.youtube.com/playlist?list=PL5Agzt13Z4g8NN5vAtHbGoVgFBawXZSUj
+- https://www.youtube.com/playlist?list=PLbGui_ZYuhiii0nA9nPo_O01qVpoR7PsT
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOGHNaCT7_fwe9AabjZI1RjI
+- https://www.youtube.com/playlist?list=PLJNPyKgYduiaBY_L8QmFOfE6r4OGa49vq
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOFB_99stFnBhpjoHirxvArk
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOEPjeOixXeBo1qFaVQRdivC
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOFx3U6DNqm-IwbWARdw2iEB
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOG5HyvfIKr-gWRpPCTZnFvq
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOE5dmqWrYQqQTX-FFyfYdLf
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOFIOOkGN2gbjvse8jcz-mux
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOGmleWGUiv7Z1umtfjzyyI3
+- https://www.youtube.com/playlist?list=PLinedj3B30sCzJnjhtEZBpKGtC1Xk7z5Z
+- https://www.youtube.com/playlist?list=PLxzTa0VPR9rzus4Egb-aOmCWier5XiOba
+- https://www.youtube.com/playlist?list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr
+- https://www.youtube.com/playlist?list=PLKnIA16_RmvZGK-NF2YovesQ96HfUrKEw
+- https://www.youtube.com/playlist?list=PLKnIA16_RmvZ60LRBRtAWjzrdNDX_81wl
+- https://www.youtube.com/playlist?list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ
+- https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX
+- https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
+- https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+- https://www.youtube.com/playlist?list=PLfP3JxW-T70EgdCsArELFOsfHhWgeKqIv
+- https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0
+- https://www.youtube.com/playlist?list=PLAMHV77MSKJ7Pn_OwuGzbDPs_MOibBRP-
+- https://www.youtube.com/playlist?list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty
+- https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+- https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ
+- https://www.youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F
+- https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6
+- https://www.youtube.com/playlist?list=PLVz2XdJiJQxwYAAVuPpzas3VDFu_Xeu7G
+- https://www.youtube.com/playlist?list=PLbGui_ZYuhigsI3cWlv-Dl3_R7CDNQR0u
+- https://www.youtube.com/playlist?list=PL6tu16kXT9PpW4gRmIx2abZJSyo7KObQB
+- https://www.youtube.com/playlist?list=PL6tu16kXT9PrA73eHZiXvsMB99AZb6cCq
+- https://youtu.be/0oyDqO8PjIg?si=t1s42pfdaBPUgMy7
+- https://youtu.be/H-oCV5brtU4?si=hErdETHViXLc_hOQ
+- https://youtu.be/YtHdaXuOAks?si=5eZkYrkcNzLUUoVa
+- https://youtu.be/V_xro1bcAuA?si=IdAx_lTJajac9wzF
+- https://youtu.be/1WHaFWMMXLI?si=jChkfKm-YyMtrSz3
+- https://www.youtube.com/live/SIyTpBNbKAo?si=NMoTkn_lzccOFZi9
+- https://youtu.be/5NgNicANyqM?si=SIoximXu3UhjEpCz
+- https://youtu.be/H-oCV5brtU4?si=Mc9Z6pUdr6do4OrS
+- https://youtu.be/9Y3yaoi9rUQ?si=jvy6LYEW2l7oeWTv
+- https://youtu.be/CMEWVn1uZpQ?si=wuHqSG8DC0lXHTZP
+- https://youtu.be/DJtX3S7qx2s?si=4nkf7ZinRaiU8vxj
+- https://youtu.be/dPmH3G9NQtY?si=Lvfz7EaHZC0l0Em8
+- https://youtu.be/-dJPoLm_gtE?si=aOH3kPlt1t_7dvAd
+- https://youtu.be/i_LwzRVP7bg?si=czJjPrlynxciSgcp
+- https://youtu.be/ZoZxQwp1PiM?si=Sq2niBhvB2E_4ejO
+- https://youtu.be/UU1WVnMk4E8?si=eUMIe2bcUQth3qNM
+- https://youtu.be/1iJ34tTjwwo?si=UMsUOL38AOzipLoS
+- https://youtu.be/F0GQ0l2NfHA?si=FJ6P8WA9UBuX5rl8
+- https://youtu.be/d-VKYF4Zow0?si=uVj9sjaTSyYilUSE
+- https://youtu.be/iOdFUJiB0Zc?si=GTswBheqXAiTLElw
+- https://youtu.be/x0AnCE9SE4A?si=FItwMHO7jwa8oGL9
+- https://youtu.be/GWB9ApTPTv4?si=AAQPPpJlgr3JAkPy
+- https://youtu.be/8WBS0dT0h2I?si=ncc_wSIJDbmgoiWs
+- https://youtu.be/9Ge0sMm65jo?si=qft-cY4hMgPM_O6N
+- https://youtu.be/mEsleV16qdo?si=nAamAB_rgRgISTXI
+- https://youtu.be/_ZvnD73m40o?si=uY-a1ijhTk9dCm5D
+- https://youtu.be/xZDB1naRUlk?si=bM_6gaXLA822ocLf
+- https://youtu.be/yfHHvmaMkcA?si=E8kza3tLwOsTW6tO
+- https://youtu.be/ea2W8IogX80?si=SSoiFMgbADdsGhuI
+- https://youtu.be/lG7Uxts9SXs?si=SyoNrksEk7ODFSQn
+- https://youtu.be/Q7mS1VHm3Yw?si=P9MfwbGfvqa0ENeA
+- https://youtu.be/HSZ_uaif57o?si=JWT3M2LwgMDa0zxt
+- https://youtu.be/jGg_1h0qzaM?si=6xO2mOyTKY4A-Pa9
+- https://youtu.be/DcNxg61kSFc?si=gwsH9QhGQ4grr_1H
+- https://youtu.be/sVcwVQRHIc8?si=2Vs-SGUnrUfizzAR
+- https://youtu.be/JV3pL1_mn2M?si=uM4_dAdklyeY7rme
+- https://youtu.be/8tGG_AzLdRI?si=kBjAywffKCVbq_OJ
+- https://youtu.be/LvC68w9JS4Y?si=uw35PdIHgeOnUvr-
+- https://youtu.be/LWiMwhDZ9as?si=mCIlJEK148bK_LId
+- https://youtu.be/veDJ3zKcWd4?si=n0KDP2ZnOiUMy8ql
+- https://youtu.be/l-CjXFmcVzY?si=jeasWE081pl8qpHp
+- https://www.youtube.com/live/ulA0Zzz9rNo?si=PW9NrifZ-Kf08dtk
+- https://youtu.be/QbVFj1uWzHk?si=hEPhYLqBdhAgieTk
+- https://youtu.be/035I2WKj5F0?si=KxSlxfLzI48dt7bx
+- https://youtu.be/F0GQ0l2NfHA?si=TgDCs-4hIaAlM5u3
+- https://youtu.be/i_LwzRVP7bg?si=dyk04e3np-fSpXli
+- https://youtu.be/V_xro1bcAuA?si=F-tCsGJVSd5FHgE2
+- https://youtu.be/UU1WVnMk4E8?si=q1IfEtmVQmtbhZTz
+- https://youtu.be/5NgNicANyqM?si=1YH9fg5ia-PKvvrX
+## Airflow
+- https://www.youtube.com/playlist?list=PLGZpjgRdXegnAephEInJwYmscGtPgLbBs
+- https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh
+- https://www.youtube.com/playlist?list=PLMmVziys3riDnnI2qATwy6ObDRvZ546K3
+- https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2
+- https://www.youtube.com/playlist?list=PLACD_PaYcVF1Hzzc1Ds56bD7oUkfiL_Lv
+- https://www.youtube.com/playlist?list=PL79i7SgJCJ9hf7JgG3S-3lOpsk2QCpWkD
+- https://www.youtube.com/playlist?list=PLc2EZr8W2QIAI0cS1nZGNxoLzppb7XbqM
+- https://www.youtube.com/playlist?list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT
+- https://youtu.be/a16zXkOeqLc?si=2XrUQaMeHgwiLvu3
