@@ -83,14 +83,11 @@
 - https://youtu.be/xmI-Ubq_AAc?si=n05vxREsebCCKxiz
 - https://youtu.be/3QFaf3N4oVs?si=dhFYVHvBAvgfzzzU
 - https://youtu.be/ZaLSwhciSfs?si=86JU9TMndXYpiMkG
+## Microsoft Orleans
+- https://learn.microsoft.com/en-us/dotnet/orleans/overview
 ## ECMAScript
 - https://www.youtube.com/playlist?list=PLjCYFwDcjeM7cNomPSsdQYOHE4i3WbC0u
-- https://ponyfoo.com/
 - https://www.javascripttutorial.net/
-- https://exploringjs.com/es5/toc.html
-- https://exploringjs.com/es6/index.html
-- https://exploringjs.com/js/book/index.html
-- https://exploringjs.com/deep-js/toc.html
 - https://dev.to/
 - https://upmostly.com/tutorials
 - https://javascript-in-30-words.netlify.app/
@@ -200,9 +197,9 @@
 - https://docs.deno.com/examples/
 - https://bun.com/guides
 - https://bun.sh/guides
-- https://nodejs.org/docs/latest/api/
-- https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
 - https://nodeschool.io/
+- https://docs.nodesource.com/
+- https://nodesource.com/resources
 - https://youtu.be/syzwLwE3Xq4?si=Fj_hjX62tWhv10IO
 - https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
 - https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN
@@ -276,6 +273,7 @@
 - https://youtu.be/sQ1zvdS8eU8?si=Ny6Z7PI7U2B-HHoT
 ## MicroServices
 - https://microservices.io/index.html
+- https://contextmapper.org/
 - https://youtu.be/AiUazlrtgyU?si=67Erq0qJHGMyvIaz
 - https://youtu.be/ufTKoAJ2OUo?si=PXVg5YNd_rp58tS1
 - https://youtu.be/XLJ5_5MsgGQ?si=oEyfBkm7PwpcST43
@@ -422,8 +420,6 @@
 - https://youtu.be/igaVS0S1hA4?si=0cBltgvo7rpwekAG
 - https://youtu.be/bfVddTJNiAw?si=1s_vD5PSVkJgvbyJ
 - https://youtu.be/ZivT0n4qboE?si=vifiorm0zvTDJ9Ld
-## Pino
-- https://getpino.io/#/
 ## Bash
 - https://youtu.be/ISJ44S5sZu8?si=b3w1NWRvdJyLaO4c
 - https://linuxjourney.com/
@@ -481,6 +477,8 @@
 - https://youtu.be/i2eVTk2Fb40?si=D-EmCRoBtTj3LtH9
 - https://youtu.be/ZQuXruUlLYY?si=gPNnN4fQXs64Q0je
 ## gRPC, Protocol Buffers
+- https://grpc.io/docs/
+- https://protobuf.dev/
 - https://www.youtube.com/playlist?list=PLVz2XdJiJQxw0f6wXQCdWKabLdqSzGA0X
 - https://www.youtube.com/playlist?list=PL285LgYq_FoJQ4DIPO905bTu3Q1rbgajo
 - https://youtu.be/rzWwgmhtAyc?si=_IyPtWPB5jEAjDGD
@@ -490,6 +488,8 @@
 - https://youtu.be/wOLs7x4l-Ys?si=BdPH5lqE-Pdujwzd
 - https://youtu.be/Y92WWaZJl24?si=fCjeQW7C01aacI3_
 - https://youtu.be/mML6GiOAM1w?si=qzCFFlBN4glGLGvZ
+## Gatling
+- https://docs.gatling.io/
 ## PM2
 - https://youtu.be/UaAz27D0Lj4?si=fAf7aOPiybRtt9GF
 - https://youtu.be/gsPPaZ064yI?si=vkLMzoEKIqm-6oh1
@@ -1075,23 +1075,6 @@
 - https://youtu.be/s_o8dwzRlu4?si=mglRunvrd3SFbJeC
 - https://youtu.be/bhBSlnQcq2k?si=wcu6Kb20HuWzFeRI
 ## Redis
-- https://redis.io/docs/
-- https://redis.io/docs/latest/develop/
-- https://redis.io/docs/latest/integrate/
-- https://redis.io/docs/latest/operate/
-- https://redis.io/docs/latest/commands/
-- https://redis.io/docs/latest/apis/
-- https://developer.redis.com/howtos/quick-start
-- https://university.redis.io/library/?contentType=course
-- https://redis.io/search/
-- https://redis.io/json/
-- https://redis.io/active-active/
-- https://redis.io/solutions/flex/
-- https://redis.io/data-integration/
-- https://redis.io/solutions/
-- https://redis.io/industries/retail/
-- https://redis.io/solutions/microservices/
-- https://redis.io/resources/
 - https://www.youtube.com/playlist?list=PLbGui_ZYuhijTJDBVBBqvri76uUNfsrCc
 - https://youtu.be/sFBMdF55Tpo?si=R0RYsju-_e5VXKfe
 - https://youtu.be/IJkYipYNEtI?si=cLuQL-SFNL2EcS9B
@@ -1408,3 +1391,59 @@
 - https://www.youtube.com/playlist?list=PLc2EZr8W2QIAI0cS1nZGNxoLzppb7XbqM
 - https://www.youtube.com/playlist?list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT
 - https://youtu.be/a16zXkOeqLc?si=2XrUQaMeHgwiLvu3
+## Current
+- ECMAScript: 	0	https://ponyfoo.com/
+- ECMAScript: 	0	https://exploringjs.com/js/book/index.html
+- ECMAScript: 	0	https://exploringjs.com/es5/toc.html
+- ECMAScript: 	0	https://exploringjs.com/es6/index.html
+- ECMAScript: 	0	https://exploringjs.com/deep-js/toc.html
+- NodeJS: 		0	https://nodejs.org/docs/latest/api/
+- NodeJS: 		0	https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+- NodeJS:		0 	https://platformatic.dev/docs/getting-started/quick-start
+- Hapi: 		0	https://hapi.dev/api/?v=21.4.3
+- PM2: 			0	https://pm2.keymetrics.io/docs/usage/quick-start/
+- Jest: 		0	https://jestjs.io/docs/getting-started
+- MolecularJS:	1	https://moleculer.services/docs/0.15/
+- Tilt:			0	https://tilt.dev/
+- gRPC:			1	https://grpc.io/docs/
+- ProtoBuf:		1	https://protobuf.dev/
+- ResolveJS:	1	https://reimagined.github.io/resolve/docs/getting-started/
+- Docker:		0	https://docs.docker.com/get-started/
+- Traefik:		0	https://doc.traefik.io/
+- Kubernetes:	0	https://spacelift.io/blog/kubernetes-tutorial
+- Kubernetes:	0	https://www.datacamp.com/tutorial/kubernetes
+- Kubernetes:	0	https://www.okteto.com/blog/kubernetes-basics/
+- Kubernetes:	0	https://kodekloud.com/blog/kubernetes-tutorial-for-beginners/
+- Kubernetes:	0	https://github.com/knrt10/kubernetes-basicLearning?tab=readme-ov-file#keeping-pods-healthy
+- Kubernetes:	0	https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-complete-guide/ 
+- Kubernetes:	0	https://www.aquasec.com/cloud-native-academy/ (see right side 'Related Articles' and '70 Best Kubernetes Tutorials' there)
+- Kubernetes:	0	https://www.geeksforgeeks.org/devops/kubernetes-tutorial/
+- Kubernetes:	0	https://kubernetes.io/docs/home/
+- Kubernetes:	0	https://kubebyexample.com/learning-paths
+- Kubernetes:	0	https://www.qovery.com/blog/kubernetes-tutorial-for-developers
+- Minikube:		0	https://minikube.sigs.k8s.io/docs/
+- Helm:			0	https://helm.sh/docs/
+- Git:			0	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+- Github:		0	Videos
+- Datadog: 		0	https://docs.datadoghq.com/
+- Gatling:		0	https://docs.gatling.io/
+- Redis:		0	https://redis.io/docs/
+- Redis:		0	https://redis.io/docs/latest/develop/
+- Redis:		0	https://redis.io/docs/latest/integrate/
+- Redis:		0	https://redis.io/docs/latest/operate/
+- Redis:		0	https://redis.io/docs/latest/commands/
+- Redis:		0	https://redis.io/docs/latest/apis/
+- Redis:		0	https://developer.redis.com/howtos/quick-start
+- Redis:		0	https://university.redis.io/library/?contentType=course
+- Redis:		0	https://redis.io/search/
+- Redis:		0	https://redis.io/json/
+- Redis:		0	https://redis.io/active-active/
+- Redis:		0	https://redis.io/solutions/flex/
+- Redis:		0	https://redis.io/data-integration/
+- Redis:		0	https://redis.io/solutions/
+- Redis:		0	https://redis.io/industries/retail/
+- Redis:		0	https://redis.io/solutions/microservices/
+- Redis:		0	https://redis.io/resources/
+- Pulsar: 		0	https://pulsar.apache.org/docs/next/
+- Pulsar:		0	https://developers.redhat.com/learn/apache-kafka/kafka-101
+- Flink: 		0	https://nightlies.apache.org/flink/flink-docs-stable/
