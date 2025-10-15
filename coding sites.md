@@ -427,7 +427,6 @@
 -   lzone.de/cheat-sheet/
 
 # M
-
 -   https://www.macrometa.co/blog/why-global-edge-fabric
 -   https://mainawycliffe.dev/blog/
 -   makandracards.com/makandra
@@ -435,6 +434,7 @@
 -   https://www.manning.com, livebook.manning.com, - livevideo.manning.com, freecontent.manning.com
 -   https://www.manning.com/books/istio-in-action
 -   https://explore.mathworks.com/machine-learning-vs-deep-learning
+-   https://mathworld.wolfram.com/
 -   https://mattgreer.dev/articles/
 -   maryrosecook.com/blog/post/git-in-six-hundred-words
 -   https://mastergatsby.com/
@@ -602,6 +602,7 @@
 -   https://spike.sh/
 -   https://docs.splunk.com/Documentation
 -   https://www.ssh.com/academy
+-   https://stack.convex.dev/
 -   https://stackabuse.com/
 -   https://stackoverflow.com/jobs/why-jobs
 -   https://stackoverflow.blog/
@@ -746,6 +747,12 @@
 -   https://www.zocdoc.com/about/blog/tech/event-driven-architecture
 -   zpao.com/posts
 
+# Un Classified
+-   https://www.datasciencecentral.com/
+-   https://codetogo.io/javascript/
+-   https://www.stefanjudis.com/
+-   https://codingbeautydev.com/blog/
+-   https://ninenines.eu/docs/en/cowboy/2.12/guide/rest_flowcharts/
 -   https://www.example-code.com/vbnet/rest.asp
 -   https://www.demilked.com/
 -   https://cathydutton.co.uk/posts/why-i-stopped-using-sass/

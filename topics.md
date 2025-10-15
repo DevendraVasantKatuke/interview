@@ -1,3 +1,25 @@
+## Useful
+- https://onnxruntime.ai/
+- https://matrix.org/
+- https://atproto.com/
+- https://www.zoho.com/in/books/academy/Taxes-and-compliance
+- https://www.smartsheet.com/content/small-business-profit-loss-templates
+- https://1458.co.kr/portfolio/vigneto/
+- https://1458.co.kr/works/
+- https://developer.bondy.io/
+- https://wamp-proto.org/index.html
+- https://developer.chrome.com/docs/capabilities/web-apis/webtransport
+- WebSocket vs WebTransport
+- https://www.videosdk.live/developer-hub/webtransport/webtransport-api
+- https://blog.bytebytego.com/archive?sort=new
+- https://www.digitalocean.com/community/tags/docker
+- https://developer.sandbox.co.in/reference/gst-taxpayer-authentication
+- https://learn.microsoft.com/en-us/dynamics365/business-central/localfunctionality/india/gst-001-basic-setup
+- https://www.zoho.com/in/books/academy/taxes-and-compliance/flow-chart-of-gst-returns.html
+- https://wamp-proto.org/index.html
+- https://platformatic.dev/
+- https://docs.zerops.io/nodejs/overview
+- https://platform.openai.com/docs/overview
 ## Phoenix
 	- keyman https://demo.tagdiv.com/newspaper_free_news_pro/
 	- katuke https://demo.tagdiv.com/newspaper_liberty_case_pro/
@@ -86,6 +108,10 @@
 ## Microsoft Orleans
 - https://learn.microsoft.com/en-us/dotnet/orleans/overview
 ## ECMAScript
+- https://www.scaler.com/topics/javascript/
+- https://www.scaler.com/topics/courses/
+- https://www.zhenghao.io/posts
+- https://mithle.sh/
 - https://www.youtube.com/playlist?list=PLjCYFwDcjeM7cNomPSsdQYOHE4i3WbC0u
 - https://www.javascripttutorial.net/
 - https://dev.to/
@@ -112,6 +138,7 @@
 - https://byby.dev/javascript
 - https://babeljs.io/docs/learn
 - https://javascript.info/
+- https://humanwhocodes.com/books/
 - https://www.patterns.dev/#patterns
 - https://javascriptpatterns.vercel.app/patterns
 - https://js-design-patterns.vercel.app/#0
@@ -273,6 +300,8 @@
 - https://youtu.be/sQ1zvdS8eU8?si=Ny6Z7PI7U2B-HHoT
 ## MicroServices
 - https://microservices.io/index.html
+- https://www.confluent.io/learn/
+- https://docs.confluent.io/
 - https://contextmapper.org/
 - https://youtu.be/AiUazlrtgyU?si=67Erq0qJHGMyvIaz
 - https://youtu.be/ufTKoAJ2OUo?si=PXVg5YNd_rp58tS1
@@ -1006,6 +1035,7 @@
 - https://youtu.be/2vMEQ5zs1ko?si=1lW5dNefZwQxtQwv
 - https://kubernetes.io/docs/home/
 - https://www.cncf.io/training/courses/
+- https://learn.kodekloud.com/courses
 - Most Common Kubernetes Deployment Strategies (Examples & Code) https://youtu.be/lxc4EXZOOvE?si=TXkT7cvxu-FWKE6N
 - 2-Tier Application Deployment Project Series for DevOps Engineers | Episode 1 https://youtu.be/dXUnAK9_ets?si=uR77sbBjtKifGIKW
 - 2-Tier Application Deployment with Docker in One Video | Episode 2 https://youtu.be/LxPd81wiUP4?si=r5lIpL4V5Cx-Vvg-
@@ -1025,6 +1055,7 @@
 - Docker and Kubernetes Crash Course | Containerization, Virtualization & More https://youtu.be/dWkTSjYco_g?si=tIjnRN322US4tgu3
 - KUBERNETES SERVICES DEEP DIVE| LIVE DEMO | LEARN TRAFFIC FLOW USING KUBESHARK https://youtu.be/fCX8O7GA_lY?si=kYyg-Dhp06UU8phn
 - Kubernetes Administration Course https://youtube.com/playlist?list=PLKiTC45c1PK-SwbeIuwdPhHx9XHiM4drK&si=YZffv7oGsecI6i2S
+- https://keda.sh/
 - https://www.youtube.com/playlist?list=PLxv9HL8TPbSxBEjcHPwTjvYBfioVmtT1W
 - https://www.youtube.com/playlist?list=PLAdTNzDIZj__bptTvTGIaL1ezkeg_p-5R
 - https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP

@@ -44,31 +44,31 @@ shop_customer								IN.31AHLPK2640N1Z1.[4B36].IN.AHLPK2640N.[5B36]													
 shop_vendor									IN.31AHLPK2640N1Z1.[4B36].IN.AHLPK2640N.[5B36]																opening_balance
 
 ## Purchase Order 							[Referer.Buyer.OnDate.Product]
-consumer_purchase_order						IN.AHLPK2640N.IN.AHLPK2640N.on_date																			IN.31AHLPK2640N1Z1.[4B36] if_no_referer => Consumwe is Referer [Referer].[Consumer]  
+consumer_purchase_order						IN.AHLPK2640N.IN.AHLPK2640N.on_date																			IN.31AHLPK2640N1Z1.[4B36] if_no_referer => Consumer is Referer [Referer].[Consumer]  
 customer_purchase_order						IN.AHLPK2640N.IN.27AHLPK2640N1Z1.[4B36].on_date																IN.31AHLPK2640N1Z1.[4B36] if_no_referer => Customer is Referer [Referer].[Customer]
 consumer_ordered_item 						IN.AHLPK2640N.IN.AHLPK2640N.on_date.IN.AHLPK2640N.[5B36].[4B36]												suggested_units (from referer), units, rate, indirect_tax_rate, remark(Doses)
 customer_ordered_item						IN.AHLPK2640N.IN.27AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36].[4B36]									suggested_units (from referer), units, rate, indirect_tax_rate, remark
 
 ## Purchase 								[Buyer.OurShop.OnDate.Product.Batch]
-consumer_purchase 							IN.AHLPK2640N.IN.31AHLPK2640N1Z1.on_date 																	referer, bill_discount, indirect_tax_invoice_action, logistic
+consumer_purchase 							IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date 															referer, bill_discount, indirect_tax_invoice_action, logistic
 customer_purchase                        	IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date 												referer, bill_discount, indirect_tax_invoice_action, logistic
-consumer_purchase_transaction 				IN.AHLPK2640N.IN.31AHLPK2640N1Z1.on_date.p_acc_number.on_date 												amount, realised_date, wallet_text, remark
+consumer_purchase_transaction 				IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date.p_acc_number.on_date 										amount, realised_date, wallet_text, remark
 customer_purchase_transaction 				IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date.s/t_acc_number.on_date 							amount, realised_date, wallet_text, remark
-consumer_received_item						IN.AHLPK2640N.IN.AHLPK2640N.on_date.IN.AHLPK2640N.[5B36].[4B36].batch 										units, available, units_to_return
+consumer_received_item						IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36].[4B36].batch 							units, available, units_to_return
 customer_received_item						IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36].[4B36].batch 				units, available, units_to_return
 
 ## Purchase Return 							[Buyer.OurShop.OnDate.Product.Batch]
-consumer_purchase_return					IN.31AHLPK2640N1Z1.[4B36].IN.AHLPK2640N.on_date																indirect_tax_invoice_action, logistic
-customer_purchase_return					IN.31AHLPK2640N1Z1.[4B36].IN.27AHLPK2640N1Z1.[4B36].on_date													indirect_tax_invoice_action, logistic
-consumer_purchase_return_transaction 		IN.31AHLPK2640N1Z1.[4B36].IN.AHLPK2640N.on_date.p_acc_number.on_date 										amount, realised_date, wallet_text, remark
-customer_purchase_return_transaction		IN.31AHLPK2640N1Z1.[4B36].IN.27AHLPK2640N1Z1.[4B36].on_date.s/t_acc_number.on_date							amount, realised_date, wallet_text, remark
-consumer_returned_item 						IN.31AHLPK2640N1Z1.[4B36].IN.AHLPK2640N.on_date.IN.AHLPK2640N.[5B36].[4B36].batch							units, remark
-customer_returned_item						IN.31AHLPK2640N1Z1.[4B36].IN.27AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36].[4B36].batch 				units, remark
+consumer_purchase_return					IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date																indirect_tax_invoice_action, logistic
+customer_purchase_return					IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date													indirect_tax_invoice_action, logistic
+consumer_purchase_return_transaction 		IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date.p_acc_number.on_date 										amount, realised_date, wallet_text, remark
+customer_purchase_return_transaction		IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date.s/t_acc_number.on_date							amount, realised_date, wallet_text, remark
+consumer_returned_item 						IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36].[4B36].batch							units, remark
+customer_returned_item						IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36].[4B36].batch 				units, remark
 
 ## Logistic									[Buyer.OurShop.OnDate.Transporter]
-consumer_logistic 							IN.AHLPK2640N.IN.31AHLPK2640N1Z1[5B36].on_date.IN.AHLPK2640N.[5b86].on_date									vehicle_number, various_costs, indirect_tax_cost, indirect_tax_cess_cost, details
+consumer_logistic 							IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5b86].on_date								vehicle_number, various_costs, indirect_tax_cost, indirect_tax_cess_cost, details
 customer_logistic 							IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36]							vehicle_number, various_costs, indirect_tax_cost, indirect_tax_cess_cost, details
-consumer_logistic_transaction 				IN.AHLPK2640N.IN.31AHLPK2640N1Z1[5B36].on_date.IN.AHLPK2640N.[5b86].on_date.p_acc_number.on_date 			amount, realised_date, wallet_text, remark
+consumer_logistic_transaction 				IN.AHLPK2640N.IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5b86].on_date.p_acc_number.on_date 			amount, realised_date, wallet_text, remark
 customer_logistic_transaction 				IN.27AHLPK2640N1Z1.[4B36].IN.31AHLPK2640N1Z1.[4B36].on_date.IN.AHLPK2640N.[5B36].s/t_acc_number.on_date 	amount, realised_date, wallet_text, remark
 
 ## Stock add 								[OurShop.OurShop.OnDate.Product.Batch]

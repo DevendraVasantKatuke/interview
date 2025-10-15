@@ -4,6 +4,7 @@
 -	https://wellfound.com/
 -	https://remoteok.com/
 -	https://remoteok.com/
+-	https://www.remotely.works/
 -	https://jsremotely.com/
 -	https://echojobs.io/
 -	https://fullstackjob.com/remote/jobs
@@ -12,8 +13,21 @@
 -	https://developers.turing.com/login?redirect=%2Fdashboard%2Fprofile
 -   https://www.instahyre.com/
 -   https://www.uplers.com/
+-	https://www.crossover.com/jobs
+-	https://www.getrocket.com/
+-	https://builtin.com/
+-	https://www.hirist.tech/
+-	https://www.zippia.com/
+-	https://www.daijob.com/en/
+-	https://flexiple.com/
+-	https://www.pesto.tech/
+-	https://www.flexjobs.com/
+-	https://arc.dev/
+-	https://www.micro1.ai/
+-	https://www.zignuts.com/
 -	naukri.com
 -	Urbanpro, Youtube, Medium
+-	https://www.atlassian.com/company/careers/all-jobs
 -	US-based GSV Ventures, which invests solely in edtech companies around the world,
 -	https://app.vidiq.com/channels/a0be49bb-dc66-4429-bcc1-f37c8a2ee890/dashboard
 -   https://www.techgig.com/
@@ -25,3 +39,5 @@
 - https://youtu.be/bVdf1FdLP40?si=cv8kitKWEjr3n0MC
 - https://youtu.be/VDr08j2OlEM?si=B4WkvHjORkBIH08Q
 - https://youtu.be/HoQ5iluNJz8?si=Wx2IguILqoQarH5w
+- https://www.flipkartleap.com/
+- https://klubworks.com/
