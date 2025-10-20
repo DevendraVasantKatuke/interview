@@ -1,0 +1,112 @@
+---
+title: How can you optimize DOM manipulation for better performance?
+---
+
+## TL;DR
+
+To optimize DOM manipulation for better performance, minimize direct DOM access and updates. Use techniques like batching DOM changes, using `documentFragment` for multiple elements, and leveraging virtual DOM libraries like React. Also, consider using `requestAnimationFrame` for animations and avoid layout thrashing by reading and writing DOM properties separately.
+
+---
+
+## How can you optimize DOM manipulation for better performance?
+
+### Minimize direct DOM access
+
+Accessing the DOM is relatively slow, so try to minimize the number of times you read from or write to the DOM. Instead, store references to elements in variables and work with those.
+
+```js live
+// Creating an element for the example below
+const newElement = document.createElement('div');
+newElement.id = 'myElement';
+document.body.appendChild(newElement);
+
+const element = document.getElementById('myElement'); // Access once
+// Then use the reference to edit style
+element.style.color = 'red';
+element.style.backgroundColor = 'blue';
+
+console.log(document.body); // Notice the edits
+```
+
+### Batch DOM changes
+
+Instead of making multiple changes to the DOM one at a time, batch them together. This reduces the number of reflows and repaints.
+
+```js live
+// Creating an element for the example below
+const newElement = document.createElement('div');
+newElement.id = 'myElement';
+document.body.appendChild(newElement);
+
+const element = document.getElementById('myElement');
+element.style.cssText = 'color: red; background-color: blue;';
+
+console.log(document.body); // Notice the edits
+```
+
+### Use `documentFragment`
+
+When adding multiple elements to the DOM, use a `documentFragment` to minimize reflows and repaints.
+
+```js live
+const fragment = document.createDocumentFragment();
+for (let i = 0; i < 100; i++) {
+  const newElement = document.createElement('div');
+  newElement.textContent = `Item ${i}`;
+  fragment.appendChild(newElement);
+}
+document.body.appendChild(fragment);
+
+console.log(document.body); // Notice that the divs have been added
+```
+
+### Leverage virtual DOM libraries
+
+Libraries like React use a virtual DOM to batch updates and minimize direct DOM manipulation, which can significantly improve performance.
+
+```js
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+const App = () => (
+  <div>
+    <h1>Hello, world!</h1>
+  </div>
+);
+
+ReactDOM.render(<App />, document.getElementById('root'));
+```
+
+### Use `requestAnimationFrame` for animations
+
+For smoother animations, use `requestAnimationFrame` to ensure updates are synchronized with the browser's repaint cycle.
+
+```js
+function animate() {
+  // Update animation state
+  requestAnimationFrame(animate);
+}
+requestAnimationFrame(animate);
+```
+
+### Avoid layout thrashing
+
+Layout thrashing occurs when you read and write to the DOM repeatedly in a way that forces the browser to recalculate styles and layout multiple times. To avoid this, separate read and write operations.
+
+```js live
+// Creating an element for the example below
+const newElement = document.createElement('div');
+newElement.id = 'myElement';
+document.body.appendChild(newElement);
+
+const element = document.getElementById('myElement');
+const height = element.clientHeight; // Read
+element.style.height = `${height + 10}px`; // Write
+```
+
+## Further reading
+
+- [FreeCodeCamp: DOM Manipulation in JavaScript](https://www.freecodecamp.org/news/dom-manipulation-in-javascript/)
+- [Google Developers: Avoid large, complex layouts and layout thrashing](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing)
+- [React documentation](https://react.dev/learn)
+- [MDN Web Docs: Using requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)

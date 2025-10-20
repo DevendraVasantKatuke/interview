@@ -1,0 +1,94 @@
+---
+title: What are template literals and how are they used?
+---
+
+## TL;DR
+
+Template literals are a feature in JavaScript that allow for easier string interpolation and multi-line strings. They are enclosed by backticks (`` ` ``) instead of single or double quotes. You can embed expressions within template literals using `${expression}` syntax.
+
+Example:
+
+```js live
+const myName = 'John';
+const greeting = `Hello, ${myName}!`;
+console.log(greeting); // Output: Hello, John!
+```
+
+---
+
+## What are template literals and how are they used?
+
+### Introduction to template literals
+
+Template literals are a feature introduced in ES6 (ECMAScript 2015) that provide an easier and more readable way to work with strings in JavaScript. They allow for string interpolation, multi-line strings, and embedded expressions.
+
+### Syntax
+
+Template literals are enclosed by backticks (`` ` ``) instead of single or double quotes. This allows for more flexible string formatting.
+
+### String interpolation
+
+One of the most powerful features of template literals is string interpolation. You can embed expressions within a string using `${expression}` syntax.
+
+Example:
+
+```js live
+const myName = 'John';
+const age = 30;
+const greeting = `Hello, my name is ${myName} and I am ${age} years old.`;
+console.log(greeting); // Output: Hello, my name is John and I am 30 years old.
+```
+
+### Multi-line strings
+
+Template literals make it easy to create multi-line strings without the need for escape characters.
+
+Example:
+
+```js live
+const multiLineString = `This is a string
+that spans multiple
+lines.`;
+console.log(multiLineString);
+// Output:
+// This is a string
+// that spans multiple
+// lines.
+```
+
+### Tagged templates
+
+Tagged templates allow you to parse template literals with a function. The function can then manipulate the template literal's content before it is output.
+
+Example:
+
+```js live
+function tag(strings, ...values) {
+  console.log(strings); // Array of string literals: ["Hello, ", "!"]
+  console.log(values); // Array of values: ["John"]
+  return 'Custom tagged template result';
+}
+
+const myName = 'John';
+const result = tag`Hello, ${myName}!`;
+console.log(result); // Output: Custom tagged template result
+```
+
+### Nesting template literals
+
+You can nest template literals within each other for more complex string constructions.
+
+Example:
+
+```js live
+const myName = 'John';
+const age = 30;
+const nestedTemplate = `Name: ${myName}, Age: ${age}, Info: ${`Name: ${myName}, Age: ${age}`}`;
+console.log(nestedTemplate);
+// Output: Name: John, Age: 30, Info: Name: John, Age: 30
+```
+
+## Further reading
+
+- [MDN Web Docs: Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- [Qwirey.com: Template literals](https://qwirey.com/technology/es6-features.html#qwp-fold-templateliterals)

@@ -25,6 +25,7 @@
 -	https://arc.dev/
 -	https://www.micro1.ai/
 -	https://www.zignuts.com/
+-	https://www.sharpener.tech/data-science-analytics-course/
 -	naukri.com
 -	Urbanpro, Youtube, Medium
 -	https://www.atlassian.com/company/careers/all-jobs
