@@ -3,7 +3,6 @@
 -	https://cord.co/
 -	https://wellfound.com/
 -	https://remoteok.com/
--	https://remoteok.com/
 -	https://www.remotely.works/
 -	https://jsremotely.com/
 -	https://echojobs.io/
@@ -12,7 +11,6 @@
 -	https://ats.uplers.com/talent/joinus
 -	https://developers.turing.com/login?redirect=%2Fdashboard%2Fprofile
 -   https://www.instahyre.com/
--   https://www.uplers.com/
 -	https://www.crossover.com/jobs
 -	https://www.getrocket.com/
 -	https://builtin.com/
@@ -32,13 +30,20 @@
 -	US-based GSV Ventures, which invests solely in edtech companies around the world,
 -	https://app.vidiq.com/channels/a0be49bb-dc66-4429-bcc1-f37c8a2ee890/dashboard
 -   https://www.techgig.com/
--   https://developers.turing.com/signup
-- https://youtu.be/-fHdQABU5JE?si=ky2UCGEF7FwCrVmO
-- https://youtu.be/zfy8UAou-cU?si=P4LgjONf0_NZqklF
-- https://youtu.be/JvzjT07O_yY?si=QZtIYAW8AUxq8vBt
-- https://youtu.be/_m-rlZFwy-g?si=s2_ce0g8Z4hk9w5n
-- https://youtu.be/bVdf1FdLP40?si=cv8kitKWEjr3n0MC
-- https://youtu.be/VDr08j2OlEM?si=B4WkvHjORkBIH08Q
-- https://youtu.be/HoQ5iluNJz8?si=Wx2IguILqoQarH5w
-- https://www.flipkartleap.com/
-- https://klubworks.com/
+-	https://ibmglobal.avature.net/en_US/careers/JobAlerts IBMId: devendrakatuke@gmail.com Password: Nomad@123456
+-	https://careers.swissre.com/
+-	https://youtu.be/-fHdQABU5JE?si=ky2UCGEF7FwCrVmO
+-	https://youtu.be/zfy8UAou-cU?si=P4LgjONf0_NZqklF
+-	https://youtu.be/JvzjT07O_yY?si=QZtIYAW8AUxq8vBt
+-	https://youtu.be/_m-rlZFwy-g?si=s2_ce0g8Z4hk9w5n
+-	https://youtu.be/bVdf1FdLP40?si=cv8kitKWEjr3n0MC
+-	https://youtu.be/VDr08j2OlEM?si=B4WkvHjORkBIH08Q
+-	https://youtu.be/HoQ5iluNJz8?si=Wx2IguILqoQarH5w
+-	https://www.flipkartleap.com/
+-	https://klubworks.com/
+-	https://sanchiconnect.com/velocity/
+-	https://careers.microsoft.com/v2/global/en/home.html
+-	https://www.epam.com/careers
+-	https://talent500.com/
+-	https://inumellas.com/
+-	https://www.ignitesol.com/

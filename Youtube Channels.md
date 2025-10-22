@@ -121,174 +121,177 @@
 -   https://www.youtube.com/@CloudGurus
 -   https://www.youtube.com/@cloudtechburner
 -   https://www.youtube.com/@CloudAMQP
--   https://www.youtube.com/@dotnet
-
-A shot of code: https://www.youtube.com/channel/UC0HsZmiuGCRpKUHR_owGuxA
-AbdisalanCodes: https://www.youtube.com/channel/UC3IZLtnKL9wZ8wuuQg3MJPA
-Ably Realtime: https://www.youtube.com/channel/UCC-sGGUfT-ot_E8i1ARYQVw
-Academind: 
-adamthedev:
-An Insightful Techie: https://www.youtube.com/@AnInsightfulTechie
-Adnan Afzal: https://www.youtube.com/channel/UCieZRYaed8NCOSN5N_PpyHQ
-Adrian Twarog: https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ
-Advance Coding: https://www.youtube.com/channel/UCDgoLt9HemDQgn6mzdSbZVQ
-AfterAcademy: https://www.youtube.com/channel/UCxpfWcB3BD7qM0W-dBGS5pA
-Akshay Saini: https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ
-Aldo Caamal:
-Alex the Entreprenerd:
-All Things JavaScript LLC:
-AlterClass: https://www.youtube.com/channel/UCn858neTm5-bPjl6-wznR2g
-Alway Studios:
-Amigoscode: https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw
-Andre Barnes: https://www.youtube.com/user/techie2m (Pirated Videos)
-Andrew Burgess: https://www.youtube.com/@andrew-burgess
-Angga Risky: https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ
-Anagh Technologies Inc:
-Andrew Connell: https://www.youtube.com/c/AndrewConnell1
-Android Developers: https://www.youtube.com/c/AndroidDevelopers
-Another Dev: https://www.youtube.com/channel/UCKGx5fGw5FuTybzBGdZ3uBQ/videos
-Anthony Sistilli: https://www.youtube.com/c/AnthonySistilli, https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg
-Anuj Bhaiya: https://www.youtube.com/c/AnujBhaiya
-ANZ Coders:
-AppDevNotes: https://www.youtube.com/@AnushkaMadusanka
-Arfin Hosain: https://www.youtube.com/@arfinhosain
-Arjun Yonjan / Code Travel: https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng
-asat: https://www.youtube.com/channel/UCUa7tKcxbqSpeTCd4UEaR5w/videos
-Asim Code: https://www.youtube.com/channel/UC2wyJKxwEEk_CK_HkqgZ_6g
-AsmrProg: https://www.youtube.com/@AsmrProg
-Auth0: https://www.youtube.com/channel/UCUlQ5VoIzE_kFbYjzUwHTKA
-AV Dojo: https://www.youtube.com/c/AVDojo
-AvetisG Programming: https://www.youtube.com/channel/UCFveDSYkRjRve8ly3qXVqCw
-Back To Back SWE: https://www.youtube.com/c/BackToBackSWE
-Backbench Coder: https://www.youtube.com/c/BackbenchCoder
-Barry Michael Doyle: https://www.youtube.com/@BarryMichaelDoyle
-basarat: https://www.youtube.com/@basarat
-Bastian Heist: https://www.youtube.com/channel/UCBewCTGOoHYajTr-iv4OufQ
-Baylor Breaks it Down:
-Before Semicolon: https://www.youtube.com/c/BeforeSemicolon, https://www.youtube.com/channel/UCrU33aw1k9BqTIq2yKXrmBw
-BeJS: https://www.youtube.com/@BeJScommunity
-Ben Awad: https://www.youtube.com/c/BenAwad97
-Ben Dechrai: https://www.youtube.com/channel/UCY5SDWGg5Wa1ptwFF1EXQPg
-Better Coding Academy:
-Bhargav Ponnapalli:
-Bitfumes:
-Bleeding Code:
-Bogdan Stashchuk: https://www.youtube.com/channel/UCiyasqPIZz8zzbJp7-17dJw
-Brandan Jones: https://www.youtube.com/channel/UCYZCPdpz0ClWyGJWd1dZsug
-Brent Aureli Codes: https://www.youtube.com/channel/UCO9JvZ75Usyzgd1puurLF6A
-Brent Aurelis:
-Brian Design: https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A
-Brice Ayres: https://www.youtube.com/c/CodeLifeBrice
-Bruno Antunes: https://www.youtube.com/@BrunoAntunesPT
-Booster Framework: https://www.youtube.com/channel/UCpUTONI8OG19pr9A4cn35DA
-Cambo Tutorial: https://www.youtube.com/c/CamboTutorial
-Cand Dev:
-Carlos Mafla:
-Cheezy Code: https://www.youtube.com/c/CheezyCode, https://www.youtube.com/@CheezyCode
-Chigabiga:
-Chris Gets Better:
-Chris Hawkes:
-Chris Peele: 
-Classed: https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg
-Cloud Foundry: https://www.youtube.com/channel/UC0ZYS0Y7b5oiVLvxGf4magw
-Codanv: https://www.youtube.com/channel/UCwbQQu92VNMhcidYbOArJYg
-CodAffection: https://www.youtube.com/channel/UCvzlnZbePin9kH-1JCKBt8Q
-Code And Create: https://www.youtube.com/channel/UCtOmmC3Z8WSn45VgTAKBHhA
-Code Artistry:
-Code Drip by Aaron Jack: https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g
-Code Improve: https://www.youtube.com/channel/UC7lBFYhQ35TN7J4VJIDVMNA
-Code Labs tkssharma Code Studio:
-Code Labs: https://www.youtube.com/channel/UCS1NeZF0Or2E1RAV9hQJz3g
-Code Realm:
-Code School: https://www.youtube.com/user/Profyx
-Code Step By Step: https://www.youtube.com/c/phpstepbystep, https://www.youtube.com/channel/UCvHX2bCZG2m9ddUhwxudKYA
-Code Studio: https://www.youtube.com/channel/UCIgpnDfR6LMN94lqMVLPoPw
-Code Tour: https://www.youtube.com/channel/UCKw5BEPpSAo-sPDHLsZ_BLA
-Code University Online: https://www.youtube.com/@codeuniversityonline7510, https://www.youtube.com/@codeuniversityonline7510
-Code with Ania Kubów: https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw
-Code With Ghazi: https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg
-Code with Jay: https://www.youtube.com/@codewithjay
-Code With Kristian: https://www.youtube.com/@CodewithKristian
-Code With Rajesh: https://www.youtube.com/channel/UCvhIKdT611F_ebrmIbQ9VDQ
-Code With Santosh Yadav: https://www.youtube.com/channel/UC3bftrzdv1tggrn9NfxAkjw
-Code with Sunil Sandhu JavaScript: https://www.youtube.com/channel/UCtipWUghju290NWcn8jhyAw
-Code with tkssharma: https://www.youtube.com/channel/UCS1NeZF0Or2E1RAV9hQJz3g
-code works: https://www.youtube.com/channel/UCi8aTCUtzuJ1U7jjzPZiC7g
-code-news: https://www.youtube.com/channel/UCWJpkYD2AbYcHFZ7JUZR6Lw
-CodeBig: https://www.youtube.com/channel/UC2doO6H5KvvRpzp1_94NDQg
-codebubb: https://www.youtube.com/@codebubb
-CodeBucks: https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA
-CodeBytes: https://www.youtube.com/channel/UCSVASBUstE6lHpOjz2x2Vfw
-codedamn: https://www.youtube.com/c/codedamn
-Codemy School: https://www.youtube.com/c/codemynet
-Coder Monk: https://www.youtube.com/channel/UCywpR6E1lpk66CHhGziz8Bg
-Coder Singh: https://www.youtube.com/channel/UCkrbvpSHYOTYAS7KujEkIxA
-Coders Gyan: https://www.youtube.com/channel/UCo9xTRmg1SqQ5JSsA2fAgJw
-Coders Page: https://www.youtube.com/channel/UC4boMCGWnrun23L4GIFArWg
-CodeLit: https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw
-CODERS NEVER QUIT: https://www.youtube.com/channel/UCM-4HE0R3iLxKB7qaq1bskw
-CoderOne: https://www.youtube.com/c/CoderOne
-codepanion: https://www.youtube.com/channel/UCkhit0YHPDVvqogIly9yBLQ
-Coderplex Community: https://www.youtube.com/channel/UCTkguToherUvVNnzMFINk-w
-Codepur: https://www.youtube.com/@HelloCodepur
-Coder Dost: https://www.youtube.com/@coderdost
-CoderOne: https://www.youtube.com/@CoderOne
-CodeSikho: https://www.youtube.com/user/shagun745
-CodeSpace: https://www.youtube.com/c/codespace, https://www.youtube.com/channel/UCTI8_vW-CmKkZuWIU7Yi8BQ
-codeSTACKr: https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw
-CodeWithMazn: https://www.youtube.com/c/CodeWithMazn
-Codevolution: https://www.youtube.com/@Codevolution, https://www.youtube.com/c/Codevolution, https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
-CodeWithTim: https://www.youtube.com/channel/UC-4UaMoSmZxS8q_6v-va6Mw
-Codexpanse: https://www.youtube.com/@Codexpanse
-Coding Addict: https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA
-Coding Blocks: https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw
-Coding Club IITG: https://www.youtube.com/channel/UCDnkfawOe_7OlNehxJ2TYdA
-Coding Decoded: https://www.youtube.com/@CodeWithSunchitDudeja
-Coding Garden: https://www.youtube.com/@CodingGarden, https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw
-Coding Shiksha: https://www.youtube.com/channel/UCR6d0EiC3G4WA8-Rqji6a8g
-Coding Sprint: https://www.youtube.com/@codingsprint
-Coding Star: https://www.youtube.com/channel/UCwQOndlLaoNIqdVlOF87jSA
-Coding Tech: https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ
-Coding with Basir: https://www.youtube.com/channel/UC2xRE4hUCQ3xO3ymEtMh1Hw
-Coding With Biscuits: https://www.youtube.com/channel/UCYrmQyHKn4yDSnl-PYjM2Fw
-Coding With Chaim: https://www.youtube.com/c/CodingWithChaim, https://www.youtube.com/channel/UC7sCgeZ9xOwCGHIp2mVWlUQ
-Coding With Chip: https://www.youtube.com/channel/UC4u0FXRaTDwc-SKUTGto2Kg
-Coding with Seth: https://www.youtube.com/channel/UCBZseZ5y5P8sK-87Kqj8MJQ
-Coding With Tea: https://www.youtube.com/c/CodingWithTea
-CodingItWrong: https://www.youtube.com/@CodingItWrong
-CodingLikeDavid: https://www.youtube.com/c/CodingLikeDavid
-CodingNepal: https://www.youtube.com/@CodingNepal
-Codez Tech: https://www.youtube.com/c/CodezTech
-Codingflag: https://www.youtube.com/channel/UCXDLrsqe14uFu6k96xjlF4w
-CodingItWrong: https://www.youtube.com/channel/UCa-4tbLDX_lmq2f40L0paZw
-CodingLikeDavid: https://www.youtube.com/channel/UC0Q83dYrLW9_gRkAr9DFW7g
-CodingTheSmartWay com: https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ
-CodingWithMitch: https://www.youtube.com/@codingwithmitch, https://www.youtube.com/c/CodingWithMitch
-CodeWorkr: https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw
-Codeytek Academy: https://www.youtube.com/channel/UC0SDxbLAqoKLACyEPz2wXAg
-Codú Community: https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw
-Colby Fayock: https://www.youtube.com/channel/UC7Wpv0Aft4NPNhHWW_JC4GQ
-ColorCode: https://www.youtube.com/@ColorCodeio
-Colt Steele: 
-Competent Programming: https://www.youtube.com/channel/UCZBwn0Sdl3mabNeDCIJmNlg
-Complete Coding: https://www.youtube.com/channel/UC8uBP0Un18DJAnWjm1CPqBg
-Computer Baba: https://www.youtube.com/@ComputerBabaOfficial
-ComScience Simplified: https://www.youtube.com/channel/UCowumzu6ojutpuj-wzqTIcA
-Confluent: https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA
-Contentful: https://www.youtube.com/channel/UCrsEcxPCJlz5yZ_FKGo6D9g
-Continuous Delivery: https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g
-Corey Schafer: https://www.youtube.com/user/schafer5
-Cory Schmitt: https://www.youtube.com/channel/UCphttZqk5F3eqTVz0T4du5A
-Course On Demand: https://www.youtube.com/@CourseOnDemandEducation
-Creative Developer: https://www.youtube.com/channel/UChvdeIMdCXM413e0uNhq-tg
-Creative Tim Tutorials: https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w
-Crispy Frontend: https://www.youtube.com/@crispy-frontend
-Cryce Truly: https://www.youtube.com/c/CryceTruly, https://www.youtube.com/channel/UCQM4dR3UREnGIHz93zRw_0Q
-D Coding Studio!: https://www.youtube.com/c/DCodingStudio
-Daily Tuition: https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw
-Daniel Malone: https://www.youtube.com/c/DanielMalone
-Daniel Zuzevich: https://www.youtube.com/channel/UCu3XIztjOU2tJmeqk7xzU8A
-Darwin Tech: https://www.youtube.com/channel/UCaqbUmmW0YOOUpxmLOJVjgQ
+-	https://www.youtube.com/@dotnet
+## A
+-	A shot of code: https://www.youtube.com/channel/UC0HsZmiuGCRpKUHR_owGuxA
+-	AbdisalanCodes: https://www.youtube.com/channel/UC3IZLtnKL9wZ8wuuQg3MJPA
+-	Ably Realtime: https://www.youtube.com/channel/UCC-sGGUfT-ot_E8i1ARYQVw
+-	Academind: 
+-	adamthedev:
+-	An Insightful Techie: https://www.youtube.com/@AnInsightfulTechie
+-	Adnan Afzal: https://www.youtube.com/channel/UCieZRYaed8NCOSN5N_PpyHQ
+-	Adrian Twarog: https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ
+-	Advance Coding: https://www.youtube.com/channel/UCDgoLt9HemDQgn6mzdSbZVQ
+-	AfterAcademy: https://www.youtube.com/channel/UCxpfWcB3BD7qM0W-dBGS5pA
+-	Akshay Saini: https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ
+-	Aldo Caamal:
+-	Alex the Entreprenerd:
+-	All Things JavaScript LLC:
+-	AlterClass: https://www.youtube.com/channel/UCn858neTm5-bPjl6-wznR2g
+-	Alway Studios:
+-	Amigoscode: https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw
+-	Andre Barnes: https://www.youtube.com/user/techie2m (Pirated Videos)
+-	Andrew Burgess: https://www.youtube.com/@andrew-burgess
+-	Angga Risky: https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ
+-	Anagh Technologies Inc:
+-	Andrew Connell: https://www.youtube.com/c/AndrewConnell1
+-	Android Developers: https://www.youtube.com/c/AndroidDevelopers
+-	Another Dev: https://www.youtube.com/channel/UCKGx5fGw5FuTybzBGdZ3uBQ/videos
+-	Anthony Sistilli: https://www.youtube.com/c/AnthonySistilli, https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg
+-	Anuj Bhaiya: https://www.youtube.com/c/AnujBhaiya
+-	ANZ Coders:
+-	AppDevNotes: https://www.youtube.com/@AnushkaMadusanka
+-	Arfin Hosain: https://www.youtube.com/@arfinhosain
+-	Arjun Yonjan / Code Travel: https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng
+-	asat: https://www.youtube.com/channel/UCUa7tKcxbqSpeTCd4UEaR5w/videos
+-	Asim Code: https://www.youtube.com/channel/UC2wyJKxwEEk_CK_HkqgZ_6g
+-	AsmrProg: https://www.youtube.com/@AsmrProg
+-	Auth0: https://www.youtube.com/channel/UCUlQ5VoIzE_kFbYjzUwHTKA
+-	AV Dojo: https://www.youtube.com/c/AVDojo
+-	AvetisG Programming: https://www.youtube.com/channel/UCFveDSYkRjRve8ly3qXVqCw
+## B
+-	Back To Back SWE: https://www.youtube.com/c/BackToBackSWE
+-	Backbench Coder: https://www.youtube.com/c/BackbenchCoder
+-	Barry Michael Doyle: https://www.youtube.com/@BarryMichaelDoyle
+-	basarat: https://www.youtube.com/@basarat
+-	Bastian Heist: https://www.youtube.com/channel/UCBewCTGOoHYajTr-iv4OufQ
+-	Baylor Breaks it Down:
+-	Before Semicolon: https://www.youtube.com/c/BeforeSemicolon, https://www.youtube.com/channel/UCrU33aw1k9BqTIq2yKXrmBw
+-	BeJS: https://www.youtube.com/@BeJScommunity
+-	Ben Awad: https://www.youtube.com/c/BenAwad97
+-	Ben Dechrai: https://www.youtube.com/channel/UCY5SDWGg5Wa1ptwFF1EXQPg
+-	Better Coding Academy:
+-	Bhargav Ponnapalli:
+-	Bitfumes:
+-	Bleeding Code:
+-	Bogdan Stashchuk: https://www.youtube.com/channel/UCiyasqPIZz8zzbJp7-17dJw
+-	Brandan Jones: https://www.youtube.com/channel/UCYZCPdpz0ClWyGJWd1dZsug
+-	Brent Aureli Codes: https://www.youtube.com/channel/UCO9JvZ75Usyzgd1puurLF6A
+-	Brent Aurelis:
+-	Brian Design: https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A
+-	Brice Ayres: https://www.youtube.com/c/CodeLifeBrice
+-	Bruno Antunes: https://www.youtube.com/@BrunoAntunesPT
+-	Booster Framework: https://www.youtube.com/channel/UCpUTONI8OG19pr9A4cn35DA
+## C
+-	Cambo Tutorial: https://www.youtube.com/c/CamboTutorial
+-	Cand Dev:
+-	Carlos Mafla:
+-	Cheezy Code: https://www.youtube.com/c/CheezyCode, https://www.youtube.com/@CheezyCode
+-	Chigabiga:
+-	Chris Gets Better:
+-	Chris Hawkes:
+-	Chris Peele: 
+-	Classed: https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg
+-	Cloud Foundry: https://www.youtube.com/channel/UC0ZYS0Y7b5oiVLvxGf4magw
+-	Codanv: https://www.youtube.com/channel/UCwbQQu92VNMhcidYbOArJYg
+-	CodAffection: https://www.youtube.com/channel/UCvzlnZbePin9kH-1JCKBt8Q
+-	Code And Create: https://www.youtube.com/channel/UCtOmmC3Z8WSn45VgTAKBHhA
+-	Code Artistry:
+-	Code Drip by Aaron Jack: https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g
+-	Code Improve: https://www.youtube.com/channel/UC7lBFYhQ35TN7J4VJIDVMNA
+-	Code Labs tkssharma Code Studio:
+-	Code Labs: https://www.youtube.com/channel/UCS1NeZF0Or2E1RAV9hQJz3g
+-	Code Realm:
+-	Code School: https://www.youtube.com/user/Profyx
+-	Code Step By Step: https://www.youtube.com/c/phpstepbystep, https://www.youtube.com/channel/UCvHX2bCZG2m9ddUhwxudKYA
+-	Code Studio: https://www.youtube.com/channel/UCIgpnDfR6LMN94lqMVLPoPw
+-	Code Tour: https://www.youtube.com/channel/UCKw5BEPpSAo-sPDHLsZ_BLA
+-	Code University Online: https://www.youtube.com/@codeuniversityonline7510, https://www.youtube.com/@codeuniversityonline7510
+-	Code with Ania Kubów: https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw
+-	Code With Ghazi: https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg
+-	Code with Jay: https://www.youtube.com/@codewithjay
+-	Code With Kristian: https://www.youtube.com/@CodewithKristian
+-	Code With Rajesh: https://www.youtube.com/channel/UCvhIKdT611F_ebrmIbQ9VDQ
+-	Code With Santosh Yadav: https://www.youtube.com/channel/UC3bftrzdv1tggrn9NfxAkjw
+-	Code with Sunil Sandhu JavaScript: https://www.youtube.com/channel/UCtipWUghju290NWcn8jhyAw
+-	Code with tkssharma: https://www.youtube.com/channel/UCS1NeZF0Or2E1RAV9hQJz3g
+-	code works: https://www.youtube.com/channel/UCi8aTCUtzuJ1U7jjzPZiC7g
+-	code-news: https://www.youtube.com/channel/UCWJpkYD2AbYcHFZ7JUZR6Lw
+-	CodeBig: https://www.youtube.com/channel/UC2doO6H5KvvRpzp1_94NDQg
+-	codebubb: https://www.youtube.com/@codebubb
+-	CodeBucks: https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA
+-	CodeBytes: https://www.youtube.com/channel/UCSVASBUstE6lHpOjz2x2Vfw
+-	codedamn: https://www.youtube.com/c/codedamn
+-	Codemy School: https://www.youtube.com/c/codemynet
+-	Coder Monk: https://www.youtube.com/channel/UCywpR6E1lpk66CHhGziz8Bg
+-	Coder Singh: https://www.youtube.com/channel/UCkrbvpSHYOTYAS7KujEkIxA
+-	Coders Gyan: https://www.youtube.com/channel/UCo9xTRmg1SqQ5JSsA2fAgJw
+-	Coders Page: https://www.youtube.com/channel/UC4boMCGWnrun23L4GIFArWg
+-	CodeLit: https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw
+-	CODERS NEVER QUIT: https://www.youtube.com/channel/UCM-4HE0R3iLxKB7qaq1bskw
+-	CoderOne: https://www.youtube.com/c/CoderOne
+-	codepanion: https://www.youtube.com/channel/UCkhit0YHPDVvqogIly9yBLQ
+-	Coderplex Community: https://www.youtube.com/channel/UCTkguToherUvVNnzMFINk-w
+-	Codepur: https://www.youtube.com/@HelloCodepur
+-	Coder Dost: https://www.youtube.com/@coderdost
+-	CoderOne: https://www.youtube.com/@CoderOne
+-	CodeSikho: https://www.youtube.com/user/shagun745
+-	CodeSpace: https://www.youtube.com/c/codespace, https://www.youtube.com/channel/UCTI8_vW-CmKkZuWIU7Yi8BQ
+-	codeSTACKr: https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw
+-	CodeWithMazn: https://www.youtube.com/c/CodeWithMazn
+-	Codevolution: https://www.youtube.com/@Codevolution, https://www.youtube.com/c/Codevolution, https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
+-	CodeWithTim: https://www.youtube.com/channel/UC-4UaMoSmZxS8q_6v-va6Mw
+-	Codexpanse: https://www.youtube.com/@Codexpanse
+-	Coding Addict: https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA
+-	Coding Blocks: https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw
+-	Coding Club IITG: https://www.youtube.com/channel/UCDnkfawOe_7OlNehxJ2TYdA
+-	Coding Decoded: https://www.youtube.com/@CodeWithSunchitDudeja
+-	Coding Garden: https://www.youtube.com/@CodingGarden, https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw
+-	Coding Shiksha: https://www.youtube.com/channel/UCR6d0EiC3G4WA8-Rqji6a8g
+-	Coding Sprint: https://www.youtube.com/@codingsprint
+-	Coding Star: https://www.youtube.com/channel/UCwQOndlLaoNIqdVlOF87jSA
+-	Coding Tech: https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ
+-	Coding with Basir: https://www.youtube.com/channel/UC2xRE4hUCQ3xO3ymEtMh1Hw
+-	Coding With Biscuits: https://www.youtube.com/channel/UCYrmQyHKn4yDSnl-PYjM2Fw
+-	Coding With Chaim: https://www.youtube.com/c/CodingWithChaim, https://www.youtube.com/channel/UC7sCgeZ9xOwCGHIp2mVWlUQ
+-	Coding With Chip: https://www.youtube.com/channel/UC4u0FXRaTDwc-SKUTGto2Kg
+-	Coding with Seth: https://www.youtube.com/channel/UCBZseZ5y5P8sK-87Kqj8MJQ
+-	Coding With Tea: https://www.youtube.com/c/CodingWithTea
+-	CodingItWrong: https://www.youtube.com/@CodingItWrong
+-	CodingLikeDavid: https://www.youtube.com/c/CodingLikeDavid
+-	CodingNepal: https://www.youtube.com/@CodingNepal
+-	Codez Tech: https://www.youtube.com/c/CodezTech
+-	Codingflag: https://www.youtube.com/channel/UCXDLrsqe14uFu6k96xjlF4w
+-	CodingItWrong: https://www.youtube.com/channel/UCa-4tbLDX_lmq2f40L0paZw
+-	CodingLikeDavid: https://www.youtube.com/channel/UC0Q83dYrLW9_gRkAr9DFW7g
+-	CodingTheSmartWay com: https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ
+-	CodingWithMitch: https://www.youtube.com/@codingwithmitch, https://www.youtube.com/c/CodingWithMitch
+-	CodeWorkr: https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw
+-	Codeytek Academy: https://www.youtube.com/channel/UC0SDxbLAqoKLACyEPz2wXAg
+-	Codú Community: https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw
+-	Colby Fayock: https://www.youtube.com/channel/UC7Wpv0Aft4NPNhHWW_JC4GQ
+-	ColorCode: https://www.youtube.com/@ColorCodeio
+-	Colt Steele: 
+-	Competent Programming: https://www.youtube.com/channel/UCZBwn0Sdl3mabNeDCIJmNlg
+-	Complete Coding: https://www.youtube.com/channel/UC8uBP0Un18DJAnWjm1CPqBg
+-	Computer Baba: https://www.youtube.com/@ComputerBabaOfficial
+-	ComScience Simplified: https://www.youtube.com/channel/UCowumzu6ojutpuj-wzqTIcA
+-	Confluent: https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA
+-	Contentful: https://www.youtube.com/channel/UCrsEcxPCJlz5yZ_FKGo6D9g
+-	Continuous Delivery: https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g
+-	Corey Schafer: https://www.youtube.com/user/schafer5
+-	Cory Schmitt: https://www.youtube.com/channel/UCphttZqk5F3eqTVz0T4du5A
+-	Course On Demand: https://www.youtube.com/@CourseOnDemandEducation
+-	Creative Developer: https://www.youtube.com/channel/UChvdeIMdCXM413e0uNhq-tg
+-	Creative Tim Tutorials: https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w
+-	Crispy Frontend: https://www.youtube.com/@crispy-frontend
+-	Cryce Truly: https://www.youtube.com/c/CryceTruly, https://www.youtube.com/channel/UCQM4dR3UREnGIHz93zRw_0Q
+## D
+-	D Coding Studio!: https://www.youtube.com/c/DCodingStudio
+-	Daily Tuition: https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw
+-	Daniel Malone: https://www.youtube.com/c/DanielMalone
+-	Daniel Zuzevich: https://www.youtube.com/channel/UCu3XIztjOU2tJmeqk7xzU8A
+-	Darwin Tech: https://www.youtube.com/channel/UCaqbUmmW0YOOUpxmLOJVjgQ
 Dave Gray: https://www.youtube.com/@DaveGrayTeachesCode
 dcode:
 DCoders:
