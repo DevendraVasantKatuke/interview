@@ -47,3 +47,6 @@
 -	https://talent500.com/
 -	https://inumellas.com/
 -	https://www.ignitesol.com/
+-	https://itviec.com/
+-	https://assignmentsabroadtimes.in/
+-	https://builtin.com/jobs
