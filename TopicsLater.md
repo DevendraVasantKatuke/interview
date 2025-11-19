@@ -1,13 +1,3 @@
-## Communication
-- https://developer.bondy.io/
-- https://wamp-proto.org/index.html
-- https://matrix.org/
-- https://atproto.com/
-- WebSocket vs WebTransport
-- https://developer.chrome.com/docs/capabilities/web-apis/webtransport
-- https://www.videosdk.live/developer-hub/webtransport/webtransport-api
-- https://www.digitalocean.com/community/tags/docker
-- https://wamp-proto.org/index.html
 ## Python
 - https://fluentpython.jjmachan.in/
 - https://blog.unwiredlearning.com/python
@@ -37,6 +27,10 @@
 - https://www.edureka.co/blog/data-cleaning-in-python/
 - https://www.edureka.co/blog/data-structures-in-python/
 - https://realpython.com/ (7 days free)
+- https://www.tutorialspoint.com/python_technologies_tutorials.htm
+- https://www.tutorialspoint.com/python/index.htm
+- https://www.naukri.com/code360/library/python
+- https://builtin.com/tag/python
 - https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
 - https://www.youtube.com/playlist?list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7
 - https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
@@ -67,8 +61,12 @@
 - https://www.youtube.com/playlist?list=PLmdFyQYShrjd4Qn42rcBeFvF6Qs-b6e-L
 - https://www.youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK
 ## Pandas, Polars. Spark, PySpark
-- https://spark.apache.org/
-- https://www.datacamp.com/blog/learn-pyspark
+	-	Complete Jupyter Notebook Course in one Video https://youtu.be/YlbcX0lOUo4?si=Pu8Lyg_bTtjdCFgS
+	-	Master Pandas a Data Analysis Python Tool
+	-	https://spark.apache.org/
+	-	The Python Pandas Tutorial https://youtu.be/LJTm8_IJGNY?si=PQEGaiIPQehx9f4h
+	-	https://www.datacamp.com/blog/learn-pyspark
+	-	Master Pandas a Data Analysis Python Tool https://youtu.be/Eo-6TPYnqtc?si=n1cb04o86JjHAl38
 - https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark
 - https://www.datacamp.com/tutorial/apache-spark-tutorial-machine-learning
 - https://www.youtube.com/playlist?list=PLGCTB_rNVNUNbuEY4kW6lf9El8B2yiWEo
@@ -134,8 +132,14 @@
 - https://youtu.be/fkWxiesfrgk?si=P13iy3wmB7uIUZ8L
 - https://youtu.be/LJtShrQqYZY?si=WHy2LMHrq8y9LgRY
 ## AI, ML, Deep Learning, NLP, LLM
+- https://www.naukri.com/code360/library/big-data
+- https://www.naukri.com/code360/library/natural-language-processing
+- https://www.naukri.com/code360/library/computer-vision
+- https://www.naukri.com/code360/library/deep-learning
+- https://www.naukri.com/code360/library/machine-learning
 - https://onnxruntime.ai/
 - https://platform.openai.com/docs/overview
+- https://www.tutorialspoint.com/machine_learning_tutorials.htm
 - https://youtu.be/V4nxbrJ6MFo?si=ZK75SPFUHd_zU6MB
 - https://www.youtube.com/playlist?list=PL9ooVrP1hQOGMkx8a9vEgzNopaqkTkewc
 - https://www.youtube.com/playlist?list=PL5Agzt13Z4g8NN5vAtHbGoVgFBawXZSUj
