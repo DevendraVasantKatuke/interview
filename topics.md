@@ -1,34 +1,25 @@
-## Sites, Channels
-- https://www.youtube.com/@AntonPutra
-- https://www.youtube.com/@nebulit
-- https://www.youtube.com/@codeforinterview
-- https://www.youtube.com/@Alta3Research
-- https://www.youtube.com/@CodeOpinion
-- https://www.youtube.com/@DevOpsDirective
-- https://www.youtube.com/@TechnoTim
-- https://www.youtube.com/watch?v=2lUr4Mey0is&list=PLTgRMOcmRb3NXaiWg43YQX91t6BtZ-QOn
-- https://www.youtube.com/watch?v=oBt53YbR9Kk
-- https://www.youtube.com/@TechWorldwithNana
-- https://www.youtube.com/@ChiragBhalodia
-- https://www.youtube.com/@codewithjay
-## 1. Javascript
+## 1 Javascript
 - https://exploringjs.com/js/book/index.html
 - https://exploringjs.com/es5/toc.html
 - https://exploringjs.com/es6/index.html
 - https://exploringjs.com/deep-js/toc.html
 - https://exercism.org/tracks/javascript/exercises
+- https://johnresig.com/apps/learn/
 - https://ponyfoo.com/
+- https://www.promisejs.org/
+- https://www.codementor.io/@zacksiri/javascript-promise-api-basics-szmiuoinl
+- https://blog.greenroots.info/introducing-promiviz-visualize-and-learn-javascript-promise-apis
+- https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+- https://www.joshwcomeau.com/javascript/
 - Lydia Halle Javascript tricky questions
 - Sudhirji
-- https://www.dofactory.com/javascript/design-patterns
-- https://www.dofactory.com/javascript
-- https://refactoring.guru/
+= https://www.letscodejavascript.com/
 - https://www.simplilearn.com/tutorials/javascript-tutorial
 - https://www.simplilearn.com/resources/software-development
 - https://www.digitalocean.com/community/tags
 - https://www.digitalocean.com/community/tags/tutorial-series
 - https://www.digitalocean.com/community/tags/javascript
-- https://www.digitalocean.com/community/tags/node-js
 - https://webreference.com/
 - https://www.almabetter.com/bytes/tutorials
 - https://www.almabetter.com/bytes/articles
@@ -93,7 +84,6 @@
 - https://refine.dev/blog/tags/tutorial/
 - https://www.scaler.com/topics/nodejs/
 - https://www.scaler.com/topics/hubs/
-- https://www.patterns.dev/
 - https://frontendmasters.com/blog/tag/javascript/
 - https://www.simplethread.com/blog/
 - https://blog.logrocket.com/
@@ -133,10 +123,6 @@
 - https://babeljs.io/docs/learn
 - https://javascript.info/
 - https://humanwhocodes.com/books/
-- https://www.patterns.dev/#patterns
-- https://javascriptpatterns.vercel.app/patterns
-- https://js-design-patterns.vercel.app/#0
-- https://design-patterns-101.vercel.app/
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 - https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
 - https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3
@@ -244,49 +230,168 @@
 - https://youtu.be/8VsjB1DFWeg?si=QuFT4BnCP_1xjUfE
 - https://youtu.be/-VEXOaatbnk?si=TfcRQvEoNXtGrhJO
 - https://youtu.be/TPEv_kozB_s?si=FyfuZPl-nUgVsv9a
-- https://youtu.be/T7t27SSe0wQ?si=CCReEicZ7BAKTBt4
-- https://youtu.be/SMNzn0x8gAE?si=bhqJxZ_tJS72FGlc
-- https://youtu.be/P9Ldx1eTlRc?si=YkgwUtCziFym_8Fi
-- https://youtu.be/0hxi-Eazz2Y?si=vlmC8mFg-PQUbm9z
-- https://youtu.be/ngCos392W4w?si=RsKQxPDzkF8rodld
-- https://youtu.be/O9v10jQkm5c?si=dQJixYS_CWTxrqwz
-- https://www.youtube.com/live/_-jcg2egB1A?si=XaUMqbUiyIMGQis6
-- https://youtu.be/KwBuV7YZido?si=FpF7ehgLMIcdtKTV
-- https://youtu.be/4LqGJcPWcbU?si=LaZeo39ZEbZAn_-2
-- https://youtu.be/8_tFfRj4NE0?si=sKfa9TRG7CSfJyHL  (https://www.youtube.com/@rahuulmiishra)
-- https://youtu.be/W-Szy00-g_8?si=DQwj6QRLlR7PvCSQ
-- https://youtu.be/j1laALb8OVM?si=IpGZpLed5dsNhZTR
-- https://youtu.be/e5E8HHEYRNI?si=vxgx2z1dK7AIOjJ0
-- https://youtu.be/lXVr3IlPL1I?si=cSF1pBYJF2EwbHRB
-- https://youtu.be/HRP-5MS9DkQ?si=kFajWD7To54P0Nlm
-- https://youtu.be/9jl1lhFylJs?si=9gWRVwF2Pv8HkAGa
-- https://youtu.be/KMaodk7j4Q8?si=t9U7Qk4HL9JYTWYB
-- https://youtu.be/XcSmNcmMTww?si=gpn_CA31E0NU1Mx9
-- https://youtu.be/pZUTdw6zcck?si=3QZ1_gx7btlYidfB
-- https://youtu.be/kMYBKiapc14?si=astF5qrE0rebwKVj
-- https://youtu.be/yjzIYUwp5uI?si=VSp-FYIvdNpB0SvW
-- https://youtu.be/rivBfgaEyWQ?si=lQf9ZqxwRxXKiXEC
-- https://youtu.be/qxICCY9eNwk?si=0Achq1duqo75nEvW
-- https://youtu.be/lb14uZ3SGLM?si=pUWsCL8XvuPwqduF
-- https://youtu.be/wBtPGnVnA9g?si=BkoTwoxm-FyCo5XJ
-- https://youtu.be/dhOO53JjqUM?si=yKBQpPO5JR7214dI
-- https://youtu.be/-J2lmN-DC3k?si=Ow5g4QH_NNIs2Ysr
-- https://youtu.be/de0_9txuudQ?si=22fdYV89kpX2m4yt
-- https://youtu.be/DjYZk8nrXVY?si=hluZGemukHd2NKWu
-- Javascript Data Structures and Algorithms (3) https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
-- JavaScript tutorials (29) https://www.youtube.com/playlist?list=PL_euSNU_eLbduec7Ki4kAp2KrSCytwkjh
-## 2. NodeJS
+	-	https://youtu.be/T7t27SSe0wQ?si=CCReEicZ7BAKTBt4
+	-	https://youtu.be/SMNzn0x8gAE?si=bhqJxZ_tJS72FGlc
+	-	https://youtu.be/P9Ldx1eTlRc?si=YkgwUtCziFym_8Fi
+	-	https://youtu.be/0hxi-Eazz2Y?si=vlmC8mFg-PQUbm9z
+	-	https://youtu.be/ngCos392W4w?si=RsKQxPDzkF8rodld
+	-	https://youtu.be/O9v10jQkm5c?si=dQJixYS_CWTxrqwz
+	-	https://www.youtube.com/live/_-jcg2egB1A?si=XaUMqbUiyIMGQis6
+	-	https://youtu.be/KwBuV7YZido?si=FpF7ehgLMIcdtKTV
+	-	https://youtu.be/4LqGJcPWcbU?si=LaZeo39ZEbZAn_-2
+	-	https://youtu.be/8_tFfRj4NE0?si=sKfa9TRG7CSfJyHL  (https://www.youtube.com/@rahuulmiishra)
+	-	https://youtu.be/W-Szy00-g_8?si=DQwj6QRLlR7PvCSQ
+	-	https://youtu.be/j1laALb8OVM?si=IpGZpLed5dsNhZTR
+	-	https://youtu.be/e5E8HHEYRNI?si=vxgx2z1dK7AIOjJ0
+	-	https://youtu.be/lXVr3IlPL1I?si=cSF1pBYJF2EwbHRB
+	-	https://youtu.be/HRP-5MS9DkQ?si=kFajWD7To54P0Nlm
+	-	https://youtu.be/9jl1lhFylJs?si=9gWRVwF2Pv8HkAGa
+	-	https://youtu.be/KMaodk7j4Q8?si=t9U7Qk4HL9JYTWYB
+	-	https://youtu.be/XcSmNcmMTww?si=gpn_CA31E0NU1Mx9
+	-	https://youtu.be/pZUTdw6zcck?si=3QZ1_gx7btlYidfB
+	-	https://youtu.be/kMYBKiapc14?si=astF5qrE0rebwKVj
+	-	https://youtu.be/yjzIYUwp5uI?si=VSp-FYIvdNpB0SvW
+	-	https://youtu.be/rivBfgaEyWQ?si=lQf9ZqxwRxXKiXEC
+	-	https://youtu.be/qxICCY9eNwk?si=0Achq1duqo75nEvW
+	-	https://youtu.be/lb14uZ3SGLM?si=pUWsCL8XvuPwqduF
+	-	https://youtu.be/wBtPGnVnA9g?si=BkoTwoxm-FyCo5XJ
+	-	https://youtu.be/dhOO53JjqUM?si=yKBQpPO5JR7214dI
+	-	https://youtu.be/-J2lmN-DC3k?si=Ow5g4QH_NNIs2Ysr
+	-	https://youtu.be/de0_9txuudQ?si=22fdYV89kpX2m4yt
+	-	https://youtu.be/DjYZk8nrXVY?si=hluZGemukHd2NKWu
+	-	Code Smells to Clean Code in JavaScript – Tutorial https://youtu.be/626BcUO84og?si=xhrl_nP0DbdL0H3d
+	-	JavaScript tutorials (29) https://www.youtube.com/playlist?list=PL_euSNU_eLbduec7Ki4kAp2KrSCytwkjh
+## 1.1 Data Structures and Algorithms
+	-	Javascript Data Structures and Algorithms (3) https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
+	-	https://visualgo.net/en
+	-	https://www.simplilearn.com/tutorials/data-structure-tutorial
+	-	https://herovired.com/learning-hub/blogs
+## 1.2 Patterns
+	-	https://www.dofactory.com/javascript/design-patterns
+	-	https://www.dofactory.com/javascript
+	-	https://refactoring.guru/
+	-	https://www.patterns.dev/
+	-	https://www.patterns.dev/#patterns
+	-	https://javascriptpatterns.vercel.app/patterns
+	-	https://js-design-patterns.vercel.app/#0
+	-	https://design-patterns-101.vercel.app/
+## 2 NodeJS
+	-	https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
 	- https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
 	- TDD Express (2) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR
 	- Using jest to unit test node command line tool (1) https://youtu.be/ngbL6x4ma3Y?si=8qihGkGlWC1QVT1X
 	- TDD Express App https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR 
-- Patterns
+		- https://nodejs.org/docs/latest/api/
+	- http://nodetuts.com
+	- https://youtu.be/5PjbsLwxQkw?si=dl2QON6Rganfv_P-
+	- https://www.youtube.com/@leelawebdev
+	- https://exploringjs.com/nodejs-shell-scripting/toc.html
+	- https://encore.dev/docs/ts
+	- https://nodesource.com/resources
+	- https://hono.dev/docs/
+	- https://elysiajs.com/tutorial.html
+	- https://docs.deno.com/examples/
+	- https://bun.com/guides
+	- https://bun.sh/guides
+	- https://nodeschool.io/
+	- https://docs.nodesource.com/
+	- https://nodesource.com/resources
+	- https://platformatic.dev/
+	- https://www.digitalocean.com/community/tags/node-js
+	- https://youtu.be/syzwLwE3Xq4?si=Fj_hjX62tWhv10IO
+	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
+	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN
+	- https://www.youtube.com/playlist?list=PLwHquQFH7y8yHeNpNE1tEhZdxwDCo0mTr
+	- https://www.youtube.com/playlist?list=PLYzb940F3GCxzSlK9e71qfD7h521Y-weN
+	- https://www.youtube.com/playlist?list=PLCiGw8i6Nhvo08rQd9J7e19ToKMCJVKaM
+	- https://youtu.be/LhlyIUwAbV8?si=d8gZUrHq_bkHIoRe
+	- https://youtu.be/bRZTvCwcp20?si=F4imTCCl69NOIlGn
+	- https://docs.webhook.site/index.html
+	- https://blog.risingstack.com/
+	- https://www.postman.com/
+	- https://youtu.be/_cNIsBTg8HA?si=GRHaUxDmShElGRTs
+	- https://youtu.be/CqWF2fZJ_p0?si=4yNzla8Pi0OodDPF
+	- https://youtu.be/vMFcayVfFvM?si=XdizqIcwJqz_I1uP
+	- https://youtu.be/gCwHi-UFSdg?si=u5yZ4U3TOr2kMOWB
+	- https://youtu.be/fnIWNnSpitI?si=fBnZPnBIRVZON3Ug
+	- https://youtu.be/wppzMH7anFM?si=DK3U6_WM0kF-f2mI
+	- https://www.youtube.com/live/OGkOxkSYrUg?si=FcClKRZAvNC1DOqP
+	- https://youtu.be/aEWstaeXJSw?si=LX42pCmIpkwowAnM
+	- https://youtu.be/9843KMK7neY?si=92AWaE5IpmJN5URw
+	- https://youtu.be/fSiVvDq4o1g?si=YdVRtp-p2N5eS3y6
+	- https://youtu.be/-CvvtwKXYjE?si=VUgfdArLcHcLm5ga
+	- https://youtu.be/kvjIMdU3W5A?si=htSiLUj9WjGyPIDj
+	- https://youtu.be/IkoGmbNJolo?si=4d0vuRqoxscjmW3-
+	- https://youtu.be/1_EVy3tls0k?si=TvfIv6Tyo7aeHgm9
+	- https://youtu.be/OirftZJO-rk?si=n1cEemERyxiYOIY-
+	- https://youtu.be/VI29mUA8n9w?si=s9goWSTgCxVxJRjt
+	- https://youtu.be/-JE8P2TiJEg?si=1kUkIHrTiTVZAbCx
+	- https://youtu.be/FrFwHv0upfY?si=Vw-DiQgz1NHi0qwA
+	- https://youtu.be/ol56smloW2Q?si=Xyb5fDjeaMuCK_9W
+	- https://youtu.be/neGIM7BpluM?si=z5eOHG9onINtWGmB
+	- https://www.youtube.com/live/F-5D-n91hMc?si=ycd4N-BLq3HuOSn5
+	- https://youtu.be/DyTmFVE_QJU?si=slb3tJ8E23ErdkZz
+	- https://youtu.be/m9yjaTG1-Gg?si=VCuvsu0pfbmacx0C
+	- https://youtu.be/vAH4GRWbAQw?si=ssNIUk1vYDUdIahT
+	- https://youtu.be/YBnN2JpS4hI?si=JwGf37becSM3Hh7a
+	- https://youtu.be/qG-PLm3APSs?si=6SInnltIpz_oRAeW
+	- https://youtu.be/ZjBLbXUuyWg?si=lOm3X6yinkjUxSvi (https://www.youtube.com/@abdicodes)
+	- https://youtu.be/O37n35XUxj0?si=UBWvOstvizjvS2KU
+	- https://youtu.be/ZPwgbvCkRpY?si=YpDxVSSXNQ8ki1wn
+	- https://youtu.be/wINRm5arVlM?si=n4GGUbQqJCXUh1De
+	- https://youtu.be/RtLAwnYJOyQ?si=ezG5o_a7-Xf_q8Wc
+	- https://youtu.be/JQoPuXAf92U?si=ZrWx_utOc4Wo78Iy
+	- https://youtu.be/oNlMrpnUSFE?si=JBP3He_ZPfmnxMai
+	- https://youtu.be/bRZTvCwcp20?si=DzR-VN0wC44kLJNg
+	- https://youtu.be/6QnTNKOJk5A?si=66lCQZSuHxajbkZy
+	- https://youtu.be/T_OlUb5YwaU?si=8nUqR6bxDPi5gXdJ
+	- https://youtu.be/yopIo3P8GAA?si=jGf1J6co3tT8zhPH
+	- https://youtu.be/3gHIN6zqG3c?si=UzEQcc7oEHDOkuE7
+	- https://youtu.be/4neYz5oCXos?si=C2BIhU3LhWk2HDCE
+	- https://youtu.be/VpKwgmBn06s?si=oDgvdyDexJ1IhBDb
+	- https://youtu.be/MiqrArNSxSM?si=UVJWRNpPT0564Axd
+	- https://youtu.be/prroOyNIl-U?si=witE9LncDyZtgrYX
+	- https://youtu.be/d2gfJ8UVPDo?si=-we7ROKVX3bVbHTm
+	- https://youtu.be/RxraE2rylMI?si=3nFJ4oYweqpxwo95
+	- https://youtu.be/H9d1BwNA3YU?si=jR5BviYDCvZ9zb6L
+	- https://youtu.be/mSeyifowdMQ?si=MPi_W8Kv29DFJCHY
+	- https://youtu.be/zwcvXd3kGbw?si=jqMim3DltJShNYDz
+	- https://youtu.be/l1fBm4WpHb0?si=c5Kbq6qBpztswr6Y
+	- https://youtu.be/OGlLOeWVO-8?si=Lfmn63rP5vVpuKTG
+	- https://youtu.be/9yW3T5Ug4qw?si=2aWad9TQ43tz3SqN
+	- https://youtu.be/FFrPE0vr4Dw?si=cuAiKxcwlJyVKPg8
+	- https://youtu.be/rNbWAy4y9Ow?si=LZtouNKSZewvq8DV
+	- https://youtu.be/_4TPM6clQjM?si=2N5aLqmAbZpjjogi
+	- https://youtu.be/xckH5s3UuX4?si=UljlzT73xY3Ivv0H
+	- https://youtu.be/OCjvhCFFPTw?si=HV-d_dEItIkFJWgV
+	- https://youtu.be/LdvduBxZRLs?si=taIz2DdOQAubkoHp
+	- https://youtu.be/PuP0jZmRaX8?si=4aaJNFjxcbveNGQD
+	- https://youtu.be/6RvlKYgRFYQ?si=upboOwDEF6K1S3y1
+	- https://youtu.be/eCRvIPPnYs0?si=Nsu_tX_3j8V3Yc0b
+	- https://youtu.be/sQ1zvdS8eU8?si=Ny6Z7PI7U2B-HHoT
+	- Learn API Gateway in Node.js in 5 Minutes! https://youtu.be/YkRC0V7tlIk?si=m2QQAc_unLrkgtoQ
+	- HTTP/2 (26) https://www.youtube.com/playlist?list=PLQnljOFTspQWbBegaU790WhH7gNKcMAl-
+	- WebSockets (10) https://www.youtube.com/playlist?list=PLQnljOFTspQUGjfGdg8UvL3D_K9ACL6Qh
+	- Cookies (8) https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn
+	- Which Pagination Method is BEST for You Offset or Cursor? 13m https://youtu.be/jOmkjTYW03U?si=BbCwuMdiRJPkhXTC
+	- Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript 290m https://youtu.be/gCwHi-UFSdg?si=_eAwpBcQmOyC7U2Y
+	- Master Backend using Express JS (3) https://www.youtube.com/playlist?list=PL-MEZzrKlTU3tZUD3NjMSde3Vbev87zyp
+	- NodeJS MultiThreading (13) https://www.youtube.com/playlist?list=PL_euSNU_eLbdi-nNMgGgzX-oL0LPshJwO
+	- NodeJS Compression 9m https://youtu.be/gMT0G8BFQ28?si=hVIaXqyT2BMeEhAw
+	- Unix in NodeJS Concepts (34) https://www.youtube.com/playlist?list=PL_euSNU_eLbdNhMn1zO8oik-Ndsp084e9
+	- Networking - NodeJS (21) https://www.youtube.com/playlist?list=PL_euSNU_eLbcU-00ZsoVbghHedbCpQOD1
+	- Hire API Node Project (38) https://www.youtube.com/playlist?list=PL_euSNU_eLbdR4-kezzzXCQi-Xhe4jmY-
+	- Nodejs Core Concepts (151) https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
+	- Nodejs Files (8) https://www.youtube.com/playlist?list=PL_euSNU_eLbe4mF6ph80TI2U8SNKod1oO
+	- Nodejs Streams (33) https://www.youtube.com/playlist?list=PL_euSNU_eLbeXBWFFA6AER8ke1pAIbCqm
+	- NodeJS Complete Guide (60) https://www.youtube.com/playlist?list=PL_euSNU_eLbdf5XbrFl-nOw6-7ZtT27Bn
+## 2.1 Patterns
 	- Backend Engineering (36) https://www.youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT
 	- How to implement Clean Architecture in Node.js (and why it's important) https://www.youtube.com/watch?v=VmY22KuRDbk
 	- Software Architecture (75) https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9
 	- Programming Patterns (33) https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe
 	- Software Engineering Highlights (38) https://www.youtube.com/playlist?list=PLQnljOFTspQWKPjGnVgA5oVIhNKJ5mDXg
-- Core, Process vs Threads
+## 2.2 Core, Process vs Threads
 	- https://youtu.be/USlroJToye0?si=rbO8Ngvq8CV8dmC6
 	- https://youtu.be/hwTYDQ0zZOw?si=s3zIjAAIWfllTAjT
 	- https://youtu.be/ImzYxO3Lsvc?si=TX57qQTYM_2UN6xR
@@ -329,7 +434,7 @@
 	- https://youtu.be/grriYn6v76g?si=707ZDkmTNd4oVk1W
 	- https://youtu.be/hN2Yrf4tqTY?si=Wr6PCUUtBUBwDJ7Q
 	- https://youtu.be/-ukFWIjpU5o?si=mGJ2ryZ3QkGPobJe
-- System Design
+## 2.3 System Design
 	- https://blog.bytebytego.com/archive?sort=new
 	- https://www.youtube.com/@interviewhappy
 	- https://www.youtube.com/@questpondvideos
@@ -435,429 +540,20 @@
 	- https://youtu.be/2JYT5f2isg4?si=oXZHXsJvLR5TQ0p0
 	- https://youtu.be/FsB_nRGdeLs?si=cQLcYYaWFPX5c2Yt
 	- https://www.youtube.com/shorts/9a-GdzWBhb8
-- Code
-	- https://nodejs.org/docs/latest/api/
-	- http://nodetuts.com
-	- https://youtu.be/5PjbsLwxQkw?si=dl2QON6Rganfv_P-
-	- https://www.youtube.com/@leelawebdev
-	- https://exploringjs.com/nodejs-shell-scripting/toc.html
-	- https://encore.dev/docs/ts
-	- https://nodesource.com/resources
-	- https://hono.dev/docs/
-	- https://elysiajs.com/tutorial.html
-	- https://docs.deno.com/examples/
-	- https://bun.com/guides
-	- https://bun.sh/guides
-	- https://nodeschool.io/
-	- https://docs.nodesource.com/
-	- https://nodesource.com/resources
-	- https://platformatic.dev/
-	- https://youtu.be/syzwLwE3Xq4?si=Fj_hjX62tWhv10IO
-	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
-	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN
-	- https://www.youtube.com/playlist?list=PLwHquQFH7y8yHeNpNE1tEhZdxwDCo0mTr
-	- https://www.youtube.com/playlist?list=PLYzb940F3GCxzSlK9e71qfD7h521Y-weN
-	- https://www.youtube.com/playlist?list=PLCiGw8i6Nhvo08rQd9J7e19ToKMCJVKaM
-	- https://youtu.be/LhlyIUwAbV8?si=d8gZUrHq_bkHIoRe
-	- https://youtu.be/bRZTvCwcp20?si=F4imTCCl69NOIlGn
-	- https://docs.webhook.site/index.html
-	- https://blog.risingstack.com/
-	- https://www.postman.com/
-	- https://youtu.be/_cNIsBTg8HA?si=GRHaUxDmShElGRTs
-	- https://youtu.be/CqWF2fZJ_p0?si=4yNzla8Pi0OodDPF
-	- https://youtu.be/vMFcayVfFvM?si=XdizqIcwJqz_I1uP
-	- https://youtu.be/gCwHi-UFSdg?si=u5yZ4U3TOr2kMOWB
-	- https://youtu.be/fnIWNnSpitI?si=fBnZPnBIRVZON3Ug
-	- https://youtu.be/wppzMH7anFM?si=DK3U6_WM0kF-f2mI
-	- https://www.youtube.com/live/OGkOxkSYrUg?si=FcClKRZAvNC1DOqP
-	- https://youtu.be/aEWstaeXJSw?si=LX42pCmIpkwowAnM
-	- https://youtu.be/9843KMK7neY?si=92AWaE5IpmJN5URw
-	- https://youtu.be/fSiVvDq4o1g?si=YdVRtp-p2N5eS3y6
-	- https://youtu.be/-CvvtwKXYjE?si=VUgfdArLcHcLm5ga
-	- https://youtu.be/kvjIMdU3W5A?si=htSiLUj9WjGyPIDj
-	- https://youtu.be/IkoGmbNJolo?si=4d0vuRqoxscjmW3-
-	- https://youtu.be/1_EVy3tls0k?si=TvfIv6Tyo7aeHgm9
-	- https://youtu.be/OirftZJO-rk?si=n1cEemERyxiYOIY-
-	- https://youtu.be/VI29mUA8n9w?si=s9goWSTgCxVxJRjt
-	- https://youtu.be/-JE8P2TiJEg?si=1kUkIHrTiTVZAbCx
-	- https://youtu.be/FrFwHv0upfY?si=Vw-DiQgz1NHi0qwA
-	- https://youtu.be/ol56smloW2Q?si=Xyb5fDjeaMuCK_9W
-	- https://youtu.be/neGIM7BpluM?si=z5eOHG9onINtWGmB
-	- https://www.youtube.com/live/F-5D-n91hMc?si=ycd4N-BLq3HuOSn5
-	- https://youtu.be/DyTmFVE_QJU?si=slb3tJ8E23ErdkZz
-	- https://youtu.be/m9yjaTG1-Gg?si=VCuvsu0pfbmacx0C
-	- https://youtu.be/vAH4GRWbAQw?si=ssNIUk1vYDUdIahT
-	- https://youtu.be/YBnN2JpS4hI?si=JwGf37becSM3Hh7a
-	- https://youtu.be/qG-PLm3APSs?si=6SInnltIpz_oRAeW
-	- https://youtu.be/ZjBLbXUuyWg?si=lOm3X6yinkjUxSvi (https://www.youtube.com/@abdicodes)
-	- https://youtu.be/O37n35XUxj0?si=UBWvOstvizjvS2KU
-	- https://youtu.be/ZPwgbvCkRpY?si=YpDxVSSXNQ8ki1wn
-	- https://youtu.be/wINRm5arVlM?si=n4GGUbQqJCXUh1De
-	- https://youtu.be/RtLAwnYJOyQ?si=ezG5o_a7-Xf_q8Wc
-	- https://youtu.be/JQoPuXAf92U?si=ZrWx_utOc4Wo78Iy
-	- https://youtu.be/oNlMrpnUSFE?si=JBP3He_ZPfmnxMai
-	- https://youtu.be/bRZTvCwcp20?si=DzR-VN0wC44kLJNg
-	- https://youtu.be/6QnTNKOJk5A?si=66lCQZSuHxajbkZy
-	- https://youtu.be/T_OlUb5YwaU?si=8nUqR6bxDPi5gXdJ
-	- https://youtu.be/yopIo3P8GAA?si=jGf1J6co3tT8zhPH
-	- https://youtu.be/3gHIN6zqG3c?si=UzEQcc7oEHDOkuE7
-	- https://youtu.be/4neYz5oCXos?si=C2BIhU3LhWk2HDCE
-	- https://youtu.be/VpKwgmBn06s?si=oDgvdyDexJ1IhBDb
-	- https://youtu.be/MiqrArNSxSM?si=UVJWRNpPT0564Axd
-	- https://youtu.be/prroOyNIl-U?si=witE9LncDyZtgrYX
-	- https://youtu.be/d2gfJ8UVPDo?si=-we7ROKVX3bVbHTm
-	- https://youtu.be/RxraE2rylMI?si=3nFJ4oYweqpxwo95
-	- https://youtu.be/H9d1BwNA3YU?si=jR5BviYDCvZ9zb6L
-	- https://youtu.be/mSeyifowdMQ?si=MPi_W8Kv29DFJCHY
-	- https://youtu.be/zwcvXd3kGbw?si=jqMim3DltJShNYDz
-	- https://youtu.be/l1fBm4WpHb0?si=c5Kbq6qBpztswr6Y
-	- https://youtu.be/OGlLOeWVO-8?si=Lfmn63rP5vVpuKTG
-	- https://youtu.be/9yW3T5Ug4qw?si=2aWad9TQ43tz3SqN
-	- https://youtu.be/FFrPE0vr4Dw?si=cuAiKxcwlJyVKPg8
-	- https://youtu.be/rNbWAy4y9Ow?si=LZtouNKSZewvq8DV
-	- https://youtu.be/_4TPM6clQjM?si=2N5aLqmAbZpjjogi
-	- https://youtu.be/xckH5s3UuX4?si=UljlzT73xY3Ivv0H
-	- https://youtu.be/OCjvhCFFPTw?si=HV-d_dEItIkFJWgV
-	- https://youtu.be/LdvduBxZRLs?si=taIz2DdOQAubkoHp
-	- https://youtu.be/PuP0jZmRaX8?si=4aaJNFjxcbveNGQD
-	- https://youtu.be/6RvlKYgRFYQ?si=upboOwDEF6K1S3y1
-	- https://youtu.be/eCRvIPPnYs0?si=Nsu_tX_3j8V3Yc0b
-	- https://youtu.be/sQ1zvdS8eU8?si=Ny6Z7PI7U2B-HHoT
-	- HTTP/2 (26) https://www.youtube.com/playlist?list=PLQnljOFTspQWbBegaU790WhH7gNKcMAl-
-	- WebSockets (10) https://www.youtube.com/playlist?list=PLQnljOFTspQUGjfGdg8UvL3D_K9ACL6Qh
-	- Cookies (8) https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn
-	- Which Pagination Method is BEST for You Offset or Cursor? 13m https://youtu.be/jOmkjTYW03U?si=BbCwuMdiRJPkhXTC
-	- Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript 290m https://youtu.be/gCwHi-UFSdg?si=_eAwpBcQmOyC7U2Y
-	- Master Backend using Express JS (3) https://www.youtube.com/playlist?list=PL-MEZzrKlTU3tZUD3NjMSde3Vbev87zyp
-	- NodeJS MultiThreading (13) https://www.youtube.com/playlist?list=PL_euSNU_eLbdi-nNMgGgzX-oL0LPshJwO
-	- NodeJS Compression 9m https://youtu.be/gMT0G8BFQ28?si=hVIaXqyT2BMeEhAw
-	- Unix in NodeJS Concepts (34) https://www.youtube.com/playlist?list=PL_euSNU_eLbdNhMn1zO8oik-Ndsp084e9
-	- Networking - NodeJS (21) https://www.youtube.com/playlist?list=PL_euSNU_eLbcU-00ZsoVbghHedbCpQOD1
-	- Hire API Node Project (38) https://www.youtube.com/playlist?list=PL_euSNU_eLbdR4-kezzzXCQi-Xhe4jmY-
-	- Nodejs Core Concepts (151) https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
-	- Nodejs Files (8) https://www.youtube.com/playlist?list=PL_euSNU_eLbe4mF6ph80TI2U8SNKod1oO
-	- Nodejs Streams (33) https://www.youtube.com/playlist?list=PL_euSNU_eLbeXBWFFA6AER8ke1pAIbCqm
-	- NodeJS Complete Guide (60) https://www.youtube.com/playlist?list=PL_euSNU_eLbdf5XbrFl-nOw6-7ZtT27Bn
-## 3. AdonisJS
-- https://docs.adonisjs.com/guides/preface/introduction
-- https://adocasts.com/lessons/remembering-a-users-authenticated-session
-- https://www.freecodecamp.org/news/build-a-restful-api-with-adonisjs/
-- https://masteringbackend.com/posts/adonisjs-tutorial-the-ultimate-guide#deploying-adonisjs-project
-## 4. Gatling
-- https://docs.gatling.io/
-## 5. Redis, ValKey, Cassandra, CouchBase, MongoDB, PostgresSQL
-- https://redis.io/docs/
-- https://redis.io/docs/latest/develop/
-- https://redis.io/docs/latest/integrate/
-- https://redis.io/docs/latest/operate/
-- https://redis.io/docs/latest/commands/
-- https://redis.io/docs/latest/apis/
-- https://developer.redis.com/howtos/quick-start
-- https://university.redis.io/library/?contentType=course
-- https://redis.io/search/
-- https://redis.io/json/
-- https://redis.io/active-active/
-- https://redis.io/solutions/flex/
-- https://redis.io/data-integration/
-- https://redis.io/solutions/
-- https://redis.io/industries/retail/
-- https://redis.io/solutions/microservices/
-- https://redis.io/resources/
-- https://valkey.io/topics/
-- https://www.youtube.com/playlist?list=PLbGui_ZYuhijTJDBVBBqvri76uUNfsrCc
-- https://youtu.be/sFBMdF55Tpo?si=R0RYsju-_e5VXKfe
-- https://youtu.be/IJkYipYNEtI?si=cLuQL-SFNL2EcS9B
-- https://youtu.be/DACToq_WMQ8?si=S3YPg0Dcz7o-UCrw
-- https://youtu.be/Vx2zPMPvmug?si=iLaNdlmwSEXJCeX_
-- https://youtu.be/uptxcaf2s_4?si=DgTfemLkZeOFqgpA
-- https://youtu.be/QqTB97aMa4c?si=WHQxXoU3r_s2CwVo
-- https://www.youtube.com/live/mmeO2VoVLuM?si=2reqIxJvKjZWXIDG
-- https://youtu.be/b7DJEAJZsG0?si=RS_YkO_0lEEeDRf_
-- https://youtu.be/WQ61RL1GpEE?si=5a_fkAvAUoqDxALy
-- https://youtu.be/-Ai7GDa2OgE?si=ndZZtV3yNtj_8jgA
-- https://youtu.be/IJkYipYNEtI?si=E7NTMja6QaJBAub5
-- Database Engineering (118) https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
-- MongoDB Complete Tutorial (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
-- PostgresSQL (40) https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
-## 6. CQRS, Kurrent, ResolveJS
-- https://www.geeksforgeeks.org/dbms/event-sourcing-database-design-patterns/
-- https://github.com/leandrocp/awesome-cqrs-event-sourcing
-- file:///C:/Users/Devendra/Desktop/wolkenkit-brochure.pdf
-- https://reimagined.github.io/resolve/docs/getting-started/
-- https://developer.confluent.io/courses/event-sourcing/hands-on-confluent-cloud/
-- https://docs.kurrent.io/
-- https://academy.kurrent.io/courses
-- https://www.kurrent.io/cqrs-pattern
-- https://kalele.io/blog/
-- https://www.instaclustr.com/support/documentation/
-- https://www.geeksforgeeks.org/system-design/cqrs-design-pattern-in-microservices/
-- https://www.geeksforgeeks.org/system-design/cqrs-command-query-responsibility-segregation/
-- https://systemdesignschool.io/blog/cqrs-pattern
-- https://www.redhat.com/en/blog/illustrated-cqrs
-- https://discuss.axoniq.io/t/cqrs-pattern-how-are-command-and-query-separated-how-to-correctly-implement-cqrs/4456/5
-- https://www.c-sharpcorner.com/article/using-the-cqrs-pattern-in-c-sharp/
-- https://www.linkedin.com/pulse/cqrs-design-pattern-amir-doosti-ooqjf/
-- https://deviq.com/
-- https://awesome-architecture.com/cqrs/
-- https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/
-- https://www.equalefforts.com/blog/cqrs-design-pattern/
-- https://shiftasia.com/community/microservices-with-cqrs-and-event-sourcing-part1/
-- https://dzone.com/articles/cqrs-is-an-anti-pattern-for-ddd
-- https://system-design.muthu.co/posts/modern-architecture-patterns/cqrs-pattern/index.html
-- https://system-design.muthu.co/
-- https://sandorian.com/blog/command-query-responsibility-segregation-cqrs
-- https://refactoring.guru/
-- https://blog.backendengineering.io/p/cqrs-pattern-explained-discuss-the
-- https://blog.bytebytego.com/p/a-guide-to-microservices-architecture
-- https://singhajit.com/explainers/
-- https://umamahesh.net/design-patterns-for-microservice-architecture-command-query-responsibility-segregation-cqrs/
-- https://www.hellointerview.com/learn/system-design/in-a-hurry/patterns
-- https://dev.to/genichm/cqrs-command-and-query-responsibility-segregation-architectural-pattern-4594
-- https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
-- https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-data-persistence/cqrs-pattern.html
-- https://ironpdf.com/blog/net-help/cqrs-pattern-csharp/
-- https://blog.risingstack.com/cqrs-explained-node-js-at-scale/
-- https://barryosull.com/blog/projection-building-blocks-what-you-ll-need-to-build-projections/
-- https://www.baeldung.com/cqrs-event-sourcing-java
-- https://mia-platform.eu/blog/understanding-event-sourcing-and-cqrs-pattern/
-- https://domaincentric.net/blog/event-sourcing-projections
-- https://stackoverflow.com/questions/41935619/cqrs-event-store-aggregate-vs-projection
-- https://stackoverflow.com/questions/53688339/cqrs-event-sourcing-projections-with-multiple-aggregates?rq=3
-- https://danielwhittaker.me/
-- https://danielwhittaker.me/2014/11/15/aggregate-root-cqrs-event-sourcing/
-- https://microservices.io/patterns/data/event-sourcing.html
-- https://www.redpanda.com/guides/event-stream-processing-event-sourcing-database
-- https://www.redpanda.com/resources
-- https://www.eventsourcingdatabase.com/
-- https://www.eventsourcing.ai/
-- https://www.cqrs.com/
-- https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
-- https://youtu.be/hrmeeCEqzo8?si=5xJg32FoOy80GL09
-- https://youtu.be/85YbMEb1qkQ?si=hnbgROgI5bK15dBc
-- https://youtu.be/_pKG3GOYhK8?si=h9Cy5ej9KCorMrDA
-- https://youtu.be/dwFNWiRHQXE?si=Th9BJPOXGpvGlWgH
-- https://youtu.be/BewUyKLZjtc?si=lE7Ph81bWTjcLU1l
-- https://youtu.be/E-7TBZxmkXE?si=i4ZGrLiS6ypSQPsb
-- https://youtu.be/sUjNZAYTZwI?si=mnKJd0RyzGZndDFY
-- https://youtu.be/i2eVTk2Fb40?si=D-EmCRoBtTj3LtH9
-- https://youtu.be/ZQuXruUlLYY?si=gPNnN4fQXs64Q0je
-- https://www.youtube.com/watch?v=jcn8xRfL8Gc
-- https://www.youtube.com/watch?v=Z9oTuyC1jgM
-- https://www.youtube.com/watch?v=l09hnKdltto
-- https://www.youtube.com/watch?v=W_EEKAN9IVU
-- https://www.youtube.com/watch?v=zcKiKrT8IHQ
-- https://www.youtube.com/watch?v=NIYxiA_WDh4
-- https://www.youtube.com/watch?v=_pKG3GOYhK8
-- https://www.youtube.com/watch?v=lg6aF5PP4Tc
-- https://www.youtube.com/watch?v=01lygxvbao4
-- https://www.youtube.com/watch?v=L1eonUM7yAM
-- https://www.youtube.com/watch?v=q3YQy1lJutw
-## 7. MicroServices, MolecularJS, gRPC, Istio
-- https://istio.io/latest/
-- https://youtu.be/RIAe1EazB5M?si=6C54agGUsnRVCMUe
-- https://youtu.be/kjrZM-t7Y80?si=IiUGlNglFJkzd4L2
-- https://moleculer.services/docs/0.15/
-- https://www.youtube.com/playlist?list=PL_kVwOdi-YKSicNUsAXWEmoSPyyP08kdV
-- https://www.youtube.com/playlist?list=PLoUvYJkGKj4D4Q1dU15RvSpKM4iTg9O56
-- https://youtu.be/fEDT4lWWe9g?si=2qp7cbXEovDuEnUO
-- https://youtu.be/RojKJnF_WWQ?si=_FGDXhtb_1MBAuBp
-- https://youtu.be/t4YR6MWrugw?si=BGbgSONsXiIqz0uq
-- https://youtu.be/NWLwGtkBrkQ?si=OzdgaWSK1p4vs5yF
-- https://youtu.be/G4Ag_f-uero?si=9MvZpSBdSa9ZU8eb
-- https://youtu.be/ppRn9Fp4hXI?si=3DJlCHhg_phnpOk9
-- https://youtu.be/zILVISG8qh0?si=TwZOXpAsh6ruAzFO
-- https://youtu.be/fEDT4lWWe9g?si=XfNw25tYNJK4BIqU
-- https://microservices.io/index.html
-- https://www.confluent.io/learn/
-- https://docs.confluent.io/
-- https://contextmapper.org/
-- https://grpc.io/docs/
-- https://protobuf.dev/
-- https://www.youtube.com/playlist?list=PLVz2XdJiJQxw0f6wXQCdWKabLdqSzGA0X
-- https://www.youtube.com/playlist?list=PL285LgYq_FoJQ4DIPO905bTu3Q1rbgajo
-- https://youtu.be/rzWwgmhtAyc?si=_IyPtWPB5jEAjDGD
-- https://youtu.be/hHzjDfCbTq4?si=j-VApaQARhWNTQ5q
-- https://youtu.be/1yjAUY1ifUg?si=eUnI9YQJVn6sTL0p
-- https://youtu.be/wcY7bvyE4q4?si=CHWOI5g1PRCUX-8h
-- https://youtu.be/wOLs7x4l-Ys?si=BdPH5lqE-Pdujwzd
-- https://youtu.be/Y92WWaZJl24?si=fCjeQW7C01aacI3_
-- https://youtu.be/mML6GiOAM1w?si=qzCFFlBN4glGLGvZ
-- https://youtu.be/AiUazlrtgyU?si=67Erq0qJHGMyvIaz
-- https://youtu.be/ufTKoAJ2OUo?si=PXVg5YNd_rp58tS1
-- https://youtu.be/XLJ5_5MsgGQ?si=oEyfBkm7PwpcST43
-- https://youtu.be/334XuMma1fk?si=OlMEr2vXkIYQWh2l
-- https://www.youtube.com/playlist?list=PL6tu16kXT9PoKhGd09kX-cy8PWHo3uxy7
-- https://www.youtube.com/playlist?list=PL6tu16kXT9PqLPizSi7iio68MHQYkznlK
-- https://www.youtube.com/playlist?list=PL6tu16kXT9PpywOvObZKKN24cHkWAXVAj
-- https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ
-- https://www.youtube.com/playlist?list=PLyHJZXNdCXsebD35Cag8RxzGhM8Fw5D9u
-- https://www.youtube.com/playlist?list=PLyHJZXNdCXsdvaw5eGW9kMnbll88B8kG2
-- https://www.youtube.com/playlist?list=PLDmvslp_VR0xZGhJHMjy5dozCDJYZK6W-
-- https://www.youtube.com/playlist?list=PLrwNNiB6YOA0KmfliJoSuZzEN6tjSdEXc
-- https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr
-- https://www.youtube.com/playlist?list=PLaLqLOj2bk9bYlEheiI1E0kK0sPCk94cq
-- https://www.youtube.com/playlist?list=PLIGDNOJWiL19WHIxJ0Q4aP4X3oljPha5n
-- https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O
-- https://www.youtube.com/playlist?list=PLFmBehh3QjxrGyZM9DXtYIC7EdXpwCOOD
-- https://www.youtube.com/playlist?list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL
-- https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs
-- https://www.youtube.com/playlist?list=PLw0w5s5b9NK4V21Tv0_OTHxvwDFRihC0R
-- https://www.youtube.com/playlist?list=PLIGDNOJWiL1_SzJqkfxd-rcPBJBdFmWfw
-- https://www.youtube.com/playlist?list=PLaLqLOj2bk9aaZZYoH7tMDj5obE7os45_
-- https://www.youtube.com/playlist?list=PL285LgYq_FoI1jgP0-9zba9cgOWnMZTTX
-- https://www.youtube.com/playlist?list=PL285LgYq_FoJu4C55ILz5sQvg3aX88cHY
-- https://www.youtube.com/playlist?list=PL285LgYq_FoLxj1bOdVeQxFhwwq14ddn6
-- https://www.youtube.com/playlist?list=PL285LgYq_FoLF6rPJy2hKg3RJk2YEm-Z_
-- https://www.youtube.com/playlist?list=PL285LgYq_FoKFuZzlwROA4ZUXOuvRiDrF
-- https://www.youtube.com/playlist?list=PL6tu16kXT9PrlCX-b1o0WdBc56rXHJXLy
-- https://www.youtube.com/playlist?list=PLXQv4-irx7g-rzWD-lYPkfQOwJyBQ7IoE
-- https://www.youtube.com/playlist?list=PLolI8AY2AS9ZPCYGackdJ4yyHa5JrMCST
-- https://www.youtube.com/playlist?list=PLTCrU9sGyburHcVKRuw2yXt7V7HEa6ZYY
-- https://www.youtube.com/playlist?list=PLTCrU9sGybupq5YqUTlNqyuxzgCT6IUDl
-- https://www.youtube.com/playlist?list=PL6W8uoQQ2c61u_LepybjUC26WqKv4bidK
-- https://youtu.be/v_ABLktEwRU?si=zRWLNQGrneZMzXqe
-- https://youtu.be/Nw4AZs1kLAs?si=0Yh5JVxoI4YPKgdV
-- https://youtu.be/tuJqH3AV0e8?si=am_EeKPq2ThZW98N
-- https://youtu.be/v6MLHh4ibiA?si=OgqycyttbPE2H8hQ
-- https://youtu.be/_f7h6xQXiLA?si=7Qy8gYJ6OY2WTiUF
-- https://youtu.be/gesxvFh0U84?si=0QYUhUEx97tr0upJ
-- https://youtu.be/ENr2QvcHrL4?si=ONByI8Qm4Omdt6pa
-- https://youtu.be/w11dXbZJCBE?si=W1RwFOS3MdomPxO9
-- https://youtu.be/85YbMEb1qkQ?si=l0ii4hjQ-aL81z2V
-- https://youtu.be/yuVVKB0EaOQ?si=2MrwECw9spx-oWMZ
-- https://youtu.be/t76UMpwFNs0?si=eQfXW8Wxxm1nTsV4
-- https://youtu.be/OiwyYb8is0s?si=gfMzAwbQuIWdTa5B
-- https://youtu.be/ppRn9Fp4hXI?si=a4GvXCIyuWKo1GSz
-- https://youtu.be/vNplj9LwQSw?si=XqlUMOg-X44Oq8Aa
-- https://youtu.be/y1KJITitFA8?si=qymWXx-Z4t3zaGNZ
-- https://youtu.be/hmkF77F9TLw?si=nLCegHGyv380gFz6
-- https://youtu.be/TiMuJNKECjY?si=RXcpaYwZsilI4rGw
-- https://youtu.be/tiHKefWOyrY?si=08hHIrp_ik6RH72y
-- https://youtu.be/TiMuJNKECjY?si=evbca32rKZk7lD-O
-- https://youtu.be/DQ3D_mplIgY?si=RQ3iMMT7KitzBS_9
-- https://youtu.be/AAMZWZmsLrA?si=RCK82DXeETy_IKeI
-- https://youtu.be/SYsiIxJ-Nfw?si=d5jBzXbB-DwczXLh
-- https://youtu.be/Hq6zO-A0hMI?si=8uKnNwcZmVGqomWg
-- https://youtu.be/Fe_qPM81hJ8?si=REumuCPwb51Hn2H3
-- https://youtu.be/tLr_CdKc3XU?si=4qgRLSPaGUQ5sjmR
-- https://youtu.be/JXj9C3ej7pk?si=z-Cdn9v2vK-lMk8A
-- https://youtu.be/jPGuAxJkKZo?si=urtZGZq5H_1UHFZ-
-- https://youtu.be/eiD9UiDabP4?si=Ixm8vm8eVltKihzT
-- https://youtu.be/C0rGwyJkDTU?si=9WXWygBtKyDylMKh
-- https://youtu.be/41N_yHARIw0?si=n5cyLt3HOrIj-aXD
-- https://youtu.be/aOen1-pQLZg?si=8Lc5hzrdhuKRxnPq
-- https://youtu.be/mMcoLgUUupQ?si=2mpz0XBZdE80PW4S
-- https://youtu.be/wPwD9CQAGsk?si=ajbcK5Fz6Wh2T5nH
-- https://youtu.be/yozD5Tnd8nw?si=axlTIoW9OrHZNuGr
-- https://youtu.be/1xo-0gCVhTU?si=7H5TQH4lzpof3tZT
-- https://youtu.be/FDjmWxETjn8?si=-sOLkV1ew3X464-y
-- https://youtu.be/e_ldsz7xzmY?si=KpWBMV1zFzSRS2ZW
-- https://youtu.be/bTRjO6JK4Ws?si=g3RVD1mioOcoR55b
-- https://youtu.be/eAIkomEid1Y?si=Mj0uhTJeUSmfcapS
-- https://youtu.be/xSG8u3UM9-I?si=vffb6Brm22pNxaoA
-- https://youtu.be/9qRPGn2yYF8?si=liM0jGGb2TIZXN27
-- https://youtu.be/6XTGcgt5clQ?si=7RwKk-_T-6PKI_8Y
-- https://youtu.be/hkQhqDmriKA?si=KLv0l_e3fA2HzpzP
-- https://www.youtube.com/live/l09hnKdltto?si=ZxUe9ko_T9yBy3wg
-- https://youtu.be/eRndYq8iTio?si=7giw-NYMam4NyXZm
-- https://youtu.be/vGOEO6mO674?si=jlbQwtCqzZ51Qym5
-- https://youtu.be/S4FnmSeRpAY?si=S2P_eRLXwz_gRwhA
-- https://youtu.be/dkgxvnk8cWw?si=l2wIkfiPwGsTikIQ
-- https://youtu.be/LH4d4PHnxPs?si=Ji7Jaz5mR5uGjOVV
-- https://youtu.be/eIxdHepOeHw?si=9h5X-UKQ7Wyg8Qiz
-- https://youtu.be/1SZUZhKraSk?si=OWMTxiINuVk1ouT-
-- https://youtu.be/DFDbh1c9zyE?si=TosyengjzB09O1tw
-- https://youtu.be/0Mzft2Kcev0?si=Hd_d2G75dYtId-Lp
-- https://youtu.be/mBNDxpJTg8U?si=El8DhPgGSRpiP2zz
-- https://youtu.be/fd_aS3ZSkxk?si=WCLc5_ewqtGAj35d
-- https://youtu.be/CdBtNQZH8a4?si=7t4UFGT7ri4ILtPn
-- https://www.youtube.com/live/Tu8_bMNRlM4?si=KMMhkpdt3T5DFujO
-- https://youtu.be/ewUw0sUxHI4?si=0BObLNf0jWZ79z3w
-- https://youtu.be/tseqdcFfTUY?si=qC0IWB-ICBXpV1o6
-- https://youtu.be/ENr2QvcHrL4?si=ieFqrNEIdHI-r8wU
-- https://youtu.be/ptUV3arx888?si=--Ck3Z15At-flbin
-- https://youtu.be/1Ei4dy9Qfek?si=zoTK7N4fwtCl-rFc
-- https://www.youtube.com/live/UFAaE6c4Gcc?si=PuFzZ4iHjvkUzMea
-- https://youtu.be/S3FBQYOsAbw?si=jvwr6BZA_4NMSsPU
-- https://youtu.be/T-xCylkjSf8?si=fASuQao2NcNwLXOn
-- https://youtu.be/qvJpsQCH954?si=cgZUDxi8EE5CEwV9
-- https://youtu.be/DgVjEo3OGBI?si=lDl0N5kGLIAl6R4A
-- https://youtu.be/Nw4AZs1kLAs?si=RS_ncuG_1d7wcizP
-- https://youtu.be/ByYyk8eMG6c?si=HUQ9CaOghO8XuQGv
-- https://youtu.be/CnailTcJV_U?si=qqBQSxqTJ_kN5H2L
-- https://youtu.be/hmkF77F9TLw?si=hUvmQR_CIj_hSQOm
-- https://youtu.be/L2L_qe-FnUY?si=THySwLWTFsDpADaO
-- https://www.youtube.com/live/A4P9gaqBPRU?si=nlQoiTOEAilsj96k
-- https://youtu.be/tuJqH3AV0e8?si=3n1e04G30TVt3QxF
-- https://youtu.be/1dAnMkF4Mc4?si=jELeSIh3E0hHQLe4
-- https://youtu.be/w3iXACKB_wQ?si=TrJlNSPvt4fDRfbH
-- https://youtu.be/I3Mlt7GCeIU?si=YUCKa4HWc2-cmMFH
-## 8. RabbitMQ, Kafka, Pulsar
-- https://youtu.be/vckfyxCb-GE?si=wL679UDsHw-1wnUG
-- https://youtu.be/oUJbuFMyBDk?si=Fx8Lm7Ez97ql6VR_
-- https://youtu.be/ul2EAP8wIPc?si=UEj1HWtsmr5U-kJU
-- https://youtu.be/ZivT0n4qboE?si=hZCcCR0DSH0RZ553
-- https://youtu.be/e03c3CIGtYU?si=kmDjeGBNzmVsd7PH
-- https://youtu.be/FmV6onGR-_o?si=Bt80eiPcLYDGIyae
-- https://youtu.be/eY2KZqFpfPs?si=ucz6k_Yb06BAtvcf
-- https://youtu.be/LcgvK4mvmTk?si=A_70GJoybYEA38e4
-- https://youtu.be/FzqjtU2x6YA?si=YCslcgTINzURPVWL
-- https://youtu.be/BhAB-3fyHK0?si=Jm9OgGFgQnQpPL4t
-- https://youtu.be/e03c3CIGtYU?si=B127bjOGUiJ8of3c
-- https://youtu.be/Rlzcj3szsso?si=7j7KK4Uljw2gK_Dq
-- https://youtu.be/gvW9uJSFujA?si=Lmjv_QoAr1tYDMm6
-- https://youtu.be/gOuAqRaDdHA?si=ezgLH1P5ppTlwrxe
-- https://youtu.be/w8xWTIFU4C8?si=BCW2_v-21hG-MrC1
-- https://youtu.be/iAA7PTqs4xY?si=Jk5CqNBjGRWiN_3b
-- https://youtu.be/UPkOsXKG4ns?si=k113DIQMQ4285X3R
-- https://youtu.be/PQHf_IzmUXE?si=__NJaMHO5bunFcRj
-- https://youtu.be/AUj4M-st3ic?si=3p37_5OmZw6mYdwl
-- https://youtu.be/ID-_ic1fLkY?si=ca9zo34PFftAbWSn
-- https://youtu.be/YwBiS_tmFgA?si=rHCZCjkA_tS1HpQQ'
-- https://youtu.be/vRbYAfPDaDY?si=f4dcox8DmshIMR8a
-- https://youtu.be/eEipVEq8F1k?si=2QW1cWzm7FMQv_d7
-- https://youtu.be/w84uFSwulBI?si=KTzOql181g9yuIil
-- https://youtu.be/Jcb3J2uLhsI?si=kW8pZbb66eP3sYQU
-- https://youtu.be/pKnbYGrDAKY?si=NjL--pljs_MxB9sp
-- https://youtu.be/fawAouA0kzA?si=cGKmAxv8tSofbUQb
-- https://youtu.be/ppRn9Fp4hXI?si=vnZG8MlhE4VW0PT5
-- https://youtu.be/dlXCodLxhag?si=as_1xVu6wfPjIG7Y
-- https://youtu.be/gesxvFh0U84?si=aSBHHi1M2-bTTtCW
-- https://youtu.be/LHYOBHR2Ms4?si=GfR4dGh9YYH_sKxP
-- https://youtu.be/Zc2mQSQXoS4?si=kVfxxN_07y5mC-Ht
-- https://youtu.be/igaVS0S1hA4?si=0cBltgvo7rpwekAG
-- https://youtu.be/bfVddTJNiAw?si=1s_vD5PSVkJgvbyJ
-- https://youtu.be/ZivT0n4qboE?si=vifiorm0zvTDJ9Ld
-- https://www.youtube.com/playlist?list=PL4IHPd27PX5CLmC4OZvcOo_w247ei3Nom
-- https://www.youtube.com/playlist?list=PLLz6Bi1mIXhEwMukSl5JVPjJNZ_wfiN5C
-- https://www.youtube.com/playlist?list=PL3rAaHySgv9BKnk-KAHI9gXFJtchmN6rW
-- https://www.youtube.com/playlist?list=PLZVBmpM0E_DHlA9Fz4QznfPjUKPIz48I7
-- https://www.youtube.com/playlist?list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R
-- https://www.youtube.com/playlist?list=PL9ooVrP1hQOG7-vTVK-hgiPwKJT6XOfO_
-- https://youtu.be/jdjp9elUEqA?si=auEbKaeap9eTfc0k
-- https://youtu.be/3pxr45ufnRc?si=inUtK4aBC82IHU62
-- https://youtu.be/EiDLKECLcZw?si=n7QXyXTfNN2xymFs
-- https://youtu.be/F6PUQ3k6zmg?si=qiVjLpgu2UYp0BQ9
-- https://youtu.be/ZJJHm_bd9Zo?si=U5Waw_GznwkEBmTS
-- https://youtu.be/_SSFM7FTI8A?si=m3WtVqYw8ZWiwCQo
-- https://youtu.be/hNDjd9I_VGA?si=fSiBUq2DnhFfbQ71
-- https://youtu.be/DU8o-OTeoCc?si=LZUnCKgNaa-mc4g2
-- https://www.youtube.com/live/x9l_6E4jIQY?si=KDw2TAPgRSPoiMxN
-- https://youtu.be/lB5i29GZei8?si=TOPt4GSkIr80GZke
-- https://youtu.be/GqAcTrqKcrY?si=qt8DqDarsfYmndsr
-- https://youtu.be/wNnTNTVdglM?si=3GbvReMInWNi9Oo0
-- https://youtu.be/JM1-WDihR8M?si=XHTUJT3f-h43fWbF
-- https://youtu.be/K-kp3veiyu0?si=gGfnHUMIiuzF0nIU
-- General
-	- Software Engineering Marvels https://www.youtube.com/playlist?list=PLMCXHnjXnTnv5Pd3O1bKGHNU4mkvribaB
-	- Message Queues & PubSub Systems (19) https://www.youtube.com/playlist?list=PLQnljOFTspQVcumYRWE2w9kVxxIXy_AMo
-- Kafka
-	- https://developers.redhat.com/learn/apache-kafka/kafka-101
-	- https://www.youtube.com/@Confluent
-	- Kafka Crash Course 51m https://youtu.be/N9TDwaDfCW0?si=IFWvlu4KiZJwdcQT
-- Pulsar
-	- https://pulsar.apache.org/docs/next/
-## 9. Docker
+## 2.4 Testing
+	- Test Driven Development Vs Behavior Driven Development https://youtu.be/06M51vtmXdE?si=xW3gU2JPP20P8Ujs
+	- TDD vs BDD | Test Driven and Behavior Driven Development Difference Explained https://youtu.be/feaxjn2BXzc?si=7jpNGaTNZa32cKlu
+	- Start Your TDD Journey with C# in 15 MINUTES https://youtu.be/dp1WRyR0TiE?si=TOZrIR1w0janUgG9
+	- THIS stops 90% of C# Developers Learning TDD https://youtu.be/x5hsO6R6Me8?si=tx_2MwAeQoT8eHzl
+	- What is TDD (Test Driven Development)? | How to do TDD with Example https://youtu.be/h26wrTxF94k?si=0GyNhstFpwDOETEC
+	- When To Unit, E2E, And Integration Test https://youtu.be/isI1c0eGSZ0?si=1FfGCK-1psRtAxmX
+	- Test driven development (TDD) - Tutorial for Beginners https://youtu.be/y8TcPr73Bwo?si=fA3VbJeXnu4AOikT
+	- TDD and The Terminator - An Introduction to Test Driven Development https://youtu.be/EcoIjf3RABI?si=P-Aih_KDX95VFQHb
+	- Test Driven Development In C# - TDD https://youtu.be/egzICSv-x_U?si=buZ7dLSK3zNhoxsd
+	- My 25 Laws of Test Driven Development https://youtu.be/x_3GSUiRhfM?si=PMjTNv0sBtcuMl5W
+	- Lets Chat About Unit Tests https://youtu.be/IInciWyU74U?si=2u3xpnJpXZTjBc7V
+	- Test Driven Development (TDD) Is A Broken Practice https://youtu.be/h-3z8i-MwFg?si=igkfLWMfkDHdIgTL
+## 3. Docker
 - https://docs.docker.com/get-started/
 - https://www.okteto.com/
 - https://ona.com/ (earlier gitpod)
@@ -1018,17 +714,33 @@
 - Docker (20) https://www.youtube.com/playlist?list=PLQnljOFTspQWsD-rakNw1C20c1JI8UR1r
 - CI CD (5) https://www.youtube.com/playlist?list=PL9nWRykSBSFgNvF-jdy6fbN-Zj24zr0vZ
 - Docker Complete Tutorial (58) https://www.youtube.com/playlist?list=PL_euSNU_eLbdTbQ4_-1_MrRqBudohCIhJ
-## 10. Kubernetes, Helm, Tilt, Keda
+## 4. Kubernetes
+- https://trainingportal.linuxfoundation.org/courses/introduction-to-kubernetes
 - https://youtu.be/JD2es72cU6A?si=LGg88_Q9u3W2S2ny
 - https://youtu.be/2vMEQ5zs1ko?si=1lW5dNefZwQxtQwv
 - https://kubernetes.io/docs/home/
 - https://www.cncf.io/training/courses/
 - https://learn.kodekloud.com/courses
+- https://kodekloud.com/blog/kubernetes-tutorial-for-beginners/
 - https://cast.ai/
+- https://spacelift.io/blog/kubernetes-tutorial
+- https://www.datacamp.com/tutorial/kubernetes
+- https://www.okteto.com/blog/kubernetes-basics/
+- https://github.com/knrt10/kubernetes-basicLearning?tab=readme-ov-file#keeping-pods-healthy
+- https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-complete-guide/ 
+- https://www.aquasec.com/cloud-native-academy/ (see right side 'Related Articles' and '70 Best Kubernetes Tutorials' there)
+- https://www.geeksforgeeks.org/devops/kubernetes-tutorial/
+- https://kubebyexample.com/learning-paths
+- https://www.qovery.com/blog/kubernetes-tutorial-for-developers
+- Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!) https://youtu.be/d6WC5n9G_sM?si=HzHL2AoNmkq_ekUl
+- Kubernetes Zero to Hero: The Complete Beginner’s Guide (2025 Edition) https://youtu.be/MTHGoGUFpvE?si=woD-ljkUv3tGJDzK
+- Kubernetes FULL COURSE 2025- Zero to Hero https://www.youtube.com/playlist?list=PLleCw-vqe90AqkxnzWVU8IexL7pWijxml
+- Kubernetes Tutorials | CKAD Level Training https://youtube.com/playlist?list=PLleCw-vqe90DzAwG6Z_f9GARu-y6HbHXf&si=IuPDbG4j-kIvGpjo
 - Most Common Kubernetes Deployment Strategies (Examples & Code) https://youtu.be/lxc4EXZOOvE?si=TXkT7cvxu-FWKE6N
 - 2-Tier Application Deployment Project Series for DevOps Engineers | Episode 1 https://youtu.be/dXUnAK9_ets?si=uR77sbBjtKifGIKW
 - 2-Tier Application Deployment with Docker in One Video | Episode 2 https://youtu.be/LxPd81wiUP4?si=r5lIpL4V5Cx-Vvg-
 - Easiest Kubernetes Architecture and Cluster Setup (Kubeadm) For DevOps | Episode 3 https://youtu.be/oEGmaHSfcjQ?si=GWVqM8AaS5kBb4EB
+- Stop using Kubernetes Ingress Nginx Controller Today https://youtu.be/ExUGVIOrNbE?si=ZoLfASET2dox4KMH
 - Kubernetes Deployment of 2-Tier Application for DevOps Engineers | Episode 4 https://youtu.be/x43KlgDSRDg?si=M0vl3y4c7FU_jpOm
 - Kubernetes End to End project on EKS | EKS Install and app deploy with Ingress https://youtu.be/RRCrY12VY_s?si=KUQAAjfm0fn6fvGD
 - Beautiful Dashboards with Grafana and Prometheus - Monitoring Kubernetes Tutorial https://youtu.be/fzny5uUaAeY?si=DYV2BRoanIRETTbN
@@ -1044,6 +756,7 @@
 - Docker and Kubernetes Crash Course | Containerization, Virtualization & More https://youtu.be/dWkTSjYco_g?si=tIjnRN322US4tgu3
 - KUBERNETES SERVICES DEEP DIVE| LIVE DEMO | LEARN TRAFFIC FLOW USING KUBESHARK https://youtu.be/fCX8O7GA_lY?si=kYyg-Dhp06UU8phn
 - Kubernetes Administration Course https://youtube.com/playlist?list=PLKiTC45c1PK-SwbeIuwdPhHx9XHiM4drK&si=YZffv7oGsecI6i2S
+- Scaling Explained Through Kubernetes HPA, VPA, KEDA & Cluster Autoscaler https://youtu.be/HQY2jgSN6pA?si=_Fucvk-K1hEb0aZk
 - https://www.youtube.com/playlist?list=PLxv9HL8TPbSxBEjcHPwTjvYBfioVmtT1W
 - https://www.youtube.com/playlist?list=PLAdTNzDIZj__bptTvTGIaL1ezkeg_p-5R
 - https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP
@@ -1094,27 +807,26 @@
 - https://youtu.be/s_o8dwzRlu4?si=mglRunvrd3SFbJeC
 - https://youtu.be/bhBSlnQcq2k?si=wcu6Kb20HuWzFeRI
 - https://youtu.be/7A5cH8iqgHU?si=Wz_eetLGk1K1rW9i
-- Official Website
+## 4.1 Talos
+	-	https://www.talos.dev/
+## 4.2 minikube
+	-	https://minikube.sigs.k8s.io/docs/
+## 5. Helm
+- https://helm.sh/docs/
 - HELM Packaging of Two-Tier Applications for DevOps Engineers | Episode 5 https://youtu.be/4oVom1xrMEQ?si=1oxANeuo3OT-zjPX
 - Complete Helm Chart Tutorial: From Beginner to Expert Guide https://youtu.be/DQk8HOVlumI?si=hoWUjIFKSAuOrqci
 - How to Build and Deploy an app Helm Chart on Kubernetes Cluster with GitLab CI/CD https://youtu.be/qSbE7NOXm8U?si=dr792MY7Q2lhQl-G
 - Helm installation and commands Hindi | Lec-58 | Hands-on Helm | What is Helm in Kubernetes https://youtu.be/FpJpHWe3Va4?si=Mu5Cw0ykSWtAN3d1
+## 6. Tilt
 - https://tilt.dev/
+## 7. Keda
+- Optimize Your Kubernetes Cluster with KEDA: The Ultimate Guide | Kubernetes Event Driven Autoscaling https://youtu.be/8IWCr5gy6lU?si=DqLUK0HXbXJo2qMu
 - https://keda.sh/
-- https://spacelift.io/blog/kubernetes-tutorial
-- https://www.datacamp.com/tutorial/kubernetes
-- https://www.okteto.com/blog/kubernetes-basics/
-- https://kodekloud.com/blog/kubernetes-tutorial-for-beginners/
-- https://github.com/knrt10/kubernetes-basicLearning?tab=readme-ov-file#keeping-pods-healthy
-- https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-complete-guide/ 
-- https://www.aquasec.com/cloud-native-academy/ (see right side 'Related Articles' and '70 Best Kubernetes Tutorials' there)
-- https://www.geeksforgeeks.org/devops/kubernetes-tutorial/
-- https://kubernetes.io/docs/home/
-- https://kubebyexample.com/learning-paths
-- https://www.qovery.com/blog/kubernetes-tutorial-for-developers
-- https://minikube.sigs.k8s.io/docs/
-- https://helm.sh/docs/
-## 11. Traefik, Grafana
+## 8. Gatling
+- https://docs.gatling.io/
+## 9. GrafanaLabs
+- https://grafana.com/
+## 10. Traefik
 - https://doc.traefik.io/
 - Expose Your Docker Containers With Traefik https://youtu.be/PzbdEZ4DQTg?si=dbUFv_jp0jNeqP0J
 - Traefik v3.3 - Secure Everything! Complete Tutorial https://youtu.be/CmUzMi5QLzI?si=6f006EEM904ZcExQ 
@@ -1127,39 +839,368 @@
 - https://youtu.be/B9t1iNNiHUA?si=tZ-xylCSspOFifD4
 - https://youtu.be/-hfejNXqOzA?si=evX0hlpQ73sFBSUf
 - https://youtu.be/wLrmmh1eI94?si=oZQGgrbcKcPi5p3k
-- https://grafana.com/
-## 12. Linux, Bash
-	- https://youtu.be/ISJ44S5sZu8?si=b3w1NWRvdJyLaO4c
-	- https://linuxjourney.com/
-	- https://guide.bash.academy/
-	- https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/
-	- https://www.w3schools.com/bash/
-	- https://www.learnshell.org/
-	- https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
-	- https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w
-	- https://www.youtube.com/playlist?list=PLhfrWIlLOoKNMHhB39bh3XBpoLxV3f0V9
-	- https://www.youtube.com/playlist?list=PLmNmekbKZkr3ArxGUwQLpSYFT6jDcdtwq
-	- https://www.youtube.com/playlist?list=PLqmwiCS_fyTW7xxwkWbEz40dGKb_za26E
-	- https://www.youtube.com/playlist?list=PLECOetiSS4M1RxI-Z2-rtxvL4aMgOZVf1
-	- https://www.youtube.com/playlist?list=PLBr8obKbpkYtWIluvSsDCNphB0CGqV0lD
-	- https://www.youtube.com/playlist?list=PLYLI_nYYAA7LVGGg8Z7OvDOgPYydU4oi3
-	- https://youtu.be/idW-an99TAM?si=2_Rbcx_4mPvwYxdp
-	- https://youtu.be/ROjZy1WbCIA?si=QH9s1bG0rL88kTsc
-	- https://youtu.be/_tCY-c-sPZc?si=Q48nHR4cQnasovdm
-	- https://youtu.be/-atblwgc63E?si=8Cj_cLLVwmNCSfmI
-	- https://youtu.be/6WatcfENsOU?si=3gITibRFbybMm31Z
-	- https://youtu.be/D9S3P721UV0?si=6YAFCzhe6-YDfl0K
-	- https://youtu.be/PNhq_4d-5ek?si=70CN-WqQHLYpLB26
-	- https://youtu.be/tK9Oc6AEnR4?si=FVZVlg8SBbazW7uv
-	- https://youtu.be/42iQKuQodW4?si=cWpIQzaxhNVTk_6p
-	- https://youtu.be/HbgzrKJvDRw?si=okR2JND6N6R5SIR8
-	- https://youtu.be/H5AErKbqYmQ?si=sNWoBzbHaSHDxtS9
-	- https://youtu.be/ieV4LI6Ntf4?si=sxZ_5SfNcRryUf9D
-	- https://youtu.be/n_KVqRscUzs?si=BbSZcjxi9kJMoX1K
-	- 50 Most Popular Linux & Terminal Commands https://www.youtube.com/watch?v=A9aVabLkV1A
-	- Bash Scripting in 18 Minutes https://www.youtube.com/watch?v=h7x37wkzUyw
-	- Linux Full Course for Beginners to Advanced 100m https://www.youtube.com/watch?v=D9S3P721UV0
-## 13. GIT, Github
+## 11. DAST Escape
+- https://escape.tech/
+## 12. MicroService
+- https://youtu.be/RIAe1EazB5M?si=6C54agGUsnRVCMUe
+- https://youtu.be/kjrZM-t7Y80?si=IiUGlNglFJkzd4L2
+- https://www.youtube.com/playlist?list=PL_kVwOdi-YKSicNUsAXWEmoSPyyP08kdV
+- https://www.youtube.com/playlist?list=PLoUvYJkGKj4D4Q1dU15RvSpKM4iTg9O56
+- https://youtu.be/fEDT4lWWe9g?si=2qp7cbXEovDuEnUO
+- https://youtu.be/RojKJnF_WWQ?si=_FGDXhtb_1MBAuBp
+- https://youtu.be/t4YR6MWrugw?si=BGbgSONsXiIqz0uq
+- https://youtu.be/NWLwGtkBrkQ?si=OzdgaWSK1p4vs5yF
+- https://youtu.be/G4Ag_f-uero?si=9MvZpSBdSa9ZU8eb
+- https://youtu.be/ppRn9Fp4hXI?si=3DJlCHhg_phnpOk9
+- https://youtu.be/zILVISG8qh0?si=TwZOXpAsh6ruAzFO
+- https://youtu.be/fEDT4lWWe9g?si=XfNw25tYNJK4BIqU
+- https://microservices.io/index.html
+- https://www.confluent.io/learn/
+- https://docs.confluent.io/
+- https://contextmapper.org/
+- https://grpc.io/docs/
+- https://protobuf.dev/
+- Microservices, API Gateway with Node.js & Express | Role-Based Authorization & Login Service https://youtu.be/mnmEF7D2eG4?si=-dDPWWX-OJD87QoQ
+- API GATEWAY and Microservices Architecture | How API Gateway act as a Single Entry Point? https://youtu.be/dkgxvnk8cWw?si=vIuo2b8v0zbu8-79
+- https://www.youtube.com/playlist?list=PLVz2XdJiJQxw0f6wXQCdWKabLdqSzGA0X
+- https://www.youtube.com/playlist?list=PL285LgYq_FoJQ4DIPO905bTu3Q1rbgajo
+- https://youtu.be/rzWwgmhtAyc?si=_IyPtWPB5jEAjDGD
+- https://youtu.be/hHzjDfCbTq4?si=j-VApaQARhWNTQ5q
+- https://youtu.be/1yjAUY1ifUg?si=eUnI9YQJVn6sTL0p
+- https://youtu.be/wcY7bvyE4q4?si=CHWOI5g1PRCUX-8h
+- https://youtu.be/wOLs7x4l-Ys?si=BdPH5lqE-Pdujwzd
+- https://youtu.be/Y92WWaZJl24?si=fCjeQW7C01aacI3_
+- https://youtu.be/mML6GiOAM1w?si=qzCFFlBN4glGLGvZ
+- https://youtu.be/AiUazlrtgyU?si=67Erq0qJHGMyvIaz
+- https://youtu.be/ufTKoAJ2OUo?si=PXVg5YNd_rp58tS1
+- https://youtu.be/XLJ5_5MsgGQ?si=oEyfBkm7PwpcST43
+- https://youtu.be/334XuMma1fk?si=OlMEr2vXkIYQWh2l
+- https://www.youtube.com/playlist?list=PL6tu16kXT9PoKhGd09kX-cy8PWHo3uxy7
+- https://www.youtube.com/playlist?list=PL6tu16kXT9PqLPizSi7iio68MHQYkznlK
+- https://www.youtube.com/playlist?list=PL6tu16kXT9PpywOvObZKKN24cHkWAXVAj
+- https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ
+- https://www.youtube.com/playlist?list=PLyHJZXNdCXsebD35Cag8RxzGhM8Fw5D9u
+- https://www.youtube.com/playlist?list=PLyHJZXNdCXsdvaw5eGW9kMnbll88B8kG2
+- https://www.youtube.com/playlist?list=PLDmvslp_VR0xZGhJHMjy5dozCDJYZK6W-
+- https://www.youtube.com/playlist?list=PLrwNNiB6YOA0KmfliJoSuZzEN6tjSdEXc
+- https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr
+- https://www.youtube.com/playlist?list=PLaLqLOj2bk9bYlEheiI1E0kK0sPCk94cq
+- https://www.youtube.com/playlist?list=PLIGDNOJWiL19WHIxJ0Q4aP4X3oljPha5n
+- https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O
+- https://www.youtube.com/playlist?list=PLFmBehh3QjxrGyZM9DXtYIC7EdXpwCOOD
+- https://www.youtube.com/playlist?list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL
+- https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs
+- https://www.youtube.com/playlist?list=PLw0w5s5b9NK4V21Tv0_OTHxvwDFRihC0R
+- https://www.youtube.com/playlist?list=PLIGDNOJWiL1_SzJqkfxd-rcPBJBdFmWfw
+- https://www.youtube.com/playlist?list=PLaLqLOj2bk9aaZZYoH7tMDj5obE7os45_
+- https://www.youtube.com/playlist?list=PL285LgYq_FoI1jgP0-9zba9cgOWnMZTTX
+- https://www.youtube.com/playlist?list=PL285LgYq_FoJu4C55ILz5sQvg3aX88cHY
+- https://www.youtube.com/playlist?list=PL285LgYq_FoLxj1bOdVeQxFhwwq14ddn6
+- https://www.youtube.com/playlist?list=PL285LgYq_FoLF6rPJy2hKg3RJk2YEm-Z_
+- https://www.youtube.com/playlist?list=PL285LgYq_FoKFuZzlwROA4ZUXOuvRiDrF
+- https://www.youtube.com/playlist?list=PL6tu16kXT9PrlCX-b1o0WdBc56rXHJXLy
+- https://www.youtube.com/playlist?list=PLXQv4-irx7g-rzWD-lYPkfQOwJyBQ7IoE
+- https://www.youtube.com/playlist?list=PLolI8AY2AS9ZPCYGackdJ4yyHa5JrMCST
+- https://www.youtube.com/playlist?list=PLTCrU9sGyburHcVKRuw2yXt7V7HEa6ZYY
+- https://www.youtube.com/playlist?list=PLTCrU9sGybupq5YqUTlNqyuxzgCT6IUDl
+- https://www.youtube.com/playlist?list=PL6W8uoQQ2c61u_LepybjUC26WqKv4bidK
+- https://youtu.be/v_ABLktEwRU?si=zRWLNQGrneZMzXqe
+- https://youtu.be/Nw4AZs1kLAs?si=0Yh5JVxoI4YPKgdV
+- https://youtu.be/tuJqH3AV0e8?si=am_EeKPq2ThZW98N
+- https://youtu.be/v6MLHh4ibiA?si=OgqycyttbPE2H8hQ
+- https://youtu.be/_f7h6xQXiLA?si=7Qy8gYJ6OY2WTiUF
+- https://youtu.be/gesxvFh0U84?si=0QYUhUEx97tr0upJ
+- https://youtu.be/ENr2QvcHrL4?si=ONByI8Qm4Omdt6pa
+- https://youtu.be/w11dXbZJCBE?si=W1RwFOS3MdomPxO9
+- https://youtu.be/85YbMEb1qkQ?si=l0ii4hjQ-aL81z2V
+- https://youtu.be/yuVVKB0EaOQ?si=2MrwECw9spx-oWMZ
+- https://youtu.be/t76UMpwFNs0?si=eQfXW8Wxxm1nTsV4
+- https://youtu.be/OiwyYb8is0s?si=gfMzAwbQuIWdTa5B
+- https://youtu.be/ppRn9Fp4hXI?si=a4GvXCIyuWKo1GSz
+- https://youtu.be/vNplj9LwQSw?si=XqlUMOg-X44Oq8Aa
+- https://youtu.be/y1KJITitFA8?si=qymWXx-Z4t3zaGNZ
+- https://youtu.be/hmkF77F9TLw?si=nLCegHGyv380gFz6
+- https://youtu.be/TiMuJNKECjY?si=RXcpaYwZsilI4rGw
+- https://youtu.be/tiHKefWOyrY?si=08hHIrp_ik6RH72y
+- https://youtu.be/TiMuJNKECjY?si=evbca32rKZk7lD-O
+- https://youtu.be/DQ3D_mplIgY?si=RQ3iMMT7KitzBS_9
+- https://youtu.be/AAMZWZmsLrA?si=RCK82DXeETy_IKeI
+- https://youtu.be/SYsiIxJ-Nfw?si=d5jBzXbB-DwczXLh
+- https://youtu.be/Hq6zO-A0hMI?si=8uKnNwcZmVGqomWg
+- https://youtu.be/Fe_qPM81hJ8?si=REumuCPwb51Hn2H3
+- https://youtu.be/tLr_CdKc3XU?si=4qgRLSPaGUQ5sjmR
+- https://youtu.be/JXj9C3ej7pk?si=z-Cdn9v2vK-lMk8A
+- https://youtu.be/jPGuAxJkKZo?si=urtZGZq5H_1UHFZ-
+- https://youtu.be/eiD9UiDabP4?si=Ixm8vm8eVltKihzT
+- https://youtu.be/C0rGwyJkDTU?si=9WXWygBtKyDylMKh
+- https://youtu.be/41N_yHARIw0?si=n5cyLt3HOrIj-aXD
+- https://youtu.be/aOen1-pQLZg?si=8Lc5hzrdhuKRxnPq
+- https://youtu.be/mMcoLgUUupQ?si=2mpz0XBZdE80PW4S
+- https://youtu.be/wPwD9CQAGsk?si=ajbcK5Fz6Wh2T5nH
+- https://youtu.be/yozD5Tnd8nw?si=axlTIoW9OrHZNuGr
+- https://youtu.be/1xo-0gCVhTU?si=7H5TQH4lzpof3tZT
+- https://youtu.be/FDjmWxETjn8?si=-sOLkV1ew3X464-y
+- https://youtu.be/e_ldsz7xzmY?si=KpWBMV1zFzSRS2ZW
+- https://youtu.be/bTRjO6JK4Ws?si=g3RVD1mioOcoR55b
+- https://youtu.be/eAIkomEid1Y?si=Mj0uhTJeUSmfcapS
+- https://youtu.be/xSG8u3UM9-I?si=vffb6Brm22pNxaoA
+- https://youtu.be/9qRPGn2yYF8?si=liM0jGGb2TIZXN27
+- https://youtu.be/6XTGcgt5clQ?si=7RwKk-_T-6PKI_8Y
+- https://youtu.be/hkQhqDmriKA?si=KLv0l_e3fA2HzpzP
+- https://www.youtube.com/live/l09hnKdltto?si=ZxUe9ko_T9yBy3wg
+- https://youtu.be/eRndYq8iTio?si=7giw-NYMam4NyXZm
+- https://youtu.be/vGOEO6mO674?si=jlbQwtCqzZ51Qym5
+- https://youtu.be/S4FnmSeRpAY?si=S2P_eRLXwz_gRwhA
+- https://youtu.be/dkgxvnk8cWw?si=l2wIkfiPwGsTikIQ
+- https://youtu.be/LH4d4PHnxPs?si=Ji7Jaz5mR5uGjOVV
+- https://youtu.be/eIxdHepOeHw?si=9h5X-UKQ7Wyg8Qiz
+- https://youtu.be/1SZUZhKraSk?si=OWMTxiINuVk1ouT-
+- https://youtu.be/DFDbh1c9zyE?si=TosyengjzB09O1tw
+- https://youtu.be/0Mzft2Kcev0?si=Hd_d2G75dYtId-Lp
+- https://youtu.be/mBNDxpJTg8U?si=El8DhPgGSRpiP2zz
+- https://youtu.be/fd_aS3ZSkxk?si=WCLc5_ewqtGAj35d
+- https://youtu.be/CdBtNQZH8a4?si=7t4UFGT7ri4ILtPn
+- https://www.youtube.com/live/Tu8_bMNRlM4?si=KMMhkpdt3T5DFujO
+- https://youtu.be/ewUw0sUxHI4?si=0BObLNf0jWZ79z3w
+- https://youtu.be/tseqdcFfTUY?si=qC0IWB-ICBXpV1o6
+- https://youtu.be/ENr2QvcHrL4?si=ieFqrNEIdHI-r8wU
+- https://youtu.be/ptUV3arx888?si=--Ck3Z15At-flbin
+- https://youtu.be/1Ei4dy9Qfek?si=zoTK7N4fwtCl-rFc
+- https://www.youtube.com/live/UFAaE6c4Gcc?si=PuFzZ4iHjvkUzMea
+- https://youtu.be/S3FBQYOsAbw?si=jvwr6BZA_4NMSsPU
+- https://youtu.be/T-xCylkjSf8?si=fASuQao2NcNwLXOn
+- https://youtu.be/qvJpsQCH954?si=cgZUDxi8EE5CEwV9
+- https://youtu.be/DgVjEo3OGBI?si=lDl0N5kGLIAl6R4A
+- https://youtu.be/Nw4AZs1kLAs?si=RS_ncuG_1d7wcizP
+- https://youtu.be/ByYyk8eMG6c?si=HUQ9CaOghO8XuQGv
+- https://youtu.be/CnailTcJV_U?si=qqBQSxqTJ_kN5H2L
+- https://youtu.be/hmkF77F9TLw?si=hUvmQR_CIj_hSQOm
+- https://youtu.be/L2L_qe-FnUY?si=THySwLWTFsDpADaO
+- https://www.youtube.com/live/A4P9gaqBPRU?si=nlQoiTOEAilsj96k
+- https://youtu.be/tuJqH3AV0e8?si=3n1e04G30TVt3QxF
+- https://youtu.be/1dAnMkF4Mc4?si=jELeSIh3E0hHQLe4
+- https://youtu.be/w3iXACKB_wQ?si=TrJlNSPvt4fDRfbH
+- https://youtu.be/I3Mlt7GCeIU?si=YUCKa4HWc2-cmMFH
+## 12.1 MolecularJS
+	-	- https://moleculer.services/docs/0.15/
+## 13. gRPC
+- Node gRPC code
+## 14. RabbitMQ
+- https://youtu.be/vckfyxCb-GE?si=wL679UDsHw-1wnUG
+- https://youtu.be/oUJbuFMyBDk?si=Fx8Lm7Ez97ql6VR_
+- https://youtu.be/ul2EAP8wIPc?si=UEj1HWtsmr5U-kJU
+- https://youtu.be/ZivT0n4qboE?si=hZCcCR0DSH0RZ553
+- https://youtu.be/e03c3CIGtYU?si=kmDjeGBNzmVsd7PH
+- https://youtu.be/FmV6onGR-_o?si=Bt80eiPcLYDGIyae
+- https://youtu.be/eY2KZqFpfPs?si=ucz6k_Yb06BAtvcf
+- https://youtu.be/LcgvK4mvmTk?si=A_70GJoybYEA38e4
+- https://youtu.be/FzqjtU2x6YA?si=YCslcgTINzURPVWL
+- https://youtu.be/BhAB-3fyHK0?si=Jm9OgGFgQnQpPL4t
+- https://youtu.be/e03c3CIGtYU?si=B127bjOGUiJ8of3c
+- https://youtu.be/Rlzcj3szsso?si=7j7KK4Uljw2gK_Dq
+- https://youtu.be/gvW9uJSFujA?si=Lmjv_QoAr1tYDMm6
+- https://youtu.be/gOuAqRaDdHA?si=ezgLH1P5ppTlwrxe
+- https://youtu.be/w8xWTIFU4C8?si=BCW2_v-21hG-MrC1
+- https://youtu.be/iAA7PTqs4xY?si=Jk5CqNBjGRWiN_3b
+- https://youtu.be/UPkOsXKG4ns?si=k113DIQMQ4285X3R
+- https://youtu.be/PQHf_IzmUXE?si=__NJaMHO5bunFcRj
+- https://youtu.be/AUj4M-st3ic?si=3p37_5OmZw6mYdwl
+- https://youtu.be/ID-_ic1fLkY?si=ca9zo34PFftAbWSn
+- https://youtu.be/YwBiS_tmFgA?si=rHCZCjkA_tS1HpQQ'
+- https://youtu.be/vRbYAfPDaDY?si=f4dcox8DmshIMR8a
+- https://youtu.be/eEipVEq8F1k?si=2QW1cWzm7FMQv_d7
+- https://youtu.be/w84uFSwulBI?si=KTzOql181g9yuIil
+- https://youtu.be/Jcb3J2uLhsI?si=kW8pZbb66eP3sYQU
+- https://youtu.be/pKnbYGrDAKY?si=NjL--pljs_MxB9sp
+- https://youtu.be/fawAouA0kzA?si=cGKmAxv8tSofbUQb
+- https://youtu.be/ppRn9Fp4hXI?si=vnZG8MlhE4VW0PT5
+- https://youtu.be/dlXCodLxhag?si=as_1xVu6wfPjIG7Y
+- https://youtu.be/gesxvFh0U84?si=aSBHHi1M2-bTTtCW
+- https://youtu.be/LHYOBHR2Ms4?si=GfR4dGh9YYH_sKxP
+- https://youtu.be/Zc2mQSQXoS4?si=kVfxxN_07y5mC-Ht
+- https://youtu.be/igaVS0S1hA4?si=0cBltgvo7rpwekAG
+- https://youtu.be/bfVddTJNiAw?si=1s_vD5PSVkJgvbyJ
+- https://youtu.be/ZivT0n4qboE?si=vifiorm0zvTDJ9Ld
+- https://www.youtube.com/playlist?list=PL4IHPd27PX5CLmC4OZvcOo_w247ei3Nom
+- https://www.youtube.com/playlist?list=PLLz6Bi1mIXhEwMukSl5JVPjJNZ_wfiN5C
+- https://www.youtube.com/playlist?list=PL3rAaHySgv9BKnk-KAHI9gXFJtchmN6rW
+- https://www.youtube.com/playlist?list=PLZVBmpM0E_DHlA9Fz4QznfPjUKPIz48I7
+- https://www.youtube.com/playlist?list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOG7-vTVK-hgiPwKJT6XOfO_
+- https://youtu.be/jdjp9elUEqA?si=auEbKaeap9eTfc0k
+- https://youtu.be/3pxr45ufnRc?si=inUtK4aBC82IHU62
+- https://youtu.be/EiDLKECLcZw?si=n7QXyXTfNN2xymFs
+- https://youtu.be/F6PUQ3k6zmg?si=qiVjLpgu2UYp0BQ9
+- https://youtu.be/ZJJHm_bd9Zo?si=U5Waw_GznwkEBmTS
+- https://youtu.be/_SSFM7FTI8A?si=m3WtVqYw8ZWiwCQo
+- https://youtu.be/hNDjd9I_VGA?si=fSiBUq2DnhFfbQ71
+- https://youtu.be/DU8o-OTeoCc?si=LZUnCKgNaa-mc4g2
+- https://www.youtube.com/live/x9l_6E4jIQY?si=KDw2TAPgRSPoiMxN
+- https://youtu.be/lB5i29GZei8?si=TOPt4GSkIr80GZke
+- https://youtu.be/GqAcTrqKcrY?si=qt8DqDarsfYmndsr
+- https://youtu.be/wNnTNTVdglM?si=3GbvReMInWNi9Oo0
+- https://youtu.be/JM1-WDihR8M?si=XHTUJT3f-h43fWbF
+- https://youtu.be/K-kp3veiyu0?si=gGfnHUMIiuzF0nIU
+- Intro To RabbitMQ https://youtu.be/bfVddTJNiAw?si=SU65uyLyGqhOjhEH
+- Learn RabbitMQ for Event-Driven Architecture (EDA) https://youtu.be/1yC_bw0tWhQ?si=bfRCLtfbO5Y7SCg9
+- Software Engineering Marvels https://www.youtube.com/playlist?list=PLMCXHnjXnTnv5Pd3O1bKGHNU4mkvribaB
+- Message Queues & PubSub Systems (19) https://www.youtube.com/playlist?list=PLQnljOFTspQVcumYRWE2w9kVxxIXy_AMo
+## 15. Kafka
+	- https://developers.redhat.com/learn/apache-kafka/kafka-101
+	- https://www.youtube.com/@Confluent
+	- Kafka Crash Course 51m https://youtu.be/N9TDwaDfCW0?si=IFWvlu4KiZJwdcQT
+## 16. Istio
+- https://istio.io/latest/
+## 17. Kurrent
+- https://docs.kurrent.io/
+- https://academy.kurrent.io/courses
+- https://www.kurrent.io/cqrs-pattern
+## 18. ResolveJS
+- https://www.geeksforgeeks.org/dbms/event-sourcing-database-design-patterns/
+- https://github.com/leandrocp/awesome-cqrs-event-sourcing
+- file:///C:/Users/Devendra/Desktop/wolkenkit-brochure.pdf
+- https://reimagined.github.io/resolve/docs/getting-started/
+- https://developer.confluent.io/courses/event-sourcing/hands-on-confluent-cloud/
+- https://kalele.io/blog/
+- https://www.instaclustr.com/support/documentation/
+- https://www.geeksforgeeks.org/system-design/cqrs-design-pattern-in-microservices/
+- https://www.geeksforgeeks.org/system-design/cqrs-command-query-responsibility-segregation/
+- https://systemdesignschool.io/blog/cqrs-pattern
+- https://www.redhat.com/en/blog/illustrated-cqrs
+- https://discuss.axoniq.io/t/cqrs-pattern-how-are-command-and-query-separated-how-to-correctly-implement-cqrs/4456/5
+- https://www.c-sharpcorner.com/article/using-the-cqrs-pattern-in-c-sharp/
+- https://www.linkedin.com/pulse/cqrs-design-pattern-amir-doosti-ooqjf/
+- https://deviq.com/
+- https://awesome-architecture.com/cqrs/
+- https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/
+- https://www.equalefforts.com/blog/cqrs-design-pattern/
+- https://shiftasia.com/community/microservices-with-cqrs-and-event-sourcing-part1/
+- https://dzone.com/articles/cqrs-is-an-anti-pattern-for-ddd
+- https://system-design.muthu.co/posts/modern-architecture-patterns/cqrs-pattern/index.html
+- https://system-design.muthu.co/
+- https://sandorian.com/blog/command-query-responsibility-segregation-cqrs
+- https://refactoring.guru/
+- https://blog.backendengineering.io/p/cqrs-pattern-explained-discuss-the
+- https://blog.bytebytego.com/p/a-guide-to-microservices-architecture
+- https://singhajit.com/explainers/
+- https://umamahesh.net/design-patterns-for-microservice-architecture-command-query-responsibility-segregation-cqrs/
+- https://www.hellointerview.com/learn/system-design/in-a-hurry/patterns
+- https://dev.to/genichm/cqrs-command-and-query-responsibility-segregation-architectural-pattern-4594
+- https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+- https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-data-persistence/cqrs-pattern.html
+- https://ironpdf.com/blog/net-help/cqrs-pattern-csharp/
+- https://blog.risingstack.com/cqrs-explained-node-js-at-scale/
+- https://barryosull.com/blog/projection-building-blocks-what-you-ll-need-to-build-projections/
+- https://www.baeldung.com/cqrs-event-sourcing-java
+- https://mia-platform.eu/blog/understanding-event-sourcing-and-cqrs-pattern/
+- https://domaincentric.net/blog/event-sourcing-projections
+- https://stackoverflow.com/questions/41935619/cqrs-event-store-aggregate-vs-projection
+- https://stackoverflow.com/questions/53688339/cqrs-event-sourcing-projections-with-multiple-aggregates?rq=3
+- https://danielwhittaker.me/
+- https://danielwhittaker.me/2014/11/15/aggregate-root-cqrs-event-sourcing/
+- https://microservices.io/patterns/data/event-sourcing.html
+- https://www.redpanda.com/guides/event-stream-processing-event-sourcing-database
+- https://www.redpanda.com/resources
+- https://www.eventsourcingdatabase.com/
+- https://www.eventsourcing.ai/
+- https://www.cqrs.com/
+- https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+- https://youtu.be/hrmeeCEqzo8?si=5xJg32FoOy80GL09
+- https://youtu.be/85YbMEb1qkQ?si=hnbgROgI5bK15dBc
+- https://youtu.be/_pKG3GOYhK8?si=h9Cy5ej9KCorMrDA
+- https://youtu.be/dwFNWiRHQXE?si=Th9BJPOXGpvGlWgH
+- https://youtu.be/BewUyKLZjtc?si=lE7Ph81bWTjcLU1l
+- https://youtu.be/E-7TBZxmkXE?si=i4ZGrLiS6ypSQPsb
+- https://youtu.be/sUjNZAYTZwI?si=mnKJd0RyzGZndDFY
+- https://youtu.be/i2eVTk2Fb40?si=D-EmCRoBtTj3LtH9
+- https://youtu.be/ZQuXruUlLYY?si=gPNnN4fQXs64Q0je
+- https://www.youtube.com/watch?v=jcn8xRfL8Gc
+- https://www.youtube.com/watch?v=Z9oTuyC1jgM
+- https://www.youtube.com/watch?v=l09hnKdltto
+- https://www.youtube.com/watch?v=W_EEKAN9IVU
+- https://www.youtube.com/watch?v=zcKiKrT8IHQ
+- https://www.youtube.com/watch?v=NIYxiA_WDh4
+- https://www.youtube.com/watch?v=_pKG3GOYhK8
+- https://www.youtube.com/watch?v=lg6aF5PP4Tc
+- https://www.youtube.com/watch?v=01lygxvbao4
+- https://www.youtube.com/watch?v=L1eonUM7yAM
+- https://www.youtube.com/watch?v=q3YQy1lJutw
+Redis
+NestJS
+MongoDB
+PostgresSQL
+## 19. Redis
+- https://redis.io/docs/
+- https://redis.io/docs/latest/develop/
+- https://redis.io/docs/latest/integrate/
+- https://redis.io/docs/latest/operate/
+- https://redis.io/docs/latest/commands/
+- https://redis.io/docs/latest/apis/
+- https://developer.redis.com/howtos/quick-start
+- https://university.redis.io/library/?contentType=course
+- https://redis.io/search/
+- https://redis.io/json/
+- https://redis.io/active-active/
+- https://redis.io/solutions/flex/
+- https://redis.io/data-integration/
+- https://redis.io/solutions/
+- https://redis.io/industries/retail/
+- https://redis.io/solutions/microservices/
+- https://redis.io/resources/
+## 20. ValKey
+- https://valkey.io/topics/
+- https://www.youtube.com/playlist?list=PLbGui_ZYuhijTJDBVBBqvri76uUNfsrCc
+- https://youtu.be/sFBMdF55Tpo?si=R0RYsju-_e5VXKfe
+- https://youtu.be/IJkYipYNEtI?si=cLuQL-SFNL2EcS9B
+- https://youtu.be/DACToq_WMQ8?si=S3YPg0Dcz7o-UCrw
+- https://youtu.be/Vx2zPMPvmug?si=iLaNdlmwSEXJCeX_
+- https://youtu.be/uptxcaf2s_4?si=DgTfemLkZeOFqgpA
+- https://youtu.be/QqTB97aMa4c?si=WHQxXoU3r_s2CwVo
+- https://www.youtube.com/live/mmeO2VoVLuM?si=2reqIxJvKjZWXIDG
+- https://youtu.be/b7DJEAJZsG0?si=RS_YkO_0lEEeDRf_
+- https://youtu.be/WQ61RL1GpEE?si=5a_fkAvAUoqDxALy
+- https://youtu.be/-Ai7GDa2OgE?si=ndZZtV3yNtj_8jgA
+- https://youtu.be/IJkYipYNEtI?si=E7NTMja6QaJBAub5
+- Database Engineering (118) https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
+## 21. NestJS
+## 22. MongoDB
+	-	MongoDB Complete Tutorial (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
+	-	Database Sharding and Partitioning https://youtu.be/wXvljefXyEo?si=oFUBCel88bufGYjL
+## 23. PostgresSQL
+- PostgresSQL (40) https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
+## Linux, Bash
+	- 	https://youtu.be/ISJ44S5sZu8?si=b3w1NWRvdJyLaO4c
+	- 	https://linuxjourney.com/
+	- 	https://guide.bash.academy/
+	- 	https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/
+	- 	https://www.w3schools.com/bash/
+	- 	https://www.learnshell.org/
+	- 	https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
+	- 	https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w
+	- 	https://www.youtube.com/playlist?list=PLhfrWIlLOoKNMHhB39bh3XBpoLxV3f0V9
+	- 	https://www.youtube.com/playlist?list=PLmNmekbKZkr3ArxGUwQLpSYFT6jDcdtwq
+	- 	https://www.youtube.com/playlist?list=PLqmwiCS_fyTW7xxwkWbEz40dGKb_za26E
+	- 	https://www.youtube.com/playlist?list=PLECOetiSS4M1RxI-Z2-rtxvL4aMgOZVf1
+	- 	https://www.youtube.com/playlist?list=PLBr8obKbpkYtWIluvSsDCNphB0CGqV0lD
+	- 	https://www.youtube.com/playlist?list=PLYLI_nYYAA7LVGGg8Z7OvDOgPYydU4oi3
+	- 	https://youtu.be/idW-an99TAM?si=2_Rbcx_4mPvwYxdp
+	- 	https://youtu.be/ROjZy1WbCIA?si=QH9s1bG0rL88kTsc
+	- 	https://youtu.be/_tCY-c-sPZc?si=Q48nHR4cQnasovdm
+	- 	https://youtu.be/-atblwgc63E?si=8Cj_cLLVwmNCSfmI
+	- 	https://youtu.be/6WatcfENsOU?si=3gITibRFbybMm31Z
+	- 	https://youtu.be/D9S3P721UV0?si=6YAFCzhe6-YDfl0K
+	- 	https://youtu.be/PNhq_4d-5ek?si=70CN-WqQHLYpLB26
+	- 	https://youtu.be/tK9Oc6AEnR4?si=FVZVlg8SBbazW7uv
+	- 	https://youtu.be/42iQKuQodW4?si=cWpIQzaxhNVTk_6p
+	- 	https://youtu.be/HbgzrKJvDRw?si=okR2JND6N6R5SIR8
+	- 	https://youtu.be/H5AErKbqYmQ?si=sNWoBzbHaSHDxtS9
+	- 	https://youtu.be/ieV4LI6Ntf4?si=sxZ_5SfNcRryUf9D
+	- 	https://youtu.be/n_KVqRscUzs?si=BbSZcjxi9kJMoX1K
+	- 	50 Most Popular Linux & Terminal Commands https://www.youtube.com/watch?v=A9aVabLkV1A
+	- 	Bash Scripting in 18 Minutes https://www.youtube.com/watch?v=h7x37wkzUyw
+	- 	Linux Full Course for Beginners to Advanced 100m https://www.youtube.com/watch?v=D9S3P721UV0
+	- 	https://supervisord.org/index.html
+## GIT, Github
 - https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 - https://youtu.be/DtI90NVPDJE?si=dmKxAzkoOIA1mZy-
 - https://youtu.be/zRucPZI-uQE?si=_SN2yR0JQq10F_Vr
@@ -1437,3 +1478,16 @@
 - https://youtu.be/2uEqYw-N8uE?si=X-AkPfbcdpthehJw
 - https://youtu.be/aMuhB15mPKY?si=jsrrWAMjdlvVfkoV
 - https://youtu.be/Ez8F0nW6S-w?si=KJr6-UKqEuO2CzwW
+## Sites, Channels
+- https://www.youtube.com/@AntonPutra
+- https://www.youtube.com/@nebulit
+- https://www.youtube.com/@codeforinterview
+- https://www.youtube.com/@Alta3Research
+- https://www.youtube.com/@CodeOpinion
+- https://www.youtube.com/@DevOpsDirective
+- https://www.youtube.com/@TechnoTim
+- https://www.youtube.com/watch?v=2lUr4Mey0is&list=PLTgRMOcmRb3NXaiWg43YQX91t6BtZ-QOn
+- https://www.youtube.com/watch?v=oBt53YbR9Kk
+- https://www.youtube.com/@TechWorldwithNana
+- https://www.youtube.com/@ChiragBhalodia
+- https://www.youtube.com/@codewithjay

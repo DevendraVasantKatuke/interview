@@ -1,202 +1,3 @@
--   Patty Smyth - Sometimes Love Just Ain't Enough ft. Don Henley
--   The Cars - Drive
--   Dan Fogelberg - Rhythm Of The Rain
--   Don Henley - The Last Worthless Evening
--   Don Henley - Take A Picture Of This
--   Glenn Frey - True Love
--   10cc - I'm Not In Love (1975)
--   Dr Hook - When You're In Love With A Beautiful Woman
--   J.D. Souther -- You're Only Lonely
--   Benny Mardones - Into The Night - 1980
--   She's Gone (1976) - Hall & Oates
--   Edie Brickell - Good Times
--   Riders on the Storm - The Doors
--   Lambi Judai Reshma Hero1983
--   PHYSICAL (Olivia Newton-John) (1981)
--   THE ONE YOU LOVE - Glenn Frey
--   Peter Cetera - (I Wanna Take) Forever Tonight
--   Phil Collins - In The Air Tonight LIVE HD
--   POPPIN JOHN | ROBOTBOYS | BEST DANCE ROUTINE EVER
--   Amazon-Backed Smart Glasses For $1,000: First Look
--   JustSomeMotion (JSM) - Deka TV Spot (Extended Version) - Jamie Berry Feat. Octavia Rose
--   IF YOU Want To Find TRUE LOVE - WATCH THIS | Jay Shetty
--   Traditional style duplex home built for 21 lakh | elegant interior | home tour
--   SHOULD YOU QUIT YOUR JOB? | A Very Eye Opening Speech ft Jordan Peterson
--   Should You QUIT Your Job? - The Most Life Changing Speech Ever (ft. Garyvee, Joe Rogan)
--   Munir Niazi Ghazal | Sapne Ki Bhi Had Thi Aakhir | | Sad Urdu Poetry | Urdu Adab |
--   Main Paishawar Faraibi Hoon , Mohabbat Kar Nahe Sakta | Urdu Poetry Ghazal
--   O Re Piya | Tanya Wells | Seven Eyes Band | Jashn-e-Rekhta 4th Edition 2017
--   मन को शांति और सुकून देगा ये विडियो | Best motivational speech | inspirational quotes |
--   Indirect lighting: Plaster mouldings and cove lighting with LED strips and Corner
--   Aldous Huxley and Brave New World: The Dark Side of Pleasure
--   Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED]
--   The Handsome Family - Far From Any Road (True Detective Opening Video)
--   True Detective - Opening song (HD) (The Handsome Family - Far From Any Road)
--   Harry Styles - Adore You (Official Video – Extended Version)
--   Leonard Cohen - Happens to the Heart (Official Video)
--   This song makes me cry! The Last of the Mohicans THE BEST EVER! by Alexandro Querevalú
--   Slider & Magnit - Morze [Official Video]
--   Coldplay - Daddy (Official Video)
--   The Weeknd - Blinding Lights(80s video)
--   The Journeymen - 500 miles [Original Version] (1961)
--   LIFE WITHOUT FEAR - a buddhist story about fear
--   Soul Ballet - Love Juliet
--	https://www.dailymotion.com/video/x1o3hs // unforgettable
--   Lenny Kravitz - Low (Official Video)
--   Whitesnake - Is This Love (Official Music Video)
--   Ten Sharp - You
--   Gary Moore ~ Nothing s the same MariMari142
--   City of the Sun - Under The Same Sky (Visualizer) cityofthesun
--   London Grammar - Baby It's You (Trizz Visual) London Grammar
--   Santana & Seal ~ You Are My Kind MariMari142
--   When you hear a desi song on foreign land... Anuja Gorhe
--   Detroit Blues Band - Tears From My Eyes Red Grey Matter
--   Parrot Asks Owner "Really!?" DailyPicksandFlicks
--   Little Uneasy - Fazerdaze
--   Kalax - Calling (feat Frankmusik) [Music Video] Digital Gravity
--   Men I Trust - Lauren
--   This Indian Mystic Drops KNOWLEDGE BOMBS (I’m Speechless!) | Sadhguru on Impact Theory Tom Bilyeu
--   Oscar Winner ~ Short film about love and passage of time | Father and Daughter - by M. Dudok de Wit KIS KIS - keep it short
--   HER (Film) 2013 - End Scene Pawan Mistry
--   Maine Dil Se Kaha Dhoond Laana Khushi (Full HD) Sanjib Malik
--   Ye dil aur unki | Sanjeevani Bhelande | prem parbat | jaidev | Jaan Nisssar Akhtar | Lata Mangeshkar
--   JOKER || Kina - Can We Kiss Forever? | Joaquin Phoenix | Ceon Soloman
--   M83 - "Wait" (Official Video) Creators
--   Stefania for 'Sleeping With Jacques' Photoshoot Stefania Ferrario
--   Cemeteries - Sodus David Dean Burkhart
--   SYML - "Girl" [Official Music Video] SYMLMUSIC
--   Islamabad, Pakistan 🇵🇰 - by drone [4K] Drone Snap
--   Her | Emotions Slyfer2812
--   Spike Jonze for Apple HomePod - Welcome Home HipHopWest TV
--   Sia - We Can Hurt Together Sia's Corner
--   Seafret - Give Me Something i'm cyborg but that's ok
--   BEACH HOUSE - MYTH i'm cyborg but that's ok
--   Haux - Seaside (Official Music Video) Haux
--   Frustrated Software Engineer (FSE) Moments | E03 NullPointerException Ashima Pictures
--   Audio Series | Ep 2 - I am the Man Ashima Pictures
--   Indian Startup News Ep 39: India's First Hydrogen Car & Reliance-Future Group Deal in Trouble Backstage With Millionaires
--   Lola Marsh - She's a Rainbow le bruit des graviers
--   Lo Moon - "Thorns" (Live at WFUV) WFUV Public Radio
--   Lo Moon - "Loveless" (Live at WFUV) WFUV Public Radio
--   Katy Perry GlamBOT at the Grammy Awards Behind the Scenes Cole Walliser
--   70's haircut // LOL ComediHa!
--   Lo Moon - "This Is It" (Live at WFUV)
--   Lo Moon - Thorns (Visual)
--   The sharp Mind of Muhammad By Ashish Singh TTH
--   A 10 year-old autistic and blind boy singing. His voice shocked everyone.
--   Dream Desk Setup 5.0 | Big Screen Productivity and Gaming David Zhang
--   REST API with NodeJS + Express + Docker Tutorial Be A Better Dev
--   Newfoundland of Umfleet Farms
--   Cannons - Fire for You (Official Video)
--   Dolly Parton - Jolene 19880110
--   Astrid S - Jolene
--   Rain... Rain... Sergey Grischuk / С. Грищук - А дождь всё льёт.. stef2012bg
--   Laura Branigan - "Self Control" Live _RARE_ [#]
--   Ajab Tha Us Ki Dildari Ka Andaaz | Jaani Jaun Elia | Best Voice And Words
--   Two Feet - Love Is A Bitch MrSuicideSheep
--   Tum Jab Aaogi To Khoya Hua Paaogi Mujhe | Sir Jaun Elia | Best Voice And Words
--   JOKER | My Life is Nothing But A Comedy
--   Ye Mujhe Chain Kyu Nahi Padta Ek Hi Shaqs Tha Jahan Mein Kya | Sir Jaun Elia | Best Voice And Words
--   Jo Guzari Naa Jaa Saki Humse Hum Ne Wo Zindagi Guzari Hai | Sir Jaun Elia | Best Voice And Words
--   Tum Bhot Door Jaa Chuki Ho Kya | Sir Jaun Elia | Best Voice And Words
--   Paloma Faith - Only Love Can Hurt Like This (Live at The BRIT Awards)
--   Munawar Faruqui Ram jokes stand up comedy Replied by King polo | Islamic jokes | Comedy | stand up
--   Ye Gham Kya Dil Ki Aadat Hai ? Nahi To..Sir Jaun Elia Heart Touching Poetry
--   Lana Del Rey - Cola
--   I'm Harley F\*cking Quinn - J o Y -
--   Halsey - Sorry
--   Sam Smith - Too Good At Goodbyes (Official Video)
--   Luna Blanca - Villa Azur nigani
--   Rural India (Odisha) Meher Kaur
--   'aaoge jab tum' but it's playing from your neighbour's house + it's raining ⛆ Advait
--   Marc Antony - When I Dream At Night
--   Lauren Daigle - You Say (Official Music Video)
--   Lo Moon - Real Love
--   Sheena Easton - Days Like This
--   Lo Moon - Loveless (Visual)
--   Swami Yoga Nanda Baba 104 year at International Yoga & Music Festival Rishikesh Bhuwan Chandra
--   Leonard Cohen - You Want It Darker
--   Ma Anand Sheela - Funny Interview "Good Luck To you and your PIMPS"
--   PAPPU KO PASS NAHI HONE DENGE YE LOG TODAY POLETICAL
--   Agency Life: Ask the Developer Pantheon
--   The Expert (Short Comedy Sketch) Lauris Beinerts
--   Wait... What??? bianalhamsandwich
--   The Hustle KRAZAM
--   Fresh Prince Of Bel-Air Funny Will Smith Scene in the gym NastyD91
--   Jonathan Bree - You're So Cool Lil' Chief Records
--   Michael Kiwanuka - One More Night (Official Video)
--   Gary Moore ~ Nothing s the same MariMari142
--   City of the Sun - Under The Same Sky (Visualizer)
--   Blinding Lights The Weeknd
--   London Grammar - Baby It's You (Trizz Visual)
--   Santana & Seal ~ You Are My Kind MariMari142
--   When you hear a desi song on foreign land... Anuja Gorhe
--   Detroit Blues Band - Tears From My Eyes Red Grey Matter
--   Hazel English - Never Going Home [Official Video]
--   "I Love You More Than You'll Ever Know" Blood, Sweat & Tears catman916
--   Little Uneasy - Fazerdaze
--   Tony Tucker – Wait For The Night To Turn Blue / Lyrics Red Grey Matter
--   Snowy White - Midnight Blues ( Johny Water rework )
--   Have you ever seen an atom? nature video
--   Watch Atoms of Gold on FeO Move Under an Electron Microscope PicoScientific
--   David, A.I - Prometheus & Covenant SxDementia
--   Taking meditation on an other level // Méditation à un autre niveau // LOL ComediHa!
--   Ged McMahon - One More Night With You (feat. Kaz Hawkins) Red Grey Matter
--   Sophie Zelmani ~ Memory Loves You MariMari142
--   Omar Bashir ~ My Favourite Dance MariMari142
--   guess, I'm out of time. TheGaroStudios
--   Tony Joe White - Ain't Going Down This Time Red Grey Matter
--   New Song Thank you India/Norbu Samphel Norbu Samphel
--   Lo Moon - Tried to Make You My Own (Visual)
--   Sweet Bird Young Hunting - Topic
--   Brahny - Pride alona chemerys
--   Rain Walk London Hampstead, Side Streets and Alleyways - 4K Sanpo Stroll
--   Palace - Live Well (Official Audio)
--   London Grammar - Baby It's You (Official Visualiser)
--   Ali and Nino Statue of Love - Rotates Through Each Other Wonder World
--   Tokyo Tea Room - Forever Out Of Time alona chemerys
--   orion sun - coffee for dinner [official video]
--   Walk The Line boy shorts @ KlassyKassy.com Klassy Swim
--   Gerald McClendon - Cold In The Streets Red Grey Matter
--   The Paper Kites - Electric Indigo (Official Music Video)
--   JJ Cale ~ Sensitive Kind MariMari142
--   Gregg Giarelis - Five Years Of Trouble Red Grey Matter
--   Sven Zetterberg - Let's Straighten it Out Red Grey Matter
--   Trevor Something - Fade Away [Explicit] NewRetroWave
--   JOY. - Same Place dynmk
--   LAUREL - Scream Drive Faster
--   Sports - Panama
--   J.J. Cale - Durango (rare) MrVuJaDe
--   Lastlings, RÜFÜS DU SOL - No Time (RÜFÜS DU SOL Remix / Visualizer)
--   Sandra - Around My Heart (HD Estereo) 1989 pelorcitos
--   Jessie Ware - You & I (Forever)
--   Cannons - Fire For You IndieSoundsGood
--   Two Feet - Call Me, I Still Love You (Extended Version)
--   Yellow House - Ain’t Gonna Call alona chemerys
--   Night Society - Hold Me Tight (Tonight) Linewalker
--   Trevor Something - All Night NewRetroWave
--   Cannons - Talk Talk (Official Video)
--   Brian Eno - By This River WKaliberr
--   Eyes of the Nightmare Jungle - Shadow Dance Children of The Night
--   Shakedown - At Night (Levent Ozbay Remix) [Video Edit] Soundeo
--   Kate Bush - Running up that Hill // Ambient Reinvention (Pro-1, Peak, DAW)
--   Johnny Tillotson - Why Do I Love You So (1959) CatsPjamas1
--   Ваd Girl Blue - Magic Love Mind BE BU
--   Stoto - 299792458 (Original Mix) MoonWalk Jesus H. C.
--   Serge Gainsbourg & Jane Birkin - Je t'aime... moi non plus (Originale - 1969) Contexsempre
--   Rhye - The Fall (Official Video)
--   Hazel English - Five and Dime (Official Video)
--   Sheena Easton - The Lover In Me
--   CASINO ROYALE | “I’m the money.”
--   Lana Del Rey - God Knows I Tried Just Some Videos
--   Shura - Touch weareshura
--   Flashdance - Imagination ( video sountrack ).mpg RODMY RAMIRO CHAVEZ ALBARRAN
--   dj poolboi - I Had It All
--   I FEEL YOU JULIA NAILS Bar a Ongles
--   Tangerine Dream - Love on a Real Train - Live goblin1digital2
--   Jai Wolf - Drive (feat. The Chain Gang Of 1974) (Unofficial Music Video) Lunar Visuals
--   Italo disco 80s Ваd Girl Blue World love mind, Michelle Babe hot drivеr Martino erdem mix Андрей Сурма
--   The Midnight - Synthetic [Music Video] Digital Gravity
 -   Impossible love - moving statue in Georgia by @sweetvitamea
 -   FM-84 - Running In The Night (feat. Ollie Wride) - [OFFICIAL MUSIC VIDEO] NewRetroWave
 -   Emergency // LOL ComediHa!
@@ -231,7 +32,6 @@
 -   Leona Lewis - Run (Official Video)
 -   Madonna - Frozen (Official Music Video)
 -   Peter Gabriel - Secret World, live
--   Laura Branigan - "Self Control" Live _RARE_ [#]
 -   Touch & Go - Straight To Number One (lyrics)
 -   Lauren Christy - The Color of the Night RadioUtopia Video Creations
 -   Goldfrapp - Ride A White Horse
@@ -239,7 +39,6 @@
 -   💖💖💖Grace Jones and Dolph Lundgren: In Their Own Words 🇺🇲🇯🇲🇸🇪 Petal Pusher Fan Videos
 -   Grace Jones "La Vie en Rose" | Vamos a ver TVN
 -   Kiesza - All Of The Feelings (Isolation Video)
--   Lana Del Rey - Cola
 -   Yello - Waba Duba (Official Video)
 -   The Black Eyed Peas - Don't Phunk With My Heart (Official Music Video)
 -   The KLF - 3AM Eternal 1991
@@ -264,7 +63,6 @@
 -   Bryan Ferry - Slave To Love [Official]
 -   Grace Jones - I've Seen That Face Before (Libertango) [Official Video]
 -   Pulp Fiction - Dance Scene (HQ) manetaki
--   Ye Gham Kya Dil Ki Aadat Hai ? Nahi To..Sir Jaun Elia Heart Touching Poetry Best Voice And Words
 -   The Korgis - Everybody's Got To Learn Sometime youcallisto
 -   Grace Jones - La vie en rose (12'' Version - Andy Rick Video Edition) VJ Andy Rick
 -   Up Close and Personal • Because You Loved Me • Celine Dion
@@ -280,9 +78,7 @@
 -   Abhijeet Sawant - Junoon SonyMusicIndiaVEVO
 -   STONE BREAD | CAAK | KORNO | Balochistan Food | EP-02 | Balochistan: Land of Beauty
 -   One And One - Robert Miles feat. Maria Nayler (video edit with lyric) Miko Tyo
--   who's gonna drive you home - the cars thinkinsane
 -   ہمارا بلوچستان پیارا بلوچستان Saiyah Travel
--   Jai Wolf - Drive (feat. The Chain Gang Of 1974) (Unofficial Music Video) Lunar Visuals
 -   नेत्रहीनों के लिए स्मार्ट चश्मे | Smart Goggles For Blind | मुंबई | Mumbai HISTORY TV18
 -   Sia - Alive
 -   Double Dhamaal - Office rent not paid - Comedy Scene Reliance Entertainment
@@ -347,7 +143,6 @@
 -   Roger Waters - Mother
 -   Vibhava Corporate Video VIBHAVA MARKETING CORPORATION
 -   Til Tuesday - Voices Carry - 3/26/1986 - Ritz (Official) Punk & New Wave on MV
--   The Cars - Drive (Official Music Video) RHINO
 -   Tyrese-What Took You Soo Long ChillVibez
 -   Goldfrapp - Strict Machine at Glastonbury 2014 BBC
 -   The Hot Sardines - Bei Mir Bist Du Schoen (Official Video) TheHotSardinesVEVO
@@ -373,7 +168,6 @@
 -   Luce Dufault - Damn Your Eyes Don's Tunes
 -   Daisy Gray - Wicked Game (Official Tribute Video)
 -   Blue October - I Hope You're Happy blueoctoberofficial
--   Lo Moon - Tried to Make You My Own (Visual)
 -   Scarface | Push It to the Limit
 -   The Rolling Stones - Love Is Strong - OFFICIAL PROMO
 -   This Video Will Leave You SPEECHLESS - One of The Most Eye Opening Motivational Videos Ever Motivation Madness
@@ -452,7 +246,6 @@
 -   Timecop1983 - Secrets
 -   Robert Parker - '85 Again (feat. Miss K) Club dancers Are Sounds Electrik?
 -   Cheryl Lynn - Shake It Up Tonight 1981 (Remastered audio) TT V-rus 1138
--   The Hooters - 500 miles Demeter Doudousaki
 -   CARL CARLTON BABY I NEED YOUR LOVING vanderlei xavier
 -   Shannon - Let The Music Play (Remix) UnidiscMusic
 -   George McCrae - Rock Your Baby (1975) HD 0815007 Quenna0815007
@@ -494,7 +287,6 @@
 -   Maneater (Subtitulos en Español) - Don Jon Lube Music
 -   Midnight Special-Exile "Kiss You All Over" LiveVideoAZ
 -   Tracy Chapman - Talkin' About A Revolution (Official Music Video)
--   Edie Brickell - Good Times
 -   kumar gandharva in his childhood performance Ajaysahumirchonia Kumar
 -   Jamuna kinaray mora gaon - Prabha Atre Naveed Siraj
 -   Vaya Con Dios - Heading For A Fall YouMoreTv - Espectáculo
@@ -505,7 +297,6 @@
 -   Joy ~~ Touch by Touch ~~ Contiene Subtítulos en Inglés y Español ajotagranada
 -   Penny McLean - Lady Bump (1975) DiscoTerra
 -   Alexander O'Neal - Fake (1987 Soul Train Line)(F) JayNoteZArchive7
--   Lana Del Rey - Season Of The Witch Mermaid Motel
 -   Peter Green - Fool No More Jakuta11
 -   Al Stewart - Year of The Cat (Solid Gold Classic) - 1982 runningman904
 -   Regina Belle - Baby Come To Me (Official Video) ReginaBelleVEVO
@@ -530,7 +321,6 @@
 -   अखियों के झरोखे से - क्लासिक रोमांटिक गीत - सचिन और रंजीता - पुराने हिंदी गाने
 -   The Weeknd - Blinding Lights (Official Audio)
 -   Tune O Rangile | तूने ओ रंगीले | Lata Mangeshkar| Sarrika Singh Live | Kudrat (1981) | Old is Gold |
--   Ye dil aur unki | Sanjeevani Bhelande | prem parbat | jaidev | Jaan Nisssar Akhtar | Lata Mangeshkar
 -   aye dil e naadan
 -   JALTA HAI BADAN LATA JI MOVIE RAZIA SULTANA
 -   Sandra Dee & Bobby Darin-Dream Lover
@@ -561,7 +351,6 @@
 -   Rosanna Rocci chaka chaka live berlin24TV
 -   Avalon Jazz Band - I love Paris (Cole Porter) Avalon Jazz Band
 -   Solo Hay Una Para Mi - Semino Rossi - Español Tiempo al Tiempo
--   JJ Cale ~ Sensitive Kind MariMari142
 -   Mary Hopkin ''Turn Turn Turn'' Opportunity Knocks July 1968 LeonThe4th
 -   Marie Laforêt - Toi Qui Dors [LIVE 1965] archéologie musicale
 -   "Voilà" - Françoise HARDY - 1967 FRENCHPOP
@@ -632,7 +421,6 @@
 -   DASRATH MANJHI || GEHLORE || GAYA || BIHAR || INDIA EHAIINDIA
 -   Best Tik Tok and Whatsapp Talent videos #4 | Top 10 Talents | of 2018, 2019 Super Clips
 -   Jai Wolf - Indian Summer (Official Music Video)
--   Coldplay - Hymn For The Weekend (Official Video)
 -   Mahmut Orhan - Feel feat. Sena Sener (Official Video) Ultra Music
 -   Wild Child - Crazy Bird OFFICIAL
 -   Kalki - Varanasi (Official Music Video)
@@ -650,7 +438,6 @@
 -   Yas - Empty Crown MrSuicideSheep
 -   18 ADVANCED WAYS TO SIT DOWN 😅 Jiemba Sands
 -   20 Ways To Style Formal Shirt Pant For Men | Best 20 Formal Dress For Men | Men Fashion IN TREND FASHION&VLOGS
--   Fresh Prince Of Bel-Air Funny Will Smith Scene in the gym NastyD91
 -   85+ Dashing Formal Outfits For Men 2020 | Best Formal Style 2020 | Men's Fashion & Style 2020! Men's Health & Fitness Tips
 -   Cindy Crawford Pepsi Cola Commercials 1992 / 2002 / 2018 HappySpiderNews
 -   HH Mahant Swami Maharaj Visits the Grand Mosque with HE Sheikh Nahyan bin Mubarak Al Nahyan BAPSChannel
@@ -691,7 +478,6 @@ hatka| ISD India Speaks Daily
 -   You Belong to Me Carly Simon
 -   Willie Nelson - A Woman's Love
 -   “Someone you loved” (Cover, Lewis Capaldi) studio version by Lauren Spencer-Smith
--   Glenn Frey - You Belong To The City
 -   Mean Mary on fast banjo - Iron Horse
 -   Bryan Ferry - Slave To Love 1985 (HQ, Angel Casas Show)
 -   Interview with a programmer - Veroon Budhai pt1 Fredrik Christenson
@@ -704,7 +490,6 @@ hatka| ISD India Speaks Daily
 -   Robert Cristian - The Secret Of Soul (Original Mix) Close Your Eyes
 -   MEUTE - Hey Hey (Dennis Ferrer Rework)
 -   MEUTE - What Else Is There? (Röyksopp Rework)
--   The Midnight - Light Years (feat. Nikki Flores) Neon Nights
 -   Daso - Meine discpictures99
 -   Passengers - Miss Sarajevo (Alternative Version) U2
 -   Abida Parveen & Rahat Fateh Ali Khan 'Chaap Tilak' [Coke Studio] REACTION!! OUR STUPID REACTIONS
@@ -734,27 +519,20 @@ hatka| ISD India Speaks Daily
 -   Jean Francois Maurice - Aranjuez Mon Amour Hülya Ünalmış Video Creations
 -   Janiva Magness ~ You Were Never Mine MariMari142
 -   BLOW - You Killed Me on the Moon (Official Video)
--   Lola Marsh - She's a Rainbow le bruit des graviers
 -   BLOW - It's All a Lie (Live at Studio Ferber)
 -   Kovacs - The Devil You Know (Official Video)
 -   Kovacs - 50 Shades Of Black UrSOUND
--   Rain... Rain... Sergey Grischuk / С. Грищук - А дождь всё льёт.. stef2012bg
--   Katie Melua The Walls Of The World DramaticoMusic
 -   Who Knows Where The Time Goes? Fairport Convention - Topic
--   Tony Tucker – Wait For The Night To Turn Blue / Lyrics Red Grey Matter
 -   Mark Knopfler - Silvertown Blues ᴴᴰ Mohsen. F
 -   Maria Daines - That's What The Blues is All About Orange Grey Matter
--   Sophie Zelmani ~ Memory Loves You MariMari142
 -   Elise LeGrow "Drinking In The Day" (Live Acoustic)
 -   Sophie Zelmani - Oh Dear zuperparanoid
 -   The The - This Is The Day (Remastered) roofman1969
 -   Daft Punk | Something About Us | Pomplamoose
--   Hazel English - I'm Fine [Official Lyrics Video]
 -   Echosmith - "Stuck" (Official Video)
 -   Alice Phoebe Lou - She (Live)
 -   Daryaa - Cover Song | Jasleen Royal | Friday Jams With Jasleen | Amit Trivedi | Manmarziyaan Jasleen Royal
 -   90's Phone Commercial SkyCorp Home Video
--   Men I Trust - Lauren
 -   BARBARA LEWIS - HELLO STRANGER (RARE CLIP 1965) ILMJXXX
 -   Zager & Evans - In the Year 2525 Sanjin
 -   this drummer omg - you won't believe what he does cucumberandco
@@ -775,9 +553,6 @@ hatka| ISD India Speaks Daily
 -   Elias Rahbani - Dance of Maria (1974) Adventures In Sound
 -   Gypsy kid dancing at club can't be bothered. 1997. Уникальное видео из 90-х и нулевых!
 -   Mr.Kitty - After Dark Diana Sandra
--   Mumbai Performance -Kaun Tujhe Yun Pyar Karega The Golden Notes-Palak Jain The Golden Notes
--   Katie Melua - Nine Million Bicycles DramaticoMusic
--   Touch and Go - Would You Go To Bed With Me Kane Whitlie
 -   Jaan Pehechan Ho - Les Fanfoireux luctool
 -   Jon and Vangelis - I'll Find My Way Home (with lyrics) mike peters
 -   Rozalla - Everybody's Free w0lf6pack
@@ -785,138 +560,6 @@ hatka| ISD India Speaks Daily
 -   Munir Niazi Ghazal | Sapne Ki Bhi Had Thi Aakhir | | Sad Urdu Poetry | Urdu Adab |
 -   Main Paishawar Faraibi Hoon , Mohabbat Kar Nahe Sakta | Urdu Poetry Ghazal
 -   O Re Piya | Tanya Wells | Seven Eyes Band | Jashn-e-Rekhta 4th Edition 2017
--   Aldous Huxley and Brave New World: The Dark Side of Pleasure
--   Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED]
--   The Handsome Family - Far From Any Road (True Detective Opening Video)
--   True Detective - Opening song (HD) (The Handsome Family - Far From Any Road)
--   Harry Styles - Adore You (Official Video – Extended Version)
--   Leonard Cohen - Happens to the Heart (Official Video)
--   This song makes me cry! The Last of the Mohicans THE BEST EVER! by Alexandro Querevalú
--   Linkin Park - My December (Original Version)
--   Slider & Magnit - Morze [Official Video]
--   Coldplay - Daddy (Official Video)
--   The Weeknd - Blinding Lights(80s video)
--   The Journeymen - 500 miles [Original Version] (1961)
--   Soul Ballet - Love Juliet
--   Lenny Kravitz - Low (Official Video)
--   Whitesnake - Is This Love (Official Music Video)
--   Ten Sharp - You
--   Gary Moore ~ Nothing s the same MariMari142
--   City of the Sun - Under The Same Sky (Visualizer) cityofthesun
--   London Grammar - Baby It's You (Trizz Visual) London Grammar
--   Santana & Seal ~ You Are My Kind MariMari142
--   Detroit Blues Band - Tears From My Eyes Red Grey Matter
--   Parrot Asks Owner "Really!?" DailyPicksandFlicks
--   Little Uneasy - Fazerdaze
--   Kalax - Calling (feat Frankmusik) [Music Video] Digital Gravity
--   Men I Trust - Lauren
--   Oscar Winner ~ Short film about love and passage of time | Father and Daughter - by M. Dudok de Wit KIS KIS - keep it short
--   HER (Film) 2013 - End Scene Pawan Mistry
--   Maine Dil Se Kaha Dhoond Laana Khushi (Full HD) Sanjib Malik
--   Ye dil aur unki | Sanjeevani Bhelande | prem parbat | jaidev | Jaan Nisssar Akhtar | Lata Mangeshkar
--   JOKER || Kina - Can We Kiss Forever? | Joaquin Phoenix | Ceon Soloman
--   M83 - "Wait" (Official Video) Creators
--   Stefania for 'Sleeping With Jacques' Photoshoot Stefania Ferrario
--   Cemeteries - Sodus David Dean Burkhart
--   SYML - "Girl" [Official Music Video] SYMLMUSIC
--   Her | Emotions Slyfer2812
--   Sia - We Can Hurt Together Sia's Corner
--   Seafret - Give Me Something i'm cyborg but that's ok
--   BEACH HOUSE - MYTH i'm cyborg but that's ok
--   Haux - Seaside (Official Music Video) Haux
--   Lola Marsh - She's a Rainbow le bruit des graviers
--   Lo Moon - "Thorns" (Live at WFUV) WFUV Public Radio
--   Lo Moon - "Loveless" (Live at WFUV) WFUV Public Radio
--   Lo Moon - "This Is It" (Live at WFUV)
--   Lo Moon - Thorns (Visual)
--   Cannons - Fire for You (Official Video)
--   Dolly Parton - Jolene 19880110
--   Astrid S - Jolene
--   Rain... Rain... Sergey Grischuk / С. Грищук - А дождь всё льёт.. stef2012bg
--   Laura Branigan - "Self Control" Live _RARE_ [#]
--   Two Feet - Love Is A Bitch MrSuicideSheep
--   Tum Jab Aaogi To Khoya Hua Paaogi Mujhe | Sir Jaun Elia | Best Voice And Words
--   JOKER | My Life is Nothing But A Comedy
--   Jo Guzari Naa Jaa Saki Humse Hum Ne Wo Zindagi Guzari Hai | Sir Jaun Elia | Best Voice And Words
--   Tum Bhot Door Jaa Chuki Ho Kya | Sir Jaun Elia | Best Voice And Words
--   Paloma Faith - Only Love Can Hurt Like This (Live at The BRIT Awards)
--   Ye Gham Kya Dil Ki Aadat Hai ? Nahi To..Sir Jaun Elia Heart Touching Poetry
--   Lana Del Rey - Cola
--   I'm Harley F\*cking Quinn - J o Y -
--   Halsey - Sorry
--   Sam Smith - Too Good At Goodbyes (Official Video)
--   Luna Blanca - Villa Azur nigani
--   Marc Antony - When I Dream At Night
--   Lauren Daigle - You Say (Official Music Video)
--   Lo Moon - Real Love
--   Sheena Easton - Days Like This
--   Lo Moon - Loveless (Visual)
--   Leonard Cohen - You Want It Darker
--   Jonathan Bree - You're So Cool Lil' Chief Records
--   Michael Kiwanuka - One More Night (Official Video)
--   Gary Moore ~ Nothing s the same MariMari142
--   City of the Sun - Under The Same Sky (Visualizer)
--   London Grammar - Baby It's You (Trizz Visual)
--   Santana & Seal ~ You Are My Kind MariMari142
--   Detroit Blues Band - Tears From My Eyes Red Grey Matter
--   Hazel English - Never Going Home [Official Video]
--   "I Love You More Than You'll Ever Know" Blood, Sweat & Tears catman916
--   Little Uneasy - Fazerdaze
--   Tony Tucker – Wait For The Night To Turn Blue / Lyrics Red Grey Matter
--   Snowy White - Midnight Blues ( Johny Water rework )
--   Ged McMahon - One More Night With You (feat. Kaz Hawkins) Red Grey Matter
--   Sophie Zelmani ~ Memory Loves You MariMari142
--   Omar Bashir ~ My Favourite Dance MariMari142
--   guess, I'm out of time. TheGaroStudios
--   Tony Joe White - Ain't Going Down This Time Red Grey Matter
--   Lo Moon - Tried to Make You My Own (Visual)
--   Sweet Bird Young Hunting - Topic
--   Brahny - Pride alona chemerys
--   Palace - Live Well (Official Audio)
--   London Grammar - Baby It's You (Official Visualiser)
--   Ali and Nino Statue of Love - Rotates Through Each Other Wonder World
--   Tokyo Tea Room - Forever Out Of Time alona chemerys
--   orion sun - coffee for dinner [official video]
--   Walk The Line boy shorts @ KlassyKassy.com Klassy Swim
--   Gerald McClendon - Cold In The Streets Red Grey Matter
--   The Paper Kites - Electric Indigo (Official Music Video)
--   JJ Cale ~ Sensitive Kind MariMari142
--   Gregg Giarelis - Five Years Of Trouble Red Grey Matter
--   Sven Zetterberg - Let's Straighten it Out Red Grey Matter
--   Trevor Something - Fade Away [Explicit] NewRetroWave
--   JOY. - Same Place dynmk
--   LAUREL - Scream Drive Faster
--   Sports - Panama
--   J.J. Cale - Durango (rare) MrVuJaDe
--   Lastlings, RÜFÜS DU SOL - No Time (RÜFÜS DU SOL Remix / Visualizer)
--   Sandra - Around My Heart (HD Estereo) 1989 pelorcitos
--   Jessie Ware - You & I (Forever)
--   Cannons - Fire For You IndieSoundsGood
--   Two Feet - Call Me, I Still Love You (Extended Version)
--   Yellow House - Ain’t Gonna Call alona chemerys
--   Night Society - Hold Me Tight (Tonight) Linewalker
--   Trevor Something - All Night NewRetroWave
--   Cannons - Talk Talk (Official Video)
--   Brian Eno - By This River WKaliberr
--   Eyes of the Nightmare Jungle - Shadow Dance Children of The Night
--   Shakedown - At Night (Levent Ozbay Remix) [Video Edit] Soundeo
--   Kate Bush - Running up that Hill // Ambient Reinvention (Pro-1, Peak, DAW)
--   Johnny Tillotson - Why Do I Love You So (1959) CatsPjamas1
--   Ваd Girl Blue - Magic Love Mind BE BU
--   Stoto - 299792458 (Original Mix) MoonWalk Jesus H. C.
--   Serge Gainsbourg & Jane Birkin - Je t'aime... moi non plus (Originale - 1969) Contexsempre
--   Rhye - The Fall (Official Video)
--   Hazel English - Five and Dime (Official Video)
--   Sheena Easton - The Lover In Me
--   Lana Del Rey - God Knows I Tried Just Some Videos
--   Shura - Touch weareshura
--   Flashdance - Imagination ( video sountrack ).mpg RODMY RAMIRO CHAVEZ ALBARRAN
--   dj poolboi - I Had It All
--   I FEEL YOU JULIA NAILS Bar a Ongles
--   Tangerine Dream - Love on a Real Train - Live goblin1digital2
--   Jai Wolf - Drive (feat. The Chain Gang Of 1974) (Unofficial Music Video) Lunar Visuals
--   Italo disco 80s Ваd Girl Blue World love mind, Michelle Babe hot drivеr Martino erdem mix Андрей Сурма
--   The Midnight - Synthetic [Music Video] Digital Gravity
 -   Impossible love - moving statue in Georgia by @sweetvitamea
 -   FM-84 - Running In The Night (feat. Ollie Wride) - [OFFICIAL MUSIC VIDEO] NewRetroWave
 -   G-Eazy & Halsey - Him & I (Official Music Video)
@@ -943,7 +586,6 @@ hatka| ISD India Speaks Daily
 -   Leona Lewis - Run (Official Video)
 -   Madonna - Frozen (Official Music Video)
 -   Peter Gabriel - Secret World, live
--   Laura Branigan - "Self Control" Live _RARE_ [#]
 -   Touch & Go - Straight To Number One (lyrics)
 -   Lauren Christy - The Color of the Night RadioUtopia Video Creations
 -   Goldfrapp - Ride A White Horse
@@ -951,7 +593,6 @@ hatka| ISD India Speaks Daily
 -   💖💖💖Grace Jones and Dolph Lundgren: In Their Own Words 🇺🇲🇯🇲🇸🇪 Petal Pusher Fan Videos
 -   Grace Jones "La Vie en Rose" | Vamos a ver TVN
 -   Kiesza - All Of The Feelings (Isolation Video)
--   Lana Del Rey - Cola
 -   Yello - Waba Duba (Official Video)
 -   The Black Eyed Peas - Don't Phunk With My Heart (Official Music Video)
 -   The KLF - 3AM Eternal 1991
@@ -977,8 +618,6 @@ hatka| ISD India Speaks Daily
 -   Up Close and Personal • Because You Loved Me • Celine Dion
 -   Oh ! My Goodness - Shirley Temple Damien Chemillé
 -   One And One - Robert Miles feat. Maria Nayler (video edit with lyric) Miko Tyo
--   who's gonna drive you home - the cars thinkinsane
--   Jai Wolf - Drive (feat. The Chain Gang Of 1974) (Unofficial Music Video) Lunar Visuals
 -   Sia - Alive
 -   Sia - Snowman (Music video) WomensNetworq
 -   Steve Winwood - Higher Love (Official Video)
@@ -1004,7 +643,6 @@ hatka| ISD India Speaks Daily
 -   Eisenfunk - Pong
 -   Roger Waters - Mother
 -   Til Tuesday - Voices Carry - 3/26/1986 - Ritz (Official) Punk & New Wave on MV
--   The Cars - Drive (Official Music Video) RHINO
 -   Tyrese-What Took You Soo Long ChillVibez
 -   Goldfrapp - Strict Machine at Glastonbury 2014 BBC
 -   The Hot Sardines - Bei Mir Bist Du Schoen (Official Video) TheHotSardinesVEVO
@@ -1029,7 +667,6 @@ hatka| ISD India Speaks Daily
 -   Luce Dufault - Damn Your Eyes Don's Tunes
 -   Daisy Gray - Wicked Game (Official Tribute Video)
 -   Blue October - I Hope You're Happy blueoctoberofficial
--   Lo Moon - Tried to Make You My Own (Visual)
 -   Scarface | Push It to the Limit
 -   The Rolling Stones - Love Is Strong - OFFICIAL PROMO
 -   This Video Will Leave You SPEECHLESS - One of The Most Eye Opening Motivational Videos Ever Motivation Madness
@@ -1077,7 +714,6 @@ hatka| ISD India Speaks Daily
 -   Bota no Rego - Estácio de Sá Hino & SE2016 @Festival Samba Mealhada 2016 SambaFanPT
 -   Mike Oldfield - Pictures in the dark 1985 fritz5177
 -   Mungo Jerry - In The Summertime ORIGINAL 1970
--   Eddy Grant - Gimme Hope Jo Anna 1988
 -   Change - You Are My Melody 1984 (Remastered audio) TT V-rus 1138
 -   Gwen McCrae - keep the fire Burning 1982 (Virus Mix) TT V-rus 1138
 -   Cathy Dennis - Touch Me (All Night Long) CathyDennisVEVO
@@ -1108,7 +744,6 @@ hatka| ISD India Speaks Daily
 -   Timecop1983 - Secrets
 -   Robert Parker - '85 Again (feat. Miss K) Club dancers Are Sounds Electrik?
 -   Cheryl Lynn - Shake It Up Tonight 1981 (Remastered audio) TT V-rus 1138
--   The Hooters - 500 miles Demeter Doudousaki
 -   CARL CARLTON BABY I NEED YOUR LOVING vanderlei xavier
 -   Shannon - Let The Music Play (Remix) UnidiscMusic
 -   George McCrae - Rock Your Baby (1975) HD 0815007 Quenna0815007
@@ -1151,7 +786,6 @@ hatka| ISD India Speaks Daily
 -   Maneater (Subtitulos en Español) - Don Jon Lube Music
 -   Midnight Special-Exile "Kiss You All Over" LiveVideoAZ
 -   Tracy Chapman - Talkin' About A Revolution (Official Music Video)
--   Edie Brickell - Good Times
 -   kumar gandharva in his childhood performance Ajaysahumirchonia Kumar
 -   Jamuna kinaray mora gaon - Prabha Atre Naveed Siraj
 -   "Crazy" (Gnarls Barkley) - Angela Ricci
@@ -1163,7 +797,6 @@ hatka| ISD India Speaks Daily
 -   Joy ~~ Touch by Touch ~~ Contiene Subtítulos en Inglés y Español ajotagranada
 -   Penny McLean - Lady Bump (1975) DiscoTerra
 -   Alexander O'Neal - Fake (1987 Soul Train Line)(F) JayNoteZArchive7
--   Lana Del Rey - Season Of The Witch Mermaid Motel
 -   Peter Green - Fool No More Jakuta11
 -   Al Stewart - Year of The Cat (Solid Gold Classic) - 1982 runningman904
 -   Regina Belle - Baby Come To Me (Official Video) ReginaBelleVEVO
@@ -1188,7 +821,6 @@ hatka| ISD India Speaks Daily
 -   अखियों के झरोखे से - क्लासिक रोमांटिक गीत - सचिन और रंजीता - पुराने हिंदी गाने
 -   The Weeknd - Blinding Lights (Official Audio)
 -   Tune O Rangile | तूने ओ रंगीले | Lata Mangeshkar| Sarrika Singh Live | Kudrat (1981) | Old is Gold |
--   Ye dil aur unki | Sanjeevani Bhelande | prem parbat | jaidev | Jaan Nisssar Akhtar | Lata Mangeshkar
 -   aye dil e naadan
 -   JALTA HAI BADAN LATA JI MOVIE RAZIA SULTANA
 -   Joan Baez ~ House Of The Rising Sun
@@ -1223,10 +855,8 @@ hatka| ISD India Speaks Daily
 -   Rosanna Rocci chaka chaka live berlin24TV
 -   Avalon Jazz Band - I love Paris (Cole Porter) Avalon Jazz Band
 -   Solo Hay Una Para Mi - Semino Rossi - Español Tiempo al Tiempo
--   JJ Cale ~ Sensitive Kind MariMari142
 -   Mary Hopkin ''Turn Turn Turn'' Opportunity Knocks July 1968 LeonThe4th
 -   Marie Laforêt - Toi Qui Dors [LIVE 1965] archéologie musicale
--   दुनिया के वो राज जो सिर्फ एक इंसान को पता थे | Secrets That Only One Person Knew (SECRET STORIES) Mysterious Dunia
 -   "Voilà" - Françoise HARDY - 1967 FRENCHPOP
 -   HELEN SHAPIRO - YOU DON'T KNOW (Very Rare Film) PIGGIE58
 -   James Last - How Do You Do 1972 NoMadU55555
@@ -1296,7 +926,6 @@ hatka| ISD India Speaks Daily
 -   DASRATH MANJHI || GEHLORE || GAYA || BIHAR || INDIA EHAIINDIA
 -   Best Tik Tok and Whatsapp Talent videos #4 | Top 10 Talents | of 2018, 2019 Super Clips
 -   Jai Wolf - Indian Summer (Official Music Video)
--   Coldplay - Hymn For The Weekend (Official Video)
 -   Mahmut Orhan - Feel feat. Sena Sener (Official Video) Ultra Music
 -   Wild Child - Crazy Bird OFFICIAL
 -   Kalki - Varanasi (Official Music Video)
@@ -1315,7 +944,6 @@ hatka| ISD India Speaks Daily
 -   18 ADVANCED WAYS TO SIT DOWN 😅 Jiemba Sands
 -   20 Ways To Style Formal Shirt Pant For Men | Best 20 Formal Dress For Men | Men Fashion IN TREND FASHION&VLOGS
 -   Casino Royale - 1080p - Bond meets Vesper Matías G. Llapur
--   Fresh Prince Of Bel-Air Funny Will Smith Scene in the gym NastyD91
 -   85+ Dashing Formal Outfits For Men 2020 | Best Formal Style 2020 | Men's Fashion & Style 2020! Men's Health & Fitness Tips
 -   Cindy Crawford Pepsi Cola Commercials 1992 / 2002 / 2018 HappySpiderNews
 -   HH Mahant Swami Maharaj Visits the Grand Mosque with HE Sheikh Nahyan bin Mubarak Al Nahyan BAPSChannel
@@ -1371,7 +999,6 @@ hatka| ISD India Speaks Daily
 -   You Belong to Me Carly Simon
 -   Willie Nelson - A Woman's Love
 -   “Someone you loved” (Cover, Lewis Capaldi) studio version by Lauren Spencer-Smith
--   Glenn Frey - You Belong To The City
 -   Mean Mary on fast banjo - Iron Horse
 -   Bryan Ferry - Slave To Love 1985 (HQ, Angel Casas Show)
 -   Interview with a programmer - Veroon Budhai pt1 Fredrik Christenson
@@ -1384,7 +1011,6 @@ hatka| ISD India Speaks Daily
 -   Robert Cristian - The Secret Of Soul (Original Mix) Close Your Eyes
 -   MEUTE - Hey Hey (Dennis Ferrer Rework)
 -   MEUTE - What Else Is There? (Röyksopp Rework)
--   The Midnight - Light Years (feat. Nikki Flores) Neon Nights
 -   Daso - Meine discpictures99
 -   Passengers - Miss Sarajevo (Alternative Version) U2
 -   Abida Parveen & Rahat Fateh Ali Khan 'Chaap Tilak' [Coke Studio] REACTION!! OUR STUPID REACTIONS
@@ -1414,29 +1040,21 @@ hatka| ISD India Speaks Daily
 -   Jean Francois Maurice - Aranjuez Mon Amour Hülya Ünalmış Video Creations
 -   Janiva Magness ~ You Were Never Mine MariMari142
 -   BLOW - You Killed Me on the Moon (Official Video)
--   Lola Marsh - She's a Rainbow le bruit des graviers
 -   BLOW - It's All a Lie (Live at Studio Ferber)
 -   Kovacs - The Devil You Know (Official Video)
 -   Kovacs - 50 Shades Of Black UrSOUND
--   Rain... Rain... Sergey Grischuk / С. Грищук - А дождь всё льёт.. stef2012bg
--   Katie Melua The Walls Of The World DramaticoMusic
 -   Who Knows Where The Time Goes? Fairport Convention - Topic
--   Tony Tucker – Wait For The Night To Turn Blue / Lyrics Red Grey Matter
 -   Mark Knopfler - Silvertown Blues ᴴᴰ Mohsen. F
 -   Maria Daines - That's What The Blues is All About Orange Grey Matter
--   Sophie Zelmani ~ Memory Loves You MariMari142
 -   Elise LeGrow "Drinking In The Day" (Live Acoustic)
 -   Sophie Zelmani - Oh Dear zuperparanoid
 -   The The - This Is The Day (Remastered) roofman1969
 -   Daft Punk | Something About Us | Pomplamoose
--   Hazel English - I'm Fine [Official Lyrics Video]
 -   Echosmith - "Stuck" (Official Video)
 -   Alice Phoebe Lou - She (Live)
 -   Daryaa - Cover Song | Jasleen Royal | Friday Jams With Jasleen | Amit Trivedi | Manmarziyaan Jasleen Royal
 -   90's Phone Commercial SkyCorp Home Video
--   Men I Trust - Lauren
 -   BARBARA LEWIS - HELLO STRANGER (RARE CLIP 1965) ILMJXXX
--   Joan Baez ~ 500 Miles
 -   Zager & Evans - In the Year 2525 Sanjin
 -   this drummer omg - you won't believe what he does cucumberandco
 -   Procol Harum - A Whiter Shade of Pale, live in Denmark 2006 Widespreadpanic41
@@ -1456,213 +1074,17 @@ hatka| ISD India Speaks Daily
 -   Elias Rahbani - Dance of Maria (1974) Adventures In Sound
 -   Gypsy kid dancing at club can't be bothered. 1997. Уникальное видео из 90-х и нулевых!
 -   Mr.Kitty - After Dark Diana Sandra
--   Mumbai Performance -Kaun Tujhe Yun Pyar Karega The Golden Notes-Palak Jain The Golden Notes
--   Katie Melua - Nine Million Bicycles DramaticoMusic
--   Touch and Go - Would You Go To Bed With Me Kane Whitlie
 -   Jaan Pehechan Ho - Les Fanfoireux luctool
 -   Jon and Vangelis - I'll Find My Way Home (with lyrics) mike peters
 -   Rozalla - Everybody's Free w0lf6pack
 -   Sergey Grischuk- Rain..Rain... dariusz gawryszek
--   Eddy Grant - Electric Avenue (Live in Cape Town)
--   SCORPIONS - ALWAYS SOMEWHERE
--   Phil Collins - In The Air Tonight LIVE HD
--   POPPIN JOHN | ROBOTBOYS | BEST DANCE ROUTINE EVER
--   Amazon-Backed Smart Glasses For $1,000: First Look
 -   JustSomeMotion (JSM) - Deka TV Spot (Extended Version) - Jamie Berry Feat. Octavia Rose
--   IF YOU Want To Find TRUE LOVE - WATCH THIS | Jay Shetty
--   Traditional style duplex home built for 21 lakh | elegant interior | home tour
--   SHOULD YOU QUIT YOUR JOB? | A Very Eye Opening Speech ft Jordan Peterson
--   Should You QUIT Your Job? - The Most Life Changing Speech Ever (ft. Garyvee, Joe Rogan)
 -   Munir Niazi Ghazal | Sapne Ki Bhi Had Thi Aakhir | | Sad Urdu Poetry | Urdu Adab |
 -   Main Paishawar Faraibi Hoon , Mohabbat Kar Nahe Sakta | Urdu Poetry Ghazal
 -   O Re Piya | Tanya Wells | Seven Eyes Band | Jashn-e-Rekhta 4th Edition 2017
--   मन को शांति और सुकून देगा ये विडियो | Best motivational speech | inspirational quotes |
 -   Indirect lighting: Plaster mouldings and cove lighting with LED strips and Corner
--   Your Textbooks Are Wrong, This Is What Cells Actually Look Like
--   The Dark Truth About Attracting Women | The X Factor | Why Dark Triad Men Are So Attractive
--   Women Love This Type of Man | The Alpha Trap
--   Aldous Huxley and Brave New World: The Dark Side of Pleasure
--   Driving in Switzerland 6: From Grindelwald to Lauterbrunnen | 4K 60fps
--   Chicago 4K - Sunset Drive - Driving Downtown
--   Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED]
--   The Handsome Family - Far From Any Road (True Detective Opening Video)
--   True Detective - Opening song (HD) (The Handsome Family - Far From Any Road)
--   Harry Styles - Adore You (Official Video – Extended Version)
--   Leonard Cohen - Happens to the Heart (Official Video)
--   This song makes me cry! The Last of the Mohicans THE BEST EVER! by Alexandro Querevalú
--   Linkin Park - My December (Original Version)
--   Slider & Magnit - Morze [Official Video]
--   Coldplay - Daddy (Official Video)
--   The Weeknd - Blinding Lights(80s video)
--   The Journeymen - 500 miles [Original Version] (1961)
--   LIFE WITHOUT FEAR - a buddhist story about fear
--   Soul Ballet - Love Juliet
--   Lenny Kravitz - Low (Official Video)
--   Whitesnake - Is This Love (Official Music Video)
--   Ten Sharp - You
--   Gary Moore ~ Nothing s the same MariMari142
--   City of the Sun - Under The Same Sky (Visualizer) cityofthesun
--   London Grammar - Baby It's You (Trizz Visual) London Grammar
--   Santana & Seal ~ You Are My Kind MariMari142
--   When you hear a desi song on foreign land... Anuja Gorhe
--   Detroit Blues Band - Tears From My Eyes Red Grey Matter
--   Parrot Asks Owner "Really!?" DailyPicksandFlicks
--   Little Uneasy - Fazerdaze
--   Kalax - Calling (feat Frankmusik) [Music Video] Digital Gravity
--   Men I Trust - Lauren
--   This Indian Mystic Drops KNOWLEDGE BOMBS (I’m Speechless!) | Sadhguru on Impact Theory Tom Bilyeu
--   Oscar Winner ~ Short film about love and passage of time | Father and Daughter - by M. Dudok de Wit KIS KIS - keep it short
--   HER (Film) 2013 - End Scene Pawan Mistry
--   Maine Dil Se Kaha Dhoond Laana Khushi (Full HD) Sanjib Malik
--   Ye dil aur unki | Sanjeevani Bhelande | prem parbat | jaidev | Jaan Nisssar Akhtar | Lata Mangeshkar
--   JOKER || Kina - Can We Kiss Forever? | Joaquin Phoenix | Ceon Soloman
--   M83 - "Wait" (Official Video) Creators
--   Stefania for 'Sleeping With Jacques' Photoshoot Stefania Ferrario
--   Cemeteries - Sodus David Dean Burkhart
--   SYML - "Girl" [Official Music Video] SYMLMUSIC
--   Islamabad, Pakistan 🇵🇰 - by drone [4K] Drone Snap
--   Her | Emotions Slyfer2812
--   Spike Jonze for Apple HomePod - Welcome Home HipHopWest TV
--   Sia - We Can Hurt Together Sia's Corner
--   Seafret - Give Me Something i'm cyborg but that's ok
--   BEACH HOUSE - MYTH i'm cyborg but that's ok
--   Haux - Seaside (Official Music Video) Haux
--   Frustrated Software Engineer (FSE) Moments | E03 NullPointerException Ashima Pictures
--   Audio Series | Ep 2 - I am the Man Ashima Pictures
--   Indian Startup News Ep 39: India's First Hydrogen Car & Reliance-Future Group Deal in Trouble Backstage With Millionaires
--   I bought a new motorcycle! Itchy Boots
--   Airport Security Check - Saturday Night Live
--   Flight Announcement - Saturday Night Live
--   Skoda Enyaq iV – exclusive first look and walkaround of new electric Skoda SUV – DrivingElectric
--   Lola Marsh - She's a Rainbow le bruit des graviers
--   Lo Moon - "Thorns" (Live at WFUV) WFUV Public Radio
--   Lo Moon - "Loveless" (Live at WFUV) WFUV Public Radio
--   18 हजार करोड़ का मालिक साइकिल पर आ गया? Zoho Corporation founder Sridhar Vembu's Stroy | Misaal Hindustan Live
--   Young Homeless Girl Living on the Streets of New York City. Invisible People
--   Katy Perry GlamBOT at the Grammy Awards Behind the Scenes Cole Walliser
--   70's haircut // LOL ComediHa!
--   Lo Moon - "This Is It" (Live at WFUV)
--   Lo Moon - Thorns (Visual)
--   The sharp Mind of Muhammad By Ashish Singh TTH
--   A 10 year-old autistic and blind boy singing. His voice shocked everyone.
--   Dream Desk Setup 5.0 | Big Screen Productivity and Gaming David Zhang
--   REST API with NodeJS + Express + Docker Tutorial Be A Better Dev
--   Newfoundland of Umfleet Farms
--   Japan’s ‘underground temple’ protecting Tokyo from floods South China Morning Post
--   Cannons - Fire for You (Official Video)
--   Dolly Parton - Jolene 19880110
--   Astrid S - Jolene
--   Rain... Rain... Sergey Grischuk / С. Грищук - А дождь всё льёт.. stef2012bg
--   Laura Branigan - "Self Control" Live _RARE_ [#]
--   Ajab Tha Us Ki Dildari Ka Andaaz | Jaani Jaun Elia | Best Voice And Words
--   Two Feet - Love Is A Bitch MrSuicideSheep
--   Tum Jab Aaogi To Khoya Hua Paaogi Mujhe | Sir Jaun Elia | Best Voice And Words
--   JOKER | My Life is Nothing But A Comedy
--   Ye Mujhe Chain Kyu Nahi Padta Ek Hi Shaqs Tha Jahan Mein Kya | Sir Jaun Elia | Best Voice And Words
--   Jo Guzari Naa Jaa Saki Humse Hum Ne Wo Zindagi Guzari Hai | Sir Jaun Elia | Best Voice And Words
--   Tum Bhot Door Jaa Chuki Ho Kya | Sir Jaun Elia | Best Voice And Words
--   Paloma Faith - Only Love Can Hurt Like This (Live at The BRIT Awards)
--   Munawar Faruqui Ram jokes stand up comedy Replied by King polo | Islamic jokes | Comedy | stand up
--   Ye Gham Kya Dil Ki Aadat Hai ? Nahi To..Sir Jaun Elia Heart Touching Poetry
--   Lana Del Rey - Cola
--   I'm Harley F\*cking Quinn - J o Y -
--   Halsey - Sorry
--   Sam Smith - Too Good At Goodbyes (Official Video)
--   Luna Blanca - Villa Azur nigani
--   Rural India (Odisha) Meher Kaur
--   'aaoge jab tum' but it's playing from your neighbour's house + it's raining ⛆ Advait
--   Marc Antony - When I Dream At Night
--   Lauren Daigle - You Say (Official Music Video)
--   Lo Moon - Real Love
--   Sheena Easton - Days Like This
--   Lo Moon - Loveless (Visual)
--   Swami Yoga Nanda Baba 104 year at International Yoga & Music Festival Rishikesh Bhuwan Chandra
--   Leonard Cohen - You Want It Darker
--   Ma Anand Sheela - Funny Interview "Good Luck To you and your PIMPS"
--   PAPPU KO PASS NAHI HONE DENGE YE LOG TODAY POLETICAL
--   Agency Life: Ask the Developer Pantheon
--   Kantega | The Mysterious Life of Developers
--   Kantega | The Mysterious Life Of UX Designers
--   The Expert (Short Comedy Sketch) Lauris Beinerts
--   Wait... What??? bianalhamsandwich
--   The Hustle KRAZAM
--   Fresh Prince Of Bel-Air Funny Will Smith Scene in the gym NastyD91
--   Jonathan Bree - You're So Cool Lil' Chief Records
--   Michael Kiwanuka - One More Night (Official Video)
--   Gary Moore ~ Nothing s the same MariMari142
--   City of the Sun - Under The Same Sky (Visualizer)
--   Blinding Lights The Weeknd
--   London Grammar - Baby It's You (Trizz Visual)
--   Santana & Seal ~ You Are My Kind MariMari142
--   When you hear a desi song on foreign land... Anuja Gorhe
--   Detroit Blues Band - Tears From My Eyes Red Grey Matter
--   Hazel English - Never Going Home [Official Video]
--   "I Love You More Than You'll Ever Know" Blood, Sweat & Tears catman916
--   Little Uneasy - Fazerdaze
--   Tony Tucker – Wait For The Night To Turn Blue / Lyrics Red Grey Matter
--   Snowy White - Midnight Blues ( Johny Water rework )
--   Have you ever seen an atom? nature video
--   Watch Atoms of Gold on FeO Move Under an Electron Microscope PicoScientific
--   David, A.I - Prometheus & Covenant SxDementia
--   Taking meditation on an other level // Méditation à un autre niveau // LOL ComediHa!
--   Ged McMahon - One More Night With You (feat. Kaz Hawkins) Red Grey Matter
--   Sophie Zelmani ~ Memory Loves You MariMari142
--   Omar Bashir ~ My Favourite Dance MariMari142
--   guess, I'm out of time. TheGaroStudios
--   Tony Joe White - Ain't Going Down This Time Red Grey Matter
--   New Song Thank you India/Norbu Samphel Norbu Samphel
--   Lo Moon - Tried to Make You My Own (Visual)
--   Sweet Bird Young Hunting - Topic
--   Brahny - Pride alona chemerys
 -   Outside, when the -48 degrees. Yakutsk. 06/02/2014 当街道霜冻-48 度 Taramaan
--   Rain Walk London Hampstead, Side Streets and Alleyways - 4K Sanpo Stroll
--   Palace - Live Well (Official Audio)
--   London Grammar - Baby It's You (Official Visualiser)
 -   Vidyut Jammwal goes Junglee with this epic gym prank. Must watch! - STAR GOLD Cheese & Crackers
--   Ali and Nino Statue of Love - Rotates Through Each Other Wonder World
--   Tokyo Tea Room - Forever Out Of Time alona chemerys
--   orion sun - coffee for dinner [official video]
--   Walk The Line boy shorts @ KlassyKassy.com Klassy Swim
--   Gerald McClendon - Cold In The Streets Red Grey Matter
--   The Paper Kites - Electric Indigo (Official Music Video)
--   JJ Cale ~ Sensitive Kind MariMari142
--   Gregg Giarelis - Five Years Of Trouble Red Grey Matter
--   Sven Zetterberg - Let's Straighten it Out Red Grey Matter
--   Trevor Something - Fade Away [Explicit] NewRetroWave
--   JOY. - Same Place dynmk
--   LAUREL - Scream Drive Faster
--   Sports - Panama
--   J.J. Cale - Durango (rare) MrVuJaDe
--   Lastlings, RÜFÜS DU SOL - No Time (RÜFÜS DU SOL Remix / Visualizer)
--   Sandra - Around My Heart (HD Estereo) 1989 pelorcitos
--   Jessie Ware - You & I (Forever)
--   Cannons - Fire For You IndieSoundsGood
--   Two Feet - Call Me, I Still Love You (Extended Version)
--   Yellow House - Ain’t Gonna Call alona chemerys
--   Night Society - Hold Me Tight (Tonight) Linewalker
--   Trevor Something - All Night NewRetroWave
--   Cannons - Talk Talk (Official Video)
--   Brian Eno - By This River WKaliberr
--   Eyes of the Nightmare Jungle - Shadow Dance Children of The Night
--   Shakedown - At Night (Levent Ozbay Remix) [Video Edit] Soundeo
--   Kate Bush - Running up that Hill // Ambient Reinvention (Pro-1, Peak, DAW)
--   Johnny Tillotson - Why Do I Love You So (1959) CatsPjamas1
--   Ваd Girl Blue - Magic Love Mind BE BU
--   Stoto - 299792458 (Original Mix) MoonWalk Jesus H. C.
--   Serge Gainsbourg & Jane Birkin - Je t'aime... moi non plus (Originale - 1969) Contexsempre
--   Rhye - The Fall (Official Video)
--   Hazel English - Five and Dime (Official Video)
--   Sheena Easton - The Lover In Me
--   CASINO ROYALE | “I’m the money.”
--   Lana Del Rey - God Knows I Tried Just Some Videos
--   Shura - Touch weareshura
--   Flashdance - Imagination ( video sountrack ).mpg RODMY RAMIRO CHAVEZ ALBARRAN
--   dj poolboi - I Had It All
--   I FEEL YOU JULIA NAILS Bar a Ongles
--   Tangerine Dream - Love on a Real Train - Live goblin1digital2
--   Jai Wolf - Drive (feat. The Chain Gang Of 1974) (Unofficial Music Video) Lunar Visuals
--   Italo disco 80s Ваd Girl Blue World love mind, Michelle Babe hot drivеr Martino erdem mix Андрей Сурма
--   The Midnight - Synthetic [Music Video] Digital Gravity
 -   Impossible love - moving statue in Georgia by @sweetvitamea
 -   FM-84 - Running In The Night (feat. Ollie Wride) - [OFFICIAL MUSIC VIDEO] NewRetroWave
 -   Emergency // LOL ComediHa!
@@ -1697,7 +1119,6 @@ hatka| ISD India Speaks Daily
 -   Leona Lewis - Run (Official Video)
 -   Madonna - Frozen (Official Music Video)
 -   Peter Gabriel - Secret World, live
--   Laura Branigan - "Self Control" Live _RARE_ [#]
 -   Touch & Go - Straight To Number One (lyrics)
 -   Lauren Christy - The Color of the Night RadioUtopia Video Creations
 -   Goldfrapp - Ride A White Horse
@@ -1705,7 +1126,6 @@ hatka| ISD India Speaks Daily
 -   💖💖💖Grace Jones and Dolph Lundgren: In Their Own Words 🇺🇲🇯🇲🇸🇪 Petal Pusher Fan Videos
 -   Grace Jones "La Vie en Rose" | Vamos a ver TVN
 -   Kiesza - All Of The Feelings (Isolation Video)
--   Lana Del Rey - Cola
 -   Yello - Waba Duba (Official Video)
 -   The Black Eyed Peas - Don't Phunk With My Heart (Official Music Video)
 -   The KLF - 3AM Eternal 1991
@@ -1732,7 +1152,6 @@ hatka| ISD India Speaks Daily
 -   Grace Jones - I've Seen That Face Before (Libertango) [Official Video]
 -   Pulp Fiction - Dance Scene (HQ) manetaki
 -   जौन एलिया शायरी - दर्द की अँधेरी गलियों में | Jaun Elia Poetry in Dark Streets of Pain | Urdu/Hindi Bazmital
--   Ye Gham Kya Dil Ki Aadat Hai ? Nahi To..Sir Jaun Elia Heart Touching Poetry Best Voice And Words
 -   Gnarls Barkley - Crazy hektopascal1013
 -   The Korgis - Everybody's Got To Learn Sometime youcallisto
 -   Grace Jones - La vie en rose (12'' Version - Andy Rick Video Edition) VJ Andy Rick
@@ -1750,9 +1169,7 @@ hatka| ISD India Speaks Daily
 -   Celebrate the Life and Music of Israel "IZ" Kamakawiwo`ole OFFICIAL VIDEO Mountain Apple Company Inc
 -   Abhijeet Sawant - Junoon SonyMusicIndiaVEVO
 -   One And One - Robert Miles feat. Maria Nayler (video edit with lyric) Miko Tyo
--   who's gonna drive you home - the cars thinkinsane
 -   ہمارا بلوچستان پیارا بلوچستان Saiyah Travel
--   Jai Wolf - Drive (feat. The Chain Gang Of 1974) (Unofficial Music Video) Lunar Visuals
 -   Living In The Burj Khalifa | $1,400,000 Liam Jeffrey
 -   Sia - Alive
 -   Double Dhamaal - Office rent not paid - Comedy Scene Reliance Entertainment
@@ -1840,7 +1257,6 @@ hatka| ISD India Speaks Daily
 -   Roger Waters - Mother
 -   Vibhava Corporate Video VIBHAVA MARKETING CORPORATION
 -   Til Tuesday - Voices Carry - 3/26/1986 - Ritz (Official) Punk & New Wave on MV
--   The Cars - Drive (Official Music Video) RHINO
 -   Tyrese-What Took You Soo Long ChillVibez
 -   Goldfrapp - Strict Machine at Glastonbury 2014 BBC
 -   The Hot Sardines - Bei Mir Bist Du Schoen (Official Video) TheHotSardinesVEVO
@@ -1870,7 +1286,6 @@ hatka| ISD India Speaks Daily
 -   Luce Dufault - Damn Your Eyes Don's Tunes
 -   Daisy Gray - Wicked Game (Official Tribute Video)
 -   Blue October - I Hope You're Happy blueoctoberofficial
--   Lo Moon - Tried to Make You My Own (Visual)
 -   Scarface | Push It to the Limit
 -   The Rolling Stones - Love Is Strong - OFFICIAL PROMO
 -   This Video Will Leave You SPEECHLESS - One of The Most Eye Opening Motivational Videos Ever Motivation Madness
@@ -1922,7 +1337,6 @@ hatka| ISD India Speaks Daily
 -   Bota no Rego - Estácio de Sá Hino & SE2016 @Festival Samba Mealhada 2016 SambaFanPT
 -   Mike Oldfield - Pictures in the dark 1985 fritz5177
 -   Mungo Jerry - In The Summertime ORIGINAL 1970
--   Eddy Grant - Gimme Hope Jo Anna 1988
 -   Change - You Are My Melody 1984 (Remastered audio) TT V-rus 1138
 -   Gwen McCrae - keep the fire Burning 1982 (Virus Mix) TT V-rus 1138
 -   Cathy Dennis - Touch Me (All Night Long) CathyDennisVEVO
@@ -1953,7 +1367,6 @@ hatka| ISD India Speaks Daily
 -   Timecop1983 - Secrets
 -   Robert Parker - '85 Again (feat. Miss K) Club dancers Are Sounds Electrik?
 -   Cheryl Lynn - Shake It Up Tonight 1981 (Remastered audio) TT V-rus 1138
--   The Hooters - 500 miles Demeter Doudousaki
 -   CARL CARLTON BABY I NEED YOUR LOVING vanderlei xavier
 -   Shannon - Let The Music Play (Remix) UnidiscMusic
 -   George McCrae - Rock Your Baby (1975) HD 0815007 Quenna0815007
@@ -1995,7 +1408,6 @@ hatka| ISD India Speaks Daily
 -   Maneater (Subtitulos en Español) - Don Jon Lube Music
 -   Midnight Special-Exile "Kiss You All Over" LiveVideoAZ
 -   Tracy Chapman - Talkin' About A Revolution (Official Music Video)
--   Edie Brickell - Good Times
 -   kumar gandharva in his childhood performance Ajaysahumirchonia Kumar
 -   Jamuna kinaray mora gaon - Prabha Atre Naveed Siraj
 -   "Crazy" (Gnarls Barkley) - Angela Ricci
@@ -2007,7 +1419,6 @@ hatka| ISD India Speaks Daily
 -   Joy ~~ Touch by Touch ~~ Contiene Subtítulos en Inglés y Español ajotagranada
 -   Penny McLean - Lady Bump (1975) DiscoTerra
 -   Alexander O'Neal - Fake (1987 Soul Train Line)(F) JayNoteZArchive7
--   Lana Del Rey - Season Of The Witch Mermaid Motel
 -   Peter Green - Fool No More Jakuta11
 -   Al Stewart - Year of The Cat (Solid Gold Classic) - 1982 runningman904
 -   Regina Belle - Baby Come To Me (Official Video) ReginaBelleVEVO
@@ -2032,7 +1443,6 @@ hatka| ISD India Speaks Daily
 -   अखियों के झरोखे से - क्लासिक रोमांटिक गीत - सचिन और रंजीता - पुराने हिंदी गाने
 -   The Weeknd - Blinding Lights (Official Audio)
 -   Tune O Rangile | तूने ओ रंगीले | Lata Mangeshkar| Sarrika Singh Live | Kudrat (1981) | Old is Gold |
--   Ye dil aur unki | Sanjeevani Bhelande | prem parbat | jaidev | Jaan Nisssar Akhtar | Lata Mangeshkar
 -   aye dil e naadan
 -   JALTA HAI BADAN LATA JI MOVIE RAZIA SULTANA
 -   Sandra Dee & Bobby Darin-Dream Lover
@@ -2065,7 +1475,6 @@ hatka| ISD India Speaks Daily
 -   Rosanna Rocci chaka chaka live berlin24TV
 -   Avalon Jazz Band - I love Paris (Cole Porter) Avalon Jazz Band
 -   Solo Hay Una Para Mi - Semino Rossi - Español Tiempo al Tiempo
--   JJ Cale ~ Sensitive Kind MariMari142
 -   Mary Hopkin ''Turn Turn Turn'' Opportunity Knocks July 1968 LeonThe4th
 -   Marie Laforêt - Toi Qui Dors [LIVE 1965] archéologie musicale
 -   "Voilà" - Françoise HARDY - 1967 FRENCHPOP
@@ -2138,7 +1547,6 @@ hatka| ISD India Speaks Daily
 -   DASRATH MANJHI || GEHLORE || GAYA || BIHAR || INDIA EHAIINDIA
 -   Best Tik Tok and Whatsapp Talent videos #4 | Top 10 Talents | of 2018, 2019 Super Clips
 -   Jai Wolf - Indian Summer (Official Music Video)
--   Coldplay - Hymn For The Weekend (Official Video)
 -   Mahmut Orhan - Feel feat. Sena Sener (Official Video) Ultra Music
 -   Wild Child - Crazy Bird OFFICIAL
 -   Kalki - Varanasi (Official Music Video)
@@ -2155,7 +1563,6 @@ hatka| ISD India Speaks Daily
 -   18 ADVANCED WAYS TO SIT DOWN 😅 Jiemba Sands
 -   20 Ways To Style Formal Shirt Pant For Men | Best 20 Formal Dress For Men | Men Fashion IN TREND FASHION&VLOGS
 -   Casino Royale - 1080p - Bond meets Vesper Matías G. Llapur
--   Fresh Prince Of Bel-Air Funny Will Smith Scene in the gym NastyD91
 -   85+ Dashing Formal Outfits For Men 2020 | Best Formal Style 2020 | Men's Fashion & Style 2020! Men's Health & Fitness Tips
 -   Cindy Crawford Pepsi Cola Commercials 1992 / 2002 / 2018 HappySpiderNews
 -   Natalie Taylor - Come To This (Lyrics) KHB
@@ -2187,7 +1594,6 @@ hatka| ISD India Speaks Daily
 -   You Belong to Me Carly Simon
 -   Willie Nelson - A Woman's Love
 -   “Someone you loved” (Cover, Lewis Capaldi) studio version by Lauren Spencer-Smith
--   Glenn Frey - You Belong To The City
 -   Mean Mary on fast banjo - Iron Horse
 -   Bryan Ferry - Slave To Love 1985 (HQ, Angel Casas Show)
 -   Interview with a programmer - Veroon Budhai pt1 Fredrik Christenson
@@ -2200,7 +1606,6 @@ hatka| ISD India Speaks Daily
 -   Robert Cristian - The Secret Of Soul (Original Mix) Close Your Eyes
 -   MEUTE - Hey Hey (Dennis Ferrer Rework)
 -   MEUTE - What Else Is There? (Röyksopp Rework)
--   The Midnight - Light Years (feat. Nikki Flores) Neon Nights
 -   Daso - Meine discpictures99
 -   Passengers - Miss Sarajevo (Alternative Version) U2
 -   Abida Parveen & Rahat Fateh Ali Khan 'Chaap Tilak' [Coke Studio] REACTION!! OUR STUPID REACTIONS
@@ -2230,27 +1635,20 @@ hatka| ISD India Speaks Daily
 -   Jean Francois Maurice - Aranjuez Mon Amour Hülya Ünalmış Video Creations
 -   Janiva Magness ~ You Were Never Mine MariMari142
 -   BLOW - You Killed Me on the Moon (Official Video)
--   Lola Marsh - She's a Rainbow le bruit des graviers
 -   BLOW - It's All a Lie (Live at Studio Ferber)
 -   Kovacs - The Devil You Know (Official Video)
 -   Kovacs - 50 Shades Of Black UrSOUND
--   Rain... Rain... Sergey Grischuk / С. Грищук - А дождь всё льёт.. stef2012bg
--   Katie Melua The Walls Of The World DramaticoMusic
 -   Who Knows Where The Time Goes? Fairport Convention - Topic
--   Tony Tucker – Wait For The Night To Turn Blue / Lyrics Red Grey Matter
 -   Mark Knopfler - Silvertown Blues ᴴᴰ Mohsen. F
 -   Maria Daines - That's What The Blues is All About Orange Grey Matter
--   Sophie Zelmani ~ Memory Loves You MariMari142
 -   Elise LeGrow "Drinking In The Day" (Live Acoustic)
 -   Sophie Zelmani - Oh Dear zuperparanoid
 -   The The - This Is The Day (Remastered) roofman1969
 -   Daft Punk | Something About Us | Pomplamoose
--   Hazel English - I'm Fine [Official Lyrics Video]
 -   Echosmith - "Stuck" (Official Video)
 -   Alice Phoebe Lou - She (Live)
 -   Daryaa - Cover Song | Jasleen Royal | Friday Jams With Jasleen | Amit Trivedi | Manmarziyaan Jasleen Royal
 -   90's Phone Commercial SkyCorp Home Video
--   Men I Trust - Lauren
 -   BARBARA LEWIS - HELLO STRANGER (RARE CLIP 1965) ILMJXXX
 -   Zager & Evans - In the Year 2525 Sanjin
 -   this drummer omg - you won't believe what he does cucumberandco
@@ -2271,21 +1669,11 @@ hatka| ISD India Speaks Daily
 -   Elias Rahbani - Dance of Maria (1974) Adventures In Sound
 -   Gypsy kid dancing at club can't be bothered. 1997. Уникальное видео из 90-х и нулевых!
 -   Mr.Kitty - After Dark Diana Sandra
--   Mumbai Performance -Kaun Tujhe Yun Pyar Karega The Golden Notes-Palak Jain The Golden Notes
--   Katie Melua - Nine Million Bicycles DramaticoMusic
--   Touch and Go - Would You Go To Bed With Me Kane Whitlie
--   Jaan Pehechan Ho - Les Fanfoireux luctool
--   Jon and Vangelis - I'll Find My Way Home (with lyrics) mike peters
--   Rozalla - Everybody's Free w0lf6pack
--   Sergey Grischuk- Rain..Rain... dariusz gawryszek
--   Eddy Grant - Electric Avenue (Live in Cape Town)
--	You Make Me Feel Brand New - The Stylistics
--	Emotion - Samantha Sang
--	Yes I'm Ready / Teri Desario with K.C.
--	Tal Bachman - She's So High
 
 -   4 Non Blondes
     -   What's Up
+-	10cc
+	-	I'm Not In Love (1975)
 -   A Flock Of Seagulls
     -   I Ran
 -	aaron neville
@@ -2306,6 +1694,8 @@ hatka| ISD India Speaks Daily
 	-	Sirius Eye In The Sky
 -	Alan Walker
 	-	Faded
+-	Aldous Huxley and Brave New World
+	-	The Dark Side of Pleasure
 -   Alex Blue
 	-	Don't Think I Would
 -   Alex. Rasov.
@@ -2347,18 +1737,24 @@ hatka| ISD India Speaks Daily
 	-	Yes Sir, I Can Boogie
 -	Bad Boys Blue
 	-	A world without you Michelle
+-   Ваd Girl Blue
+	-	Magic Love Mind
 -	Barbara Mason
 	-	FROM HIS WOMAN TO YOU
 -   Barbra Streisand
     -   Woman In Love
 -	Barry Manilow
 	-	It Never Rains In Southern California
+-	Beach House
+	-	Myth
 -   Bee Gees
     -   Love You Inside Out
     -   You Should Be Dancing
 	-	To Love Somebody
 -	Ben E. King
 	-	Don't Play That Song
+-   Benny Mardones
+	-	Into The Night - 1980
 -	Beth Hart
 	-	Your Heart Is As Black As Night
 -   Billy Idol
@@ -2373,6 +1769,8 @@ hatka| ISD India Speaks Daily
     -   Kinda Like It
 -	Black Pumas
 	-	Colors
+-	Blood, Sweat & Tears
+	-	I Love You More Than You'll Ever Know
 -	BLOW
 	-	You Killed Me on the Moon
 -	Blue Man Group
@@ -2412,6 +1810,8 @@ hatka| ISD India Speaks Daily
 -   Bryan Adams
 	-	(Everything I Do) I Do It For You
     -   Don't Give Up
+-	Brian Eno
+	-	By This River
 -   Bryan Ferry
     -   Slave To Love
     -   Like a hurricane
@@ -2427,8 +1827,12 @@ hatka| ISD India Speaks Daily
 -   Cannons
     -   Love on the Ground
     -   Bad Dream
+	-	Fire for You
+	-	Talk Talk
 -	Captain Hollywood Project
 	-	More and More
+-	Cemeteries
+	-	Sodus
 -   Chaka Khan
     -   Ain't Nobody
 	-	Like Sugar
@@ -2441,6 +1845,8 @@ hatka| ISD India Speaks Daily
 	-	Drive
 -   Cheap Trick
     -   The Flame
+-	Chicane
+	-	Offshore
 -	Chip Taylor and Carrie Rodriguez
 	-	Him Who Saved Me
 -	Chris DeBurgh
@@ -2457,6 +1863,8 @@ hatka| ISD India Speaks Daily
 	-	Affection (The Dreamers)
 -	Cinderella
 	-	Don't Know What You Got (Till It's Gone)
+-	City of the Sun
+	-	Under The Same Sky
 -	Climie Fisher
 	-	love changes everything
 -   Club Nouveau
@@ -2465,6 +1873,9 @@ hatka| ISD India Speaks Daily
     -   Just Around the Corner
     -   The Promise You Made
     -   When Your Heart Is Weak
+-	Coldplay
+	-	Daddy
+	-   Hymn For The Weekend
 -   Commodores
     -   Nightshift
 -	Concrete Blonde
@@ -2485,6 +1896,11 @@ hatka| ISD India Speaks Daily
     -   U R The Best Thing (1994)
 -   Damn Yankees
     -   Come Again
+-	Dan Fogelberg
+	-	Rhythm Of The Rain
+-	Don Henley
+	-	The Last Worthless Evening
+	-	Take A Picture Of This
 -	Darren Hayes
 	-	Insatiable
 -	Dave Gahan
@@ -2508,6 +1924,8 @@ hatka| ISD India Speaks Daily
 -	Depeche Mode
 	-	A Pain That I'm Used To
 	-	Freelove
+-   Detroit Blues Band
+	-	Tears From My Eyes Red Grey Matter
 -	Diana King
 	-	Say A Little Prayer
 -   Dido
@@ -2519,12 +1937,18 @@ hatka| ISD India Speaks Daily
 	-	Let The Night
 -	DJ BoBo
 	-	EVERYBODY
+-	dj poolboi
+	-	I Had It All
 -   Dokken
     -   Alone Again
 -   Dolly Parton
     -   Jolene
+-	Dominoe
+	-	Here I Am
 -	Donna Summer
 	-	I Feel Love
+-	Dr Hook
+	-	When You're In Love With A Beautiful Woman
 -	Drowning Pool
 	-	Bodies
 -	DUBSTEP
@@ -2593,6 +2017,8 @@ hatka| ISD India Speaks Daily
 	-	Why Go ft. Estelle
 -	Fancy
 	-	Slice Me Nice
+-	Fazerdaze
+	-	Little Uneasy
 -   Fedde Le Grand
     -   Put Your Hands Up For Detroit
 -   Fever Ray
@@ -2606,6 +2032,7 @@ hatka| ISD India Speaks Daily
 	-	Wrong Side Of Heaven
 -	Flashdance - Irene Cara
 	-	What A Feeling
+	-	Imagination
 -	Fleetwood Mac
 	-	Little Lies
 -	Flipsyde
@@ -2618,8 +2045,12 @@ hatka| ISD India Speaks Daily
     -   Jealousy
 -	Future Islands
 	-	Like the Moon
+-	Gary Moore
+	-	Nothing s the same
 -   Gazebo
     -   I Like Chopin
+-	Ged McMahon
+	-	One More Night With You (feat. Kaz Hawkins)
 -	George Benson
 	-	Inside Love
 -   George Michael
@@ -2630,11 +2061,14 @@ hatka| ISD India Speaks Daily
     -   Where Did Your Heart Go? (Wham!)
 	-	Battlestations (Wham!)
 	-	Fastlove
+-	Gerald McClendon
+	-	Cold In The Streets
 -	Gilla
 	-	Johnny
 -	Glenn Frey
 	-	True Love
 	-	You Belong To The City
+	-	THE ONE YOU LOVE
 -	Gloria Estefan
 	-	Dr. Beat
 	-	Rhythm Is Gonna Get You
@@ -2644,6 +2078,8 @@ hatka| ISD India Speaks Daily
     -   Iris
 -	Grace Jones
 	-	I've Seen That Face Before
+-	Gregg Giarelis
+	-	Five Years Of Trouble
 -   Greg Kihn Band
     -   The Breakup Song
 -   Gregorian
@@ -2654,10 +2090,20 @@ hatka| ISD India Speaks Daily
     -   Infinity
 -   HAEVN
     -   We Are
+-	Hall & Oates
+	-	She's Gone (1976)
 -	Harley Quinn
 	-	Gasoline
 	-	Insane Like Me
 	-	Voices in my head
+-	Harry Styles
+	-	Adore You
+-	Haux
+	-	Seaside
+-	Hazel English
+	-	Never Going Home
+	-	I'm Fine
+	-	Five and Dime
 -   Heart
     -   These Dreams (https://youtu.be/0DLeH2FWFTE) (Live in Seattle)
 	-   Alone
@@ -2717,6 +2163,11 @@ hatka| ISD India Speaks Daily
 	-	Power
 -   Iyeoka
     -   Simply Falling
+-	J.D. Souther
+	-	You're Only Lonely
+-	J.J. Cale
+	-	Durango (rare)
+	-	Sensitive Kind
 -   Jai Wolf (feat. The Chain Gang Of 1974)
     -   Drive
 -	James Bay
@@ -2733,6 +2184,7 @@ hatka| ISD India Speaks Daily
     -   The Power Of Love
 -   Jessie Ware
     -   What’s Your Pleasure?
+	-	You & I (Forever)
 -	Jimmy Nail
 	-	Ain't No Doubt
 -   Joan Baez
@@ -2759,6 +2211,12 @@ hatka| ISD India Speaks Daily
 -	Johnny Hates Jazz
 	-	Shattered Dreams
 	-	Turn Back The Clock
+-	Johnny Tillotson
+	-	Why Do I Love You So
+-	Jonathan Bree
+	-	You're So Cool Lil' Chief Records
+-	Jon and Vangelis
+	-	I'll Find My Way Home (with lyrics) mike peters
 -   Journey
     -   Don't Stop Believin'
 	-	Faithfully
@@ -2766,6 +2224,8 @@ hatka| ISD India Speaks Daily
 	-	Come into my life
 -	Juan Bastos
 	-	Loop Di Love
+-	Julia Capoianu
+	-	I FEEL YOU
 -   Jungle
     -   Casio
 -   K-OS
@@ -2777,6 +2237,9 @@ hatka| ISD India Speaks Daily
 	-	Superwoman
 -	Kate Bush
 	-	Running Up That Hill
+-   Katie Melua 
+	-	Nine Million Bicycles DramaticoMusic
+	-   The Walls Of The World DramaticoMusic
 -   Ken Laszlo
     -   Hey Hey Guy
 -   Kiss
@@ -2808,8 +2271,18 @@ hatka| ISD India Speaks Daily
 	-	God knows i tried
 	-	Shades Of Cool
 	-	Summertime Sadness
+	-	Cola
+	-	Season Of The Witch
 -	Last of the Mohicans
 	-	Last of the Mohicans (Guitar instrumental)
+-	Laura Branigan
+	-	Self Control
+-	LAUREL
+	-	Scream Drive Faster
+-	Lauren
+	-	Men I Trust
+-	Lauren Daigle
+	-	You Say
 -   Lauri
     -   Heavy
 -   Le Flex
@@ -2827,8 +2300,11 @@ hatka| ISD India Speaks Daily
     -   Happens to the Heart
     -   Dance Me to the End of Love
 	-	My Oh My
+	-	You Want It Darker
 -	Les Deux Love Orchestra 
 	-	The Moth & The Flame
+-	Les Fanfoireux luctool
+	-	Jaan Pehechan Ho
 -	Level 42
 	-	Lessons In Love
 -	Lewis Capaldi
@@ -2855,12 +2331,22 @@ hatka| ISD India Speaks Daily
 	-	Living In A Box
 -	LL Cool J
 	-	I Need Love
+-	Lo Moon
+	-   Thorns (Visual)
+	-	Thorns (Live at WFUV) WFUV Public Radio
+	-   Loveless (Live at WFUV) WFUV Public Radio
+	-   This Is It (Live at WFUV)
+	-	Real Love
+	-	Tried to Make You My Own (Visual)
 -	Lobo
 	-	I'd Love You To Want Me
+-	Lola Marsh
+	-	She's a Rainbow le bruit des graviers
 -	Lola Rennt
 	-	What a difference a day makes
 -	London Grammar
 	-	Non Believer
+	-	Baby It's You
 -	Londonbeat
 	-	I've Been Thinking About you
 -   Lord Huron
@@ -2877,6 +2363,8 @@ hatka| ISD India Speaks Daily
 	-	No New Friends
 -	Luce Dufault
 	-	Damn Your Eyes
+-	Luna Blanca
+	-	Villa Azur nigani
 -	Lynsey De Paul
 	-	Sugar Me
 -   Lynyrd Skynyrd
@@ -2885,6 +2373,8 @@ hatka| ISD India Speaks Daily
     -   Pop Muzik
 -	M People
 	-	Don't Look Any Further
+-	M83
+	- "Wait
 -   Macy Gray
     -   I Try
     -   Request Line
@@ -2936,6 +2426,8 @@ hatka| ISD India Speaks Daily
     -   Torture (The Jacksons)
 	-	Give in to me
 	-	If I Could Be Where You Are
+-	Michael Kiwanuka
+	-	One More Night
 -	Mick Jagger
 	-	Visions Of Paradise
 -   Midnight Star
@@ -3000,6 +2492,8 @@ hatka| ISD India Speaks Daily
     -   Jam On It 1984
 -   Nickelback
     -   How You Remind Me
+-	Night Society
+	-	Hold Me Tight (Tonight) Linewalker
 -   Night Traveler
     -   Carolina
     -   I Still Love You
@@ -3020,12 +2514,20 @@ hatka| ISD India Speaks Daily
 	—	Be Mine (Olivia Krash LIVE Cover)
 -	Ofra HAZA
 	-	Im Nin' Alu
+-	Olivia Newton-John
+	-	PHYSICAL
+-	Omar Bashir
+	-	My Favourite Dance
 -	OMNIA
 	-	Fee Ra Huri
+-	orion sun
+	-	coffee for dinner
 -   Otis Redding
     -   I´ve Been Loving You Too Long
 -	Otis Stacks (ft. Gift Of Gab)
 	-	Fashion Drunk
+-	Palace
+	-	Live Well
 -	Paloma Faith
 	-	Only Love Can Hurt Like This
 -	Passenger
@@ -3034,6 +2536,8 @@ hatka| ISD India Speaks Daily
 	-	Love is a battlefield
 -	Patti LaBelle
 	-	On My Own ft. MICHAEL MCDONALD
+-	Patty Smyth
+	-	Sometimes Love Just Ain't Enough ft. Don Henley
 -   Patrick Swayze
     -   She's Like The Wind
 -	Paula Abdul
@@ -3047,6 +2551,11 @@ hatka| ISD India Speaks Daily
 	-	Don't play that song
 -   Pet Shop Boys
     -   Go West
+	-	West End Girls
+-	Peter Andre
+	-	Mysterious Girl
+-	Peter Cetera
+	- (I Wanna Take) Forever Tonight
 -	PETER GABRIEL
 	-	Secret World (Album)
 -	Peter Schilling
@@ -3133,16 +2642,22 @@ hatka| ISD India Speaks Daily
 	-	What Else Is There
 -   Rozalla
     -   Are You Ready To Fly (Official Video, 1992)
+	-	Everybody's Free w0lf6pack
 -   Ruth B
     -   Lost Boy (sad & slowed)
 -   Sam Cooke
     -   A Change Is Gonna Come
+-	Sam Smith
+	-	Too Good At Goodbyes
 -   Samantha Sang
     -   EMOTION
 -   SANDRA
     -   In The Heat Of The Night
+	-	Around My Heart
 -   SANDRA
 	-	Loreen
+-	Santana
+	-	You Are My Kind (with Seal)
 -	Sarah Brightman
 	-	Deliver Me
 -   Sash! feat. Tina Cousins
@@ -3172,6 +2687,9 @@ hatka| ISD India Speaks Daily
 	- Je t'aime...  moi non plus
 -	Sergey Grischuk
 	-	Loving Heart
+	-	Rain..Rain... dariusz gawryszek
+-	Shakedown
+	-	At Night
 -   Shakin' Stevens
     -   Because I Love You
 -	Shalamar
@@ -3184,12 +2702,17 @@ hatka| ISD India Speaks Daily
 	-	Sunny Came Home
 -	SHEENA EASTON
 	-	FOR YOUR EYES ONLY
+	-	Days Like This
+	-	The Lover In Me
 -	Sheila E
 	-	A Love Bizarre
 -	Shivaree
 	-	Goodnight Moon
+-	Shura
+	-	Touch
 -	Sia
 	-	Move Your Body
+	-	We Can Hurt Together
 -   Sinéad O'Connor
     -   Nothing Compares 2 U
     -   The Wolf Is Getting Married
@@ -3198,6 +2721,8 @@ hatka| ISD India Speaks Daily
 -   Simon & Garfunkel
 	-	El Condor Pasa, El Condor Pasa (1970)
 	-	The Sound Of Silence
+-	Slider & Magnit
+	-	Morze
 -   Slowdive
     -   Sugar for the Pill
 -   Snakehips
@@ -3207,6 +2732,8 @@ hatka| ISD India Speaks Daily
 	-	The Power Ultra Version
 -   Snow Patrol
     -   Open Your Eyes
+-	Snowy White
+	-	Midnight Blues ( Johny Water rework )
 -	Sonique
 	-	It Feels So Good
 -   Sons Of The East
@@ -3217,6 +2744,10 @@ hatka| ISD India Speaks Daily
 	-	Memory Loves You
 -   Soul Asylum
 	-	Runaway Train
+-	Soul Ballet
+	-	Love Juliet
+-	Sound of Eden
+	-	Shades Of Rhythm
 -   Steve Winwood
     -   Arc Of A Diver
 	-	Back In The High Life Again
@@ -3225,6 +2756,8 @@ hatka| ISD India Speaks Daily
 -   Sting
     -   Desert Rose
     -   It's Probably Me
+-	The Stylistics
+	-	You Make Me Feel Brand New
 -	Sunday (1994) 
 	-	Tired Boy 
 -	Sunscreem
@@ -3236,8 +2769,13 @@ hatka| ISD India Speaks Daily
 -   Suzanne Vega
     -   Luka
 	-	Solitude Standing
+	-	Sweet Bird Young Hunting
+-	Sven Zetterberg
+	-	Let's Straighten it Out
 -	SWEATCULT
 	-	if u wanna stay
+-	SYML
+	-	Girl
 -	T'Pau
 	-	Heart And Soul
 -   t.A.T.u.
@@ -3245,11 +2783,15 @@ hatka| ISD India Speaks Daily
     -   Not Gonna Get Us
 -	Take That
 	-	Patience
+-	Tal Bachman
+	-	She's So High
 -	Talking Heads
 	-	Once in a Lifetime
 -	Tame Impala
 	-	Borderline
 	-	The Moment
+-	Tangerine Dream
+	-	Love on a Real Train
 -   Tanita Tikaram
     -   Twist In My Sobriety
 -   Taylor Dayne
@@ -3263,6 +2805,8 @@ hatka| ISD India Speaks Daily
 	-	Shout
 -   Ten Sharp
     -   You
+-	Teri Desario with K.C.
+	-	Yes I'm Ready
 -   Tevin Campbell
     -   Can We Talk
 -	Texas
@@ -3290,6 +2834,7 @@ hatka| ISD India Speaks Daily
 -   The Cars
     -   Heartbeat City (https://youtu.be/9cL5-42Hg5E)
     -   Drive
+	-   who's gonna drive you home
 -   The Cardigans
     -   Erase / Rewind
     -   For What It's Worth
@@ -3299,17 +2844,25 @@ hatka| ISD India Speaks Daily
     -   Zombie
     -   Ode To My Family
     -   Linger
+-	The Doors
+	-	Riders on the Storm
 -	THE FLIRTS
 	-	Helpless
 -	The Freshmen
 	-	The Verve Pipe
 -	The Jets
 	-	Make It Real
+-	The Journeymen
+	-	500 miles
 -   The Marías
     -   I Don't Know You
     -   Baby One More Time
+-	The Midnight
+	-	Synthetic
+	-	Light Years (feat. Nikki Flores)
 -   The Paper Kites
     -   Steal My Heart Away (https://youtu.be/VR11Hs9a36Y)
+	-	Electric Indigo
 -   The Rasmus
     -   October & April
     -   Livin' in a World Without You
@@ -3343,22 +2896,35 @@ hatka| ISD India Speaks Daily
 -   Tina Turner
 	-	What's love got to do about it
     -   We Don't Need Another Hero (https://youtu.be/zEb8-v1nkRo)
+-	Tokyo Tea Room
+	-	Forever Out Of Time
 -	Tony Joe White
 	-	Closer To The Truth
+	-	Ain't Going Down This Time
+-	Tony Tucker
+	–	Wait For The Night To Turn Blue
 -	Touch & Go
 	-	Straight To Number One
+	-	Would You Go To Bed With Me Kane Whitlie
 -	Tracy Chapman
 	-	Fast car
 -   Train
 	-	Marry Me
+-	Trevor Something
+	-	Fade Away
+	-	All Night
 -	Trisha Yearwood
 	-	How do i live
 -   Troye Sivan
     -   My My My!
+-	True Detective
+	-	Far From Any Road
 -	Twenty one pilots
 	-	Chlorine
 -   Twisted Sister
     -   The Price
+-	Two Feet
+	-	Love Is A Bitch MrSuicideSheep
 -   U2
 	-	With or without you
     -   All I Want Is You
@@ -3390,8 +2956,12 @@ hatka| ISD India Speaks Daily
 	-	Can't Get Enough
 -	Winona Oak
 	-	Control
+-	Yellow House
+	-	Ain’t Gonna Call alona chemerys
 -	Yes
 	-	Owner Of a Lonely Heart
+-	Young Hunting
+	-	Sweet Bird
 -	Zella Day
 	-	You Sexy Thing
 -   ZHU
