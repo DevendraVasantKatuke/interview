@@ -1,99 +1,3 @@
--   Impossible love - moving statue in Georgia by @sweetvitamea
--   FM-84 - Running In The Night (feat. Ollie Wride) - [OFFICIAL MUSIC VIDEO] NewRetroWave
--   Emergency // LOL ComediHa!
--   G-Eazy & Halsey - Him & I (Official Music Video)
--   Tum Mera Naam Kyun Nahi Leti | Jaun Elia Best Poetry | Urdu Poetry Status | Whatsapp shayri Majlis e Adab Production
--   chikmagalur monsoon road trip 2019 | chikmagalur | Kudremukh | udupi | varanga Travel Therapy
--   Jan Hammer - Crockett's Theme (live by Kebu @ Dynamo) Kebu
--   Daniel Boone - Beautiful Sunday 1972 fritz51323
--   Bardotka ślubna Rzeszów - bielizna, piękno, moda i uroda Paryżanka
--   Perturbator - Venger ft. Greta Link [Music Video - Official]
--   Pluralism is a more appropriate word than Secularism for India: Amish Tripathi ThePrint
--   Bluesin' around Tash Wolf
--   Oumi Janta Skater Girl from Berlin with Music Zenith
--   SLIFT - Ummon (Live on KEXP)
--   Colour Castle - Love Addict (Miguel Campbell Remix) (INFINITY) #enjoybeauty Infinity by VideoHUB
--   Studio B - 'I See Girls' (Official Video) Ministry of Sound
--   Yello Mean Monday (extended) Destrunator
--   Boston Dynamics' amazing robots Atlas and Handle AwesomeTech
--   Bill Haley & His Comets - Rock Around The Clock (OST, 1956) Valer ka
--   Tove Lo - True Disaster (Part of Fairy Dust)
--   Scooter - The Logical Song (Official Video)
--   Gold Hill, Shaftesbury, England - above, on and below the famous hill Elodian
--   Fly Project - So High | Official Lyric Video
--   2021 Ford Bronco - Complete Look At The New Bronco
--   Soundsperale - Heartbeat Tonight (Chunkee Intro Remix) | Video Edit Soundeo
--   fly skirt wind loves street dancing Dance planet
--   No panties. Pair Dance on OpenAir Russian Dance World
--   Duran Duran - "Do You Believe In Shame" (Official Music Video)
--   Fights over everything from clothing to men. Gossip comes before work until business collapses. Better Bachelor
--   ALBERT ONE - TURBO DIESEL
--   Jennifer Rush - Wings Of Desire (Live on Peters Popshow 02.12.1989) JRM Nation
--   Leona Lewis - Run (Official Video)
--   Madonna - Frozen (Official Music Video)
--   Peter Gabriel - Secret World, live
--   Touch & Go - Straight To Number One (lyrics)
--   Lauren Christy - The Color of the Night RadioUtopia Video Creations
--   Goldfrapp - Ride A White Horse
--   Awesome Alita Cosplay Six622 Compilation Fanboys Online
--   💖💖💖Grace Jones and Dolph Lundgren: In Their Own Words 🇺🇲🇯🇲🇸🇪 Petal Pusher Fan Videos
--   Grace Jones "La Vie en Rose" | Vamos a ver TVN
--   Kiesza - All Of The Feelings (Isolation Video)
--   Yello - Waba Duba (Official Video)
--   The Black Eyed Peas - Don't Phunk With My Heart (Official Music Video)
--   The KLF - 3AM Eternal 1991
--   Scenes from Tinto Brass 'All Ladies Do It' 1992 erotic film... ft. Loverman 'Coming and Going' TRAC!
--   Chusul Village Shreyas Macwan
--   The Silence of the Lambs (9/12) Movie CLIP - Screaming Lambs (1991) HD
--   Sex in Fashion With Andrew Richardson (Full Documentary) VFILES
--   Stefania Peter Coulson
--   Snowpiercer But It's Only The Train Scenes Internet's Intentions
--   Parov Stelar - Demon Dance (Official Video)
--   Sofía rocks the Cenotes Daan Verhoeven
--   MSKFest 2017 - Sara Panero (Spain) Oksana Nikonova
--   Kovacs - My Love
--   Lipps, Inc. " How Long " ( Album Version ) Clasicos de la Disco
--   ANIA - brown pumps 13.5 cm and dam
--   Cock Robin - The Promise You Made (Official Video)
--   Cerrone - Give Me Love (Official Video)
--   7 Seconds Away ~Youssou N'Dour & Neneh Cherry~
--   Vamos a ver - Grace Jones: Fame (1982) | Buenos días a todos
--   UNDREAM - Freak (feat. Silent Child & Hannabelle) (lyrics) MrSuicideSheep
--   Roberto Carlos (Dueto com Fafá de Belém) - Se você quer (Ao Vivo) (Andy Rick Remaster)
--   Bryan Ferry - Slave To Love [Official]
--   Grace Jones - I've Seen That Face Before (Libertango) [Official Video]
--   Pulp Fiction - Dance Scene (HQ) manetaki
--   The Korgis - Everybody's Got To Learn Sometime youcallisto
--   Grace Jones - La vie en rose (12'' Version - Andy Rick Video Edition) VJ Andy Rick
--   Up Close and Personal • Because You Loved Me • Celine Dion
--   Beach Boys - California Dreaming
--   California Dreaming - Faye Wong in Chungking Express vistavizion
--   Why does Japan work so hard? | CNBC Explains
--   Oh ! My Goodness - Shirley Temple Damien Chemillé
--   Forrest Gump finds out he has a son. Kid In The Front Row
--   How Drones Could Change The Shipping Industry CNBC
--   Best 5 Minutes 'Total Recall' 1990 hoffthehook
--   Celebrate the Life and Music of Israel "IZ" Kamakawiwo`ole OFFICIAL VIDEO Mountain Apple Company Inc
--   George Soros VS Modi | Exposing OSF | #NarendraModi is not for sale! String
--   Abhijeet Sawant - Junoon SonyMusicIndiaVEVO
--   STONE BREAD | CAAK | KORNO | Balochistan Food | EP-02 | Balochistan: Land of Beauty
--   One And One - Robert Miles feat. Maria Nayler (video edit with lyric) Miko Tyo
--   ہمارا بلوچستان پیارا بلوچستان Saiyah Travel
--   नेत्रहीनों के लिए स्मार्ट चश्मे | Smart Goggles For Blind | मुंबई | Mumbai HISTORY TV18
--   Sia - Alive
--   Double Dhamaal - Office rent not paid - Comedy Scene Reliance Entertainment
--   Dad Steals Show At Jain Gay Wedding 🌈 Brut India
--   The Pursuit Of Happyness - Ending scene [HD] Ciprian Vatamanu
--   Sia - Snowman (Music video) WomensNetworq
--   Elon Musk depressed because he knows he will die before going to Mars. 😔 DxsPro
--   "Sometimes the world doesn't need another hero, sometimes what it needs is a monster." Bendis Nix
--   THE KING’S MAN | OFFICIAL TRAILER | IN THEATERS SEPTEMBER 18 20th Century Studios
--   Attack Drones : Oblivion RAZR
--   New Robot Makes Soldiers Obsolete (Corridor Digital) Corridor
--   Asli Gully Boy - Kitna Paisa Khaayega [Official Video] | Salil Jamdar & Co.
--   Santone Family Pool Construction Time Lapse Mike Farley SWD ASLA
--   Steve Winwood - Higher Love (Official Video)
--   The Animals - House of the Rising Sun (1964) HQ/Widescreen ♫♥ 56 YEARS AGO The Animals Tribute Channel
 -   Queen - Radio Ga Ga (Live Aid 1985)
 -   Get It On - Bang A Gong ( T.Rex/Marc Bolan ) Marcus Nimbler Marcus Nimbler
 -   GoPro Fusion 360VR wingsuit Rodeo Jeb Corliss 360°
@@ -479,7 +383,6 @@ hatka| ISD India Speaks Daily
 -   Willie Nelson - A Woman's Love
 -   “Someone you loved” (Cover, Lewis Capaldi) studio version by Lauren Spencer-Smith
 -   Mean Mary on fast banjo - Iron Horse
--   Bryan Ferry - Slave To Love 1985 (HQ, Angel Casas Show)
 -   Interview with a programmer - Veroon Budhai pt1 Fredrik Christenson
 -   Romeo Void - Never Say Never (Official Video)
 -   The Temper Trap - Love Lost [Official Video HD] Time Records
@@ -545,7 +448,6 @@ hatka| ISD India Speaks Daily
 -   HELEN REDDY You're My World daveinprogress3
 -   Haley Reinhart & Casey Abrams "Time of the Season" Idyllwild Arts #JazzInThePines 2018 HaleysTusk
 -   Marie Laforet - Mon Amour, Mon Ami 1967 NoMadU55555
--   Cock Robin - When Your Heart Is Weak (Official Video)
 -   Earth, Wind & Fire ~ After The Love Has Gone 1979 Soul Purrfection Version DJDiscoCat
 -   Pop Tops - Mamy Blue 1971 (High Quality) NoMadU55555
 -   Daryl Hall & John Oates - Out Of Touch (Official HD Video)
@@ -560,68 +462,6 @@ hatka| ISD India Speaks Daily
 -   Munir Niazi Ghazal | Sapne Ki Bhi Had Thi Aakhir | | Sad Urdu Poetry | Urdu Adab |
 -   Main Paishawar Faraibi Hoon , Mohabbat Kar Nahe Sakta | Urdu Poetry Ghazal
 -   O Re Piya | Tanya Wells | Seven Eyes Band | Jashn-e-Rekhta 4th Edition 2017
--   Impossible love - moving statue in Georgia by @sweetvitamea
--   FM-84 - Running In The Night (feat. Ollie Wride) - [OFFICIAL MUSIC VIDEO] NewRetroWave
--   G-Eazy & Halsey - Him & I (Official Music Video)
--   Jan Hammer - Crockett's Theme (live by Kebu @ Dynamo) Kebu
--   Daniel Boone - Beautiful Sunday 1972 fritz51323
--   Bardotka ślubna Rzeszów - bielizna, piękno, moda i uroda Paryżanka
--   Perturbator - Venger ft. Greta Link [Music Video - Official]
--   Bluesin' around Tash Wolf
--   Oumi Janta Skater Girl from Berlin with Music Zenith
--   SLIFT - Ummon (Live on KEXP)
--   Colour Castle - Love Addict (Miguel Campbell Remix) (INFINITY) #enjoybeauty Infinity by VideoHUB
--   Studio B - 'I See Girls' (Official Video) Ministry of Sound
--   Yello Mean Monday (extended) Destrunator
--   Bill Haley & His Comets - Rock Around The Clock (OST, 1956) Valer ka
--   Tove Lo - True Disaster (Part of Fairy Dust)
--   Scooter - The Logical Song (Official Video)
--   Gold Hill, Shaftesbury, England - above, on and below the famous hill Elodian
--   Fly Project - So High | Official Lyric Video
--   2021 Ford Bronco - Complete Look At The New Bronco
--   Soundsperale - Heartbeat Tonight (Chunkee Intro Remix) | Video Edit Soundeo
--   Duran Duran - "Do You Believe In Shame" (Official Music Video)
--   ALBERT ONE - TURBO DIESEL
--   Jennifer Rush - Wings Of Desire (Live on Peters Popshow 02.12.1989) JRM Nation
--   Leona Lewis - Run (Official Video)
--   Madonna - Frozen (Official Music Video)
--   Peter Gabriel - Secret World, live
--   Touch & Go - Straight To Number One (lyrics)
--   Lauren Christy - The Color of the Night RadioUtopia Video Creations
--   Goldfrapp - Ride A White Horse
--   Awesome Alita Cosplay Six622 Compilation Fanboys Online
--   💖💖💖Grace Jones and Dolph Lundgren: In Their Own Words 🇺🇲🇯🇲🇸🇪 Petal Pusher Fan Videos
--   Grace Jones "La Vie en Rose" | Vamos a ver TVN
--   Kiesza - All Of The Feelings (Isolation Video)
--   Yello - Waba Duba (Official Video)
--   The Black Eyed Peas - Don't Phunk With My Heart (Official Music Video)
--   The KLF - 3AM Eternal 1991
--   Scenes from Tinto Brass 'All Ladies Do It' 1992 erotic film... ft. Loverman 'Coming and Going' TRAC!
--   Stefania Peter Coulson
--   Parov Stelar - Demon Dance (Official Video)
--   Sofía rocks the Cenotes Daan Verhoeven
--   MSKFest 2017 - Sara Panero (Spain) Oksana Nikonova
--   Kovacs - My Love
--   Lipps, Inc. " How Long " ( Album Version ) Clasicos de la Disco
--   ANIA - brown pumps 13.5 cm and dam
--   Cock Robin - The Promise You Made (Official Video)
--   Cerrone - Give Me Love (Official Video)
--   7 Seconds Away ~Youssou N'Dour & Neneh Cherry~
--   Vamos a ver - Grace Jones: Fame (1982) | Buenos días a todos
--   UNDREAM - Freak (feat. Silent Child & Hannabelle) (lyrics) MrSuicideSheep
--   Roberto Carlos (Dueto com Fafá de Belém) - Se você quer (Ao Vivo) (Andy Rick Remaster)
--   Bryan Ferry - Slave To Love [Official]
--   Grace Jones - I've Seen That Face Before (Libertango) [Official Video]
--   Gnarls Barkley - Crazy hektopascal1013
--   The Korgis - Everybody's Got To Learn Sometime youcallisto
--   Grace Jones - La vie en rose (12'' Version - Andy Rick Video Edition) VJ Andy Rick
--   Up Close and Personal • Because You Loved Me • Celine Dion
--   Oh ! My Goodness - Shirley Temple Damien Chemillé
--   One And One - Robert Miles feat. Maria Nayler (video edit with lyric) Miko Tyo
--   Sia - Alive
--   Sia - Snowman (Music video) WomensNetworq
--   Steve Winwood - Higher Love (Official Video)
--   The Animals - House of the Rising Sun (1964) HQ/Widescreen ♫♥ 56 YEARS AGO The Animals Tribute Channel
 -   Queen - Radio Ga Ga (Live Aid 1985)
 -   Get It On - Bang A Gong ( T.Rex/Marc Bolan ) Marcus Nimbler Marcus Nimbler
 -   EMF - Unbelievable (Official Music Video) HD EMFtheband
@@ -788,7 +628,6 @@ hatka| ISD India Speaks Daily
 -   Tracy Chapman - Talkin' About A Revolution (Official Music Video)
 -   kumar gandharva in his childhood performance Ajaysahumirchonia Kumar
 -   Jamuna kinaray mora gaon - Prabha Atre Naveed Siraj
--   "Crazy" (Gnarls Barkley) - Angela Ricci
 -   Vaya Con Dios - Heading For A Fall YouMoreTv - Espectáculo
 -   Tony Braxton - Suddenly
 -   polyphonic overtone singing - Anna-Maria Hefele
@@ -823,7 +662,6 @@ hatka| ISD India Speaks Daily
 -   Tune O Rangile | तूने ओ रंगीले | Lata Mangeshkar| Sarrika Singh Live | Kudrat (1981) | Old is Gold |
 -   aye dil e naadan
 -   JALTA HAI BADAN LATA JI MOVIE RAZIA SULTANA
--   Joan Baez ~ House Of The Rising Sun
 -   Sandra Dee & Bobby Darin-Dream Lover
 -   Spencer Davis Group -- (1965) Keep on Running [High Quality Sound, Subtitled] Орлин Вълчев
 -   Dionne Warwick "I'll Never Love This Way Again" (ORIGINAL) Jude Pathrose
@@ -1000,7 +838,6 @@ hatka| ISD India Speaks Daily
 -   Willie Nelson - A Woman's Love
 -   “Someone you loved” (Cover, Lewis Capaldi) studio version by Lauren Spencer-Smith
 -   Mean Mary on fast banjo - Iron Horse
--   Bryan Ferry - Slave To Love 1985 (HQ, Angel Casas Show)
 -   Interview with a programmer - Veroon Budhai pt1 Fredrik Christenson
 -   Romeo Void - Never Say Never (Official Video)
 -   The Temper Trap - Love Lost [Official Video HD] Time Records
@@ -1066,7 +903,6 @@ hatka| ISD India Speaks Daily
 -   HELEN REDDY You're My World daveinprogress3
 -   Haley Reinhart & Casey Abrams "Time of the Season" Idyllwild Arts #JazzInThePines 2018 HaleysTusk
 -   Marie Laforet - Mon Amour, Mon Ami 1967 NoMadU55555
--   Cock Robin - When Your Heart Is Weak (Official Video)
 -   Earth, Wind & Fire ~ After The Love Has Gone 1979 Soul Purrfection Version DJDiscoCat
 -   Pop Tops - Mamy Blue 1971 (High Quality) NoMadU55555
 -   Daryl Hall & John Oates - Out Of Touch (Official HD Video)
@@ -1085,107 +921,6 @@ hatka| ISD India Speaks Daily
 -   Indirect lighting: Plaster mouldings and cove lighting with LED strips and Corner
 -   Outside, when the -48 degrees. Yakutsk. 06/02/2014 当街道霜冻-48 度 Taramaan
 -   Vidyut Jammwal goes Junglee with this epic gym prank. Must watch! - STAR GOLD Cheese & Crackers
--   Impossible love - moving statue in Georgia by @sweetvitamea
--   FM-84 - Running In The Night (feat. Ollie Wride) - [OFFICIAL MUSIC VIDEO] NewRetroWave
--   Emergency // LOL ComediHa!
--   G-Eazy & Halsey - Him & I (Official Music Video)
--   Tum Mera Naam Kyun Nahi Leti | Jaun Elia Best Poetry | Urdu Poetry Status | Whatsapp shayri Majlis e Adab Production
--   chikmagalur monsoon road trip 2019 | chikmagalur | Kudremukh | udupi | varanga Travel Therapy
--   Jan Hammer - Crockett's Theme (live by Kebu @ Dynamo) Kebu
--   Daniel Boone - Beautiful Sunday 1972 fritz51323
--   Bardotka ślubna Rzeszów - bielizna, piękno, moda i uroda Paryżanka
--   Perturbator - Venger ft. Greta Link [Music Video - Official]
--   Bluesin' around Tash Wolf
--   Oumi Janta Skater Girl from Berlin with Music Zenith
--   SLIFT - Ummon (Live on KEXP)
--   Colour Castle - Love Addict (Miguel Campbell Remix) (INFINITY) #enjoybeauty Infinity by VideoHUB
--   Studio B - 'I See Girls' (Official Video) Ministry of Sound
--   Yello Mean Monday (extended) Destrunator
--   Boston Dynamics' amazing robots Atlas and Handle AwesomeTech
--   Bill Haley & His Comets - Rock Around The Clock (OST, 1956) Valer ka
--   Tove Lo - True Disaster (Part of Fairy Dust)
--   Scooter - The Logical Song (Official Video)
--   Gold Hill, Shaftesbury, England - above, on and below the famous hill Elodian
--   Fly Project - So High | Official Lyric Video
--   2021 Ford Bronco - Complete Look At The New Bronco
--   Soundsperale - Heartbeat Tonight (Chunkee Intro Remix) | Video Edit Soundeo
--   Unboxing: Sony Xperia 1 II Sony Europe
--   fly skirt wind loves street dancing Dance planet
--   No panties. Pair Dance on OpenAir Russian Dance World
--   Duran Duran - "Do You Believe In Shame" (Official Music Video)
--   Fights over everything from clothing to men. Gossip comes before work until business collapses. Better Bachelor
--   ALBERT ONE - TURBO DIESEL
--   Jennifer Rush - Wings Of Desire (Live on Peters Popshow 02.12.1989) JRM Nation
--   Leona Lewis - Run (Official Video)
--   Madonna - Frozen (Official Music Video)
--   Peter Gabriel - Secret World, live
--   Touch & Go - Straight To Number One (lyrics)
--   Lauren Christy - The Color of the Night RadioUtopia Video Creations
--   Goldfrapp - Ride A White Horse
--   Awesome Alita Cosplay Six622 Compilation Fanboys Online
--   💖💖💖Grace Jones and Dolph Lundgren: In Their Own Words 🇺🇲🇯🇲🇸🇪 Petal Pusher Fan Videos
--   Grace Jones "La Vie en Rose" | Vamos a ver TVN
--   Kiesza - All Of The Feelings (Isolation Video)
--   Yello - Waba Duba (Official Video)
--   The Black Eyed Peas - Don't Phunk With My Heart (Official Music Video)
--   The KLF - 3AM Eternal 1991
--   Scenes from Tinto Brass 'All Ladies Do It' 1992 erotic film... ft. Loverman 'Coming and Going' TRAC!
--   Chusul Village Shreyas Macwan
--   The Silence of the Lambs (9/12) Movie CLIP - Screaming Lambs (1991) HD
--   Sex in Fashion With Andrew Richardson (Full Documentary) VFILES
--   Stefania Peter Coulson
--   Snowpiercer But It's Only The Train Scenes Internet's Intentions
--   Parov Stelar - Demon Dance (Official Video)
--   Sofía rocks the Cenotes Daan Verhoeven
--   MSKFest 2017 - Sara Panero (Spain) Oksana Nikonova
--   Kovacs - My Love
--   Lipps, Inc. " How Long " ( Album Version ) Clasicos de la Disco
--   ANIA - brown pumps 13.5 cm and dam
--   Cock Robin - The Promise You Made (Official Video)
--   Cerrone - Give Me Love (Official Video)
--   7 Seconds Away ~Youssou N'Dour & Neneh Cherry~
--   Vamos a ver - Grace Jones: Fame (1982) | Buenos días a todos
--   UNDREAM - Freak (feat. Silent Child & Hannabelle) (lyrics) MrSuicideSheep
--   The Newsroom - America is not the greatest country in the world anymore. (explicit) Mike Phillips
--   Roberto Carlos (Dueto com Fafá de Belém) - Se você quer (Ao Vivo) (Andy Rick Remaster)
--   Bryan Ferry - Slave To Love [Official]
--   Grace Jones - I've Seen That Face Before (Libertango) [Official Video]
--   Pulp Fiction - Dance Scene (HQ) manetaki
--   जौन एलिया शायरी - दर्द की अँधेरी गलियों में | Jaun Elia Poetry in Dark Streets of Pain | Urdu/Hindi Bazmital
--   Gnarls Barkley - Crazy hektopascal1013
--   The Korgis - Everybody's Got To Learn Sometime youcallisto
--   Grace Jones - La vie en rose (12'' Version - Andy Rick Video Edition) VJ Andy Rick
--   An Enlightened Being Has More Karma Than Others!! Sadhguru
--   Irene Cara - What A Feeling
--   Up Close and Personal • Because You Loved Me • Celine Dion
--	Beach Boys - California Dreaming
--   California Dreaming - Faye Wong in Chungking Express vistavizion
--   Why does Japan work so hard? | CNBC Explains
--   Oh ! My Goodness - Shirley Temple Damien Chemillé
--   Beauty of Balochistan Beautiful Pakistan
--   Forrest Gump finds out he has a son. Kid In The Front Row
--   How Drones Could Change The Shipping Industry CNBC
--   Best 5 Minutes 'Total Recall' 1990 hoffthehook
--   Celebrate the Life and Music of Israel "IZ" Kamakawiwo`ole OFFICIAL VIDEO Mountain Apple Company Inc
--   Abhijeet Sawant - Junoon SonyMusicIndiaVEVO
--   One And One - Robert Miles feat. Maria Nayler (video edit with lyric) Miko Tyo
--   ہمارا بلوچستان پیارا بلوچستان Saiyah Travel
--   Living In The Burj Khalifa | $1,400,000 Liam Jeffrey
--   Sia - Alive
--   Double Dhamaal - Office rent not paid - Comedy Scene Reliance Entertainment
--   Dad Steals Show At Jain Gay Wedding 🌈 Brut India
--   Sia - Snowman (Music video) WomensNetworq
--   Vazirani Shul: India's First Electric Hypercar | AskMen India
--   Elon Musk depressed because he knows he will die before going to Mars. 😔 DxsPro
--   "Sometimes the world doesn't need another hero, sometimes what it needs is a monster." Bendis Nix
--   THE KING’S MAN | OFFICIAL TRAILER | IN THEATERS SEPTEMBER 18 20th Century Studios
--   Attack Drones : Oblivion RAZR
--   New Robot Makes Soldiers Obsolete (Corridor Digital) Corridor
--   Bertha Benz: The Journey That Changed Everything Mercedes-Benz
--   Asli Gully Boy - Kitna Paisa Khaayega [Official Video] | Salil Jamdar & Co.
--   Santone Family Pool Construction Time Lapse Mike Farley SWD ASLA
--   Steve Winwood - Higher Love (Official Video)
--   The Animals - House of the Rising Sun (1964) HQ/Widescreen ♫♥ 56 YEARS AGO The Animals Tribute Channel
 -   Queen - Radio Ga Ga (Live Aid 1985)
 -   Ultimate Garden Room: Shower & Toilet - Open Plan Kitchen & Lounge - Surrey, UK - REF: 5441 Bakers Timber Buildings
 -   Get It On - Bang A Gong ( T.Rex/Marc Bolan ) Marcus Nimbler Marcus Nimbler
@@ -1410,7 +1145,6 @@ hatka| ISD India Speaks Daily
 -   Tracy Chapman - Talkin' About A Revolution (Official Music Video)
 -   kumar gandharva in his childhood performance Ajaysahumirchonia Kumar
 -   Jamuna kinaray mora gaon - Prabha Atre Naveed Siraj
--   "Crazy" (Gnarls Barkley) - Angela Ricci
 -   Vaya Con Dios - Heading For A Fall YouMoreTv - Espectáculo
 -   Tony Braxton - Suddenly
 -   polyphonic overtone singing - Anna-Maria Hefele
@@ -1595,7 +1329,6 @@ hatka| ISD India Speaks Daily
 -   Willie Nelson - A Woman's Love
 -   “Someone you loved” (Cover, Lewis Capaldi) studio version by Lauren Spencer-Smith
 -   Mean Mary on fast banjo - Iron Horse
--   Bryan Ferry - Slave To Love 1985 (HQ, Angel Casas Show)
 -   Interview with a programmer - Veroon Budhai pt1 Fredrik Christenson
 -   Romeo Void - Never Say Never (Official Video)
 -   The Temper Trap - Love Lost [Official Video HD] Time Records
@@ -1661,7 +1394,6 @@ hatka| ISD India Speaks Daily
 -   HELEN REDDY You're My World daveinprogress3
 -   Haley Reinhart & Casey Abrams "Time of the Season" Idyllwild Arts #JazzInThePines 2018 HaleysTusk
 -   Marie Laforet - Mon Amour, Mon Ami 1967 NoMadU55555
--   Cock Robin - When Your Heart Is Weak (Official Video)
 -   Earth, Wind & Fire ~ After The Love Has Gone 1979 Soul Purrfection Version DJDiscoCat
 -   Pop Tops - Mamy Blue 1971 (High Quality) NoMadU55555
 -   Daryl Hall & John Oates - Out Of Touch (Official HD Video)
@@ -1694,6 +1426,8 @@ hatka| ISD India Speaks Daily
 	-	Sirius Eye In The Sky
 -	Alan Walker
 	-	Faded
+-	ALBERT ONE
+	-	TURBO DIESEL
 -	Aldous Huxley and Brave New World
 	-	The Dark Side of Pleasure
 -   Alex Blue
@@ -1757,6 +1491,8 @@ hatka| ISD India Speaks Daily
 	-	Into The Night - 1980
 -	Beth Hart
 	-	Your Heart Is As Black As Night
+-	Bill Haley & His Comets
+	-	Rock Around The Clock
 -   Billy Idol
     -   Rebel Yell
 -   Billy Joel
@@ -1831,8 +1567,14 @@ hatka| ISD India Speaks Daily
 	-	Talk Talk
 -	Captain Hollywood Project
 	-	More and More
+-	Celine Dion
+	-	Because You Loved Me
+	-	I'm alive
+	-	A new day has come
 -	Cemeteries
 	-	Sodus
+-	Cerrone
+	-	Give Me Love
 -   Chaka Khan
     -   Ain't Nobody
 	-	Like Sugar
@@ -1876,6 +1618,8 @@ hatka| ISD India Speaks Daily
 -	Coldplay
 	-	Daddy
 	-   Hymn For The Weekend
+-	Colour Castle
+	-	Love Addict
 -   Commodores
     -   Nightshift
 -	Concrete Blonde
@@ -1898,6 +1642,8 @@ hatka| ISD India Speaks Daily
     -   Come Again
 -	Dan Fogelberg
 	-	Rhythm Of The Rain
+-	Daniel Boone
+	-	Beautiful Sunday
 -	Don Henley
 	-	The Last Worthless Evening
 	-	Take A Picture Of This
@@ -1924,6 +1670,8 @@ hatka| ISD India Speaks Daily
 -	Depeche Mode
 	-	A Pain That I'm Used To
 	-	Freelove
+-	Destrunator
+	-	Yello Mean Monday
 -   Detroit Blues Band
 	-	Tears From My Eyes Red Grey Matter
 -	Diana King
@@ -1957,6 +1705,7 @@ hatka| ISD India Speaks Daily
 	-	Ocean Drive
 -	Duran Duran
 	-	Come Undone
+	-	Do You Believe In Shame
 -	E-rotic
 	-	Fred Come To Bed
 -	Eagle-Eye Cherry
@@ -2037,6 +1786,10 @@ hatka| ISD India Speaks Daily
 	-	Little Lies
 -	Flipsyde
 	-	Someday
+-	Fly Project
+	-	So High
+-	FM-84
+	-	Running In The Night (feat. Ollie Wride)
 -	Foreigner
 	-	I want to know what love is
 -	Forest Swords
@@ -2045,6 +1798,8 @@ hatka| ISD India Speaks Daily
     -   Jealousy
 -	Future Islands
 	-	Like the Moon
+-	G-Eazy & Halsey
+	-	Him & I
 -	Gary Moore
 	-	Nothing s the same
 -   Gazebo
@@ -2078,6 +1833,9 @@ hatka| ISD India Speaks Daily
     -   Iris
 -	Grace Jones
 	-	I've Seen That Face Before
+	-	La Vie en Rose
+	-	Vamos a ver
+	-	Fame
 -	Gregg Giarelis
 	-	Five Years Of Trouble
 -   Greg Kihn Band
@@ -2157,6 +1915,8 @@ hatka| ISD India Speaks Daily
     -   From Paris To Berlin
 -	INXS
 	-	Never Tear Us Apart
+-	Irene Cara
+	-	What A Feeling
 -   Iron Maiden
 	–	The Writing On The Wall
 -	Isak Danielson
@@ -2174,6 +1934,8 @@ hatka| ISD India Speaks Daily
 	-	Hold Back The River
 -	James Last
 	-	Mamy Blue
+-   Jan Hammer
+	-	Crockett's Theme (live by Kebu @ Dynamo)
 -	Janiva Magness
 	-	You Were Never Mine
 -	Jason Donovan
@@ -2182,6 +1944,7 @@ hatka| ISD India Speaks Daily
     -   CRUSH
 -   Jennifer Rush
     -   The Power Of Love
+	-	Wings Of Desire
 -   Jessie Ware
     -   What’s Your Pleasure?
 	-	You & I (Forever)
@@ -2242,6 +2005,8 @@ hatka| ISD India Speaks Daily
 	-   The Walls Of The World DramaticoMusic
 -   Ken Laszlo
     -   Hey Hey Guy
+-	Kiesza
+	-	All Of The Feelings
 -   Kiss
     -   I Was Made For Lovin' You
 -   Kix
@@ -2254,6 +2019,8 @@ hatka| ISD India Speaks Daily
     -   I Miss You
 -   Kool & The Gang
     -   Fresh
+-	Kovacs
+	-	My Love
 -   Kungs vs Cookin’ on 3 Burners
     -   This Girl
 -	Kygo & Whitney Houston
@@ -2281,6 +2048,8 @@ hatka| ISD India Speaks Daily
 	-	Scream Drive Faster
 -	Lauren
 	-	Men I Trust
+-	Lauren Christy
+	-	The Color of the Night
 -	Lauren Daigle
 	-	You Say
 -   Lauri
@@ -2323,6 +2092,8 @@ hatka| ISD India Speaks Daily
     -   One More Light
     -   FRGT/10
     -   My December
+-	Lipps, Inc.
+	-	How Long
 -   Lisa Fischer
     -   How Can I Ease The Pain
 -   Live
@@ -2380,6 +2151,8 @@ hatka| ISD India Speaks Daily
     -   Request Line
 -	Mad World Remix of Moby Video
 	-	Are You Lost In The World Like Me
+-	Madonna
+	-	Papa Don't Preach
 -   Magnum
     -   Days of no trust
 -   Malcolm X
@@ -2530,6 +2303,8 @@ hatka| ISD India Speaks Daily
 	-	Live Well
 -	Paloma Faith
 	-	Only Love Can Hurt Like This
+-	Parov Stelar
+	-	Demon Dance
 -	Passenger
 	-	Let Her Go
 -	Pat Benatar
@@ -2549,6 +2324,8 @@ hatka| ISD India Speaks Daily
 	-	Love Makes Things Happen
 -	Peppino di Capri
 	-	Don't play that song
+-   Perturbator
+	-	Venger ft. Greta Link
 -   Pet Shop Boys
     -   Go West
 	-	West End Girls
@@ -2611,10 +2388,14 @@ hatka| ISD India Speaks Daily
 	-	Walk Like A Panther
 -   Righteous Brothers
     -   Unchained Melody
+-	Robert Miles feat. Maria Nayler
+	-	One And One
 -   Robert Palmer
     -   Addicted To Love
 -	Robert Parker
 	-	'85 Again (feat. Miss K) Club dancers
+-   Roberto Carlos (Dueto com Fafá de Belém)
+	-	Se você quer (Ao Vivo)
 -   Robbie Williams
     -   Feel
 -	ROBIN GIBB
@@ -2671,6 +2452,8 @@ hatka| ISD India Speaks Daily
 	-	You're My Chocolate
 -	Scarface
 	-	Push It To The Limit
+-	Scooter
+	-	The Logical Song
 -   Scorpions
     -   Always somewhere
 	-	No One Like You
@@ -2713,6 +2496,8 @@ hatka| ISD India Speaks Daily
 -	Sia
 	-	Move Your Body
 	-	We Can Hurt Together
+	-	Alive
+	-	Snowman
 -   Sinéad O'Connor
     -   Nothing Compares 2 U
     -   The Wolf Is Getting Married
@@ -2723,6 +2508,8 @@ hatka| ISD India Speaks Daily
 	-	The Sound Of Silence
 -	Slider & Magnit
 	-	Morze
+-	SLIFT
+	-	Ummon
 -   Slowdive
     -   Sugar for the Pill
 -   Snakehips
@@ -2748,6 +2535,8 @@ hatka| ISD India Speaks Daily
 	-	Love Juliet
 -	Sound of Eden
 	-	Shades Of Rhythm
+-   Soundsperale
+	-	Heartbeat Tonight
 -   Steve Winwood
     -   Arc Of A Diver
 	-	Back In The High Life Again
@@ -2756,8 +2545,8 @@ hatka| ISD India Speaks Daily
 -   Sting
     -   Desert Rose
     -   It's Probably Me
--	The Stylistics
-	-	You Make Me Feel Brand New
+-	Studio B
+	-	I See Girls
 -	Sunday (1994) 
 	-	Tired Boy 
 -	Sunscreem
@@ -2816,6 +2605,8 @@ hatka| ISD India Speaks Daily
 -   The 1975
     -   Somebody Else (https://youtu.be/U9NEoHrkldM)
     -   Robbers
+-	The Animals
+	-	House of the Rising Sun
 -	The Art of Noise with Max Headroom
 	-	Paranoimia
 -   The Bangles
@@ -2823,8 +2614,8 @@ hatka| ISD India Speaks Daily
     -   Walk Like an Egyptian
 -   The Beloved
     -   Sweet Harmony
--   The Beloved
-    -   Sweet Harmony
+-	The Black Eyed Peas
+	-	Don't Phunk With My Heart
 -   The Blaze
     -   TERRITORY
 -   The Blue Stones
@@ -2854,6 +2645,10 @@ hatka| ISD India Speaks Daily
 	-	Make It Real
 -	The Journeymen
 	-	500 miles
+-	The KLF
+	-	3AM Eternal
+-	The Korgis
+	-	Everybody's Got To Learn
 -   The Marías
     -   I Don't Know You
     -   Baby One More Time
@@ -2873,6 +2668,8 @@ hatka| ISD India Speaks Daily
 	-	The Finest 1986
 -	The Stranglers
 	-	Always The Sun
+-	The Stylistics
+	-	You Make Me Feel Brand New
 -   The Tony Rich Project
 	-	Nobody Knows
 -	The Traveling Wilburys
@@ -2885,6 +2682,8 @@ hatka| ISD India Speaks Daily
     -   Starboy
 	-   Blinding Lights
 	-	Pray For Me (Kendrick Lamar)
+-	Tiësto ft. BT
+	-	Love Comes Again
 -   Tiffany
     -   All This Time
 -	Til Tuesday
@@ -2906,6 +2705,8 @@ hatka| ISD India Speaks Daily
 -	Touch & Go
 	-	Straight To Number One
 	-	Would You Go To Bed With Me Kane Whitlie
+-	Tove Lo
+	-	True Disaster
 -	Tracy Chapman
 	-	Fast car
 -   Train
@@ -2931,6 +2732,8 @@ hatka| ISD India Speaks Daily
     -   Summer of Love
 	-	Miss Sarajevo
 	-	Song for someone
+-	UNDREAM
+	-	Freak (feat. Silent Child & Hannabelle)
 -	UNKLE
 	-	Rabbit In Your Headlights
 -	URIAH HEEP
@@ -2956,12 +2759,16 @@ hatka| ISD India Speaks Daily
 	-	Can't Get Enough
 -	Winona Oak
 	-	Control
+-	Yello
+	-	Waba Duba
 -	Yellow House
 	-	Ain’t Gonna Call alona chemerys
 -	Yes
 	-	Owner Of a Lonely Heart
 -	Young Hunting
 	-	Sweet Bird
+-	Youssou N'Dour & Neneh Cherry
+	-	7 Seconds Away
 -	Zella Day
 	-	You Sexy Thing
 -   ZHU
