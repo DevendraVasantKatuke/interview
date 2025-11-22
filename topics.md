@@ -6,6 +6,8 @@
 	-	http://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
 	-	Daily Javascript Lessons https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMbcbZGQPJc20dkbswRr3Il
 	-	Javascript top 500 Interview Questions https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv
+	-	Just JavaScript https://www.youtube.com/playlist?list=PL_L_J_Lv0U2r6AV7Q9CfI8JgRAxIv4Yvk
+	-	JavaScript Decorators https://www.youtube.com/playlist?list=PL_L_J_Lv0U2pVE0kO1RiYId_SISfUXa-c
 	-	https://exploringjs.com/js/book/index.html
 	-	https://exploringjs.com/es5/toc.html
 	-	https://exploringjs.com/es6/index.html
@@ -325,6 +327,9 @@
 	-	Big O Notation https://youtu.be/4QdZAlZfqyY?si=90494qvdgBAVZsEk
 	-	Typescript DSA Course https://www.youtube.com/playlist?list=PLa72FipivD81DkPyKlsG99XAGVbnMfToV
 	-	JavaScript Algorithms and Data Structures https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
+	-	Intro to Data Structures https://www.youtube.com/playlist?list=PLGdfV5UgThVNvC0woabFLkK4gggNU5pak
+	-	Data Structures Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFAjpAItCWvIIJX68sav9-6N
+	-	Data Structure Visualizations https://www.youtube.com/playlist?list=PLlDftNlvPbFD8I9W4gFnMXYXiLqpVvsEB
 ## 1.2 Patterns
 	-	https://www.dofactory.com/javascript/design-patterns
 	-	https://www.dofactory.com/javascript
@@ -772,6 +777,11 @@
 	-	https://www.youtube.com/@sagaratytube/videos
 	-	System Design Interview https://www.youtube.com/playlist?list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE
 	-	https://www.youtube.com/@AsliEngineering
+	-	New Benchmarks https://www.youtube.com/playlist?list=PLiMWaCMwGJXmcDLvMQeORJ-j_jayKaLVn
+	-	https://www.youtube.com/@myakcoding/shorts
+	-	System Design Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFDHtcKPFUjHPgv-KfcAiUUp
+	-	System Design & Tips in 60 Seconds https://www.youtube.com/playlist?list=PLlDftNlvPbFAWTfmzLtyM3yZHFqpbA1A9
+	-	Distributed Systems https://www.youtube.com/playlist?list=PL4JxLacgYgqSwZIS6MQ2HBqypMp-GagEy
 	- How Instagram Handle BILLIONS of likes 11m https://youtu.be/4c9ChCSGIp0?si=1Lny4N1cflqNmPJk
 	- HTTP APIs Walkthrough (3) https://www.youtube.com/playlist?list=PL9nWRykSBSFivg7AyK8XjGa6I7wGEibqG
 	- System Design Topics to know for Software Interviews (17) https://www.youtube.com/playlist?list=PL9nWRykSBSFgkCmkYdEfmXHX71m1UybNL
@@ -1101,6 +1111,9 @@
 	-	Docker Tutorial https://www.youtube.com/playlist?list=PLQbmrL9zPupWRUtJhQIxttWN_G2VvjVRS
 	-	Docker Volume Explained | Complete Tutorial for Beginners (With Examples) https://youtu.be/vsE5BXC1FB8?si=mhlDQWzlke1tOKJD
 	-	Docker Compose Tutorial for Beginners | Ultimate Guide to Multi-Container Apps https://youtu.be/mqUUGNpRH4Q?si=dajhaxL8fnOX8vzk
+	-	Docker Tutorial for Beginners https://www.youtube.com/playlist?list=PLiMWaCMwGJXkB-toB7662AnwwYoauChMi
+	-	Docker Advance Tutorials May 2022 https://www.youtube.com/playlist?list=PL0xeHY_ImQVUgS2THWzVFy9YFBpQ5pbHd
+	-	Docker https://www.youtube.com/playlist?list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
 - Docker Tutorials https://youtube.com/playlist?list=PLYxzS__5yYQlzv9_z1eZmZY8dzMlQFbaH&si=R2bYtC5Xxe8puPhT
 - Docker Series https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3
 - Docker 13 Videos https://youtube.com/playlist?list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC&si=LL5FFnGvFMNnP7PT
@@ -1343,6 +1356,10 @@
 	-	Kubernetes Cluster Architecture | Master & Worker Node Tutorial https://www.youtube.com/playlist?list=PL2NZAYdLkYviE7B06At6INbSCsDSRX8Ya
 	-	Kubernetes and Container Tutorials https://www.youtube.com/playlist?list=PL5aURjJ6mdUedh8rPBXJ5w_ogdD9PM0D7
 	-	Q/A for Kubernetes DevOps Interview https://www.youtube.com/playlist?list=PL5aURjJ6mdUc7O6xrwnv96SrZ4DxF-8tZ
+	-	Kubernetes Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXmoKAmRh38U1-QEeh2dGEOX
+	-	100 Seconds of Code https://www.youtube.com/playlist?list=PLiMWaCMwGJXnjNhBQF-vR2Xqal0hN9U2-
+	-	Kubernetes Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXnHmccp2xlBENZ1xr4FpjXF
+	-	Kubernetes https://www.youtube.com/playlist?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
 - 2-Tier Application Deployment with Docker in One Video | Episode 2 https://youtu.be/LxPd81wiUP4?si=r5lIpL4V5Cx-Vvg-
 - Easiest Kubernetes Architecture and Cluster Setup (Kubeadm) For DevOps | Episode 3 https://youtu.be/oEGmaHSfcjQ?si=GWVqM8AaS5kBb4EB
 - Stop using Kubernetes Ingress Nginx Controller Today https://youtu.be/ExUGVIOrNbE?si=ZoLfASET2dox4KMH
@@ -1433,6 +1450,7 @@
 	-	How to Build and Deploy an app Helm Chart on Kubernetes Cluster with GitLab CI/CD https://youtu.be/qSbE7NOXm8U?si=dr792MY7Q2lhQl-G
 	-	Helm installation and commands Hindi | Lec-58 | Hands-on Helm | What is Helm in Kubernetes https://youtu.be/FpJpHWe3Va4?si=Mu5Cw0ykSWtAN3d1
 	-	Helm Zero to Hero: Master Kubernetes https://www.youtube.com/playlist?list=PLWgk5rA0QxeYeXvqjSeGLvtJAAh7Q5RiW
+	-	Helm 3 Tutorial https://www.youtube.com/playlist?list=PLiMWaCMwGJXn0ecHNxvUZesPotlxcw4v8
 ## 6. Tilt
 - https://tilt.dev/
 ## 7. Keda
@@ -1585,6 +1603,7 @@
 	-	Nodejs Tutorial for Microservice & Event based Applications https://www.youtube.com/playlist?list=PL2NZAYdLkYvhtSETbKLpWMRAsKeFUqm6x
 	-	Saga Pattern in Microservices https://www.youtube.com/playlist?list=PL8OSPVseT237U97Edy2LPCyh0_JPIomZz
 	-	microservices interview questions and answers https://www.youtube.com/playlist?list=PL8OSPVseT235PJiDqva9pgglMrJ8FZ3b8
+	-	Microservices https://www.youtube.com/playlist?list=PL4JxLacgYgqQd4RCELOV0pJl9SxjhWHkg
 - https://www.youtube.com/playlist?list=PLVz2XdJiJQxw0f6wXQCdWKabLdqSzGA0X
 - https://www.youtube.com/playlist?list=PL285LgYq_FoJQ4DIPO905bTu3Q1rbgajo
 - https://youtu.be/rzWwgmhtAyc?si=_IyPtWPB5jEAjDGD
@@ -1856,6 +1875,7 @@
 	-	Kafka For Data Engineers https://www.youtube.com/playlist?list=PLiDUHlGx0KN-26098WeTueuoXJfz4Ct2u
 	-	Kafka System Design | Full Course | Design & Architecture https://youtu.be/4TezK-w9_W0?si=yW13vYQllmqkuVUh
 	-	https://www.youtube.com/@kai-waehner/videos
+	-	Apache Kafka Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXlL8-E-xu8RBwyC5YfS3V5e
 ## 15.1 Pulsar
 	-	5 Minutes About Apache Pulsar https://www.youtube.com/playlist?list=PL2g2h-wyI4SqeKH16czlcQ5x4Q_z-X7_m
 	-	Learn Apache Pulsar https://www.youtube.com/playlist?list=PLWbrp-I4BRT-N1pC70w2EJa3ChFe3186j
@@ -1884,12 +1904,13 @@
 	-	Data Mesh and Data Domains Tutorials https://www.youtube.com/playlist?list=PLa7VYi0yPIH0L8ahQYbyBFkGc6a949-Lj
 	-	Kubernetes Service Mesh with Istio tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3NDPcHDII3kQh49qBnNO8td
 	-	Install Istio with istioctl on Kubernetes (Kind Setup + Namespace Injection Demo) https://youtu.be/wfAxK8b4KAo?si=ArGrqZtwpXzx89Wu
+	-	Envoy Istio https://www.youtube.com/playlist?list=PL0xeHY_ImQVVoPJAW95L02bF69s0HBXYn
 ## 17. Kurrent
 	-	https://docs.kurrent.io/
 	-	https://academy.kurrent.io/courses
 	-	https://www.kurrent.io/cqrs-pattern
 	-	http://www.youtube.com/@Kurrent_io
-## 18. ResolveJS
+## 18. CQRS
 - https://www.geeksforgeeks.org/dbms/event-sourcing-database-design-patterns/
 - https://github.com/leandrocp/awesome-cqrs-event-sourcing
 - file:///C:/Users/Devendra/Desktop/wolkenkit-brochure.pdf
@@ -1967,6 +1988,8 @@
 	-	Event Driven Programming https://www.youtube.com/playlist?list=PLTyWtrsGknYfu2rwM6aQ7Fy-1O0Xdstb1
 	-	Event Driven Design Vs Event Sourcing https://youtu.be/C471HVRetcQ?si=Njy2iVFQxjwMuj9G
 	-	Patterns of Event-Driven Architecture https://www.youtube.com/playlist?list=PLCOG9xkUD90LZsCgsbZ4ETY2pdfLewThP
+	-	Domain-Driven Design https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v
+	-	Intermediate-Advanced https://www.youtube.com/playlist?list=PLzYkqgWkHPKB-jd60fk_J7lZX65zovmSA
 Redis
 NestJS
 MongoDB
@@ -2162,6 +2185,7 @@ PostgresSQL
 	-	Linux Command Line https://www.youtube.com/playlist?list=PL_euSNU_eLbf4WuUV3kBSLE7bGR6GvRHq
 	-	Linux Command https://www.youtube.com/playlist?list=PL4y5PiOmBnA83IhbSvF2t1yJVG4qVd-yO
 	-	Practical Bash https://www.youtube.com/playlist?list=PLShDm2AZYnK1SdG3dufPdCqk08sOahUBP
+	-	TLS/SSL Certificates https://www.youtube.com/playlist?list=PLiMWaCMwGJXnEpr4MWzJuAJu2Np0jgsUf
 ## GIT, Github
 	-	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 	-	https://youtu.be/DtI90NVPDJE?si=dmKxAzkoOIA1mZy-
