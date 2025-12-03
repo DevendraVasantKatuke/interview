@@ -1,0 +1,301 @@
+- Introduction
+- Grammar and types
+- Control flow and error handling
+- Loops and iteration
+- Functions
+- Expressions and operators
+- Numbers and dates
+- Text formatting
+- Regular expressions
+- Indexed collections
+- Keyed collections
+- Working with objects
+- Details of the object model
+- Using promises
+- Iterators and generators
+- Meta programming
+- JavaScript modules
+- Client-side JavaScript frameworks
+- Client-side web APIs
+- A re-introduction to JavaScript
+- JavaScript data structures
+- Equality comparisons and sameness
+- Closures
+- Inheritance and the prototype chain
+- Strict mode
+- JavaScript typed arrays
+- Memory Management
+- Concurrency model and Event Loop
+
+Built-in objects:
+ - AggregateError
+ - Array
+ - ArrayBuffer
+ - AsyncFunction
+ - Atomics
+ - BigInt
+ - BigInt64Array
+ - BigUint64Array
+ - Boolean
+ - DataView
+ - Date
+ - decodeURI()
+ - decodeURIComponent()
+ - encodeURI()
+ - encodeURIComponent()
+ - Error
+    - Warning: -file- is being assigned a //# sourceMappingURL, but already has one
+    - TypeError: invalid Array.prototype.sort argument
+    - Warning: 08/09 is not a legal ECMA-262 octal constant
+    - RangeError: radix must be an integer
+    - SyntaxError: invalid regular expression flag "x"
+    - SyntaxError: return not in function
+    - TypeError: X.prototype.y called on incompatible type
+    - ReferenceError: can't access lexical declaration`X' before initialization
+    - TypeError: can't access property "x" of "y"
+    - TypeError: can't assign to property "x" on "y": not an object
+    - TypeError: can't define property "x": "obj" is not extensible
+    - TypeError: property "x" is non-configurable and can't be deleted
+    - TypeError: can't redefine non-configurable property "x"
+    - TypeError: cyclic object value
+    - TypeError: can't access dead object
+    - SyntaxError: applying the 'delete' operator to an unqualified name is deprecated
+    - ReferenceError: deprecated caller or arguments usage
+    - Warning: expression closures are deprecated
+    - SyntaxError: "0"-prefixed octal literals and octal escape seq. are deprecated
+    - SyntaxError: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+    - Warning: String.x is deprecated; use String.prototype.x instead
+    - Warning: Date.prototype.toLocaleFormat is deprecated
+    - SyntaxError: test for equality (==) mistyped as assignment (=)?
+    - Warning: JavaScript 1.6's for-each-in loops are deprecated
+    - TypeError: setting getter-only property "x"
+    - SyntaxError: Unexpected '#' used outside of class body
+    - SyntaxError: identifier starts immediately after numeric literal
+    - SyntaxError: illegal character
+    - TypeError: cannot use 'in' operator to search for 'x' in 'y'
+    - RangeError: invalid array length
+    - ReferenceError: invalid assignment left-hand side
+    - TypeError: invalid assignment to const "x"
+    - RangeError: invalid date
+    - SyntaxError: for-in loop head declarations may not have initializers
+    - SyntaxError: a declaration in the head of a for-of loop can't have an initializer
+    - TypeError: invalid 'instanceof' operand 'x'
+    - TypeError: 'x' is not iterable
+    - SyntaxError: JSON.parse: bad parsing
+    - SyntaxError: Malformed formal parameter
+    - URIError: malformed URI sequence
+    - SyntaxError: missing ] after element list
+    - SyntaxError: missing : after property id
+    - SyntaxError: missing } after function body
+    - SyntaxError: missing } after property list
+    - SyntaxError: missing formal parameter
+    - SyntaxError: missing = in const declaration
+    - SyntaxError: missing name after . operator
+    - SyntaxError: missing ) after argument list
+    - SyntaxError: missing ) after condition
+    - SyntaxError: missing ; before statement
+    - TypeError: More arguments needed
+    - RangeError: repeat count must be non-negative
+    - TypeError: "x" is not a non-null object
+    - TypeError: "x" has no properties
+    - SyntaxError: missing variable name
+    - TypeError: can't delete non-configurable array element
+    - RangeError: argument is not a valid code point
+    - TypeError: "x" is not a constructor
+    - TypeError: "x" is not a function
+    - ReferenceError: "x" is not defined
+    - RangeError: precision is out of range
+    - Error: Permission denied to access property "x"
+    - TypeError: "x" is read-only
+    - SyntaxError: redeclaration of formal parameter "x"
+    - TypeError: Reduce of empty array with no initial value
+    - SyntaxError: "x" is a reserved identifier
+    - RangeError: repeat count must be less than infinity
+    - Warning: unreachable code after return statement
+    - SyntaxError: "use strict" not allowed in function with non-simple parameters
+    - InternalError: too much recursion
+    - ReferenceError: assignment to undeclared variable "x"
+    - ReferenceError: reference to undefined property "x"
+    - SyntaxError: Unexpected token
+    - TypeError: "x" is (not) "y"
+    - SyntaxError: function statement requires a name
+    - SyntaxError: unterminated string literal
+ - escape()
+ - eval()
+ - EvalError
+ - FinalizationRegistry
+ - Float32Array
+ - Float64Array
+ - Function:
+    - The arguments object
+    - Arrow function expressions
+    - Default parameters
+    - getter
+    - Method definitions
+    - Rest parameters
+    - setter
+ - Generator
+ - GeneratorFunction
+ - globalThis
+ - Infinity
+ - Int16Array
+ - Int32Array
+ - Int8Array
+ - InternalError
+ - Intl
+ - isFinite()
+ - isNaN()
+ - JSON
+ - Map
+ - Math
+ - NaN
+ - null
+ - Number
+ - Object
+ - parseFloat()
+ - parseInt()
+ - Promise
+ - Proxy
+ - RangeError
+ - ReferenceError
+ - Reflect
+ - RegExp
+ - Set
+ - SharedArrayBuffer
+ - String
+ - Symbol
+ - SyntaxError
+ - TypedArray
+ - TypeError
+ - Uint16Array
+ - Uint32Array
+ - Uint8Array
+ - Uint8ClampedArray
+ - undefined
+ - unescape()
+ - uneval()
+ - URIError
+ - WeakMap
+ - WeakRef
+ - WeakSet
+ - WebAssembly
+
+Expressions & operators
+ - Addition assignment (+=)
+ - Addition (+)
+ - Assignment (=)
+ - async function expression
+ - await
+ - Bitwise AND assignment (&=)
+ - Bitwise AND (&)
+ - Bitwise NOT (~)
+ - Bitwise OR assignment (|=)
+ - Bitwise OR (|)
+ - Bitwise XOR assignment (^=)
+ - Bitwise XOR (^)
+ - class expression
+ - Comma operator (,)
+ - Conditional (ternary) operator
+ - Decrement (--)
+ - delete operator
+ - Destructuring assignment
+ - Division assignment (/=)
+ - Division (/)
+ - Equality (==)
+ - Exponentiation assignment (**=)
+ - Exponentiation (**)
+ - function* expression
+ - Function expression
+ - Greater than or equal (>=)
+ - Greater than (>)
+ - Grouping operator ( )
+ - in operator
+ - Increment (++)
+ - Inequality (!=)
+ - instanceof
+ - Left shift assignment (<<=)
+ - Left shift (<<)
+ - Less than or equal (<=)
+ - Less than (<)
+ - Logical AND assignment (&&=)
+ - Logical AND (&&)
+ - Logical NOT (!)
+ - Logical nullish assignment (??=)
+ - Logical OR assignment (||=)
+ - Logical OR (||)
+ - Multiplication assignment (*=)
+ - Multiplication (*)
+ - new.target
+ - new operator
+ - Nullish coalescing operator (??)
+ - Object initializer
+ - Operator precedence
+ - Optional chaining (?.)
+ - Property accessors
+ - Remainder assignment (%=)
+ - Remainder (%)
+ - Right shift assignment (>>=)
+ - Right shift (>>)
+ - Spread syntax (...)
+ - Strict equality (===)
+ - Strict inequality (!==)
+ - Subtraction assignment (-=)
+ - Subtraction (-)
+ - super
+ - this
+ - typeof
+ - Unary negation (-)
+ - Unary plus (+)
+ - Unsigned right shift assignment (>>>=)
+ - Unsigned right shift (>>>)
+ - void operator
+ - yield*
+ - yield
+
+Statements & declarations 
+ - async function
+ - block
+ - break
+ - class
+    - Class static initialization blocks
+    - constructor
+    - extends
+    - Private class features
+    - Public class fields
+    - static
+ - const
+ - continue
+ - debugger
+ - do...while
+ - empty
+ - export
+ - for await...of
+ - for...in
+ - for...of
+ - for
+ - function*
+ - function declaration
+ - if...else
+ - import.meta
+ - import
+ - label
+ - let
+ - return
+ - switch
+ - throw
+ - try...catch
+ - var
+ - while
+ - with
+
+
+Misc
+- JavaScript technologies overview
+- Lexical grammar
+- JavaScript data structures
+- Enumerability and ownership of properties
+- Iteration protocols
+- Strict mode
+- Transitioning to strict mode
+- Template literals
+- Deprecated features

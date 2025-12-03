@@ -2,7 +2,6 @@
 	-	https://www.tutorialsteacher.com/typescript
 	-	https://www.tutorialspoint.com/typescript/index.htm
 	-	https://www.typescripttutorial.net/
-	-	https://www.geeksforgeeks.org/typescript/introduction-to-typescript/
 	-	https://www.programiz.com/typescript
 	-	https://www.learn-ts.org/#google_vignette
 	-	https://www.scaler.com/topics/typescript/
@@ -17,6 +16,7 @@
 	-	TypeScript Tutorial in Hindi 2025 | Most Detailed explanations https://www.youtube.com/playlist?list=PL8p2I9GklV44fWXJGEsBvR_ylJClgdVAN
 	-	Typescript interview question In Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44tAjAUneicbZPjoYSe3VUd
 	-	TypeScript Fundamentals https://www.youtube.com/playlist?list=PL0teIBDEuMdvJ00wZHMSaqvI4h5EZXBf1
+	-	https://www.geeksforgeeks.org/courses/category/programming-languages
 	-	Frequently asked JavaScript Interview Questions https://www.youtube.com/playlist?list=PLU-tOA_pABIlrx_wRdRNS3ZNs-quXMP9P
 	-	Javascript top 500 Interview Questions https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv
 	-	Different Programming Paradigms with Examples Using JavaScript https://youtu.be/PNjFzvEG0E4?si=MyvifEQ23--ii90R
@@ -113,7 +113,6 @@
 	-	https://www.w3schools.com/js/default.asp
 	-	https://blog.frankmtaylor.com/category/web/code-and-development/javascript/
 	-	https://github.com/leonardomso/33-js-concepts
-	-	https://www.geeksforgeeks.org/courses/category/programming-languages
 	-	https://javascript.info/
 	-	https://www.greatfrontend.com/questions/quiz/what-are-iterators-and-generators-and-what-are-they-used-for
 	-	https://mimo.org/glossary/javascript/iterator
@@ -392,6 +391,9 @@
 	-	Redux Toolkit for React Apps https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPMUvkSNl5BXBECMOUWC_lm
 	-	Testing React component with Jest https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOrIKCE0mrPOkIg57qPDRKM
 ## 2 NodeJS
+	-	worker threads and cluster
+	-	event loop nuances, microtasks and macrotasks, set immediate vs async await vs next tick etc
+	-	how to debug memory leaks and what things can cause them
 	-	Nodejs Core Concepts https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
 	-	HTTP Protocol https://www.youtube.com/playlist?list=PL_euSNU_eLbdMWw2lE22mpNc-CVCQPYq_
 	-	RESTful Web API Design with Node.js 12 https://www.youtube.com/playlist?list=PLTgRMOcmRb3NVcRGuU6gsITBymZcaZRks

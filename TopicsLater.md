@@ -1,3 +1,4 @@
+-	https://github.com/aishwaryanr/awesome-generative-ai-guide
 ## Python
 - https://fluentpython.jjmachan.in/
 - https://blog.unwiredlearning.com/python

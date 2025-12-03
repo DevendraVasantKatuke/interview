@@ -1415,6 +1415,8 @@ hatka| ISD India Speaks Daily
 	-	Be a Man
 -	Aretha Franklin
 	-	Willing To Forgive
+-	Armin van Buuren feat. Sharon den Adel
+	-	In And Out Of Love
 -   AURORA
     -   Exist For Love
 -   Avicii
@@ -2295,6 +2297,8 @@ hatka| ISD India Speaks Daily
 	-	Secret World (Album)
 -	Peter Schilling
 	-	The Different Story
+-	PhD
+	-	I Won't Let You Down
 -	Phil Collins
 	-	In The Air Tonight (Old age version, Live Orchestra)
 -   Phoebe Killdeer and The Short Straws
@@ -2327,6 +2331,8 @@ hatka| ISD India Speaks Daily
     -   Cream
 -	Propellerheads feat_ Miss Shirley Bassey
 	-	History Repeating
+-	QUARTERFLASH
+	-	Harden My Heart
 -   Queen
     -   Face It Alone
 	-	Radio Ga Ga
@@ -2457,6 +2463,8 @@ hatka| ISD India Speaks Daily
 	-	We Can Hurt Together
 	-	Alive
 	-	Snowman
+-	Simple Minds
+	-	Don't you (Forget about me)
 -   Sinéad O'Connor
     -   Nothing Compares 2 U
     -   The Wolf Is Getting Married
@@ -2501,6 +2509,7 @@ hatka| ISD India Speaks Daily
 	-	Back In The High Life Again
 	-	The Finer Things
 	-	Higher Love
+	-	Valerie
 -   Sting
     -   Desert Rose
     -   It's Probably Me

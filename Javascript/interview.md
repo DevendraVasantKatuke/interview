@@ -1,0 +1,37 @@
+- https://jsquiz.vercel.app/
+- https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
+- https://www.knowledgehut.com/interview-questions/javascript
+- https://dev.to/macmacky/70-javascript-interview-questions-5gfi
+- https://www.geeksforgeeks.org/commonly-asked-javascript-interview-questions-set-1/ (DS & Algo Best tutorial)
+- https://www.interviewbit.com/javascript-interview-questions/
+- https://www.onlineinterviewquestions.com/advanced-javascript-interview-questions/
+- https://www.onlineinterviewquestions.com/javascript-tricky-interview-questions/
+- https://www.onlineinterviewquestions.com/javascript-closure-interview-questions/
+- https://www.onlineinterviewquestions.com/es6-interview-questions/
+- https://www.onlineinterviewquestions.com/ecmascript-2017-interview-questions/
+- https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
+- https://mindmajix.com/javascript-interview-questions
+- https://www.softwaretestinghelp.com/javascript-interview-questions/
+- https://www.javatpoint.com/javascript-interview-questions
+- https://www.javatpoint.com/es6-interview-questions  
+- https://www.javatpoint.com/data-structure-interview-questions  
+- https://www.javatpoint.com/algorithm-interview-questions  
+- https://www.javatpoint.com/linked-list-interview-questions
+- https://www.guru99.com/javascript-interview-questions-answers.html
+- https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm (very simple ~20 questions)
+- https://hackr.io/blog/javascript-interview-questions (very basic)
+- https://www.codementor.io/@nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+- http://perfectionkills.com/javascript-quiz/  
+- https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703 (with 3 links to throttling and debouncing)
+- https://medium.com/appsflyer/unlocking-the-javascript-code-interview-an-interviewer-perspective-f4fe06246b29
+- https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+- https://humanwhocodes.com/blog/2010/01/26/answering-baranovskiys-javascript-quiz/
+
+### paid
+- https://www.testdome.com/d/javascript-interview-questions/2 (1000+ unique Coding questions, that are not to be found elsewhere)
+- https://coderbyte.com/algorithm/3-common-javascript-closure-questions (limited free, $35/month, limited ordinary material)
+- https://devskiller.com/coding-tests-skill/javascript/  // for 7 days free.
+- https://www.interviewcake.com/javascript-interview-questions // Data Structure and Algorithm Best Course for Google, Amazon etc. Explanation is free. Test Questions $90 for 6 Month
+- https://www.educative.io/blog/acing-the-javascript-interview-top-questions-explained (20 questions free)
+- https://www.educative.io/courses/javascript-interview-handbook/m2Q9EX1nx9R
+- https://www.educative.io/blog/acing-the-javascript-interview-top-questions-explained#data-structures-and-algorithms

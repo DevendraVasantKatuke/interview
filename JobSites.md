@@ -51,3 +51,7 @@
 -	https://assignmentsabroadtimes.in/
 -	https://builtin.com/jobs
 -	https://github.com/woovibr/jobs
+-	https://careercompassai.io/
+-	AI Bot Applies to Jobs for You — Auto Resume, Auto Cover Letter, Auto Apply https://youtu.be/caJ7Tx9XFg8?si=rDWgoP8Htygf171C
+-	https://www.jobs.nestjs.com/#jobs
+-	https://wellfound.com/

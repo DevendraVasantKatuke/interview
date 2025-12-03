@@ -1,0 +1,338 @@
+-	https://handbook.axioned.com/learning/javascript/training-template/
+-	https://www.javascripture.com/
+-	https://eloquentjavascript.net/
+-	https://www.dofactory.com/javascript
+-	https://www.dofactory.com/javascript/design-patterns
+-	https://javascript30.com/
+-	https://javascript.info
+-	http://javascriptissexy.com/
+-	http://www.thatjsdude.com/
+-	https://www.thatjsdude.com/interview/js1.html
+-	https://www.thatjsdude.com/interview/js2.html
+-	https://www.thatjsdude.com/interview/dom.html
+-	https://exploringjs.com/es5/toc.html
+-	https://exploringjs.com/es6/index.html
+-	https://exploringjs.com/es2016-es2017/index.html
+-	https://exploringjs.com/es2018-es2019/toc.html
+-	https://exploringjs.com/impatient-js/toc.html
+-	https://exploringjs.com/deep-js/toc.html
+-	https://exploringjs.com/tackling-ts/toc.html
+-	https://exploringjs.com/nodejs-shell-scripting/toc.html
+-	https://2ality.com/index.html
+-	https://javascriptpatterns.vercel.app/patterns
+-	https://js-design-patterns.vercel.app/#0
+-	https://www.jackfranklin.co.uk/blog/
+-	https://masteringjs.io/
+
+
+- https://www.codecademy.com/catalog/language/javascript
+- http://adripofjavascript.com/archive.html
+- https://www.airpair.com/javascript/node-js-tutorial#3-2-callbacks
+- https://alistapart.com/article/responsible-javascript-part-2
+- https://www.classcentral.com/subject/javascript
+- https://codesmith.io/javascript-resources#resources-advanced
+- https://codetogo.io/javascript
+- https://crunchify.com/list-of-all-social-sharing-urls-for-handy-reference-social-media-sharing-buttons-without-javascript/
+- ctrlq.org/dev/javascript
+- https://www.guvi.in/hub/javascript/
+-	https://addyosmani.com/largescalejavascript/
+-	https://addyosmani.com/resources/essentialjsdesignpatterns/book
+- www.debuggex.com/cheatsheet/regex/javascript
+- https://www.encodedna.com/javascript/practice-ground/default.htm
+- https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/javascript-debugging-tips-part-iv-error-handling
+- http://www.findmeat.org/tutorials/javascript/
+- https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/amp/
+- https://www.freecodecamp.org/news/self-driving-car-javascript/amp/
+- https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/amp/
+- freecomputerbooks.com/webJavaScriptBooks.html
+- https://frontendmasters.com/books/javascript-enlightenment
+- http://read.humanjavascript.com/ humanjavascript.com
+- https://www.javascripttutorial.net
+- https://javascript.works-hub.com/learn
+- https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
+- https://blog.jscrambler.com/an-analysis-of-code-poisoning-monkey-patching-javascript
+- https://justjavascript.com/
+- https://leanpub.com/javascriptallongesix/read#leanpub-auto-a-pull-of-the-lever-prefaces
+- https://learnjavascript.online/app.html
+- https://www.letscodejavascript.com
+- https://www.lulu.com/en/us/shop/nicholas-c-zakas/understanding-javascript-promises/paperback/product-2yvnqn.html?page=1&pageSize=4
+- https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854
+- https://plainjs.com/javascript
+- https://www.reddit.com/r/javascript/comments/4taau2/things_i_wish_i_knew_about_redux/
+- https://repl.it/languages/javascript
+- www.safaribooksonline.com/library/view/mastering-modular-javascript/9781491955673
+- https://speckyboy.com/javascript-cheatsheets
+- https://stackoverflow.com/questions/154059/how-to-check-empty-undefined-null-string-in-javascript
+- https://testingjavascript.com
+- https://www.toptal.com/developers/blog (React, Javascript, NodeJS, Redux)
+- code.tutsplus.com/series/data-structures-in-javascript--cms-772
+- https://usefulangle.com/javascript
+- https://blog.usejournal.com/method-chaining-and-javascript-7d840d6e3687
+- vegibit.com/tag/javascript
+- https://werxltd.com/wp/2010/05/13/javascript-implementation-of-javas-string-hashcode-method
+- https://www.wix.engineering/post/interlude-rethinking-the-javascript-pipeline-operator
+- https://modernjavascript.yogeshchavan.dev/
+- https://www.javascriptstuff.com/how-to-style-react/
+- http://javascriptbook.com/code/c13/
+- https://reposhub.com/javascript
+- https://ricardometring.com/articles/javascript
+- https://kandi.openweaver.com/explore/javascript
+- https://baffinlee.com/leetcode-javascript/
+- https://mhussain.net/leetcode-solutions-in-javascript/
+- https://careerkarma.com/blog/coding-challenges-for-javascript/
+- https://jstechroad.com/algorithms/leetcode-700-search-in-a-binary-search-tree-javascript/
+- https://kaeducation.thinkific.com/courses/javascript-leetcode-the-complete-interview-bootcamp
+- https://www.javascriptjanuary.com
+- http://www.allthingsjavascript.com/
+- https://javascriptguide.herokuapp.com
+- https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
+- https://github.com/topics/javascript-concepts
+- https://github.com/leonardomso/33-js-concepts
+- https://xbsoftware.com/blog/7-javascript-concepts/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Lydia Halle Javascript tricky questions
+- https://awesomeopensource.com/project/craig1123/react-recipes, project/viclm/numeric-keyboard, /project/viclm/numeric-keyboard, project/ignacio-chiazzo/Algorithms-Leetcode-Javascript
+- https://indepth.dev/react, javascript
+- www.indiegogo.com/projects/modular-javascript-a-pragmatic-js-book-series#
+- https://exercism.org/tracks/javascript/exercises
+- https://richardartoul.github.io/javascript/2015/07/16/promises-generators.html
+- https://babeljs.io/docs/learn
+- https://byby.dev/javascript
+- https://javascriptpatterns.vercel.app/patterns
+- https://js-design-patterns.vercel.app/#0
+- https://design-patterns-101.vercel.app/
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+- https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
+- https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+- https://courses.algocamp.io/learn/DSA-In-Javascript
+- https://github.com/trekhleb/javascript-algorithms
+- https://www.scaler.com/topics/data-structures-in-javascript/
+- Cucumber https://school.cucumber.io/courses/take/bdd-with-cucumber-javascript/lessons/11261249-introduction-to-bdd
+- https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
+- https://github.com/topics/javascript-concepts
+- https://github.com/leonardomso/33-js-concepts
+- https://xbsoftware.com/blog/7-javascript-concepts/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://exercism.org/tracks/javascript/exercises
+- noflojs.org
+- http://pttrns.com
+- https://richardartoul.github.io/javascript/2015/07/16/promises-generators.html
+- https://byby.dev/javascript
+- https://byby.dev/t/typescript
+- https://babeljs.io/docs/learn
+- https://bun.sh/guides
+- https://javascriptpatterns.vercel.app/patterns
+- https://js-design-patterns.vercel.app/#0
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+- https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
+- https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+- https://courses.algocamp.io/learn/DSA-In-Javascript
+- https://github.com/trekhleb/javascript-algorithms
+- https://www.scaler.com/topics/data-structures-in-javascript/
+- Cucumber https://school.cucumber.io/courses/take/bdd-with-cucumber-javascript/lessons/11261249-introduction-to-bdd
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+- https://www.codecademy.com/catalog/language/javascript
+- https://www.freecodecamp.org/news/javascript-functions-and-scope/
+-	https://cs.lmu.edu/~ray/notes/javascriptfunctions/
+-	https://abdulapopoola.com/category/languages/javascript-languages/
+-	https://blog.stackademic.com/18-javascript-one-liners-thatll-make-you-look-like-a-pro-26d714dcc56b
+-	https://javascriptpatterns.vercel.app/patterns
+-	https://dev.to/shameel/looping-through-javascript-objects-with-different-approaches-3c6m
+- https://javascript-in-30-words.netlify.app/
+- https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
+- https://github.com/topics/javascript-concepts
+- https://github.com/leonardomso/33-js-concepts
+- https://xbsoftware.com/blog/7-javascript-concepts/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://exercism.org/tracks/javascript/exercises
+- https://byby.dev/javascript
+- https://byby.dev/t/typescript
+- https://babeljs.io/docs/learn
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+- https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
+- https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+- https://courses.algocamp.io/learn/DSA-In-Javascript
+- https://github.com/trekhleb/javascript-algorithms
+- https://www.scaler.com/topics/data-structures-in-javascript/
+- https://datacadamia.com/web/javascript/javascript
+- https://upmostly.com/" Upmostly - Learn React and JavaScript the Right Way
+- https://scriptverse.academy/" SCRIPTVERSE | Tutorial Site On Python, React, Affinity, JavaScript, C Programming
+- https://javascript.works-hub.com/learn" Learn | JavaScript Works
+- https://blog.greenroots.info/series/javascript-promises" Demystifying JavaScript Promises - A New Way to Learn - GreenRoots Blog - A Blog by Tapas Adhikary
+- https://www.javascripttutorial.net/" JavaScript Tutorial
+- https://www.freecodecamp.org/news" freeCodeCamp Programming Tutorials: Python, JavaScript, Git &amp; More
+- https://www.freecodecamp.org/news/tag/javascript/" JavaScript - freeCodeCamp.org
+- https://frontendmasters.com/" Frontend Masters — Learn JavaScript, React, Vue &amp; Angular from Masters of Front-End Development!
+- https://www.realpythonproject.com/javascript-do-you-know-the-fastest-way-to-iterate-over-arrays-objects/#:~:text=As%20you%20can%20see%20using,in%2C%20forEach%2C%20or%20map." JavaScript: Do you know the fastest way to iterate over arrays, objects?
+- https://blog.kuzzle.io/efficiently-iterate-on-javascript-arrays" Efficiently iterate on Javascript arrays
+- https://www.section.io/engineering-education/javascript-iterations-which-one-is-faster/" JavaScript Iterations - Which One is Faster? | Engineering Education (EngEd) Program | Section
+- https://htmldom.dev/" Manage HTML DOM with vanilla JavaScript - HTML DOM
+- https://ultimatecourses.com/" Ultimate Courses | Learn JavaScript, Angular, React, RxJS, TypeScript
+- https://makandracards.com/makandra" HOWTOs for Ruby on Rails, RSpec, Cucumber and Javascript - makandra dev
+- https://eb-hargro.medium.com/object-oriented-programming-w-javascript-this-new-constructors-e885ab30aedc" Object Oriented Programming w/ JavaScript| “this”, “new” &amp; constructors | by Ebony Hargro | Medium
+- https://www.digitalocean.com/community/tags/javascript" JavaScript tutorials, questions, and resources | DigitalOcean
+- https://www.airpair.com/javascript/node-js-tutorial#3-2-callbacks" Node.js Tutorial – Step-by-Step Guide For Getting Started
+- https://medium.com/@bojangbusiness/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d" JavaScript Functional Programming — map, filter and reduce | by Bojan Gvozderac | Medium
+- https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918" ES6 Promises: Patterns and Anti-Patterns | by Bobby Brennan | DataFire.io | Medium
+- https://medium.com/@intspirit/only-10-of-developers-can-solve-these-javascript-challenges-f4804c7c54eb" Only 10% of developers can solve these JavaScript challenges | by Intspirit Ltd | Sep, 2022 | Medium
+- https://blog.allaroundjavascript.com/smart-working-via-vs-code-vs-code-online-and-github-even-if-you-dont-have-admin-credentials-ck7n8i89u00p48ss1t61xog4i" Smart Working via VS Code, VS Code Online and Github even if you don&#39;t have Admin credentials.
+- https://webinuse.com/category/javascript/" JavaScript articles - webinuse.com
+- https://medium.com/javascript-by-doing/learn-fisher-yates-shuffle-in-javascript-275881d36650" Learn: Fisher–Yates shuffle in Javascript | by Riccardo Canella | Javascript by doing | Medium
+- https://wanago.io/" Marcin Wanago Blog - JavaScript, both frontend and backend
+- https://dorey.github.io/JavaScript-Equality-Table/" JS Comparison Table
+- https://www.programiz.com/javascript" Learn JavaScript Programming
+- https://code.mu/en/javascript/book/prime/" Prime JavaScript tutorial for beginners | Trepachev Dmitry
+- https://javascriptpatterns.vercel.app/patterns" JavaScript Patterns Workshop | JavaScript Patterns
+- https://plainenglish.io/" In Plain English
+-	https://www.geeksforgeeks.org/html/
+-	https://www.learningtypescript.com/from-javascript-to-typescript/the-typeinator/
+- https://github.com/Asabeneh/30-Days-Of-React" GitHub - Asabeneh/30-Days-Of-React: 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100 days, follow your own pace.
+- https://learnjavascript.today/" Learn JavaScript from scratch
+- https://javascriptinterviewquestions.com/" FE / JS - Frontend / Javascript Interview Questions and Experiences
+- https://github.com/Narahari-Sundaragopalan/JavaScript-Interview-Questions/blob/master/concepts/Currying.md" JavaScript-Interview-Questions/concepts/Currying.md at master · Narahari-Sundaragopalan/JavaScript-Interview-Questions · GitHub
+- https://renu101.medium.com/how-does-javascript-work-what-exactly-is-an-event-loop-5b632eb5ec24" How does Javascript work? What exactly is an event loop? | by renu ganvir | Feb, 2023 | Medium | Medium
+- https://medium.com/@shubham3480/react-and-javascript-interview-questions-d8208b2d2d4e" React and JavaScript Interview Questions | by Shubham Gupta | Sep, 2023 | Medium
+- https://easycodingschool.com/javascript-closures-and-scope/" Javascript Closures and Scope - Easy Coding School
+- https://www.freecodecamp.org/news/http-full-course/" HTTP Networking in JavaScript – Handbook for Beginners
+- https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/" The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers
+- https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/" The Regular Expressions Book – RegEx for JavaScript Developers [Full Book]
+- https://www.freecodecamp.org/news/the-javascript-array-handbook/" The JavaScript Array Handbook – JS Array Methods Explained with Examples
+- https://www.js-craft.io/" Js Craft - Tips about React, CSS and Javascript
+- https://www.git-tower.com/learn/cheat-sheets/javascript" JavaScript Cheat Sheet | Learn Version Control with Git
+- https://www.jslint.com/" JSLint: The JavaScript Code Quality and Coverage Tool
+- http://www.java2s.com/Tutorials/Javascript/Tutorial/0100__Javascript_Object.htm" Create Object type variable in Javascript
+- https://www.demo2s.com/javascript/javascript.html" Javascript Tutorial
+- https://www.demo2s.com/javascript/javascript-define-object-type.html" Javascript Define Object Type
+- https://www.w3schools.com/js/js_objects.asp" JavaScript Objects
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object" Object - JavaScript | MDN
+- https://www.w3schools.com/js/js_object_definition.asp" JavaScript Objects
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects" Working with objects - JavaScript | MDN
+- https://www.javatpoint.com/javascript-objects" JavaScript Objects - javatpoint
+- https://www.w3schools.com/js/js_object_properties.asp" JavaScript Properties
+- https://www.w3schools.com/js/js_object_methods.asp" JavaScript Methods
+- https://www.w3schools.com/js/js_object_es5.asp" JavaScript ES5 Object Methods
+- https://www.geeksforgeeks.org/objects-in-javascript/" Objects in Javascript - GeeksforGeeks
+- https://www.w3schools.com/jsref/jsref_obj_object.asp" JavaScript Object Reference
+- https://www.freecodecamp.org/news/objects-in-javascript/" What are Objects in JavaScript?
+- https://www.javascripttutorial.net/javascript-objects/" JavaScript Objects
+- https://www.tutorialsteacher.com/javascript/javascript-object" JavaScript Objects: Create Objects, Access Properties &amp; Methods
+- https://www.codebrainer.com/blog/what-is-an-object-in-javascript" What is an Object in JavaScript?
+- https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-objects" JavaScript Objects: Properties, Methods, and Accessors
+- https://www.codecademy.com/learn/game-dev-learn-javascript-objects/modules/game-dev-learn-javascript-objects/cheatsheet" Learn JavaScript: Objects: Learn JavaScript: Objects Cheatsheet | Codecademy
+- https://www.studytonight.com/javascript/javascript-objects" JavaScript Objects - Studytonight
+- https://www.tutorialspoint.com/javascript/javascript_objects.htm" JavaScript - Objects Overview
+- https://www.scaler.com/topics/objects-in-javascript/" What are Objects in JavaScript? - Scaler Topics
+- https://www.educba.com/object-in-javascript/" Object in JavaScript: Methods &amp; Characteristics with Examples
+- https://tutorial.techaltum.com/javascript-objects.html" JavaScript Objects | new Object() | Object properties and methods | instanceof
+- https://www.codecademy.com/resources/docs/javascript/objects" JavaScript | Objects | Codecademy
+- https://www.codecademy.com/catalog/language/javascript" JavaScript Courses &amp; Tutorials | Codecademy
+- https://www.w3resource.com/javascript/object-property-method/object-javascript-object.php" Javascript object Object - w3resource
+- https://fireship.io/courses/javascript/beginner-js-objects/" Objects
+- https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript" How To Use Object Methods in JavaScript | DigitalOcean
+- https://codedamn.com/news/javascript/what-is-object-object-in-javascript" What is [object, object] in JavaScript? How to fix?
+- https://medium.com/@mandeepkaur1/creating-objects-in-javascript-a896e6cfa6eb" Creating Objects in JavaScript. JavaScript is an object-based language… | by Mandeep Kaur | Medium
+- https://www.w3docs.com/snippets/javascript.html" How-to articles, tricks, and solutions about JAVASCRIPT
+- https://www.educba.com/software-development/software-development-tutorials/javascript-tutorial/" JavaScript Tutorial - 100+ Learn Free, Articles &amp; Guides
+- https://www.digitalocean.com/community/tutorials/understanding-objects-in-javascript" Understanding Objects in JavaScript | DigitalOcean
+- https://brainstation.io/learn/javascript/object" JavaScript Object (2024 Tutorial &amp; Examples) | BrainStation®
+- https://www.shiksha.com/online-courses/articles/working-with-javascript-objects/" Working with JavaScript Objects - Shiksha Online
+- https://www.json.org/json-en.html" JSON
+- https://www.theodinproject.com/lessons/node-path-javascript-objects-and-object-constructors" Objects and Object Constructors | The Odin Project
+- https://www.theodinproject.com/paths/full-stack-javascript" Full Stack JavaScript | The Odin Project
+- https://medium.com/dailyjs/15-fundamentals-you-should-know-on-javascript-objects-90f57cc9d78d" JavaScript Objects: 15 Fundamentals You Should Know | by Cristian Salcescu | DailyJS | Medium
+- https://www.programiz.com/javascript/examples/create-object" JavaScript Program to Create Objects in Different Ways
+-	https://frontarm.com/courses/async-javascript/
+-	https://www.airpair.com/javascript/node-js-tutorial
+- https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed" GitHub - getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.
+- https://levelup.gitconnected.com/react-enterprise-design-patterns-81f009fbc221" React Enterprise Design Patterns. React is a powerful JavaScript library… | by Aravinda Meewalaarachchi | Level Up Coding
+- https://blog.devgenius.io/mastering-typescript-decorators-a-comprehensive-guide-to-enhancing-your-code-31bd856d8248" Mastering TypeScript Decorators: A Comprehensive Guide to Enhancing Your Code | by MING WU | Dev Genius
+- https://bootcamp.uxdesign.cc/how-to-write-test-cases-in-typescript-fa7a263b7833" How to write test cases in typescript | by Gaurav Sharma | Sep, 2023 | Bootcamp
+- https://levelup.gitconnected.com/api-development-with-nodejs-express-and-typescript-from-scratch-dto-interface-and-54ebab8c447e" API development with nodejs, express and typescript from scratch — DTO, Interface and Authentication | by Lukas Wimhofer | Level Up Coding
+- https://medium.com/@nagachaitanyakonada/10-most-important-typescript-concepts-36920732a281" 10 most important typescript concepts | by Naga Chaitanya Konada | Medium
+- https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/" The Most Asked TypeScript Questions on StackOverflow – Handbook for Beginners
+- https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/" TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App
+- https://www.totaltypescript.com/" Professional TypeScript Training by Matt Pocock | Total TypeScript
+-	https://www.tutorialspoint.com/typescript/index.htm
+-	https://www.tutorialsteacher.com/typescript
+-	https://www.geeksforgeeks.org/reactjs-tutorials/
+-	Udemy purchased courses
+- https://basarat.gitbook.io/typescript
+- https://www.designcise.com/web/, /web/tutorial/category/backend-dev/node-js, typescript
+- https://dev.to
+- https://www.jetbrains.com/webstorm/guide/tutorials/react_typescript_tdd
+- https://leanpub.com/functionalprogrammingintypescriptapracticalguide
+- https://leanpub.com/functional-programming-in-Ts-with-categories
+- https://leanpub.com/understandinges6/read
+-	https://www.totaltypescript.com/tutorials
+-	https://fettblog.eu/advanced-typescript-guide/
+-	https://www.typescripttutorial.net
+-	https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
+- https://byby.dev/t/typescript
+- https://react-typescript-cheatsheet.netlify.app/
+- https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/
+- https://wanago.io/courses/typescript-express-tutorial/
+- https://react-typescript-cheatsheet.netlify.app/
+- https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/
+- https://wanago.io/courses/typescript-express-tutorial/
+- https://www.scaler.com/topics/typescript/
+- https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/
+- https://wanago.io/courses/typescript-express-tutorial/
+- https://fettblog.eu/typescript-react/hooks/" TypeScript and React: Hooks
+- https://react-typescript-cheatsheet.netlify.app/docs/basic/setup" Setup TypeScript with React | React TypeScript Cheatsheets
+- https://www.toptal.com/react/react-hooks-typescript-example" React Hooks TypeScript Tutorial | Toptal
+- https://ultimatecourses.com/blog/" Blogs and tutorials on Angular, NGRX, TypeScript, RxJS, React and everything web!
+- https://github.com/doppelganger9/babyfoot" GitHub - doppelganger9/babyfoot: Simple CQRS/ES Node+Express+TypeScript REST API
+- https://morioh.com/" Simple CQRS/ES Node+Express+TypeScript REST API
+- https://www.totaltypescript.com/articles" TypeScript Articles by Matt Pocock | Total TypeScript
+- https://www.digitalocean.com/community/tutorial-series/how-to-code-in-typescript" How To Code in TypeScript | DigitalOcean
+- http://autocomplete-js.com/
+- https://asyncawait.net
+- es6.io
+- es6-features.org/#Constants
+- https://es6console.com
+- esdiscuss.org
+- ilovecoding.org/courses/js2
+- https://jscomplete.com/
+- https://jsrepos.com/
+- https://crank.js.org/guides/getting-started
+- https://feature-u.js.org/cur
+- https://lingui.js.org/ref/react.html
+- sw-yx.js.org/archive.html
+- https://jseditor.io
+- https://jsmanifest.com/
+- https://jsonworld.com/nodejs-interview-questions
+- jstherightway.org
+- www.jstips.co
+- https://docs.joshuatz.com/snippets/js
+- https://learnbyexample.github.io/learn_js_regexp/alternation-and-grouping.html
+- https://mattboldt.com/demos/typed-js/
+- mythbusters.js.org/#
+- https://www.promisejs.org
+- https://quokkajs.com/
+- jsbooks.revolunet.com
+- https://scrollrevealjs.org/
+- https://single-spa.js.org/docs/getting-started-overview
+- https://stackoverflow.com/questions/6583353/inheritance-in-js-this-base-class-this-base-or
+- https://codethechange.stanford.edu/guides/guide_js.html, www-cs-students.stanford.edu/~blynn/gitmagic, lagunita.stanford.edu/courses
+- https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+- https://jsquiz.vercel.app
+- https://wallabyjs.com/
+- https://ydkjs-exercises.com
+- https://clinicjs.org/bubbleprof/
+- https://survivejs.com/
+- https://jsitor.com/
+- https://wtfjs.com/
+- https://webpack.js.org/concepts/module-federation/
+- http://www.js-craft.io/
+- https://stackblitz.com/edit/leet-code-js-tasks
+- https://reallifejs.com/the-meat/getting-closure
+- https://miragejs.com
+- https://www.js-craft.io/
+- https://jscodechallenges.vercel.app/
+- https://thecompetentdev.com/immutablejs/" ImmutableJs Course
+- https://marmelab.com/en/blog#js" The marmelab blog
+- https://wtfjs.com/" wtfjs - a little code blog about that language we love despite giving us so much to hate
+- https://modernjs.dev/en" Modern.js
