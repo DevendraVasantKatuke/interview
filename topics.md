@@ -1,7 +1,125 @@
-## 1 Javascript
-	- Decorator, Currying, Proxy, Reflect, Prototype, Slice, Splice,
-	- Throttle, Debounce,
+## JavaScript
+	- Coding with AI (Copilot) Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9joeiiVaLExvfSgmdtBbSPM
+	- Callback
+		- https://www.youtube.com/watch?v=IYoTF9APsMI
+		- https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/
+		- https://medium.com/@mdsiaofficial/callback-function-in-javascript-f381d77ea8fb
+		- https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/
+		- https://www.reddit.com/r/learnjavascript/comments/yz869i/please_help_me_understand_callback_functions/
+		- https://teamtreehouse.com/community/return-vs-callback-javascript
+		- https://stackoverflow.com/questions/3458553/javascript-passing-parameters-to-a-callback-function
+		- https://www.sitepoint.com/callbacks-javascript/
+		- https://www.topcoder.com/thrive/articles/what-is-a-callback-function-in-javascript
+		- https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+	- Closure
+		- https://softwareengineering.stackexchange.com/questions/203507/whats-so-useful-about-closures-in-js
+		- https://thecontentauthority.com/blog/callback-vs-closure
+		- https://medium.com/@mohdtalib.dev/callback-in-javascript-the-what-why-and-how-80efa5ee3510
+		- https://medium.com/@charliekroon/closures-and-callbacks-in-javascript-a56647d14ab2
+		- https://stackoverflow.com/questions/615907/how-is-a-closure-different-from-a-callback
+		- https://medium.com/@punitkmr/whats-is-callbacks-closure-promises-and-async-await-a8d47eb83862
+		- https://www.reddit.com/r/learnjavascript/comments/1cnxvfg/does_callback_function_always_creates_a_closures/
+		- https://www.quora.com/Whats-the-difference-between-closures-callbacks-and-anonymous-functions
+		- https://www.quora.com/Are-callback-functions-in-JavaScript-a-form-of-closure-How
+		- https://www.educative.io/answers/how-to-streamline-javascript-with-lambda-expressions-and-closures
+	- this
+		- https://www.youtube.com/watch?v=n1-2zA8kV8U
+		- https://medium.com/codex/understanding-this-in-javascript-the-complete-guide-c4c21fe15ff8
+		- https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/#heading-what-is-the-bind-method-in-javascript
+		- https://www.reddit.com/r/learnjavascript/comments/1ib94xu/this_keyword_in_javascript/
+		- https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
+		- https://medium.com/tech-tajawal/javascript-this-4-rules-7354abdb274c
+	- Decorator
+		- https://www.youtube.com/playlist?list=PL_L_J_Lv0U2pVE0kO1RiYId_SISfUXa-c
+		- https://medium.com/@artemkhrenov/the-decorator-pattern-in-modern-javascript-adding-functionality-without-breaking-code-b43d9c237047
+		- https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841
+		- https://dev.to/frehner/composing-javascript-decorators-2o38
+	- Currying
+		- https://medium.com/@kevincennis/currying-in-javascript-c66080543528
+		- https://stackoverflow.com/questions/113780/javascript-curry-what-are-the-practical-applications
+		- https://blog.logrocket.com/understanding-javascript-currying/
+		- https://meenumatharu.medium.com/unwrapping-the-magic-of-currying-in-javascript-603a69e28af9
+		- https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/
+		- https://www.reddit.com/r/learnprogramming/comments/12j2s9y/why_use_currying/
+		- https://javascript.plainenglish.io/understanding-currying-function-in-javascript-c3e1c92b7579
+		- https://javascript.plainenglish.io/infinite-currying-in-javascript-f17ec1619568
+	- Proxy, Reflect
+		- 3 Examples of using Proxy and Reflect API in JavaScript https://youtu.be/yj56BCWiE28?si=hx2SJtNxDTzJYw4u
+		- Why use a proxy object? https://youtu.be/GL3XgJ7vWdo?si=oOIV-nj2vSDYey2p
+		- A Practical Guide to JavaScript Proxy Objects https://youtu.be/cH2oWB2dNIU?si=7jajIqo7K8v0-ahf
+		- Proxies (ES6) https://youtu.be/vExLi5bTt3k?si=wJJidq6AkcKUUY-I
+		- Actual use case for JavaScript PROXY! https://youtu.be/9jl1lhFylJs?si=pg2m9LgbWroZk5ay
+		- https://medium.com/@ignatovich.dm/understanding-javascript-proxy-object-9129f44c88d7
+		- https://www.freecodecamp.org/news/javascript-proxy-object/
+		- https://rehmat-sayany.medium.com/understanding-javascript-proxy-objects-cf4ce35452fe
+		- Building reactive systems with Proxies and Reflects https://youtu.be/4jV2CosUGhw?si=n3SVjeXy3FWMDKWB
+	- mixins
+		- https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
+		- https://stackoverflow.com/questions/860245/mixin-vs-inheritance
+		- https://medium.com/@michalistzikas/inheritance-vs-mixins-b57a95a32505
+		- https://blog.bitsrc.io/inheritance-abstract-classes-and-class-mixin-in-javascript-c636ac00f5a9
+		- https://www.reddit.com/r/learnprogramming/comments/1f92hw1/what_is_inheritance_tax_and_why_are_mixins_a/
+		- https://www.linkedin.com/pulse/understanding-mixins-javascript-laurence-svekis--v63xc/
+		- https://medium.com/@mariappan/mixins-in-javascript-simplified-58782141519b
+		- https://stackoverflow.com/questions/42247434/how-to-add-mixins-to-es6-javascript-classes
+		- https://blog.bitsrc.io/mixin-in-javascript-7a7eaa6d4920
+	- Prototype
+	- Slice
+	- Splice,
+	- Throttle, Debounce
+	- Iterator, Generators
+		- Learn JavaScript Generators In 12 Minutes https://youtu.be/IJ6EgdiI_wU?si=cQXoUkbJS58drqHX
+		- https://medium.com/simform-engineering/iterators-and-generators-in-javascript-22da731b7fe3
+		- https://stackoverflow.com/questions/28739745/how-to-make-an-iterator-out-of-an-es6-class
+		- https://www.qed42.com/insights/implementing-iterators-and-generators-in-javascript
+		- https://medium.com/@ignatovich.dm/understanding-javascript-generators-with-practical-examples-947ab3d89421
+		- https://www.reddit.com/r/javascript/comments/yojg3z/why_would_anyone_need_javascript_generator/
+		- https://neuralsorcerer.medium.com/understanding-generators-in-javascript-an-in-depth-guide-with-examples-e398937b6a19
+		- https://stackoverflow.com/questions/78913849/understanding-the-need-for-generator-functions-in-javascript
+		- https://www.linkedin.com/pulse/using-javascript-generators-yield-promises-vladim%C3%ADr-gorej/
+		- https://stackoverflow.com/questions/20768922/javascript-generators-understanding-them
+		- https://stackoverflow.com/questions/53894639/why-does-javascript-iterator-next-return-an-object
+		- https://www.reddit.com/r/learnjavascript/comments/xdeou7/could_someone_eli5_what_iterators_and_generators/
+		- https://www.greatfrontend.com/questions/quiz/what-are-iterators-and-generators-and-what-are-they-used-for
+		- https://mimo.org/glossary/javascript/iterator
+		- https://www.programiz.com/javascript/iterators-iterables
+		- https://dev.to/mpodlasin/iterables-iterators-an-in-depth-javascript-tutorial-5eh2
+		- https://www.codeguage.com/v1/courses/advanced-js/iteration-iterators
+	- Symbols
+		- https://rahuulmiishra.medium.com/symbols-in-javascript-beyond-strings-and-numbers-for-unique-identity-68033188839b
+		- https://stackoverflow.com/questions/60048014/what-do-people-use-symbol-functions-in-javascript-for
+		- https://javascript.plainenglish.io/mastering-symbol-iterator-build-your-own-iterable-in-javascript-1414a9e7767d 
+		- https://www.freecodecamp.org/news/how-did-i-miss-javascript-symbols-c1f1c0e1874a/
+		- https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c
+		- https://www.reddit.com/r/javascript/comments/j1tgh0/who_needs_javascript_symbols/
 	- Patterns
+	- Javascript top 500 Interview Questions https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv
+	- Typescript interview question In Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44tAjAUneicbZPjoYSe3VUd
+	- Frequently asked JavaScript Interview Questions https://www.youtube.com/playlist?list=PLU-tOA_pABIlrx_wRdRNS3ZNs-quXMP9P
+	- Lydia Halle Javascript tricky questions
+	- Sudhirji
+	- https://www.youtube.com/@theavocoder
+	- https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
+	- Javascript Interview Question https://www.youtube.com/playlist?list=PLinedj3B30sDi0keEOQU3n5p3Op28eN2e
+	- JavaScript Interview Questions https://www.youtube.com/playlist?list=PLinedj3B30sDofFbjtCBqbj2l68UHv5Zr
+	- Interview Printing Patterns https://www.youtube.com/playlist?list=PLBxoNyjx7V0Cj4TETn4Za-4V9sJ0WWV12
+	- Javascript Interview questions in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44pN_8iYi2pPl2Gw4Pwb70f
+	- JavaScript Interview Questions Hindi - Short https://www.youtube.com/playlist?list=PL8p2I9GklV45vViIWw-RWxMneChzo7tzp
+	- Javascript Interview questions https://www.youtube.com/playlist?list=PLXQpH_kZIxTVwiGpOqnkFb1-aHMIai7ld
+	- https://www.thatjsdude.com/interview/js1.html
+	- https://www.thatjsdude.com/interview/js2.html
+	- https://www.thatjsdude.com/interview/dom.html
+	- https://www.thatjsdude.com/jsConcepts/concepts/scope.html
+	- https://www.thatjsdude.com/jsConcepts/concepts/this.html
+	- https://www.thatjsdude.com/jsConcepts/concepts/array.html
+	- https://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/
+	- JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL18m9eEwA6K5GqFx6C6-eht8
+	- Design Pattern in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL19ybjwD69t3G2yrQ9a0Pbij
+	- Writing Clean Code in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL1_rJsSXnWH1YMxaPuWaDL44
+	- Javascript Quiz for Interviews https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3vYHL_Ka3WlF5rATsStB_
+
+	- Learn Javascript, Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-42-wM9jfgN364lzxwFFI2
+	- Javascript Lessons Everyday https://www.youtube.com/playlist?list=PLIGDNOJWiL19go98IKaQ4sqThyi2V67JG
 	- https://www.tutorialsteacher.com/typescript
 	- https://www.tutorialspoint.com/typescript/index.htm
 	- https://www.typescripttutorial.net/
@@ -17,23 +135,14 @@
 	- https://www.totaltypescript.com/concepts
 	- Complete TypeScript Course https://www.youtube.com/playlist?list=PL_euSNU_eLbfJEwuNa43lM89yfev537Mj
 	- TypeScript Tutorial in Hindi 2025 | Most Detailed explanations https://www.youtube.com/playlist?list=PL8p2I9GklV44fWXJGEsBvR_ylJClgdVAN
-	- Typescript interview question In Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44tAjAUneicbZPjoYSe3VUd
 	- TypeScript Fundamentals https://www.youtube.com/playlist?list=PL0teIBDEuMdvJ00wZHMSaqvI4h5EZXBf1
 	- https://www.geeksforgeeks.org/courses/category/programming-languages
-	- Frequently asked JavaScript Interview Questions https://www.youtube.com/playlist?list=PLU-tOA_pABIlrx_wRdRNS3ZNs-quXMP9P
-	- Javascript top 500 Interview Questions https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv
 	- Different Programming Paradigms with Examples Using JavaScript https://youtu.be/PNjFzvEG0E4?si=MyvifEQ23--ii90R
-	- Lydia Halle Javascript tricky questions
-	- Sudhirji
-	- Javascript Interview Question https://www.youtube.com/playlist?list=PLinedj3B30sDi0keEOQU3n5p3Op28eN2e
-	- JavaScript Interview Questions https://www.youtube.com/playlist?list=PLinedj3B30sDofFbjtCBqbj2l68UHv5Zr
-	- Interview Printing Patterns https://www.youtube.com/playlist?list=PLBxoNyjx7V0Cj4TETn4Za-4V9sJ0WWV12
 	- Solve This Classic Bracket Problem Like a Pro https://www.youtube.com/watch?v=HrNXLvWA6l4
 	- Functional Programming in Javascript https://www.youtube.com/playlist?list=PLzHoH-EeZ8dfyW_9J1skD9Dx_nftGZ-W5
 	- http://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
 	- Daily Javascript Lessons https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMbcbZGQPJc20dkbswRr3Il
 	- Just JavaScript https://www.youtube.com/playlist?list=PL_L_J_Lv0U2r6AV7Q9CfI8JgRAxIv4Yvk
-	- JavaScript Decorators https://www.youtube.com/playlist?list=PL_L_J_Lv0U2pVE0kO1RiYId_SISfUXa-c
 	- https://exploringjs.com/js/book/index.html
 	- https://exploringjs.com/es5/toc.html
 	- https://exploringjs.com/es6/index.html
@@ -41,6 +150,7 @@
 	- https://exercism.org/tracks/javascript/exercises
 	- https://johnresig.com/apps/learn/
 	- https://ponyfoo.com/
+	- https://www.youtube.com/@AllThingsJavaScript
 	- https://www.promisejs.org/
 	- https://www.codementor.io/@zacksiri/javascript-promise-api-basics-szmiuoinl
 	- https://blog.greenroots.info/introducing-promiviz-visualize-and-learn-javascript-promise-apis
@@ -51,18 +161,13 @@
 	- https://www.youtube.com/@theavocoder/videos
 	- JavaScript: Under The Hood https://www.youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB
 	- JavaScript Basic + Advanced + ES6 Tutorial in Hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9YBo2MsLpFqSfws1UwzmcQe
-	- 3 Examples of using Proxy and Reflect API in JavaScript https://youtu.be/yj56BCWiE28?si=hx2SJtNxDTzJYw4u
 	- Javascript https://www.youtube.com/playlist?list=PLrOmLLDpZg9PMOZdk3LNlp1g5xM0KL1Hf
-	- Why use a proxy object? https://youtu.be/GL3XgJ7vWdo?si=oOIV-nj2vSDYey2p
-	- A Practical Guide to JavaScript Proxy Objects https://youtu.be/cH2oWB2dNIU?si=7jajIqo7K8v0-ahf
 	- What will be the output? https://www.youtube.com/playlist?list=PLBxoNyjx7V0CdRKfSOrWDc7tzyWAYs_ha
 	- JS Codes https://www.youtube.com/playlist?list=PLBxoNyjx7V0BbT0qXf4KVxZ2F6wEqixu2
 	- Dev Ninja Moves https://www.youtube.com/playlist?list=PLBxoNyjx7V0CMuJpXDuFpt2SF-fryACsq
 	- Asynchronous JavaScript (2020 version) https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu
 	- Object Oriented JavaScript https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7
 	- javascript code tricks https://www.youtube.com/playlist?list=PL8p2I9GklV47SB9hjXCO1VsVAGPNu9Tgg
-	- Javascript Interview questions in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44pN_8iYi2pPl2Gw4Pwb70f
-	- JavaScript Interview Questions Hindi - Short https://www.youtube.com/playlist?list=PL8p2I9GklV45vViIWw-RWxMneChzo7tzp
 	- Advanced javascript tutorial in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV45z6Cov4omIOsbptPR1kxpg
 	- Ecma script tutorial in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV46wKSUuvqBsBtU1gv9gSKKG
 	- JavaScript https://www.youtube.com/playlist?list=PL0X6fGhFFNTcBB9N4fPyMgtOxfvyujiEh
@@ -84,8 +189,6 @@
 	- JAVASCRIPT MUST KNOW https://www.youtube.com/playlist?list=PLVvjrrRCBy2L5Tyg-CunjpBhcKMZt4Z94
 	- CodeWars - JavaScript https://www.youtube.com/playlist?list=PLVvjrrRCBy2JvwwBWDmth0tJpebLjgNqS
 	- In 2 Minutes — JavaScript https://www.youtube.com/playlist?list=PLVvjrrRCBy2J6s41a5EJzDgtiC8GCnmX6
-	- Understanding JavaScript Callbacks with Real Examples! https://www.youtube.com/watch?v=IYoTF9APsMI
-	- Understanding this in JavaScript: https://www.youtube.com/watch?v=n1-2zA8kV8U
 	- https://www.letscodejavascript.com/
 	- https://www.simplilearn.com/tutorials/javascript-tutorial
 	- https://www.simplilearn.com/resources/software-development
@@ -99,9 +202,7 @@
 	- https://codeparrot.ai/blogs
 	- https://www.alooba.com/skills/programming-languages/javascript-49/
 	- https://www.naukri.com/code360/library/javascript
-	- https://www.sitepoint.com/callbacks-javascript/
 	- https://www.sitepoint.com/blog/
-	- https://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/
 	- https://www.tutorialspoint.com/javascript/index.htm
 	- https://www.tutorialspoint.com/es6/index.htm
 	- https://www.naukri.com/code360/library/javascript
@@ -110,28 +211,20 @@
 	- https://www.reactsquad.io/reactsquad-blog-all-posts
 	- https://jrsinclair.com/web-development/
 	- https://codedamn.com/problem-list/javascript-logic-building?page=1
-	- https://www.topcoder.com/thrive/articles/what-is-a-callback-function-in-javascript
 	- https://www.topcoder.com/thrive
 	- https://www.topcoder.com/thrive/tracks?tax=Recursion&track=Competitive%20Programming
 	- https://www.w3schools.com/js/default.asp
 	- https://blog.frankmtaylor.com/category/web/code-and-development/javascript/
 	- https://github.com/leonardomso/33-js-concepts
 	- https://javascript.info/
-	- https://www.greatfrontend.com/questions/quiz/what-are-iterators-and-generators-and-what-are-they-used-for
-	- https://mimo.org/glossary/javascript/iterator
-	- https://www.programiz.com/javascript/iterators-iterables
 	- https://www.programiz.com/javascript
-	- https://dev.to/mpodlasin/iterables-iterators-an-in-depth-javascript-tutorial-5eh2
-	- https://www.codeguage.com/v1/courses/advanced-js/iteration-iterators
 	- https://www.smashingmagazine.com/category/javascript/
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript
-	- https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
 	- https://developer.okta.com/blog/
 	- https://dmitripavlutin.com/
 	- https://dmitripavlutin.com/all-posts/
 	- https://www.codeguage.com/v1/courses
 	- https://www.wscubetech.com/resources
-	- https://www.educative.io/answers/how-to-streamline-javascript-with-lambda-expressions-and-closures
 	- https://www.educative.io/guide
 	- https://builtin.com/tag/software-engineering-perspectives
 	- https://refine.dev/blog/tags/tutorial/
@@ -142,7 +235,6 @@
 	- https://thecodebarbarian.com/
 	- https://www.trevorlasn.com/
 	- https://skillcraft.ai/
-	- https://dev.to/frehner/composing-javascript-decorators-2o38
 	- https://www.javascripttutorial.net/
 	- https://web.dev/javascript
 	- https://web.dev/learn/javascript
@@ -165,12 +257,6 @@
 	- https://reintech.io/blog
 	- https://www.educative.io/explore
 	- https://www.youtube.com/@codewithjay
-	- https://www.thatjsdude.com/interview/js1.html
-	- https://www.thatjsdude.com/interview/js2.html
-	- https://www.thatjsdude.com/interview/dom.html
-	- https://www.thatjsdude.com/jsConcepts/concepts/scope.html
-	- https://www.thatjsdude.com/jsConcepts/concepts/this.html
-	- https://www.thatjsdude.com/jsConcepts/concepts/array.html
 	- https://byby.dev/javascript
 	- https://babeljs.io/docs/learn
 	- https://humanwhocodes.com/books/
@@ -184,14 +270,10 @@
 	- JavaScript Tips & Tricks https://youtube.com/playlist?list=PL0iFifR5umclMa0ySiALLWFEd1fmK0yNd&si=LJObictf21cpOk68
 	- JavaScript https://youtube.com/playlist?list=PL0X6fGhFFNTcBB9N4fPyMgtOxfvyujiEh&si=LE5FpXtQijCi7Ofy
 	- OOP - Javascript https://youtube.com/playlist?list=PLXQpH_kZIxTWQfh_krE4sI_8etq5rH_z6&si=A7FyD840nqkduA0v
-	- Javascript Interview questions https://www.youtube.com/playlist?list=PLXQpH_kZIxTVwiGpOqnkFb1-aHMIai7ld
 	- JavaScript Complete course https://www.youtube.com/playlist?list=PLXQpH_kZIxTV7slsiwQarBEVXHgQWDhLQ
 	- 100 Seconds of Code https://www.youtube.com/playlist?list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN
-	- Learn JavaScript Generators In 12 Minutes https://youtu.be/IJ6EgdiI_wU?si=cQXoUkbJS58drqHX
-	- Actual use case for JavaScript PROXY! https://youtu.be/9jl1lhFylJs?si=pg2m9LgbWroZk5ay
 	- JavaScript indexing; the WRONG way https://youtu.be/-O6MoH6pJ-s?si=uptr_4de3RAyujY_
 	- Ultimate Javascript Tutorials https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv
-	- Proxies (ES6) https://youtu.be/vExLi5bTt3k?si=wJJidq6AkcKUUY-I
 	- Complete ECMAscript6 (56) https://www.youtube.com/playlist?list=PL_euSNU_eLbfIr88Sgtalv4W58mTW07V4
 	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa
 	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
@@ -203,68 +285,8 @@
 	- https://www.youtube.com/playlist?list=PLQOMi2yb4hF0kyhFOcgDWvWkonMDLquqy
 	- https://www.youtube.com/playlist?list=PLQOMi2yb4hF2kQ5Axv_tdznWLInV5qj8M
 	- https://www.reddit.com/r/typescript/comments/ebb3oa/completely_dont_understand_the_purpose_of/
-	- https://medium.com/simform-engineering/iterators-and-generators-in-javascript-22da731b7fe3
-	- https://stackoverflow.com/questions/53894639/why-does-javascript-iterator-next-return-an-object
-	- https://www.reddit.com/r/learnjavascript/comments/xdeou7/could_someone_eli5_what_iterators_and_generators/
-	- https://stackoverflow.com/questions/28739745/how-to-make-an-iterator-out-of-an-es6-class
-	- https://www.qed42.com/insights/implementing-iterators-and-generators-in-javascript
-	- https://medium.com/@ignatovich.dm/understanding-javascript-generators-with-practical-examples-947ab3d89421
-	- https://www.reddit.com/r/javascript/comments/yojg3z/why_would_anyone_need_javascript_generator/
-	- https://neuralsorcerer.medium.com/understanding-generators-in-javascript-an-in-depth-guide-with-examples-e398937b6a19
-	- https://stackoverflow.com/questions/78913849/understanding-the-need-for-generator-functions-in-javascript
-	- https://www.linkedin.com/pulse/using-javascript-generators-yield-promises-vladim%C3%ADr-gorej/
-	- https://stackoverflow.com/questions/20768922/javascript-generators-understanding-them
-	- https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/
-	- https://medium.com/@mdsiaofficial/callback-function-in-javascript-f381d77ea8fb
-	- https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/
-	- https://www.reddit.com/r/learnjavascript/comments/yz869i/please_help_me_understand_callback_functions/
-	- https://teamtreehouse.com/community/return-vs-callback-javascript
-	- https://stackoverflow.com/questions/3458553/javascript-passing-parameters-to-a-callback-function
-	- https://medium.com/@mohdtalib.dev/callback-in-javascript-the-what-why-and-how-80efa5ee3510
-	- https://medium.com/@charliekroon/closures-and-callbacks-in-javascript-a56647d14ab2
-	- https://stackoverflow.com/questions/615907/how-is-a-closure-different-from-a-callback
-	- https://medium.com/@punitkmr/whats-is-callbacks-closure-promises-and-async-await-a8d47eb83862
-	- https://www.reddit.com/r/learnjavascript/comments/1cnxvfg/does_callback_function_always_creates_a_closures/
-	- https://www.quora.com/Whats-the-difference-between-closures-callbacks-and-anonymous-functions
 	- https://gist.github.com/amysimmons/3d228a9a57e30ec13ab1
-	- https://softwareengineering.stackexchange.com/questions/203507/whats-so-useful-about-closures-in-js
-	- https://thecontentauthority.com/blog/callback-vs-closure
-	- https://www.scholarhat.com/tutorial/javascript/javascript-design-patterns
-	- https://www.quora.com/Are-callback-functions-in-JavaScript-a-form-of-closure-How
-	- https://medium.com/@kevincennis/currying-in-javascript-c66080543528
-	- https://stackoverflow.com/questions/113780/javascript-curry-what-are-the-practical-applications
-	- https://blog.logrocket.com/understanding-javascript-currying/
-	- https://meenumatharu.medium.com/unwrapping-the-magic-of-currying-in-javascript-603a69e28af9
-	- https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/
-	- https://www.reddit.com/r/learnprogramming/comments/12j2s9y/why_use_currying/
-	- https://javascript.plainenglish.io/understanding-currying-function-in-javascript-c3e1c92b7579
-	- https://javascript.plainenglish.io/infinite-currying-in-javascript-f17ec1619568
-	- https://medium.com/@mariappan/mixins-in-javascript-simplified-58782141519b
-	- https://stackoverflow.com/questions/42247434/how-to-add-mixins-to-es6-javascript-classes
-	- https://blog.bitsrc.io/mixin-in-javascript-7a7eaa6d4920
 	- https://justinfagnani.com/
-	- https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
-	- https://stackoverflow.com/questions/860245/mixin-vs-inheritance
-	- https://medium.com/@michalistzikas/inheritance-vs-mixins-b57a95a32505
-	- https://blog.bitsrc.io/inheritance-abstract-classes-and-class-mixin-in-javascript-c636ac00f5a9
-	- https://www.reddit.com/r/learnprogramming/comments/1f92hw1/what_is_inheritance_tax_and_why_are_mixins_a/
-	- https://www.linkedin.com/pulse/understanding-mixins-javascript-laurence-svekis--v63xc/
-	- https://medium.com/@artemkhrenov/the-decorator-pattern-in-modern-javascript-adding-functionality-without-breaking-code-b43d9c237047
-	- https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841
-	- https://medium.com/@ignatovich.dm/understanding-javascript-proxy-object-9129f44c88d7
-	- https://www.freecodecamp.org/news/javascript-proxy-object/
-	- https://rehmat-sayany.medium.com/understanding-javascript-proxy-objects-cf4ce35452fe
-	- https://rahuulmiishra.medium.com/symbols-in-javascript-beyond-strings-and-numbers-for-unique-identity-68033188839b
-	- https://stackoverflow.com/questions/60048014/what-do-people-use-symbol-functions-in-javascript-for
-	- https://javascript.plainenglish.io/mastering-symbol-iterator-build-your-own-iterable-in-javascript-1414a9e7767d 
-	- https://www.freecodecamp.org/news/how-did-i-miss-javascript-symbols-c1f1c0e1874a/
-	- https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c
-	- https://www.reddit.com/r/javascript/comments/j1tgh0/who_needs_javascript_symbols/
-	- https://medium.com/codex/understanding-this-in-javascript-the-complete-guide-c4c21fe15ff8
-	- https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/#heading-what-is-the-bind-method-in-javascript
-	- https://www.reddit.com/r/learnjavascript/comments/1ib94xu/this_keyword_in_javascript/
-	- https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
-	- https://medium.com/tech-tajawal/javascript-this-4-rules-7354abdb274c
 	- https://youtu.be/Hj_rA0dhr2I?si=9oLjNY_avC3f-jmA
 	- https://youtu.be/lvdKvb6tvh4?si=2tRKeKhAB9CO3vjx
 	- https://youtu.be/TVw9ENfQk10?si=2V_Xn-NgTYZlpnly
@@ -313,147 +335,426 @@
 	- https://youtu.be/DjYZk8nrXVY?si=hluZGemukHd2NKWu
 	- Code Smells to Clean Code in JavaScript – Tutorial https://youtu.be/626BcUO84og?si=xhrl_nP0DbdL0H3d
 	- JavaScript tutorials (29) https://www.youtube.com/playlist?list=PL_euSNU_eLbduec7Ki4kAp2KrSCytwkjh
-## 1.1 Data Structures and Algorithms
-	- Javascript Data Structures and Algorithms (3) https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
-	- Javascript Data Structures and Algorithms https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
-	- https://visualgo.net/en
-	- https://www.simplilearn.com/tutorials/data-structure-tutorial
-	- https://herovired.com/learning-hub/blogs
-	- https://www.tutorialspoint.com/data_structures_algorithms/index.htm
-	- https://www.naukri.com/code360/library/data-structures-and-algorithms
-	- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-	- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
-	- https://courses.algocamp.io/learn/DSA-In-Javascript
-	- https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/
-	- https://github.com/trekhleb/javascript-algorithms
-	- https://www.scaler.com/topics/data-structures-in-javascript/
-	- https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
-	- Data Structures & Algorithms https://youtube.com/playlist?list=PLdNCznBZ77NrSAWDpUKIqxy6uYLnh-UJ-&si=GANzCnYh2sZTXK4G
-	- How To Implement Linked Lists With Test Driven Development In JavaScript https://youtu.be/gJjPWA8wpQg?si=0rODpQA3eiNqEmho
-	- Master Data Structures & Algorithms https://www.youtube.com/playlist?list=PLA3GkZPtsafYzRj2lk6OyquJtRXoDLR_S
-	- Data Structure and Algorithms Tutorials https://www.youtube.com/playlist?list=PLS1QulWo1RIaITXKLNSVR3XMJU_LtWY5B
-	- Data Structures and Algorithms https://www.youtube.com/playlist?list=PLOghUv2IDLKEt0fAfJONhUdImcgoNIoc3
-	- Data Structures and Algorithm With JavaScript in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7
-	- Tutorial https://www.youtube.com/playlist?list=PLBjlBpv1-OTKGymFhf8ngL-4DC__mT6IY
-	- Algorithm https://www.youtube.com/playlist?list=PLBjlBpv1-OTLC95ycD9_7LYO3zRszKiVj
-	- Data Structures and Algorithms https://www.youtube.com/playlist?list=PLqR6Wq9GKBiuuxxkMlwYIjCm6l67waNaI
-	- Data Structure & Algorithm https://www.youtube.com/playlist?list=PLFGoYjJG_fqpNW4onglHmxyLHfs4pKAjc
-	- All Sorting Algorithms https://www.youtube.com/playlist?list=PLFGoYjJG_fqpVtMswMMWcY0WUuYqySiZ5
-	- Shorts https://www.youtube.com/@VijayDahiyaDeveloper/shorts
-	- Big O Notation https://youtu.be/4QdZAlZfqyY?si=90494qvdgBAVZsEk
-	- Typescript DSA Course https://www.youtube.com/playlist?list=PLa72FipivD81DkPyKlsG99XAGVbnMfToV
-	- JavaScript Algorithms and Data Structures https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
-	- Intro to Data Structures https://www.youtube.com/playlist?list=PLGdfV5UgThVNvC0woabFLkK4gggNU5pak
-	- Data Structures Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFAjpAItCWvIIJX68sav9-6N
-	- Data Structure Visualizations https://www.youtube.com/playlist?list=PLlDftNlvPbFD8I9W4gFnMXYXiLqpVvsEB
-## 1.2 Patterns
-	- https://www.dofactory.com/javascript/design-patterns
-	- https://www.dofactory.com/javascript
-	- https://refactoring.guru/
-	- https://www.patterns.dev/
-	- https://www.patterns.dev/#patterns
-	- https://javascriptpatterns.vercel.app/patterns
-	- https://js-design-patterns.vercel.app/#0
-	- https://design-patterns-101.vercel.app/
-	- Dependency Injection in Javascript https://www.youtube.com/watch?v=F9ZEZRGYWr8
-	- Singleton Design Pattern In Javascript https://www.youtube.com/watch?v=7u_7Gfczycc
-	- Observer Design Pattern In Javascript https://www.youtube.com/watch?v=7_T97F-2KQ4
-	- Proxy Design Pattern in Javascript https://www.youtube.com/watch?v=ktzA2CwTL7I
-	- Factory Design Pattern in Javascript https://www.youtube.com/watch?v=HyAsoq574ts
-	- Backend Engineering (36) https://www.youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT
-	- How to implement Clean Architecture in Node.js (and why it's important) https://www.youtube.com/watch?v=VmY22KuRDbk
-	- Software Architecture (75) https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9
-	- Programming Patterns (33) https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe
-	- Software Engineering Highlights (38) https://www.youtube.com/playlist?list=PLQnljOFTspQWKPjGnVgA5oVIhNKJ5mDXg
-	- OOP Patterns https://youtube.com/playlist?list=PLug_z34YaEYvUHeEWOmq4zlF9u0IY541S&si=SW7qeLe17RlAgQE5
-	- Architectural Patterns https://youtube.com/playlist?list=PL285LgYq_FoJMIMzaQAVyfcvEaLXBZEw6&si=tQ4-4ensWKeVgLIZ
-	- Design patterns https://youtube.com/playlist?list=PL0iFifR5umck8Dqm51YewHERHUY7-Q2aZ&si=LIZmmUFCkO68PX4r
-	- Design Patterns https://youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f&si=_YddmvPT1Eq6MioU
-	- SOLID Design Principles https://youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&si=BEMo9GrhtTWK1LOV
-	- Clean Code https://youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79&si=m2xQS4s4tNOjnFUJ
-	- SOLID Design Principles https://www.youtube.com/playlist?list=PLXQpH_kZIxTWOcC8wvUHBMLSMQQ8LgcmU
-	- This is the Only Right Way to Write React clean-code - SOLID https://youtu.be/MSq_DCRxOxw?si=p5grJjTPqiyTbS02
-	- Design Patterns Tutorial in Hindi https://www.youtube.com/playlist?list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_
-	- Design Patterns https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0
-	- Design Patterns https://www.youtube.com/playlist?list=PLOghUv2IDLKEyNsW2fKCR8gxtlRGI1Usp
-	- Facade Design Pattern https://youtu.be/1oEqkRK3HYw?si=2RK4KtUHEcFGwCdE
-	- Design Patterns in 60 seconds https://www.youtube.com/playlist?list=PL-P_hNzCQhQgUmqxUZ-4JBChVTgP1Nthe
-	- Design Pattern https://www.youtube.com/playlist?list=PLqR6Wq9GKBis9wAMUV4bo02fVNWafjgS2
-	- Design Patterns https://www.youtube.com/playlist?list=PL18L3lKMddFqxkMhwMSAxpCwhEayD2IDd
-	- Design Patterns Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYfiybyI_6R7KvHSql0DW-2v
-	- Design Patterns https://www.youtube.com/playlist?list=PLTCrU9sGybuo3HIJUKusfhB_m7QucuDTQ
-	- Design Patterns https://www.youtube.com/playlist?list=PLO6785UZapFX5bO4ZZSO7Unn2uOTNFqfQ
-	- Typescript https://www.youtube.com/playlist?list=PLa72FipivD80CCMq5UK2ivFsLE-FJFoyk
-	- Creational Design Patterns https://www.youtube.com/playlist?list=PLa72FipivD81tZGTG5Ex55LreCchuLSlH
-	- Structural Design Patterns https://www.youtube.com/playlist?list=PLa72FipivD80au4024gKw8e4kOelI36xr
-	- Behavioral Design patterns https://www.youtube.com/playlist?list=PLa72FipivD80PdAJCK6tXjBFedOScNUZL
-	- DESIGN PATTERNS https://www.youtube.com/playlist?list=PLVvjrrRCBy2LKvNBbBpUAN_ywK7NyMiC4
-## 1.4 ReactJS
-    - https://react.dev/
-    - https://react-typescript-cheatsheet.netlify.app/
-    - https://redux-toolkit.js.org/
-    - https://reactrouter.com/
-    - Youtube Search 'ReactJS 19'
-    - Youtube Search 'ReactJS hooks'
-    - React JS 19 - The Ultimate Crash Course with AI! https://www.youtube.com/watch?v=GPWHql7scWc
-    - GitHub Copilot
-    - https://www.developerway.com/
+	- Data Structures and Algorithms
+		- Javascript Data Structures and Algorithms (3) https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
+		- Javascript Data Structures and Algorithms https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
+		- https://visualgo.net/en
+		- https://www.simplilearn.com/tutorials/data-structure-tutorial
+		- https://herovired.com/learning-hub/blogs
+		- https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+		- https://www.naukri.com/code360/library/data-structures-and-algorithms
+		- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+		- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+		- https://courses.algocamp.io/learn/DSA-In-Javascript
+		- https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/
+		- https://github.com/trekhleb/javascript-algorithms
+		- https://www.scaler.com/topics/data-structures-in-javascript/
+		- https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
+		- Data Structures & Algorithms https://youtube.com/playlist?list=PLdNCznBZ77NrSAWDpUKIqxy6uYLnh-UJ-&si=GANzCnYh2sZTXK4G
+		- How To Implement Linked Lists With Test Driven Development In JavaScript https://youtu.be/gJjPWA8wpQg?si=0rODpQA3eiNqEmho
+		- Master Data Structures & Algorithms https://www.youtube.com/playlist?list=PLA3GkZPtsafYzRj2lk6OyquJtRXoDLR_S
+		- Data Structure and Algorithms Tutorials https://www.youtube.com/playlist?list=PLS1QulWo1RIaITXKLNSVR3XMJU_LtWY5B
+		- Data Structures and Algorithms https://www.youtube.com/playlist?list=PLOghUv2IDLKEt0fAfJONhUdImcgoNIoc3
+		- Data Structures and Algorithm With JavaScript in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7
+		- Tutorial https://www.youtube.com/playlist?list=PLBjlBpv1-OTKGymFhf8ngL-4DC__mT6IY
+		- Algorithm https://www.youtube.com/playlist?list=PLBjlBpv1-OTLC95ycD9_7LYO3zRszKiVj
+		- Data Structures and Algorithms https://www.youtube.com/playlist?list=PLqR6Wq9GKBiuuxxkMlwYIjCm6l67waNaI
+		- Data Structure & Algorithm https://www.youtube.com/playlist?list=PLFGoYjJG_fqpNW4onglHmxyLHfs4pKAjc
+		- All Sorting Algorithms https://www.youtube.com/playlist?list=PLFGoYjJG_fqpVtMswMMWcY0WUuYqySiZ5
+		- Shorts https://www.youtube.com/@VijayDahiyaDeveloper/shorts
+		- Big O Notation https://youtu.be/4QdZAlZfqyY?si=90494qvdgBAVZsEk
+		- Typescript DSA Course https://www.youtube.com/playlist?list=PLa72FipivD81DkPyKlsG99XAGVbnMfToV
+		- JavaScript Algorithms and Data Structures https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
+		- Intro to Data Structures https://www.youtube.com/playlist?list=PLGdfV5UgThVNvC0woabFLkK4gggNU5pak
+		- Data Structures Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFAjpAItCWvIIJX68sav9-6N
+		- Data Structure Visualizations https://www.youtube.com/playlist?list=PLlDftNlvPbFD8I9W4gFnMXYXiLqpVvsEB
+	- Patterns
+		- https://www.dofactory.com/javascript/design-patterns
+		- https://www.dofactory.com/javascript
+		- https://refactoring.guru/
+		- https://www.patterns.dev/
+		- https://www.patterns.dev/#patterns
+		- https://javascriptpatterns.vercel.app/patterns
+		- https://js-design-patterns.vercel.app/#0
+		- https://design-patterns-101.vercel.app/
+		- https://www.scholarhat.com/tutorial/javascript/javascript-design-patterns
+		- Dependency Injection in Javascript https://www.youtube.com/watch?v=F9ZEZRGYWr8
+		- Singleton Design Pattern In Javascript https://www.youtube.com/watch?v=7u_7Gfczycc
+		- Observer Design Pattern In Javascript https://www.youtube.com/watch?v=7_T97F-2KQ4
+		- Proxy Design Pattern in Javascript https://www.youtube.com/watch?v=ktzA2CwTL7I
+		- Factory Design Pattern in Javascript https://www.youtube.com/watch?v=HyAsoq574ts
+		- Software Architecture (75) https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9
+		- Programming Patterns (33) https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe
+		- Software Engineering Highlights (38) https://www.youtube.com/playlist?list=PLQnljOFTspQWKPjGnVgA5oVIhNKJ5mDXg
+		- OOP Patterns https://youtube.com/playlist?list=PLug_z34YaEYvUHeEWOmq4zlF9u0IY541S&si=SW7qeLe17RlAgQE5
+		- Architectural Patterns https://youtube.com/playlist?list=PL285LgYq_FoJMIMzaQAVyfcvEaLXBZEw6&si=tQ4-4ensWKeVgLIZ
+		- Design patterns https://youtube.com/playlist?list=PL0iFifR5umck8Dqm51YewHERHUY7-Q2aZ&si=LIZmmUFCkO68PX4r
+		- Design Patterns https://youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f&si=_YddmvPT1Eq6MioU
+		- SOLID Design Principles https://youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&si=BEMo9GrhtTWK1LOV
+		- Clean Code https://youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79&si=m2xQS4s4tNOjnFUJ
+		- SOLID Design Principles https://www.youtube.com/playlist?list=PLXQpH_kZIxTWOcC8wvUHBMLSMQQ8LgcmU
+		- This is the Only Right Way to Write React clean-code - SOLID https://youtu.be/MSq_DCRxOxw?si=p5grJjTPqiyTbS02
+		- Design Patterns Tutorial in Hindi https://www.youtube.com/playlist?list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_
+		- Design Patterns https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0
+		- Design Patterns https://www.youtube.com/playlist?list=PLOghUv2IDLKEyNsW2fKCR8gxtlRGI1Usp
+		- Facade Design Pattern https://youtu.be/1oEqkRK3HYw?si=2RK4KtUHEcFGwCdE
+		- Design Patterns in 60 seconds https://www.youtube.com/playlist?list=PL-P_hNzCQhQgUmqxUZ-4JBChVTgP1Nthe
+		- Design Pattern https://www.youtube.com/playlist?list=PLqR6Wq9GKBis9wAMUV4bo02fVNWafjgS2
+		- Design Patterns https://www.youtube.com/playlist?list=PL18L3lKMddFqxkMhwMSAxpCwhEayD2IDd
+		- Design Patterns Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYfiybyI_6R7KvHSql0DW-2v
+		- Design Patterns https://www.youtube.com/playlist?list=PLTCrU9sGybuo3HIJUKusfhB_m7QucuDTQ
+		- Design Patterns https://www.youtube.com/playlist?list=PLO6785UZapFX5bO4ZZSO7Unn2uOTNFqfQ
+		- Typescript https://www.youtube.com/playlist?list=PLa72FipivD80CCMq5UK2ivFsLE-FJFoyk
+		- Creational Design Patterns https://www.youtube.com/playlist?list=PLa72FipivD81tZGTG5Ex55LreCchuLSlH
+		- Structural Design Patterns https://www.youtube.com/playlist?list=PLa72FipivD80au4024gKw8e4kOelI36xr
+		- Behavioral Design patterns https://www.youtube.com/playlist?list=PLa72FipivD80PdAJCK6tXjBFedOScNUZL
+		- DESIGN PATTERNS https://www.youtube.com/playlist?list=PLVvjrrRCBy2LKvNBbBpUAN_ywK7NyMiC4
+## ReactJS
+	- https://react.dev/
+	- https://redux-toolkit.js.org/
+	- React JS 19 - The Ultimate Crash Course with AI! https://www.youtube.com/watch?v=GPWHql7scWc
+	- GitHub Copilot
+	- Testing React component with Jest https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOrIKCE0mrPOkIg57qPDRKM   
+	- NextJS Zod
+	- All useEffect Mistakes Every Junior React Developer Makes https://youtu.be/QQYeipc_cik?si=7h4RdA-fkDR5FdAy
+	- https://react-typescript-cheatsheet.netlify.app/
+	- Youtube Search 'ReactJS 19'
+	- Youtube Search 'ReactJS hooks'
+	- https://www.developerway.com/
 	- React JS 19 tutorial in Hindi 2025 https://www.youtube.com/playlist?list=PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu
 	- React Redux Toolkit Tutorials https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo
 	- Redux Toolkit for React Apps https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPMUvkSNl5BXBECMOUWC_lm
-	- Testing React component with Jest https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOrIKCE0mrPOkIg57qPDRKM
-## 2 NodeJS
-	- worker threads and cluster
-	- event loop nuances, microtasks and macrotasks, set immediate vs async await vs next tick etc
-	- how to debug memory leaks and what things can cause them
-	- Nodejs Core Concepts https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
+## NodeJS
+	- Interview Theory
+		- https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
+		- https://www.interviewkickstart.com/blogs/interview-questions/advanced-node-js-interview-questions
+		- Node js interview questions in hindi https://www.youtube.com/playlist?list=PL8p2I9GklV47MAUttpKKEkQT3xV4KuDwx
+		- How to implement Clean Architecture in Node.js (and why it's important) https://www.youtube.com/watch?v=VmY22KuRDbk
+		- worker threads and cluster
+		- event loop nuances, microtasks and macrotasks, set immediate vs async await vs next tick etc
+		- how to debug memory leaks and what things can cause them
+		- Nodejs Core Concepts https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
+		- Understanding the Node.js Event Loop: Is Node.js Single or Multithreaded? https://youtu.be/wMGCwfLsyhc?si=9WttE5j-MllEGoJC
+		- Do not thrash the Node js event loop https://youtu.be/VI29mUA8n9w?si=46PKAGaXqrD8kSZ6
+		- Node.js Event Loop https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN
+		- Layered Architecture in Node.js https://www.youtube.com/playlist?list=PLZVBmpM0E_DGngTx5A3f0K-F4m-UalDyb
+		- What is Tracing & Why You Need It https://youtu.be/cIH-xNOjhcI?si=hNT_N_CcBkG0zKcj
+		- Bloom Filters https://www.youtube.com/playlist?list=PLJALjJgNSDVp7bU4crKW9PPqWfWbNm6tD
+		- ”🔥Pro Tip: 💪Unlock 8x Speed in Node.js with 1 Line! 🚀 | Cluster Mode Explained https://youtu.be/L0T-x9kdmtA?si=ZNxv2VP-Hfv9GOWU
+		- Crack Node JS Interview https://www.youtube.com/playlist?list=PLIGDNOJWiL1--PkxBwF8ghr0Oc0hXVJi7
+		- Top-50 Node JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL1_yLcirFqgAxlNFL3tsdxrM
+	- Interview Practical
+		- Build a URL Shortener with Node.js, React, TypeScript & MongoDB https://youtube.com/playlist?list=PL0iFifR5umcmO4TrYZawg6TsUcPjYaK_8&si=IoKlX2tY7bJsqWPl
+		- How I Implemented a Long-lived Timeout that Scales https://youtu.be/kSDbBhJTTiA?si=KyEujziA2qZnzBwr
+		- Schedule Tasks in Node.js with Cron Jobs | node-cron Tutorial Step by Step https://youtu.be/lDp3t8EZ50Q?si=ENgdOHD-pB03zxdQ
+		- Model View Controller in NodeJS | MVC Pattern https://youtu.be/JLtXoru-ipo?si=pX-rGrqydOMhZIQg
+		- Node JS- Rest API-MongoDB https://www.youtube.com/playlist?list=PLD5mJXRPUUgusuhRX_16pltiZV6hPNPzd
+		- Caching in Node.js: Boost Your App Performance https://www.youtube.com/watch?v=2883HqL5Pbw
+		- Caching Implementation Using NODE JS || Cache || Node-Cache https://www.youtube.com/watch?v=-wPojC20928
+		- Implementing API Rate Limit & Throttling in Node.js & Express.JS https://www.youtube.com/watch?v=--KuQpt2oYE
+		- How to Prevent SQL Injection Attacks in Node.js https://youtu.be/vYFZDRraMnw?si=8Q3Qb6M31OAJhaFb
+		- RSA Key Generation, Signatures and Encryption using OpenSSL | Encryption Decryption using openSSL https://youtu.be/efkAJ27fUa8?si=3KhOd9Uo_4GOLqpV
+		- Create a simple Node.js Docker Container from scratch https://youtu.be/EKaGsShRXNY?si=3ODWHrObHjA3bTSC
+		- Debugging Node.js + Typescript Running inside Docker Containers with Hot Reload https://www.youtube.com/watch?v=1WUoITRINf0
+		- Full Text Search With MongoDB And Node.js https://www.youtube.com/watch?v=Z05rVI5mhzE
+		- Build a Realtime Chat App with React and NodeJS https://www.youtube.com/playlist?list=PLlameCF3cMEvB8N2bhctdqCMfj1q5aiZh
+		- React & NestJS Lazy Loading, Search  & Sorting using MySQL https://www.youtube.com/playlist?list=PLlameCF3cMEtOzwKqcmdD7DEjdqjfb_c3
+		- Use Classes In NodeJS | Inheritance | Express App using classes https://youtu.be/kbPXLlnYuBg?si=cBDbe--Q-TU4D6-Q
+		- CRON Jobs Scheduler With Practical Example https://youtu.be/qvdDZjhtA8g?si=MbPKQ5oK6ZkNtXPK
+		- Dependency Injection in Node with awilix https://www.youtube.com/playlist?list=PL1Nml43UBm6ez_JKgCUpgkwfh9oQLjVmm
+		- Build API Gateway in Nodejs using Express Gateway https://www.youtube.com/watch?v=CPffHrnob88
+		- Learn API Gateway in Node.js in 5 Minutes! https://youtu.be/YkRC0V7tlIk?si=m2QQAc_unLrkgtoQ
+		- NodeJS Tips & Tricks https://youtube.com/playlist?list=PLdHg5T0SNpN2c0j8ggRFUU4iRxVznozWt&si=hgJHjfzVnjzfvquC
+		- Production Ready Server Setup https://youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9&si=g4pa1mQvmRDH_YBn
+		- SETUP Your File Sharing Server in MINUTES For Small Company https://youtu.be/X3bz0gftGD4?si=aPPNZ08i1YCFI-H_
+		- Building an API Gateway with NodeJs https://youtu.be/bD6Mxc_9kzw?si=P8DT-SQObuvQpEks
+		- Use Classes In NodeJS | Inheritance | Express App using classes https://youtu.be/kbPXLlnYuBg?si=EqfH4MVNZOAuTYQ8
+		- Boost Node.js Speed 🚀 Use All Your CPU Cores! 💻 | Handle Parallelism Like a Pro https://youtu.be/w8FCthycTBg?si=76rDsGp6Jkz9FLdk		
+		- Which Pagination Method is BEST for You Offset or Cursor? 13m https://youtu.be/jOmkjTYW03U?si=BbCwuMdiRJPkhXTC
+		- NodeJS MultiThreading (13) https://www.youtube.com/playlist?list=PL_euSNU_eLbdi-nNMgGgzX-oL0LPshJwO
+		- NodeJS Compression 9m https://youtu.be/gMT0G8BFQ28?si=hVIaXqyT2BMeEhAw
+		- Unix in NodeJS Concepts (34) https://www.youtube.com/playlist?list=PL_euSNU_eLbdNhMn1zO8oik-Ndsp084e9
+		- Networking - NodeJS (21) https://www.youtube.com/playlist?list=PL_euSNU_eLbcU-00ZsoVbghHedbCpQOD1
+		- Hire API Node Project (38) https://www.youtube.com/playlist?list=PL_euSNU_eLbdR4-kezzzXCQi-Xhe4jmY-
+		- Nodejs Core Concepts (151) https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
+		- Nodejs Files (8) https://www.youtube.com/playlist?list=PL_euSNU_eLbe4mF6ph80TI2U8SNKod1oO
+		- Nodejs Streams (33) https://www.youtube.com/playlist?list=PL_euSNU_eLbeXBWFFA6AER8ke1pAIbCqm
+		- NodeJS Complete Guide (60) https://www.youtube.com/playlist?list=PL_euSNU_eLbdf5XbrFl-nOw6-7ZtT27Bn
+		- A Beginner’s Guide to Debugging Node.js Applications [Hindi] https://youtu.be/J8AQRdbGz0g?si=pdDhIP0wIsIC-Frf
+		- How to debug Node.js in Visual Studio Code https://youtu.be/4UGyzRo8Dsk?si=kafr0pakGWJv_ZSV
+		- How to use Multithreading with "worker threads" in Node.js? https://www.youtube.com/watch?v=MuwJJrfIfsU
+		- Worker Threads in Node.js: The Secret to High-Performance Backends 🔥 https://www.youtube.com/watch?v=Vej327jN8WI
+		- How I Build REST APIs that Scale https://youtu.be/m1sNz9Fw_vY?si=07EOSobQ9dCcMS8t
+		- Scraping Web with Node JS https://www.youtube.com/playlist?list=PLIGDNOJWiL1-W3tmbQ5W_yWpYBeFf03Aq
+	- Authentication
+		- How to implement JWT Token in NodeJS https://www.youtube.com/watch?v=NjpFBpfJC58
+		- JSON Web Token (JWT) https://youtube.com/playlist?list=PL0iFifR5umcnOlQFZHhlxpwnCG_U1nYMn&si=KbIy4IG_fqNQjYVL
+		- Easy JWT Authentication in Node.js | Step-by-Step Guide https://youtu.be/bSI2zOQm7qM?si=-xQmqJk_PrY_Osbv
+		- Difference between cookies, session and tokens https://youtu.be/GhrvZ5nUWNg?si=nL3JBnlvnaPLTqvh
+		- Difference between cookies, session and tokens (re-upload, no music) https://youtu.be/ke32nvfYtVw?si=jIDgvFQPR9I67DMd
+		- API Authentication Explained (Finally) — Basic Auth, Bearer & JWT https://youtu.be/I747kI_y9eQ?si=bvZr6Jglc6BwTw5Y
+		- Why Your Token Storage Could Be Your Biggest Security Risk - XSS and CSRF Attack in Action https://youtu.be/vTroMvQy6K0?si=sGmf2O6HqK97X3sW
+		- API Authentication Explained (Finally) — Basic Auth, Bearer & JWT https://youtu.be/I747kI_y9eQ?si=4p94LcwCiG2OcO_p
+		- Cookies (8) https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn
+		- Role Based Access Control https://youtube.com/playlist?list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9&si=Fe7mORJ-eJIrVvmb
+		- Authentication https://youtube.com/playlist?list=PLug_z34YaEYt3595sv9Cr31s9RWZ3ytSe&si=k1SdLpJWg5CtKpe4
+		- NodeJS API Authentication (JWT's) https://youtube.com/playlist?list=PLdHg5T0SNpN0ygjV4yGXNct25jY_ue70U&si=rzYa2eEPsuJxucJP
+		- JSON Web Tokens https://www.youtube.com/playlist?list=PL1Nml43UBm6ctQsHH6eSWtQmMBqRiS2mI
+		- JSON Web Tokens (JWT) - everything you need to know https://www.youtube.com/playlist?list=PL1Nml43UBm6dge_ykMszBCtaSJ9RnxQNJ
+		- OAuth 2.0 tutorial | OAuth flows https://www.youtube.com/playlist?list=PL1Nml43UBm6dOj4UuH-7a9e3wO6eL2SCi
+		- Sessions in express.js | Node.js session implementation with Redis https://www.youtube.com/playlist?list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2
+		- Authentication & Authorization https://www.youtube.com/playlist?list=PL-P_hNzCQhQjPCD8rcGMLVOh5szMqU_tr
+		- NodeJS Authentication https://www.youtube.com/playlist?list=PLJALjJgNSDVofJlPDRo9h0WjS7Tlbsii7
+		- RBAC https://www.youtube.com/playlist?list=PLDSFjvmlLP4SuLkmHXGdx03PHmDmxHdnH
+		- Node.js Auth Tutorial (JWT) https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp
+		- React Login using Access & Refresh Tokens https://www.youtube.com/watch?v=VJLSaq1Ll0U
+		- NodeJS Authentication using Access & Refresh Tokens https://www.youtube.com/playlist?list=PLlameCF3cMEtB7i9d7VmL2PMjhXOJXArA
+		- Quick HTTP Cookie guide in Web Development with Express https://youtu.be/hzMqeeGgtBA?si=_aiLFfnaSYe9ssUd
+		- Fullstack Authentication with Refresh Access Tokens https://www.youtube.com/watch?v=xMsJPnjiRAc
+		- Exploring OAuth 2.0: Must-Know Flows Explained https://youtu.be/tpIXmmV4ib4?si=C5AUqIXUfL8Q1iWt
+		- JWT Authentication with .NET 9 🚀 Full Course with Roles, JSON Web Tokens & Refresh Tokens https://www.youtube.com/watch?v=6EEltKS8AwA
+		- Cookies: The Hidden Tech That Keeps the Internet Running https://youtu.be/lF1kat22hB8?si=bKrICj_ueP8ZSw1C
+	- RealTime
+		- Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript 290m https://youtu.be/gCwHi-UFSdg?si=_eAwpBcQmOyC7U2Y
+		- How To Use ChatGPT in Your NodeJS App https://youtu.be/dWZkQdD9hdE?si=vuPlcy7SvEnFR-aH
+		- Building a Chat App https://youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07&si=QIza93tcWbzL7lWF
+		- Socket.io Nodejs Build Real Time Apps https://www.youtube.com/playlist?list=PLvXDmnBbOF7R2AVit9M9cjbmC7CC48tyD
+		- WebSocket Crash Course https://youtu.be/aiVVpHp5LcY?si=d00T9kv7cNhMfILx
+		- WebSocket Tutorials https://www.youtube.com/playlist?list=PLYxzS__5yYQnRizvwNYWwzFjd9J4ni_Ga
+		- Get webhooks at localhost https://youtu.be/41N5oni1ffQ?si=gi1-q_mTzka7Qom3
+		- Realtime Notification App Using React and Socket.io https://www.youtube.com/watch?v=7vVqMR96T5o
+		- HTTP/2 (26) https://www.youtube.com/playlist?list=PLQnljOFTspQWbBegaU790WhH7gNKcMAl-
+		- WebSockets (10) https://www.youtube.com/playlist?list=PLQnljOFTspQUGjfGdg8UvL3D_K9ACL6Qh
+		- Socket.io Crash Course - Build a Real Time Chat Application https://youtu.be/asVDzgdyYLk?si=f9ORuQYwUzqjoeLp
+		- How I coded a CHAT ROOM with WEBSOCKETS and REACT https://youtu.be/uyVz6LA3Eho?si=JpEhpKu9m5fsExJ9
+		- Chat application using Websockets https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No&si=v8pKeC6WI-QvWmhR
+		- Socket-Typing https://www.youtube.com/playlist?list=PLJALjJgNSDVowGYudH57dZw4ety6N_v6d
+		- Chat App Node Js + React Js Hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9bSBYs2nCpb0sCxZ8dF1Ls2
+		- WebSockets Tutorial (Node & Socket.io Chat App) https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9
+		- Websocket https://www.youtube.com/playlist?list=PLbGui_ZYuhiiauKVhn2qD5SH8yZBrpbJ4
+		- http2 https://youtu.be/JAxcr2zRM5M?si=fZ5TUZGtQrko6rWw
+		- Webhooks - System design https://www.youtube.com/playlist?list=PLYpjLpq5ZDGsnBmwJCdFv5PhQbUZruKy3
+		- How to Make Any Chat App Scalable Easily https://youtu.be/yyibnC58ewk?si=lhfWrL-mD1gNNp0d
+		- Socket.io + React + NodeJS Realtime Graph/Charts Tutorial | ReCharts https://youtu.be/cmDna276eCo?si=FOFEtj2o_7lLh0YU
+		- HTTP/2 vs Socket.io Demo React & Node https://youtu.be/JAxcr2zRM5M?si=K0YHu_LMQNNNbMaD
+		- [LIVE] Building a Chat App with NestJS, ReactJS https://www.youtube.com/playlist?list=PL_cUvD4qzbkzS16TsnJDLbHuWBkKIbeVr
+		- Building a Cron Job Scheduler in Express with Node Cron https://www.youtube.com/watch?v=TeUHBA-iZRc&list=PLzHoH-EeZ8dfO4vffqHyeEGy9W8lXLi8w
+	- Testing
+		- Testing https://youtube.com/playlist?list=PLZlA0Gpn_vH_63f0HH-dUtkininO7GO6f&si=uO19NUFsILnVhobp
+		- JavaScript Testing Best Practices tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3OeWQwi0h0uDsWSNmU0nh4r
+		- Master Testing in Node.js https://www.youtube.com/watch?v=dWKy_JdaWcA
+		- Every Software Engineer Can Learn TDD https://youtu.be/tmOMJhZhIFI?si=WHioNIEBsir3bqH1
+		- Unit Testing Is The BARE MINIMUM https://youtu.be/h-4i5N89TUI?si=d8jFfN0sU7SG9OOx
+		- The 3 Types of Unit Test in TDD https://youtu.be/W40mpZP9xQQ?si=JRCa0CFWVe6tIvTM
+		- Test-Driven Development (TDD) Automation Framework Explained https://youtu.be/ndOJmVnPHPw?si=1I_UPgg_IWGy5ezS
+		- Why Unit Testing is Required https://youtu.be/bMeoZxN_dL0?si=INJNTrmmx_rrkVxM
+		- The ONLY REASON To Unit Test https://youtu.be/FF50H2RWaEY?si=FPSAxH429QJlROO1
+		- What is BDD? What is Behavior Driven Development? https://youtu.be/VS6EEUVZGLE?si=mRYQvgyaButvYTMP
+		- BDD Introduction https://youtu.be/6IUNFs3j14U?si=XWNuyp89wU657huZ
+		- BDD vs TDD (explained) https://youtu.be/mT8QDNNhExg?si=LzRI4QBabJVUWJPL
+		- Test Driven vs Behaviour Driven Development https://youtu.be/4QFYTQy47yA?si=6kLh_RQ943cCpmPU
+		- BDD Explained (Behaviour Driven Development) https://youtu.be/zYj70EsD7uI?si=f954LZogijndI8jM
+		- What is Behavior Driven Development? https://youtu.be/ydddSkVz_a8?si=6UcBHmPA6-8GgCnT
+		- Test Driven Development Vs Behavior Driven Development https://youtu.be/06M51vtmXdE?si=xW3gU2JPP20P8Ujs
+		- Test Driven Development vs Behavior Driven Development https://youtu.be/Bq_oz7nCNUA?si=DWoFU0xsinTBUPEy
+		- TDD vs BDD | Test Driven and Behavior Driven Development Difference Explained https://youtu.be/feaxjn2BXzc?si=7jpNGaTNZa32cKlu
+		- TDD Is The Best Design Technique https://youtu.be/ln4WnxX-wrw?si=Onvz1uXm3B7B6gjM
+		- What is TDD? What is Test Driven Development? https://youtu.be/H4Hf3pji7Fw?si=ZgHz8AyzPRek2sS1
+		- TDD is useless in programming https://youtu.be/Z3LiEeOEbCo?si=-fKQ9_XlD8fD6EA5
+		- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=sUykUML05rDzHDWy
+		- Master Testing in Node.js (JavaScript): Unit, Integration & E2E Testing (with In-Memory MongoDB!) https://youtu.be/dWKy_JdaWcA?si=vuQK3Cj-sUMrBuu_
+		- What TDD Looks Like In A REAL PROJECT https://youtu.be/RrFXxaH2sFc?si=lM0TdzawKB_qKGge
+		- Start Your TDD Journey with C# in 15 MINUTES https://youtu.be/dp1WRyR0TiE?si=TOZrIR1w0janUgG9
+		- THIS stops 90% of C# Developers Learning TDD https://youtu.be/x5hsO6R6Me8?si=tx_2MwAeQoT8eHzl
+		- What is TDD (Test Driven Development)? | How to do TDD with Example https://youtu.be/h26wrTxF94k?si=0GyNhstFpwDOETEC
+		- When To Unit, E2E, And Integration Test https://youtu.be/isI1c0eGSZ0?si=1FfGCK-1psRtAxmX
+		- Test driven development (TDD) - Tutorial for Beginners https://youtu.be/y8TcPr73Bwo?si=fA3VbJeXnu4AOikT
+		- TDD and The Terminator - An Introduction to Test Driven Development https://youtu.be/EcoIjf3RABI?si=P-Aih_KDX95VFQHb
+		- Test Driven Development In C# - TDD https://youtu.be/egzICSv-x_U?si=buZ7dLSK3zNhoxsd
+		- My 25 Laws of Test Driven Development https://youtu.be/x_3GSUiRhfM?si=PMjTNv0sBtcuMl5W
+		- Lets Chat About Unit Tests https://youtu.be/IInciWyU74U?si=2u3xpnJpXZTjBc7V
+		- Test Driven Development (TDD) Is A Broken Practice https://youtu.be/h-3z8i-MwFg?si=igkfLWMfkDHdIgTL
+		- JavaScript Testing 101 with Jest https://youtube.com/playlist?list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&si=-ETQ16EeAImLBspi
+		- TDD Express (2) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR
+		- Using jest to unit test node command line tool (1) https://youtu.be/ngbL6x4ma3Y?si=8qihGkGlWC1QVT1X
+		- TDD Express App https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR
+		- JavaScript Testing Fundamentals Course Guide (15) https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
+		- Jasmine Testing Framework Course (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
+		- Integration Tests with Vitest https://youtu.be/21EpOBrPi1A?si=Ltdvy_ShIPACC7YA
+		- Learn Vitest and Testing Library In 40 Minutes https://youtu.be/FJRuG85tXV0?si=JwpvA71raGgfXoaa
+		- Fast Unit Testing With Vitest https://youtu.be/FDEf3iWEgFI?si=xHs0iuSsVLgaP5wh
+		- TDD Express App https://youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR&si=zq9I2QbP6AMvqwuT
+		- Using jest to unit test node command line tool https://youtu.be/ngbL6x4ma3Y?si=o_K4jElhTIcTJtIs
+		- TDD https://youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR&si=kfS_7Y14MN1dJ5gx
+		- Testing with Vitest FREE COURSE https://youtu.be/cM_AeQHzlGg?si=CtIVF0xZN3qTcgsH
+		- How to Test Endpoint in Nodejs https://youtu.be/5dCL8wkKaMw?si=g1RsEnNtdw0bwqP-
+		- Testing Your Code https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NTWVG8eM7Dt43vvzulnIbK
+		- Jest tutorial with Node | testing Node.js applications https://youtu.be/KqQoiFBp36A?si=dl-oQ-ONnoM2f60I
+		- Testing Nodejs REST API with Express and MongoDB using Mocha & Chai https://youtube.com/playlist?list=PLSVX7Y2dUwe4Rrq4u7DRvz1wuOs1A31EN&si=dFsPA5uC8YG1VpMo
+		- How to write unit tests in node JS using Jest? https://youtu.be/W1grdBoFJdw?si=PC2W-9IRDuUdNFNX
+		- Supertest API Automation Tutorial | Node.js API Testing with Mocha & Chai https://youtu.be/xyXW2oHHqHY?si=Pr4aUzQHqR411EVk
+		- Introduction to Test-Driven Development (TDD) with TypeScript | 2021 https://youtu.be/a1jdwlujdk0?si=jO3PwZL01OTJnMcK
+		- How to Test Code Coupled to APIs & Databases https://youtu.be/ajfZqzeHp1E?si=2YieHkpIkHZmZ9bV
+		- Unit & Integration Testing in Node.js | Scalable Backend Architecture with Node.js https://youtu.be/_SDR6vAGens?si=CMChLPtxPrSzgLfm
+		- Turn Bad Code into Good Code (Javascript, TypeScript, Node, Jest, unit Testing) https://youtu.be/Ntd_rT-ZSBM?si=Rno4DukcSsfx7Nc-
+		- Node.js API Testing: The Ultimate Guide with Jest and Supertest (2025) https://youtu.be/LEYuxsGIeGo?si=pR8fw4RSkf8MZrq-
+		- Unit Testing with Jest – Complete Guide & Best Practices | Node.js & JavaScript Testing https://youtu.be/Oh0tZNKdobQ?si=jBfH4EKVLd3iW7O3
+		- Use Testing Coverage in Jest to Analyze Your Testing Suites https://youtu.be/m9SwRcnSAKI?si=yyvFo0Y9Vt-sSC6D
+		- JavaScript Testing with Jest https://youtu.be/UhG1xnDvXGY?si=WYgrxc-hNtfYuk4r
+		- Debugging Test in Node js Application - Express - Jest https://youtu.be/7bnoj_PY81M?si=hZgU78l-5DwBJ8yE
+		- Unit Testing with JEST in 80 Minutes https://youtu.be/GHVvrYD4VRE?si=6BVcfvkp6iERvsmy
+		- Node testing with Jest | Writing test cases | Node testing https://youtu.be/nGxircSyJMo?si=QqBOPseotWsAF46O
+		- Unit testing in 6 minutes: how to use Jest to unit test JavaScript code! https://youtu.be/QAqmVD-5eds?si=FBjVNEWbBui5uz1s
+		- Intro to Jest - Testing with ES6 https://youtu.be/kA9Pdu-IblI?si=5jrTJeEh3TGJfJIS
+		- Jest Tutorial | Testing NodeJS applications with JEST https://youtu.be/8gHEv5iNRKk?si=ALRarxiz6trYnj8b
+		- Introduction to Jest Testing | JavaScript Unit Tests https://youtu.be/x6NUZ8dc9Qg?si=vgt7vRNYe6XXUV-9
+		- Jest Crash Course - Learn How to Test your JavaScript Application https://youtu.be/ajiAl5UNzBU?si=KIcjKRh-jxZuZAxK
+		- Jest Crash Course - Unit Testing in JavaScript https://youtu.be/7r4xVDI2vho?si=rEU-3yNyWzll-OVe
+		- JavaScript Testing with Jest – Crash Course https://youtu.be/IPiUDhwnZxA?si=Ez2PvDFRMFSXCLFK
+		- ExpressJS - Jest & Unit Testing https://youtu.be/t5sFkGk8GY8?si=mYxo1hdJGNXz_tIY
+		- Unit Testing on NodeJS - Express API with Jest https://www.youtube.com/live/WnVrldHjN10?si=jbrUVxgrI6fJlwsM
+		- Node.js Unit Testing crash course in Hindi https://youtu.be/i2SHsjgEftg?si=wuO6DT4rP3nWWxwl
+		- Testing Express REST API With Jest & Supertest https://youtu.be/r5L1XRZaCR0?si=LBWl9XirSaqRqTq6
+		- How To Write Better Tests In 6 Easy Steps https://youtu.be/FcHUPqKRvxQ?si=v9TSzyPxzESh7Y0v
+		- Stop Writing So Many Tests https://youtu.be/4-_0aTlkqK0?si=1KU4CznNYEBcRjHA
+		- TDD Series - Test Driven Development Series https://youtube.com/playlist?list=PLUJeKZ3vVz9mByHlTJdOa3t4eeC3AvnXL&si=CNCVHDq4TLh0mQtM
+		- Testing Node Server with Jest and Supertest https://youtu.be/FKnzS_icp20?si=jCRmRaqLVN4WEvyF
+		- GPT Agents Build a Ready-to-Run Node.js Server Using TDD https://youtu.be/q-6HFvuUWbk?si=D2Hy3tBRp00od-H2
+		- Test Driven Development (TDD) | Crash Course https://youtu.be/z6gOPonp2t0?si=iJdR-2u90YywBm_3
+		- Software Testing Tutorial - Learn Unit Testing and Integration Testing https://youtu.be/Geq60OVyBPg?si=f7Qvqo1x0NYepIes
+		- Full Stack Testing with Node.js by Stacy Kirk, Quality Works https://youtu.be/i4Eu3Cczkek?si=peLni4jjovdkhOOY
+		- Practicing TDD using Jest and Node (JavaScript) for calorie tracker cli tool https://youtu.be/WlN2ps8XmTI?si=Qv4IICeYVhST6odk
+		- Using jest to unit test node command line tool https://youtu.be/ngbL6x4ma3Y?si=cdDNj-wduWwEWDVM
+		- TDD https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR
+		- Test Driven Development - TDD with Node js Express https://youtu.be/dTn_biKznU4?si=d7K-zODMR8qpC7nX
+		- Test-Driven Development // Fun TDD Introduction with JavaScript https://youtu.be/Jv2uxzhPFl4?si=-h85QELvf1ilp2ba
+		- NodeJS Express Test-Driven API Development (TDD) https://youtu.be/M44umyYPiuo?si=PorWc3smJNfMyk7j
+		- Testing https://www.youtube.com/playlist?list=PLyrXR-_n_7UrbBKka-FyXPgtRYl6Y1qlT
+		- Unit Testing with Mocha & Chai in Hindi | Node Js https://www.youtube.com/playlist?list=PLolI8AY2AS9bGs9pxrdRD13M2P6FOdswd
+		- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=ua3PxmFFVQI-ahnB
+		- Running NodeJS Tests/CI with GitHub Actions/Workflow https://www.youtube.com/watch?v=9KVCxMrshIk
+		- Introduction to JavaScript Testing with Jest https://www.youtube.com/watch?v=gfK38CQdlVU
+		- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIZzjlual3CbKn27HMUbJcJc
+		- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIYIR-yr5EVOo3B5k32gGCR7
+		- Practical Test Driven Development https://www.youtube.com/playlist?list=PLvkjn9Z-S4IncPs9hbhnGULgSx43-Kakb
+		- jest tutorial https://www.youtube.com/playlist?list=PL8p2I9GklV44-_4hh1evohe5WinvqrWr6
+		- Jest MOCK https://www.youtube.com/playlist?list=PLUXfUL9eJ8j5WDKM3js08NZ9BiK6TeDpg
+		- JavaScript Testing Fundamentals https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
+		- Jasmine Testing Framework Course https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
+		- Node testing with Jest | Supertest | Writing test cases https://youtu.be/KQjeU0mBQU8?si=0J5X1AGnVZbTEeET
+		- Cucumber BDD Framework with all Latest Features https://www.youtube.com/playlist?list=PLFGoYjJG_fqpObjigKg4bunu6_Ki7Ppn-
+		- Test Driven Development - TDD https://www.youtube.com/playlist?list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7
+		- TDD vs BDD https://www.youtube.com/playlist?list=PLngnoZX8cAn8XyTsN7_A1gTIQ15SNcKQS
+		- TDD vs BDD Death Match https://www.youtube.com/playlist?list=PLngnoZX8cAn-rZpWzX4TFlNbNLJRTKKDm
+		- Behaviour Driven Development https://www.youtube.com/playlist?list=PLngnoZX8cAn8mLgozOr3eEjE63sHSCQmT
+		- Testing https://www.youtube.com/playlist?list=PL18L3lKMddFpJTRSkoy3YDvUhKSRVwQ3z
+		- Test-Driven Development https://www.youtube.com/playlist?list=PL18L3lKMddFrXF3eoaCuG7RNpfkYfHBHc
+		- TDD - Test Driven Development https://www.youtube.com/playlist?list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q
+		- Acceptance Testing & BDD https://www.youtube.com/playlist?list=PLwLLcwQlnXByKR1Fo7UnE6gQAbx-JfYJZ
+		- Typescript Unit Testing - Full Course https://www.youtube.com/playlist?list=PLa72FipivD80tL1QpP0HKk6zL01h1y2KZ
+		- Simplified https://www.youtube.com/playlist?list=PL_QQ5oCdr7sPmJmMaiLw5opNS-tBwWesF
+	- Core, Process vs Threads
+		- Why Are Threads Needed On Single Core Processors https://youtu.be/M9HHWFp84f0?si=7jYxbvSdd7DwwsyS
+		- What Happens When a Program Calls Sleeps? https://www.youtube.com/watch?v=e5g8eYKEhMw
+		- Threads On Multicore Systems https://www.youtube.com/watch?v=5sw9XJokAqw
+		- A PROGRAM is not a PROCESS. https://www.youtube.com/watch?v=7ge7u5VUSbE
+		- CONCURRENCY IS NOT WHAT YOU THINK https://www.youtube.com/watch?v=3X93PnKRNUo
+		- ARRAYLIST VS LINKEDLIST https://www.youtube.com/watch?v=xFMXIgvlgcY
+		- WHY IS THE HEAP SO SLOW? https://www.youtube.com/watch?v=ioJkA7Mw2-U
+		- WHY IS THE STACK SO FAST? https://www.youtube.com/watch?v=N3o5yHYLviQ
+		- https://youtu.be/USlroJToye0?si=rbO8Ngvq8CV8dmC6
+		- https://youtu.be/hwTYDQ0zZOw?si=s3zIjAAIWfllTAjT
+		- https://youtu.be/ImzYxO3Lsvc?si=TX57qQTYM_2UN6xR
+		- https://youtu.be/wrVKnQvDJy0?si=1_TBAb2HJi7lPQXE
+		- https://youtu.be/fvNTJang7l4?si=S1RSozJsPePFK2o4
+		- https://www.youtube.com/live/F3aDUpP9dzA?si=HDPIKnj5gmGNNQVm
+		- https://youtu.be/FJQyv26tFZ8?si=K0lDggMMa56dFioO
+		- https://youtu.be/G5b1Zd367sA?si=VMDcq9uuthCCYAdG
+		- https://youtu.be/o4EX87_Jezk?si=7tiroGNxvK1h9lfM
+		- https://youtu.be/5r8Byu2KRuU?si=fO-yUoTToXLn3NXO
+		- https://youtu.be/DeLl_j_oQZc?si=CLdeDiHMk8_TcNx7
+		- https://youtu.be/olhCzhOyj_o?si=o68-22-RCIz7fUDF
+		- https://youtu.be/M1jxLQu40qo?si=FamAr_rZ8nAlP4tz
+		- https://youtu.be/yjUCKSKCQxg?si=RoDua9tqF19Hh_aD
+		- https://youtu.be/J1f5b4vcxCQ?si=FD9aC_zT4d4bg3I3
+		- https://youtu.be/P7g--FJdUXE?si=0grGA6Y0snPpGGht
+		- https://youtu.be/tYZd8hserms?si=p6uJU7jF96XWjDXJ
+		- https://youtu.be/Xv9ZxXM2LWM?si=KFxeNPRbY4jt21C1
+		- https://youtu.be/l7Gu_XrwtZE?si=ylTHIRZmStUGEy6Q
+		- https://youtu.be/EPv9-cHEmQw?si=8g3stn37TQcgNUJr
+		- https://youtu.be/vFzP2SaMyA0?si=SYZXiEksdFDvB5QO
+		- https://youtu.be/U0LGQjxyuw8?si=5oirGBmEId42P4yr
+		- https://youtu.be/zmdWWujU8M4?si=tetMbuPV8H8eyPcE
+		- https://youtu.be/K1a2Bk8NrYQ?si=OAYhhbAzV3rByC9h
+		- https://youtu.be/52wnTsBI_HE?si=suAZhR4UnOxKsV0v
+		- https://youtu.be/FYvl3MzGt-U?si=n7qRM9Wca8EZ4A8f
+		- https://youtu.be/tlg4KtkQE9A?si=xmRgpsLCN1QBN9hU
+		- https://youtu.be/Nw1mrIshK00?si=dBV2C8AUY9t_OXsy
+		- https://youtu.be/Y6T9usavXgY?si=gDlc_issJotbeSPT
+		- https://youtu.be/Tcdp3RVcnOI?si=wX9qwpyAJYc4UHSO
+		- https://youtu.be/1myWEH8IGt4?si=wgrd966s9pFld2Cy
+		- https://youtu.be/Q_qE_pNC0L4?si=LD-5cTEm1CWJ6V2j
+		- https://youtu.be/DnsbU0HVLg0?si=k3njWETIN7N724h1
+		- https://youtu.be/0vFgKr5bjWI?si=yyx18qXVnnPpk2vf
+		- https://youtu.be/brdp6d6KDso?si=H5nYHnYgyxfy-Usc
+		- https://youtu.be/EjIjvwLt76Y?si=J_Xq5vmFHvn7hkcy
+		- https://youtu.be/exbKr6fnoUw?si=uHAkllyGvfn0HnrV
+		- https://youtu.be/Dhf-DYO1K78?si=fPoYkoAWx6MOex3n
+		- https://youtu.be/-d0NGzVlZf4?si=9ndko_c4CGMv0KBF
+		- https://youtu.be/grriYn6v76g?si=707ZDkmTNd4oVk1W
+		- https://youtu.be/hN2Yrf4tqTY?si=Wr6PCUUtBUBwDJ7Q
+		- https://youtu.be/-ukFWIjpU5o?si=mGJ2ryZ3QkGPobJe
+	- gRPC
+		- gRPC in Node.js Explained | Beginner's Easy Guide https://youtu.be/5sFCKB8aCJA?si=BcoBREB5gwg2OeKs
+		- gRPC in Node.js Tutorial | Build Fast Microservices with Proto Files https://youtu.be/MCwgV9idOeY?si=IUuYZ7YqSO64PdTK	
+		- gRPC | Let's try Hands on https://youtu.be/iv9ylBYgACE?si=HiQEjMAKHEHS4ysA
+		- Implementing a gRPC client and server in Typescript with Node https://youtu.be/H0c4Wjl4kRQ?si=pHJwA6CYHciw2Vup
+	- Postman
+		- Learn JavaScript for Postman API testing https://youtu.be/juuhb3W8xT4?si=CE8b5O4mOPPY3xeQ
+		- Learn Postman https://www.youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG
+		- Postman Crash Course for Beginners https://www.youtube.com/playlist?list=PL6iUkDSEH9StfnjSTCsASTZbivezT18mW
+		- Postman Tips & Tricks https://www.youtube.com/playlist?list=PL6iUkDSEH9SuNMh1L8iuveirlKcs26tZ5
+
+	- Node JS Crash course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-anK_Dyz9zRq7UYMJfc3P0
+	- Node.js Beginner's Guide https://www.youtube.com/playlist?list=PLaLqLOj2bk9aOIybS1gRhpryWCZEhfVx-
+	- Testing in Javascript Full stack Application https://www.youtube.com/playlist?list=PLIGDNOJWiL1-IVcu_hvsIPQJRZ9oOwWRf	
+	- Understanding Microservices Patterns https://www.youtube.com/playlist?list=PLIGDNOJWiL1_-i0DjC69qr4gRUOkpTvRQ
+	- Node JS Master Playlist https://www.youtube.com/playlist?list=PLIGDNOJWiL18Rh8ymQgXnIwtg_Qx0fkXf
+	- Node JS Microservices REST Based APIs https://www.youtube.com/playlist?list=PLIGDNOJWiL1_WRS8LRcEXkqdi9S748Pvv
+	- Nodejs Microservices Different Authentication https://www.youtube.com/playlist?list=PLIGDNOJWiL1_4oKD4yLNnT85Pstu97xrp
+	- Nodejs Microservices with Monitoring and APM Tools https://www.youtube.com/playlist?list=PLIGDNOJWiL1_XqljnnKXIJoTHEQkt_xMO
+	- nodejs microservices Deployment (Docker, K8S, AWS) https://www.youtube.com/playlist?list=PLIGDNOJWiL19d4JCn2lKy3FnglBY8IEPl
+	- Building Microservices and deploying for SAAS Product https://www.youtube.com/playlist?list=PLIGDNOJWiL19tboY7wTzz6_RY6h2gpNrH
+	- nodejs microservices Architecture Patterns https://www.youtube.com/playlist?list=PLIGDNOJWiL18s_fjlMlAbKZDiMta8RLs0
+	- nodejs microservices with Performance Test https://www.youtube.com/playlist?list=PLIGDNOJWiL18yb3Pf1fGwJtMYGYj685YP
+	- Building Microservices with Node JS https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O
+	- Node JS Microservices Master Course https://www.youtube.com/playlist?list=PLIGDNOJWiL19WHIxJ0Q4aP4X3oljPha5n
+	- Fastify & Node.js Masterclass https://www.youtube.com/playlist?list=PLaLqLOj2bk9bXHrewQhwDjXglwXpEfa6L
+	- Mastering Node.js Microservices with Kafka: A Complete Guide https://www.youtube.com/playlist?list=PLaLqLOj2bk9aaZZYoH7tMDj5obE7os45_
+	- NodeJS Microservice COMPLETE Production Level Course https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs
+	- NodeJS Microservice Master Class https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr
+	- Backend Engineering (36) https://www.youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT
 	- HTTP Protocol https://www.youtube.com/playlist?list=PL_euSNU_eLbdMWw2lE22mpNc-CVCQPYq_
 	- RESTful Web API Design with Node.js 12 https://www.youtube.com/playlist?list=PLTgRMOcmRb3NVcRGuU6gsITBymZcaZRks
-	- https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
-	- Understanding the Node.js Event Loop: Is Node.js Single or Multithreaded? https://youtu.be/wMGCwfLsyhc?si=9WttE5j-MllEGoJC
-	- Easy JWT Authentication in Node.js | Step-by-Step Guide https://youtu.be/bSI2zOQm7qM?si=-xQmqJk_PrY_Osbv
 	- https://codedamn.com/problem-list/nodejs?page=1
 	- https://www.scaler.com/topics/nodejs/
 	- https://www.geeksforgeeks.org/nodejs/?ref=lbp
-	- https://www.interviewkickstart.com/blogs/interview-questions/advanced-node-js-interview-questions
 	- Node JS Tutorials https://www.youtube.com/playlist?list=PLL2hlSFBmWwxls3_KobNr3Qlqf7QhsERa
 	- https://platformatic.dev/docs/getting-started/quick-start
 	- The Myths (and Costs) of Running Node.js on Kubernetes https://www.youtube.com/live/XIKFkigJSOA?si=aj7Yn1u5d7bjhOWD
-	- Build a URL Shortener with Node.js, React, TypeScript & MongoDB https://youtube.com/playlist?list=PL0iFifR5umcmO4TrYZawg6TsUcPjYaK_8&si=IoKlX2tY7bJsqWPl
 	- Node.js Projects https://youtube.com/playlist?list=PL0iFifR5umcmuQHltrvZQ3PU3i0IWZckE&si=6gcCAnsizwMykS_G
-	- JSON Web Token (JWT) https://youtube.com/playlist?list=PL0iFifR5umcnOlQFZHhlxpwnCG_U1nYMn&si=KbIy4IG_fqNQjYVL
 	- Building a REST API https://youtube.com/playlist?list=PL0iFifR5umclpRsRgWQtOtcgUffblcZgx&si=J1tToG4GwN1ERvCg
-	- How I Build REST APIs that Scale https://youtu.be/m1sNz9Fw_vY?si=07EOSobQ9dCcMS8t
-	- How I Implemented a Long-lived Timeout that Scales https://youtu.be/kSDbBhJTTiA?si=KyEujziA2qZnzBwr
 	- Mini Courses https://www.youtube.com/playlist?list=PLXQpH_kZIxTVkR5LinjVO87NQ9NZaBMU_
 	- HTTP https://www.youtube.com/playlist?list=PLXQpH_kZIxTVQCmcs8-eMHKzCnWXtGopg
 	- Node.js https://www.youtube.com/playlist?list=PLJ8v-58rML8-M_CIjTFaGAIwwahQpYZoE
 	- Express - Node JS https://www.youtube.com/playlist?list=PLv9DX4Sm66LAj6euq9kwc_HhFeWFGRs2w
-	- gRPC in Node.js Explained | Beginner's Easy Guide https://youtu.be/5sFCKB8aCJA?si=BcoBREB5gwg2OeKs
-	- Schedule Tasks in Node.js with Cron Jobs | node-cron Tutorial Step by Step https://youtu.be/lDp3t8EZ50Q?si=ENgdOHD-pB03zxdQ
-	- gRPC in Node.js Tutorial | Build Fast Microservices with Proto Files https://youtu.be/MCwgV9idOeY?si=IUuYZ7YqSO64PdTK
-	- Difference between cookies, session and tokens https://youtu.be/GhrvZ5nUWNg?si=nL3JBnlvnaPLTqvh
-	- Difference between cookies, session and tokens (re-upload, no music) https://youtu.be/ke32nvfYtVw?si=jIDgvFQPR9I67DMd
 	- Explainers https://www.youtube.com/playlist?list=PL6iUkDSEH9Ss8ammEJ6VNMrqm8TssK1kL
-	- Learn JavaScript for Postman API testing https://youtu.be/juuhb3W8xT4?si=CE8b5O4mOPPY3xeQ
-	- Learn Postman https://www.youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG
-	- Postman Crash Course for Beginners https://www.youtube.com/playlist?list=PL6iUkDSEH9StfnjSTCsASTZbivezT18mW
-	- Postman Tips & Tricks https://www.youtube.com/playlist?list=PL6iUkDSEH9SuNMh1L8iuveirlKcs26tZ5
-	- Cookies: The Hidden Tech That Keeps the Internet Running https://youtu.be/lF1kat22hB8?si=bKrICj_ueP8ZSw1C
 	- Nodejs From Scratch For Beginners https://www.youtube.com/playlist?list=PLvXDmnBbOF7Sxr-sdW72qO62Su6Pxp9Ly
 	- Let's Create a Blockchain on Nodejs https://www.youtube.com/playlist?list=PLvXDmnBbOF7S0L5y85dK5s2oSrp5GcTJ4
-	- Socket.io Nodejs Build Real Time Apps https://www.youtube.com/playlist?list=PLvXDmnBbOF7R2AVit9M9cjbmC7CC48tyD
-	- All useEffect Mistakes Every Junior React Developer Makes https://youtu.be/QQYeipc_cik?si=7h4RdA-fkDR5FdAy
 	- Node.js Tutorials https://www.youtube.com/playlist?list=PLPXBnDoWo1HQ_vMWhppK6he8BboKOmE_W
 	- Master NodeJS https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
-	- Model View Controller in NodeJS | MVC Pattern https://youtu.be/JLtXoru-ipo?si=pX-rGrqydOMhZIQg
-	- Get webhooks at localhost https://youtu.be/41N5oni1ffQ?si=gi1-q_mTzka7Qom3
 	- Asynchronous APIs with .NET https://youtu.be/LCbR58sCmvQ?si=JGqjL7dShbBcD8Qx
-	- JWT Authentication with .NET 9 🚀 Full Course with Roles, JSON Web Tokens & Refresh Tokens https://www.youtube.com/watch?v=6EEltKS8AwA
 	- HTTP Crash Course & Exploration https://youtu.be/iYM2zFP3Zn0?si=Xoo-iw22zpAOOeM_
-	- Exploring OAuth 2.0: Must-Know Flows Explained https://youtu.be/tpIXmmV4ib4?si=C5AUqIXUfL8Q1iWt
-	- WebSocket Crash Course https://youtu.be/aiVVpHp5LcY?si=d00T9kv7cNhMfILx
-	- WebSocket Tutorials https://www.youtube.com/playlist?list=PLYxzS__5yYQnRizvwNYWwzFjd9J4ni_Ga
 	- Hardest Backend Node.js Concept to Master https://youtu.be/FZOEL5nByYg?si=-N4K06L2Tt6J7O7r
 	- Node.js Security Best Practices https://www.youtube.com/playlist?list=PL5Lsd0YA4OMHXXfwBrBGr6GlVooGNOHLe
 	- Databases 101 https://www.youtube.com/playlist?list=PL5Lsd0YA4OME2HC5m9QSfXG9cxb9Cvz5L
@@ -463,88 +764,38 @@
 	- Node.js Videos https://www.youtube.com/playlist?list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu
 	- Ultimate MCP Tutorial | Learn Model Context Protocol and Deploy your MCP Server https://www.youtube.com/watch?v=DAuZuj0BUZA
 	- Build Your Own Full-Stack ChatGPT App https://www.youtube.com/watch?v=8iAQ1h30n5I
-	- Realtime Notification App Using React and Socket.io https://www.youtube.com/watch?v=7vVqMR96T5o
 	- Node.js E-Commerce App REST API with MongoDB https://www.youtube.com/watch?v=rMiRZ1iRC0A
-	- Node JS- Rest API-MongoDB https://www.youtube.com/playlist?list=PLD5mJXRPUUgusuhRX_16pltiZV6hPNPzd
-	- Caching in Node.js: Boost Your App Performance https://www.youtube.com/watch?v=2883HqL5Pbw
-	- Caching Implementation Using NODE JS || Cache || Node-Cache https://www.youtube.com/watch?v=-wPojC20928
 	- How to use Promise.All & Streams in Nodejs Asynchronous Programming || File Downloading Parallel https://www.youtube.com/watch?v=yPoLn-mvVuY
 	- Asynchronous Programming in Node.js https://www.youtube.com/watch?v=iUl5VSlQne4
-	- Implementing API Rate Limit & Throttling in Node.js & Express.JS https://www.youtube.com/watch?v=--KuQpt2oYE
-	- How to implement JWT Token in NodeJS https://www.youtube.com/watch?v=NjpFBpfJC58
 	- Node.js Tutorials https://www.youtube.com/playlist?list=PLPXBnDoWo1HQ_vMWhppK6he8BboKOmE_W
-	- Implementing a gRPC client and server in Typescript with Node https://youtu.be/H0c4Wjl4kRQ?si=pHJwA6CYHciw2Vup
 	- Node JS https://www.youtube.com/playlist?list=PLRU_t-SgTrYhnwEAmMKpMy8opQQHHEzan
-	- How to Prevent SQL Injection Attacks in Node.js https://youtu.be/vYFZDRraMnw?si=8Q3Qb6M31OAJhaFb
 	- Node.js https://www.youtube.com/playlist?list=PL9c7XUgLe5ZaY8vZsjhNSl0LxkskZPyFG
-	- Do not thrash the Node js event loop https://youtu.be/VI29mUA8n9w?si=46PKAGaXqrD8kSZ6
 	- https://www.youtube.com/@adventuresinnodeland
-	- Building reactive systems with Proxies and Reflects https://youtu.be/4jV2CosUGhw?si=n3SVjeXy3FWMDKWB
 	- https://www.youtube.com/@WittCode
-	- RSA Key Generation, Signatures and Encryption using OpenSSL | Encryption Decryption using openSSL https://youtu.be/efkAJ27fUa8?si=3KhOd9Uo_4GOLqpV
-	- Create a simple Node.js Docker Container from scratch https://youtu.be/EKaGsShRXNY?si=3ODWHrObHjA3bTSC
+	- https://blog.restcase.com/
 	- REST API Quickstarts https://www.youtube.com/playlist?list=PLdSnLYEzOTtoUdcTeSHuEn8B3VqIbbfuO
 	- Typescript API in 2024 https://www.youtube.com/playlist?list=PLdSnLYEzOTtqfhhw10hTlTsvk9sLwvruE
 	- Node https://www.youtube.com/playlist?list=PLBJoSrneWLYvlPEX1wRD7-EPdj9k_QCVE
-	- Socket.io + React + NodeJS Realtime Graph/Charts Tutorial | ReCharts https://youtu.be/cmDna276eCo?si=FOFEtj2o_7lLh0YU
-	- HTTP/2 vs Socket.io Demo React & Node https://youtu.be/JAxcr2zRM5M?si=K0YHu_LMQNNNbMaD
 	- https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
-	- Quick HTTP Cookie guide in Web Development with Express https://youtu.be/hzMqeeGgtBA?si=_aiLFfnaSYe9ssUd
-	- Fullstack Authentication with Refresh Access Tokens https://www.youtube.com/watch?v=xMsJPnjiRAc
-	- Debugging Node.js + Typescript Running inside Docker Containers with Hot Reload https://www.youtube.com/watch?v=1WUoITRINf0
-	- Full Text Search With MongoDB And Node.js https://www.youtube.com/watch?v=Z05rVI5mhzE
-	- React Login using Access & Refresh Tokens https://www.youtube.com/watch?v=VJLSaq1Ll0U
-	- NodeJS Authentication using Access & Refresh Tokens https://www.youtube.com/playlist?list=PLlameCF3cMEtB7i9d7VmL2PMjhXOJXArA
-	- Build a Realtime Chat App with React and NodeJS https://www.youtube.com/playlist?list=PLlameCF3cMEvB8N2bhctdqCMfj1q5aiZh
-	- React & NestJS Lazy Loading, Search  & Sorting using MySQL https://www.youtube.com/playlist?list=PLlameCF3cMEtOzwKqcmdD7DEjdqjfb_c3
 	- NodeJS & Express - Google OAuth2 using PassportJS https://www.youtube.com/watch?v=Q0a0594tOrc
 	- Node.js Full Course for Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIaarXd0t4lcCcUR5zHtrvO-
-	- Chat App Node Js + React Js Hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9bSBYs2nCpb0sCxZ8dF1Ls2
 	- The Complete Node.js Course https://www.youtube.com/playlist?list=PLOghUv2IDLKFLRmiz_3MN6wMTN8LmGML_
-	- Authentication & Authorization https://www.youtube.com/playlist?list=PL-P_hNzCQhQjPCD8rcGMLVOh5szMqU_tr
-	- Node.js Auth Tutorial (JWT) https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp
-	- Coding with AI (Copilot) Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9joeiiVaLExvfSgmdtBbSPM
-	- WebSockets Tutorial (Node & Socket.io Chat App) https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9
-	- Websocket https://www.youtube.com/playlist?list=PLbGui_ZYuhiiauKVhn2qD5SH8yZBrpbJ4
 	- Node JS https://www.youtube.com/playlist?list=PLbGui_ZYuhiiSVvVP_9w57-aU7kx_H9bu
 	- Express JS Full Tutorial Playlist 2024 https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC
-	- [LIVE] Building a Chat App with NestJS, ReactJS https://www.youtube.com/playlist?list=PL_cUvD4qzbkzS16TsnJDLbHuWBkKIbeVr
 	- Node js in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At
 	- Node.js Tutorial in Hindi 2025 https://www.youtube.com/playlist?list=PL8p2I9GklV47KZEsbFEfRcM0sUsOMe5Sp
-	- Node js interview questions in hindi https://www.youtube.com/playlist?list=PL8p2I9GklV47MAUttpKKEkQT3xV4KuDwx
 	- Hire API Node Project https://www.youtube.com/playlist?list=PL_euSNU_eLbdR4-kezzzXCQi-Xhe4jmY-
-	- Building a Cron Job Scheduler in Express with Node Cron https://www.youtube.com/watch?v=TeUHBA-iZRc&list=PLzHoH-EeZ8dfO4vffqHyeEGy9W8lXLi8w
-	- Use Classes In NodeJS | Inheritance | Express App using classes https://youtu.be/kbPXLlnYuBg?si=cBDbe--Q-TU4D6-Q
-	- http2 https://youtu.be/JAxcr2zRM5M?si=fZ5TUZGtQrko6rWw
-	- Layered Architecture in Node.js https://www.youtube.com/playlist?list=PLZVBmpM0E_DGngTx5A3f0K-F4m-UalDyb
 	- RabbitMQ with Nodejs | Message Broker https://www.youtube.com/playlist?list=PLZVBmpM0E_DHlA9Fz4QznfPjUKPIz48I7
-	- What is Tracing & Why You Need It https://youtu.be/cIH-xNOjhcI?si=hNT_N_CcBkG0zKcj
-	- CRON Jobs Scheduler With Practical Example https://youtu.be/qvdDZjhtA8g?si=MbPKQ5oK6ZkNtXPK
-	- Webhooks - System design https://www.youtube.com/playlist?list=PLYpjLpq5ZDGsnBmwJCdFv5PhQbUZruKy3
 	- NodeJS Tips https://www.youtube.com/playlist?list=PLnsTzQ998QGTB4dPsCFs80y6VFymYjfGL
-	- gRPC | Let's try Hands on https://youtu.be/iv9ylBYgACE?si=HiQEjMAKHEHS4ysA
 	- Scalable Backend Architecture with NodeJS https://www.youtube.com/playlist?list=PLBg2PQNi6uvmlgScuLqEAsQ-2QaUPm4hQ
-	- RBAC https://www.youtube.com/playlist?list=PLDSFjvmlLP4SuLkmHXGdx03PHmDmxHdnH
 	- Nodejs Beginner to Advance https://www.youtube.com/playlist?list=PLSBeS-txjpHtDghh0Cls1Uqv3QW4QKMFd
-	- How to Make Any Chat App Scalable Easily https://youtu.be/yyibnC58ewk?si=lhfWrL-mD1gNNp0d
 	- What is Chaos Testing or Chaos Engineering? https://youtu.be/lvI66klTusQ?si=RfTIsuXqP_m0HZ0C
 	- Code in Action (Build with Node.js) https://www.youtube.com/playlist?list=PLHcr_gHWivKX9B-ZsuMyQwNz-XoLC2DMI
-	- Socket-Typing https://www.youtube.com/playlist?list=PLJALjJgNSDVowGYudH57dZw4ety6N_v6d
-	- NodeJS Authentication https://www.youtube.com/playlist?list=PLJALjJgNSDVofJlPDRo9h0WjS7Tlbsii7
-	- Bloom Filters https://www.youtube.com/playlist?list=PLJALjJgNSDVp7bU4crKW9PPqWfWbNm6tD
 	- Learn about HTTPS, TLS & Certificates https://www.youtube.com/playlist?list=PLShDm2AZYnK3cWZpOjV7nOpL7plH2Ztz0
-	- JSON Web Tokens https://www.youtube.com/playlist?list=PL1Nml43UBm6ctQsHH6eSWtQmMBqRiS2mI
-	- JSON Web Tokens (JWT) - everything you need to know https://www.youtube.com/playlist?list=PL1Nml43UBm6dge_ykMszBCtaSJ9RnxQNJ
-	- OAuth 2.0 tutorial | OAuth flows https://www.youtube.com/playlist?list=PL1Nml43UBm6dOj4UuH-7a9e3wO6eL2SCi
-	- Dependency Injection in Node with awilix https://www.youtube.com/playlist?list=PL1Nml43UBm6ez_JKgCUpgkwfh9oQLjVmm
 	- Test Node with Docker, docker-compose and PostGres https://www.youtube.com/playlist?list=PL1Nml43UBm6eTkjJtAPfdfjk-x2I_1r-Y
-	- Sessions in express.js | Node.js session implementation with Redis https://www.youtube.com/playlist?list=PL1Nml43UBm6fPP7cW9pAFTdZ_9QX2mBn2
 	- Node JS Crash Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNllzyUDYupx5aah8P00i2Y
 	- Mastering Node JS https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMTu9PthgSGurRUr0JZRYQ4
-	- Build API Gateway in Nodejs using Express Gateway https://www.youtube.com/watch?v=CPffHrnob88
-	- ”🔥Pro Tip: 💪Unlock 8x Speed in Node.js with 1 Line! 🚀 | Cluster Mode Explained https://youtu.be/L0T-x9kdmtA?si=ZNxv2VP-Hfv9GOWU
 	- Node.js Tutorial https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY
-	- Node.js Event Loop https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN
 	- https://nodejs.org/docs/latest/api/
 	- http://nodetuts.com
 	- https://youtu.be/5PjbsLwxQkw?si=dl2QON6Rganfv_P-
@@ -634,419 +885,218 @@
 	- https://youtu.be/6RvlKYgRFYQ?si=upboOwDEF6K1S3y1
 	- https://youtu.be/eCRvIPPnYs0?si=Nsu_tX_3j8V3Yc0b
 	- https://youtu.be/sQ1zvdS8eU8?si=Ny6Z7PI7U2B-HHoT
-	- SETUP Your File Sharing Server in MINUTES For Small Company https://youtu.be/X3bz0gftGD4?si=aPPNZ08i1YCFI-H_
-	- Building an API Gateway with NodeJs https://youtu.be/bD6Mxc_9kzw?si=P8DT-SQObuvQpEks
-	- NodeJS API Authentication (JWT's) https://youtube.com/playlist?list=PLdHg5T0SNpN0ygjV4yGXNct25jY_ue70U&si=rzYa2eEPsuJxucJP
-	- NodeJS Tips & Tricks https://youtube.com/playlist?list=PLdHg5T0SNpN2c0j8ggRFUU4iRxVznozWt&si=hgJHjfzVnjzfvquC
-	- Production Ready Server Setup https://youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9&si=g4pa1mQvmRDH_YBn
-	- Role Based Access Control https://youtube.com/playlist?list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9&si=Fe7mORJ-eJIrVvmb
-	- Socket.io Crash Course - Build a Real Time Chat Application https://youtu.be/asVDzgdyYLk?si=f9ORuQYwUzqjoeLp
-	- Chat application using Websockets https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No&si=v8pKeC6WI-QvWmhR
 	- Node.Js REST API With Express MySQL Docker https://youtu.be/xwjlBGTGDc4?si=5cckmDD4qdUXXhhe
 	- RESTful API https://youtube.com/playlist?list=PL285LgYq_FoKQujpreVfS0QZAqEfjf6wm&si=8wjH-5PkaB7T2T-4
-	- How I coded a CHAT ROOM with WEBSOCKETS and REACT https://youtu.be/uyVz6LA3Eho?si=JpEhpKu9m5fsExJ9
-	- Authentication https://youtube.com/playlist?list=PLug_z34YaEYt3595sv9Cr31s9RWZ3ytSe&si=k1SdLpJWg5CtKpe4
 	- Express.js https://youtube.com/playlist?list=PLug_z34YaEYtSew5-7hLAerq6axpywloO&si=ICc0Q9a_QDw__r49
 	- Node.js https://youtube.com/playlist?list=PLug_z34YaEYvZzofYyb-74DejQ-txDGSX&si=pe257DFd4xYQDFwk
 	- Node.js API https://youtube.com/playlist?list=PLug_z34YaEYsvYbj2npGpEhnQK4tBCDyT&si=kUPab0SZ4WZDfGWe
 	- Full Stack Mini-Series https://youtube.com/playlist?list=PLhO3QVg3HAYE4LmG4nDJtFC6OKR8UaVzj&si=eNtHjDcoVDb1Oljm
-	- Use Classes In NodeJS | Inheritance | Express App using classes https://youtu.be/kbPXLlnYuBg?si=EqfH4MVNZOAuTYQ8
-	- Boost Node.js Speed 🚀 Use All Your CPU Cores! 💻 | Handle Parallelism Like a Pro https://youtu.be/w8FCthycTBg?si=76rDsGp6Jkz9FLdk	
-	- Learn API Gateway in Node.js in 5 Minutes! https://youtu.be/YkRC0V7tlIk?si=m2QQAc_unLrkgtoQ
-	- HTTP/2 (26) https://www.youtube.com/playlist?list=PLQnljOFTspQWbBegaU790WhH7gNKcMAl-
-	- WebSockets (10) https://www.youtube.com/playlist?list=PLQnljOFTspQUGjfGdg8UvL3D_K9ACL6Qh
-	- Cookies (8) https://www.youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn
-	- Which Pagination Method is BEST for You Offset or Cursor? 13m https://youtu.be/jOmkjTYW03U?si=BbCwuMdiRJPkhXTC
 	- Vector DB + RAG Tutorial Series https://youtube.com/playlist?list=PLhO3QVg3HAYFeq055yfG0Utv-3Q3NFecq&si=YiUd9GEV_aew_1m7
-	- Scalable Chat App ,Socket.io ,Kafka ,Redis ,Postgres, Nextjs, Typescript 290m https://youtu.be/gCwHi-UFSdg?si=_eAwpBcQmOyC7U2Y
 	- Master Backend using Express JS (3) https://www.youtube.com/playlist?list=PL-MEZzrKlTU3tZUD3NjMSde3Vbev87zyp
-	- NodeJS MultiThreading (13) https://www.youtube.com/playlist?list=PL_euSNU_eLbdi-nNMgGgzX-oL0LPshJwO
-	- NodeJS Compression 9m https://youtu.be/gMT0G8BFQ28?si=hVIaXqyT2BMeEhAw
-	- Unix in NodeJS Concepts (34) https://www.youtube.com/playlist?list=PL_euSNU_eLbdNhMn1zO8oik-Ndsp084e9
-	- Networking - NodeJS (21) https://www.youtube.com/playlist?list=PL_euSNU_eLbcU-00ZsoVbghHedbCpQOD1
-	- Hire API Node Project (38) https://www.youtube.com/playlist?list=PL_euSNU_eLbdR4-kezzzXCQi-Xhe4jmY-
-	- Nodejs Core Concepts (151) https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
-	- Nodejs Files (8) https://www.youtube.com/playlist?list=PL_euSNU_eLbe4mF6ph80TI2U8SNKod1oO
-	- Nodejs Streams (33) https://www.youtube.com/playlist?list=PL_euSNU_eLbeXBWFFA6AER8ke1pAIbCqm
-	- NodeJS Complete Guide (60) https://www.youtube.com/playlist?list=PL_euSNU_eLbdf5XbrFl-nOw6-7ZtT27Bn
-	- A Beginner’s Guide to Debugging Node.js Applications [Hindi] https://youtu.be/J8AQRdbGz0g?si=pdDhIP0wIsIC-Frf
-	- How to debug Node.js in Visual Studio Code https://youtu.be/4UGyzRo8Dsk?si=kafr0pakGWJv_ZSV
 	- Node JS https://youtube.com/playlist?list=PLYzb940F3GCxzSlK9e71qfD7h521Y-weN&si=xpJ3SFHWSO8xyEoU
 	- REST API https://youtube.com/playlist?list=PLYzb940F3GCzRaHqawxSBCIwQ77XVCmDm&si=bzBHpY3ABp3NCvR7
-	- How To Use ChatGPT in Your NodeJS App https://youtu.be/dWZkQdD9hdE?si=vuPlcy7SvEnFR-aH
-	- Building a Chat App https://youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07&si=QIza93tcWbzL7lWF
 	- Course | Express JS Prisma ORM Query https://youtube.com/playlist?list=PLOLrQ9Pn6cawkVrsWYE9jrOZRUUU7zids&si=p1cExRFwV3l0vsuz
-	- API Authentication Explained (Finally) — Basic Auth, Bearer & JWT https://youtu.be/I747kI_y9eQ?si=bvZr6Jglc6BwTw5Y
-	- Why Your Token Storage Could Be Your Biggest Security Risk - XSS and CSRF Attack in Action https://youtu.be/vTroMvQy6K0?si=sGmf2O6HqK97X3sW
-	- API Authentication Explained (Finally) — Basic Auth, Bearer & JWT https://youtu.be/I747kI_y9eQ?si=4p94LcwCiG2OcO_p
 	- AI & Machine Learning In a Box https://youtube.com/playlist?list=PLWzwUIYZpnJsVT54-mXGl0uQ6Aqvz9SzF&si=R7CIworhxt7iUYfF
 	- WhatsApp Cloud API https://www.youtube.com/playlist?list=PLDSFjvmlLP4R1J_wtpw9IwtgkqkmYPwa7
 	- Auto Deploy Nodejs Rest API on AWS EC2 | CI/CD pipeline using GitHub Actions https://www.youtube.com/watch?v=cgWXQqL-ZU8
-	- How to use Multithreading with "worker threads" in Node.js? https://www.youtube.com/watch?v=MuwJJrfIfsU
-	- Worker Threads in Node.js: The Secret to High-Performance Backends 🔥 https://www.youtube.com/watch?v=Vej327jN8WI
-## 2.1 Core, Process vs Threads
-	- Why Are Threads Needed On Single Core Processors https://youtu.be/M9HHWFp84f0?si=7jYxbvSdd7DwwsyS
-	- What Happens When a Program Calls Sleeps? https://www.youtube.com/watch?v=e5g8eYKEhMw
-	- Threads On Multicore Systems https://www.youtube.com/watch?v=5sw9XJokAqw
-	- A PROGRAM is not a PROCESS. https://www.youtube.com/watch?v=7ge7u5VUSbE
-	- CONCURRENCY IS NOT WHAT YOU THINK https://www.youtube.com/watch?v=3X93PnKRNUo
-	- ARRAYLIST VS LINKEDLIST https://www.youtube.com/watch?v=xFMXIgvlgcY
-	- WHY IS THE HEAP SO SLOW? https://www.youtube.com/watch?v=ioJkA7Mw2-U
-	- WHY IS THE STACK SO FAST? https://www.youtube.com/watch?v=N3o5yHYLviQ
-	- https://youtu.be/USlroJToye0?si=rbO8Ngvq8CV8dmC6
-	- https://youtu.be/hwTYDQ0zZOw?si=s3zIjAAIWfllTAjT
-	- https://youtu.be/ImzYxO3Lsvc?si=TX57qQTYM_2UN6xR
-	- https://youtu.be/wrVKnQvDJy0?si=1_TBAb2HJi7lPQXE
-	- https://youtu.be/fvNTJang7l4?si=S1RSozJsPePFK2o4
-	- https://www.youtube.com/live/F3aDUpP9dzA?si=HDPIKnj5gmGNNQVm
-	- https://youtu.be/FJQyv26tFZ8?si=K0lDggMMa56dFioO
-	- https://youtu.be/G5b1Zd367sA?si=VMDcq9uuthCCYAdG
-	- https://youtu.be/o4EX87_Jezk?si=7tiroGNxvK1h9lfM
-	- https://youtu.be/5r8Byu2KRuU?si=fO-yUoTToXLn3NXO
-	- https://youtu.be/DeLl_j_oQZc?si=CLdeDiHMk8_TcNx7
-	- https://youtu.be/olhCzhOyj_o?si=o68-22-RCIz7fUDF
-	- https://youtu.be/M1jxLQu40qo?si=FamAr_rZ8nAlP4tz
-	- https://youtu.be/yjUCKSKCQxg?si=RoDua9tqF19Hh_aD
-	- https://youtu.be/J1f5b4vcxCQ?si=FD9aC_zT4d4bg3I3
-	- https://youtu.be/P7g--FJdUXE?si=0grGA6Y0snPpGGht
-	- https://youtu.be/tYZd8hserms?si=p6uJU7jF96XWjDXJ
-	- https://youtu.be/Xv9ZxXM2LWM?si=KFxeNPRbY4jt21C1
-	- https://youtu.be/l7Gu_XrwtZE?si=ylTHIRZmStUGEy6Q
-	- https://youtu.be/EPv9-cHEmQw?si=8g3stn37TQcgNUJr
-	- https://youtu.be/vFzP2SaMyA0?si=SYZXiEksdFDvB5QO
-	- https://youtu.be/U0LGQjxyuw8?si=5oirGBmEId42P4yr
-	- https://youtu.be/zmdWWujU8M4?si=tetMbuPV8H8eyPcE
-	- https://youtu.be/K1a2Bk8NrYQ?si=OAYhhbAzV3rByC9h
-	- https://youtu.be/52wnTsBI_HE?si=suAZhR4UnOxKsV0v
-	- https://youtu.be/FYvl3MzGt-U?si=n7qRM9Wca8EZ4A8f
-	- https://youtu.be/tlg4KtkQE9A?si=xmRgpsLCN1QBN9hU
-	- https://youtu.be/Nw1mrIshK00?si=dBV2C8AUY9t_OXsy
-	- https://youtu.be/Y6T9usavXgY?si=gDlc_issJotbeSPT
-	- https://youtu.be/Tcdp3RVcnOI?si=wX9qwpyAJYc4UHSO
-	- https://youtu.be/1myWEH8IGt4?si=wgrd966s9pFld2Cy
-	- https://youtu.be/Q_qE_pNC0L4?si=LD-5cTEm1CWJ6V2j
-	- https://youtu.be/DnsbU0HVLg0?si=k3njWETIN7N724h1
-	- https://youtu.be/0vFgKr5bjWI?si=yyx18qXVnnPpk2vf
-	- https://youtu.be/brdp6d6KDso?si=H5nYHnYgyxfy-Usc
-	- https://youtu.be/EjIjvwLt76Y?si=J_Xq5vmFHvn7hkcy
-	- https://youtu.be/exbKr6fnoUw?si=uHAkllyGvfn0HnrV
-	- https://youtu.be/Dhf-DYO1K78?si=fPoYkoAWx6MOex3n
-	- https://youtu.be/-d0NGzVlZf4?si=9ndko_c4CGMv0KBF
-	- https://youtu.be/grriYn6v76g?si=707ZDkmTNd4oVk1W
-	- https://youtu.be/hN2Yrf4tqTY?si=Wr6PCUUtBUBwDJ7Q
-	- https://youtu.be/-ukFWIjpU5o?si=mGJ2ryZ3QkGPobJe
-## 2.2 System Design
-	- Programming Concepts, Explained Simply https://www.youtube.com/playlist?list=PLnFamtQIJe6Klo-RppG19baEc94xgtcsr
-	- https://blog.bytebytego.com/archive?sort=new
-	- https://www.youtube.com/@interviewhappy
-	- https://www.youtube.com/@questpondvideos
-	- https://www.youtube.com/@hayk.simonyan
-	- Full HTTP Networking Course 5hrs https://www.youtube.com/watch?v=2JYT5f2isg4
-	- https://www.youtube.com/@AsliEngineering
-	- https://www.youtube.com/@SystemDesignSchool
-	- https://www.youtube.com/@SystemDesignInterview
-	- https://www.naukri.com/code360/library/low-level-design-lld
-	- https://www.youtube.com/@gkcs
-	- https://www.youtube.com/@ByteByteGo
-	- https://www.youtube.com/@WhiteboardDoodles24
-	- https://www.youtube.com/@SystemDR
-	- http://www.youtube.com/@hnasr
-	- http://www.youtube.com/@ByteMonk
-	- https://www.youtube.com/@rajan.techie/shorts
-	- RedBlackTech - All Tech Videos https://www.youtube.com/playlist?list=PLepuqCfcw65p7c4VPdpq3SYdUxtQoRQPu
-	- Distributed systems tutorial in hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafalSCnCmAyKJcsV_TuoV2kZ
-	- HTTPS, SSL, TLS & Certificate Authority Explained https://youtu.be/EnY6fSng3Ew?si=rpW6QrA1g_1F8a50
-	- HTTP vs WebSockets: Performance (Latency - CPU - Memory - Network) https://youtu.be/UtyxjO8LJQs?si=xGXm2ta7yAbQcwWX
-	- System Design https://www.youtube.com/playlist?list=PLFdpEvGo4EEqGyM8nafi_4ajhTsu6y-N4
-	- Webhooks - System design https://www.youtube.com/playlist?list=PLYpjLpq5ZDGsnBmwJCdFv5PhQbUZruKy3
-	- Big Concepts in Short Time https://www.youtube.com/playlist?list=PL6W8uoQQ2c62SrHJqawDW0FgbUmIUqWkm
-	- Low Level Design from Basics to Advanced https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
-	- High Level Design from Basics to Advanced https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
-	- Latest Technology Tutorials 2025 https://www.youtube.com/playlist?list=PLcnJIHtHiTA2Hdgon51_-G3Kt43hcU6kI
-	- System Design and Architecture https://www.youtube.com/playlist?list=PL5Lsd0YA4OMFvX88T5xH93NqBALI7TENz
-	- Popular Software Architectures https://www.youtube.com/playlist?list=PL5Lsd0YA4OMEIcV32mlOu-zVAAMvLPfUP
-	- Systems Design Questions 3.0 https://www.youtube.com/playlist?list=PLjTveVh7FakLGZ36GbWAk_DMf_0xBZpGv
-	- Deep Dives https://www.youtube.com/playlist?list=PLjTveVh7FakK3c6rb-1-_KO4k8r3--8CU
-	- https://www.youtube.com/@Code_Fap/shorts
-	- https://www.youtube.com/@SoftsWeb/videos
-	- System Design 101 https://www.youtube.com/playlist?list=PL2We04F3Y_42gZom7191PoUZWOrK-LUrG
-	- http://www.youtube.com/@udaykirantech
-	- https://www.youtube.com/@hello_interview/playlists
-	- https://www.youtube.com/@SoftsWeb/videos
-	- System Design https://www.youtube.com/playlist?list=PLi0P3bAJieri71WhnLs1esOCr27hpvFBZ
-	- Distributed systems tutorial in hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafalSCnCmAyKJcsV_TuoV2kZ
-	- Deep Dives https://www.youtube.com/playlist?list=PL5q3E8eRUieUHnsz0rh0W6AzwdVJBwEK6
-	- System Design Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM
-	- Complete Software Engineering Mastery https://www.youtube.com/playlist?list=PLivLegtKjo2ceXlNzSN8oa6EzYDT_WCjg
-	- Architecture https://www.youtube.com/playlist?list=PLThyvG1mlMzkQklYlHp_CdO5IEJ3i_ary
-	- Software Design https://www.youtube.com/playlist?list=PLThyvG1mlMznuNW2tITIGmgQqJikLBqab
-	- System Design https://www.youtube.com/playlist?list=PL-P_hNzCQhQjjm82SBCXzZ1Uzpw3o05Ry
-	- CS Fundamentals https://www.youtube.com/playlist?list=PLqR6Wq9GKBiuEEeAlPs-FGAY2b-DIp4vc
-	- Messenger service like Whatsapp or FB Chat https://youtu.be/9JqNszmEPHk?si=w_yR9-WFtwc42nX2
-	- Frontend System Design Mock Interview (build Google Search) https://youtu.be/jVMqj8A7Fpk?si=mQmEeupe3CUpNQcB
-	- HNSW Explained — How Amazon Finds Your Next Purchase in Milliseconds https://youtu.be/E6XaSWf95vc?si=dTTLWHR-1H7uI3ck
-	- System Design Basics https://www.youtube.com/playlist?list=PLBgdlMZhIRmExB642Hb7JeW8aBCA-m3PS
-	- Food Store | System Design https://youtu.be/bHelfhgSN2c?si=YQ6J85WZzmQjMwCc
-	- High Level Design vs Low Level Design https://youtu.be/H703ErIrby8?si=VMPUAtaWOMn_ArZS
-	- Architecture of Amazon, Flipkart like e-commerce system https://youtu.be/2BWr0fsDSs0?si=TxpsZTh_suWYzX1D
-	- Distributed Systems https://www.youtube.com/playlist?list=PLTCrU9sGybupq5YqUTlNqyuxzgCT6IUDl
-	- System Design Primer Course https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
-	- Low Level Design Primer Course https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k
-	- SOLID Principles Made Easy https://www.youtube.com/playlist?list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV
-	- System design https://www.youtube.com/playlist?list=PLSBeS-txjpHtpU4H5b2M7jC9KwEeewC9y
-	- Backend https://www.youtube.com/playlist?list=PLSBeS-txjpHvmwu7Xzlk_4Xg9HbvRbzVo
-	- System Design Interview https://www.youtube.com/playlist?list=PLQpVsaqBj4RL9mw5IMNKYWccqKMUGBEaM
-	- https://www.youtube.com/@kikisbytes/videos
-	- https://www.youtube.com/@interviewpen/videos
-	- https://www.youtube.com/@infinitycodesolution/shorts
-	- System Design Interview https://www.youtube.com/playlist?list=PLBrWqg4Ny6vUJXmkQVRa3bRVB59y1dx5A
-	- https://www.youtube.com/@FullStackDev-w9q/shorts
-	- System Design And Architecture https://www.youtube.com/playlist?list=PLjCYFwDcjeM6LndodrmZZpF0ifumjUYA1
-	- SOLID PRINCIPLES https://www.youtube.com/playlist?list=PLjCYFwDcjeM7cNomPSsdQYOHE4i3WbC0u
-	- https://www.youtube.com/@FullStackClasses/videos
-	- https://www.youtube.com/@fourzerothree
-	- https://www.youtube.com/@fiveminutetech/videos
-	- System Design Interview Prep https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL
-	- Product Design Interview Prep https://www.youtube.com/playlist?list=PLrtCHHeadkHo0blkeVU0Karin2lOOvyU5
-	- https://www.youtube.com/@drawingboxes/videos
-	- https://www.youtube.com/@sagaratytube/videos
-	- System Design Interview https://www.youtube.com/playlist?list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE
-	- https://www.youtube.com/@AsliEngineering
-	- New Benchmarks https://www.youtube.com/playlist?list=PLiMWaCMwGJXmcDLvMQeORJ-j_jayKaLVn
-	- https://www.youtube.com/@myakcoding/shorts
-	- System Design Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFDHtcKPFUjHPgv-KfcAiUUp
-	- System Design & Tips in 60 Seconds https://www.youtube.com/playlist?list=PLlDftNlvPbFAWTfmzLtyM3yZHFqpbA1A9
-	- Distributed Systems https://www.youtube.com/playlist?list=PL4JxLacgYgqSwZIS6MQ2HBqypMp-GagEy
-	- How Instagram Handle BILLIONS of likes 11m https://youtu.be/4c9ChCSGIp0?si=1Lny4N1cflqNmPJk
-	- HTTP APIs Walkthrough (3) https://www.youtube.com/playlist?list=PL9nWRykSBSFivg7AyK8XjGa6I7wGEibqG
-	- System Design Topics to know for Software Interviews (17) https://www.youtube.com/playlist?list=PL9nWRykSBSFgkCmkYdEfmXHX71m1UybNL
-	- Software Engineering Best Practices (3) https://www.youtube.com/playlist?list=PL9nWRykSBSFg9d0mDm8cuCv9cGnpxfnN5
-	- Be a Better Developer (16) https://www.youtube.com/playlist?list=PL9nWRykSBSFjpEqX9V1HsjF25kKW8oMFN
-	- System Design Concepts You NEED to Know (21) https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag
-	- Understanding HTTP Protocol (30) https://www.youtube.com/playlist?list=PL_euSNU_eLbfcQHdSA5bJvH5yQdivgISK
-	- HTTP Protocol (4) https://www.youtube.com/playlist?list=PL_euSNU_eLbdMWw2lE22mpNc-CVCQPYq_
-	- REST API (10) https://youtube.com/playlist?list=PLRtLu6rCuAlkMY9AGdYknLD6w_naQ1pYI&si=rtDUW59oZ8NNARv3
-	- SQL (19) https://youtube.com/playlist?list=PLRtLu6rCuAlk8UlYKQYq3OJ179M1YU_GB&si=23QJ_oYYGiXgJBUM
-	- System Design (15) https://youtube.com/playlist?list=PLRtLu6rCuAlkO-HiER3AKoKkSG5DPp9TX&si=huK3e-OaifQ6qs3Z
-	- Low Level Design (8) https://youtube.com/playlist?list=PLRtLu6rCuAllRv7QXkYfT9js-_soLt-SV&si=f_BGYRMoMfHpzWn7
-	- Introduction to TCP/IP and Sockets (2) https://youtube.com/playlist?list=PLbtjxiXev6lqCUaPWVMXaKxrJtHRRxcpM&si=Tu906KXnbYaXlq6Y
-	- How to Prove or Disprove Big-O 18m https://youtu.be/7NC-iyZ7vpQ?si=UFk67t_YbLw5BibE
-	- System Design was HARD until I Learned these 30 Concepts 20m https://youtu.be/s9Qh9fWeOAk?si=DrQqff2o8dEt1ip8
-	- SSL, TLS, HTTP, HTTPS Explained 6m https://youtu.be/hExRDVZHhig?si=wfwSeEKASzQVDR7a
-	- System Design Playlist (26) https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-	- Low Level Design (11) https://www.youtube.com/playlist?list=PLMCXHnjXnTnvQVh7WsgZ8SurU1O2v_UM7
-	- System Design Shorts (48) https://www.youtube.com/playlist?list=PLMCXHnjXnTnteVBQIKevQkq6c6I7weiZb
-	- Network Engineering (62) https://www.youtube.com/playlist?list=PLQnljOFTspQUBSgBXilKhRMJ1ACqr7pTr
-	- Proxies (30) https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC
-	- HTTP (60) https://www.youtube.com/playlist?list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO
-	- Web Security (95) https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv
-	- System Designs (9) https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d
-	- Minute Engineering (112) https://www.youtube.com/playlist?list=PLQnljOFTspQWXxAYDl_qSPXMcKpyH-LML
-	- OS Fundamentals (30) https://www.youtube.com/playlist?list=PLQnljOFTspQU2bFV-N5Ix-Qg9A3WAik7N
-	- HTTP/3 (4) https://www.youtube.com/playlist?list=PLQnljOFTspQVAtL9nmMTLFaXmKJIP7_38
-	- RFCs in 60 seconds (7) https://www.youtube.com/playlist?list=PLQnljOFTspQWVQCHSikE2j4SektL0KnSh
-	- The Backend Engineering Show (58) https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY
-	- Backend Outage Analysis of Large Companies (23) https://www.youtube.com/playlist?list=PLQnljOFTspQXdkZLiYCCh_5RBP1-T-Rnx
-	- Dev Tool them ALL! (16) https://www.youtube.com/playlist?list=PLQnljOFTspQX9U79P6eD_V9USIUTE9yAD
-	- Backend Engineering (Advanced) (78) https://www.youtube.com/playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ
-	- Backend Engineering (Intermediate) (54) https://www.youtube.com/playlist?list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs
-	- Browser API (9) https://www.youtube.com/playlist?list=PLQnljOFTspQVG32WQY3Sb3f2hYc7jGjsr
-	- TLS Certificates (10) https://www.youtube.com/playlist?list=PLQnljOFTspQXFUUIEnnmsQatlXz5duXRb
-	- High Availability (5) https://www.youtube.com/playlist?list=PLQnljOFTspQVPOt2GrGpq2_NRZjcdxzfu
-	- TCP (14) https://www.youtube.com/playlist?list=PLQnljOFTspQX_Zkt_8teMRsdY4sNt4BX6
-	- TLS (31) https://www.youtube.com/playlist?list=PLQnljOFTspQW4yHuqp_Opv853-G_wAiH-
-	- Distributed Systems (11) https://www.youtube.com/playlist?list=PLQnljOFTspQUVDsQcPnmdbtLUhqODSV1F
-	- Load Balancing (9) https://www.youtube.com/playlist?list=PLQnljOFTspQWdgYcGXCTkjda8vd2jWJYt
-	- The OSI Model Explained 40m https://www.youtube.com/watch?v=29fZYt8qRUs
-	- How the Internet Works: IP, protocols, Ports, MAC 40m https://www.youtube.com/watch?v=f9ASF9dgMNQ
-	- How Your Data Travels: The Secret Internet Handshake (TCP/IP Explained) https://www.youtube.com/watch?v=6Zf6ni9aPXY
-	- Ping, ICMP, HTTP, FTP,DNS, SSH Explained 17m https://www.youtube.com/watch?v=7b7c7zz4OZs&t=6s
-	- Firewall vs VPN: What’s the Difference & Why You Need Both 17m https://www.youtube.com/watch?v=BFLSngOgJL0
-	- What Happens When You Type a URL? | Internet Explained 28m https://www.youtube.com/watch?v=3Sl4umOrAhM
-	- Cryptography Basics for Cybersecurity & Ethical Hacking 19m https://www.youtube.com/watch?v=MogPnKMOa34
-	- Cryptography Essentials - (RSA ,Diffie-Hellman Algorithm.) 26m https://www.youtube.com/watch?v=eX43lpRoi6o
-	- Hashing in Cybersecurity 15m https://www.youtube.com/watch?v=IfJWrsyV1HY
-	- Full HTTP Networking Course – Fetch and REST APIs in JavaScript 300m https://www.youtube.com/watch?v=2JYT5f2isg4&t=5380s
-	- SSL TLS Explained: How SSL Certificates & Encryption Keep Your Data Safe [HINDI] https://www.youtube.com/watch?v=I43NnHTeACk
-	- http://www.youtube.com/@hello_interview
-	- https://www.youtube.com/@hayk.simonyan/videos
-	- https://www.youtube.com/@SystemDesignInterview
-	- https://www.youtube.com/playlist?list=PLyHJZXNdCXsfGig2zcWL71kdsZqYS7ltJ
-	- https://www.youtube.com/playlist?list=PLVKLWop9wWA8rdaNPIsG6r4a6QZClCH-M
-	- https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL
-	- https://www.youtube.com/playlist?list=PLRkUGTuYnlihciD2h69bC3g7id0Bh3m0o
-	- https://www.youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT
-	- https://www.youtube.com/playlist?list=PLinedj3B30sC3VyfC7xD_ILyGvlHunoQs
-	- https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o
-	- https://www.youtube.com/playlist?list=PLBrWqg4Ny6vUJXmkQVRa3bRVB59y1dx5A
-	- https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM
-	- https://www.youtube.com/playlist?list=PLCZ2MME8uzMhow9-hAsSm2-dvfF4ag6wy
-	- https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
-	- https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf
-	- https://www.youtube.com/playlist?list=PLFdAYMIVJQHOWJgRrjv_RH-ng95B2h3ON
-	- https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
-	- https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-	- https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZVHPTnN2o7j0G8CSP48YxV
-	- https://www.youtube.com/playlist?list=PLaLqLOj2bk9bXHrewQhwDjXglwXpEfa6L
-	- https://www.youtube.com/playlist?list=PL285LgYq_FoIZCB2UX0Cpxb9Qk_QE3gjs
-	- https://www.youtube.com/playlist?list=PL285LgYq_FoJMIMzaQAVyfcvEaLXBZEw6
-	- https://www.youtube.com/watch?v=AAMZWZmsLrA&list=PL285LgYq_FoJOjiDW0ta9Db6lX-H9ZTzC&index=1
-	- https://www.youtube.com/playlist?list=PL285LgYq_FoLYHm80Q3pczJUm1iJRgTi0
-	- https://www.youtube.com/playlist?list=PL285LgYq_FoJy3kLMMihuWIlxfcpT6D2a
-	- https://www.youtube.com/playlist?list=PL285LgYq_FoI7Gw6n5ZxQXloo8tCm4JEf
-	- https://www.youtube.com/playlist?list=PL285LgYq_FoJK0zi3h3AiQUfJenArkOuQ
-	- https://www.youtube.com/playlist?list=PL285LgYq_FoLG3WkGNO_5G7st19Tb7Xdf
-	- https://www.youtube.com/playlist?list=PLL34mf651faNGMSGOBXdNVPKnRvfzvv8U
-	- https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k
-	- https://www.youtube.com/playlist?list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV
-	- https://www.youtube.com/playlist?list=PLTCrU9sGybuo3HIJUKusfhB_m7QucuDTQ
-	- https://www.youtube.com/playlist?list=PL6W8uoQQ2c62SrHJqawDW0FgbUmIUqWkm
-	- https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
-	- https://youtu.be/jOMxKsUd6e0?si=NiGmBp-HHvsCmBVz
-	- https://youtu.be/FPu9Uld7W-E?si=GDsWolND2HWfo7BM
-	- https://youtu.be/Mo4vesaut8g?si=_BY1S3dXL6j-TVTs
-	- https://youtu.be/F2FmTdLtb_4?si=0qZd6t-48X1of9pJ
-	- https://youtu.be/SHkbPm1Wrno?si=lRdqQkZ82fZuyHe_
-	- https://youtu.be/s9Qh9fWeOAk?si=HarFwwjp7bJ8qV4B
-	- https://youtu.be/3baWzvEDfgU?si=tL1ytFR2RvAAIGvI
-	- https://youtu.be/3baWzvEDfgU?si=6eEFzEbG1E_xlaVa
-	- https://youtu.be/MDomi07XR8Q?si=OA7-UTUEqVx000WF
-	- https://youtu.be/3OVd-GDNN4c?si=Y-ULgbQhh6ytu_lI
-	- https://youtu.be/m8Icp_Cid5o?si=Rh9_oc7PCCn5nzx9
-	- https://youtu.be/sIkRdfSxCiI?si=HUpkwQFtueW5j48F
-	- https://youtu.be/FiXOaYnW64w?si=wxX-320U_6MPXh5_
-	- https://youtu.be/2JYT5f2isg4?si=oXZHXsJvLR5TQ0p0
-	- https://youtu.be/FsB_nRGdeLs?si=cQLcYYaWFPX5c2Yt
-	- https://www.youtube.com/shorts/9a-GdzWBhb8
-	- Systems Design https://youtube.com/playlist?list=PLdNCznBZ77NriBGbbHTdM34cvx7dLKi-_&si=5QenVxA9ZB8Bdbrk
-	- System Design Crash Course in 4 Hours https://youtu.be/zZGcasTtLfA?si=Nh7F4v6B_KC3GgMz
-	- System Design https://youtube.com/playlist?list=PL2mqqT1NBCtmJjntj80uAOtajmgoec0NY&si=0EkZyTxTV62E0TNh
-	- System Design Explained: APIs, Databases, Caching, CDNs, Load Balancing & Production Infra https://youtu.be/adOkTjIIDnk?si=JlmjNCMojunutBLJ
-	- System Design Interview https://youtube.com/playlist?list=PLdNCznBZ77NqqZMrLPRb1RLm7LObOCb21&si=f34KmczjRovAAmHE
-	- OSI Model Explained, Communication Process Defined– Ports, Protocols & More https://youtu.be/eZCJOEkMwhg?si=yOyp1D5e8wxfHamp
-	- OSI Model Deep Dive https://youtu.be/oVVlMqsLdro?si=Sd0DNwHStnjpnwog
-	- OSI and TCP/IP Network Models Explained https://youtu.be/mLDYqsgXvvU?si=cH6IobovD1rfwbBh
-	- Each layer of the OSI model and TCP/IP explained. https://youtu.be/kCuyS7ihr_E?si=8B0bi0rat3SsrwiG
-	- OSI vs TCP/IP Model https://youtu.be/GDz795QaS_k?si=YJukrwBO9sb7dhmj
-	- 1 minute videos on TCP, UDP https://www.youtube.com/@ITCybersecurityedu 
-	- Build Your Own X https://www.youtube.com/playlist?list=PLinedj3B30sC3VyfC7xD_ILyGvlHunoQs
-	- System Design https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o
-	- System Design Concepts Course and Interview Prep https://youtu.be/F2FmTdLtb_4?si=27d36vqjNNgJRa0m
-## 2.3 Testing
-	- Testing https://youtube.com/playlist?list=PLZlA0Gpn_vH_63f0HH-dUtkininO7GO6f&si=uO19NUFsILnVhobp
-	- JavaScript Testing Best Practices tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3OeWQwi0h0uDsWSNmU0nh4r
-	- Master Testing in Node.js https://www.youtube.com/watch?v=dWKy_JdaWcA
-	- Every Software Engineer Can Learn TDD https://youtu.be/tmOMJhZhIFI?si=WHioNIEBsir3bqH1
-	- Unit Testing Is The BARE MINIMUM https://youtu.be/h-4i5N89TUI?si=d8jFfN0sU7SG9OOx
-	- The 3 Types of Unit Test in TDD https://youtu.be/W40mpZP9xQQ?si=JRCa0CFWVe6tIvTM
-	- Test-Driven Development (TDD) Automation Framework Explained https://youtu.be/ndOJmVnPHPw?si=1I_UPgg_IWGy5ezS
-	- Why Unit Testing is Required https://youtu.be/bMeoZxN_dL0?si=INJNTrmmx_rrkVxM
-	- The ONLY REASON To Unit Test https://youtu.be/FF50H2RWaEY?si=FPSAxH429QJlROO1
-	- What is BDD? What is Behavior Driven Development? https://youtu.be/VS6EEUVZGLE?si=mRYQvgyaButvYTMP
-	- BDD Introduction https://youtu.be/6IUNFs3j14U?si=XWNuyp89wU657huZ
-	- BDD vs TDD (explained) https://youtu.be/mT8QDNNhExg?si=LzRI4QBabJVUWJPL
-	- Test Driven vs Behaviour Driven Development https://youtu.be/4QFYTQy47yA?si=6kLh_RQ943cCpmPU
-	- BDD Explained (Behaviour Driven Development) https://youtu.be/zYj70EsD7uI?si=f954LZogijndI8jM
-	- What is Behavior Driven Development? https://youtu.be/ydddSkVz_a8?si=6UcBHmPA6-8GgCnT
-	- Test Driven Development Vs Behavior Driven Development https://youtu.be/06M51vtmXdE?si=xW3gU2JPP20P8Ujs
-	- Test Driven Development vs Behavior Driven Development https://youtu.be/Bq_oz7nCNUA?si=DWoFU0xsinTBUPEy
-	- TDD vs BDD | Test Driven and Behavior Driven Development Difference Explained https://youtu.be/feaxjn2BXzc?si=7jpNGaTNZa32cKlu
-	- TDD Is The Best Design Technique https://youtu.be/ln4WnxX-wrw?si=Onvz1uXm3B7B6gjM
-	- What is TDD? What is Test Driven Development? https://youtu.be/H4Hf3pji7Fw?si=ZgHz8AyzPRek2sS1
-	- TDD is useless in programming https://youtu.be/Z3LiEeOEbCo?si=-fKQ9_XlD8fD6EA5
-	- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=sUykUML05rDzHDWy
-	- Master Testing in Node.js (JavaScript): Unit, Integration & E2E Testing (with In-Memory MongoDB!) https://youtu.be/dWKy_JdaWcA?si=vuQK3Cj-sUMrBuu_
-	- What TDD Looks Like In A REAL PROJECT https://youtu.be/RrFXxaH2sFc?si=lM0TdzawKB_qKGge
-	- Start Your TDD Journey with C# in 15 MINUTES https://youtu.be/dp1WRyR0TiE?si=TOZrIR1w0janUgG9
-	- THIS stops 90% of C# Developers Learning TDD https://youtu.be/x5hsO6R6Me8?si=tx_2MwAeQoT8eHzl
-	- What is TDD (Test Driven Development)? | How to do TDD with Example https://youtu.be/h26wrTxF94k?si=0GyNhstFpwDOETEC
-	- When To Unit, E2E, And Integration Test https://youtu.be/isI1c0eGSZ0?si=1FfGCK-1psRtAxmX
-	- Test driven development (TDD) - Tutorial for Beginners https://youtu.be/y8TcPr73Bwo?si=fA3VbJeXnu4AOikT
-	- TDD and The Terminator - An Introduction to Test Driven Development https://youtu.be/EcoIjf3RABI?si=P-Aih_KDX95VFQHb
-	- Test Driven Development In C# - TDD https://youtu.be/egzICSv-x_U?si=buZ7dLSK3zNhoxsd
-	- My 25 Laws of Test Driven Development https://youtu.be/x_3GSUiRhfM?si=PMjTNv0sBtcuMl5W
-	- Lets Chat About Unit Tests https://youtu.be/IInciWyU74U?si=2u3xpnJpXZTjBc7V
-	- Test Driven Development (TDD) Is A Broken Practice https://youtu.be/h-3z8i-MwFg?si=igkfLWMfkDHdIgTL
-	- JavaScript Testing 101 with Jest https://youtube.com/playlist?list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&si=-ETQ16EeAImLBspi
-	- TDD Express (2) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR
-	- Using jest to unit test node command line tool (1) https://youtu.be/ngbL6x4ma3Y?si=8qihGkGlWC1QVT1X
-	- TDD Express App https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR
-	- JavaScript Testing Fundamentals Course Guide (15) https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
-	- Jasmine Testing Framework Course (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
-	- Integration Tests with Vitest https://youtu.be/21EpOBrPi1A?si=Ltdvy_ShIPACC7YA
-	- Learn Vitest and Testing Library In 40 Minutes https://youtu.be/FJRuG85tXV0?si=JwpvA71raGgfXoaa
-	- Fast Unit Testing With Vitest https://youtu.be/FDEf3iWEgFI?si=xHs0iuSsVLgaP5wh
-	- TDD Express App https://youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR&si=zq9I2QbP6AMvqwuT
-	- Using jest to unit test node command line tool https://youtu.be/ngbL6x4ma3Y?si=o_K4jElhTIcTJtIs
-	- TDD https://youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR&si=kfS_7Y14MN1dJ5gx
-	- Testing with Vitest FREE COURSE https://youtu.be/cM_AeQHzlGg?si=CtIVF0xZN3qTcgsH
-	- How to Test Endpoint in Nodejs https://youtu.be/5dCL8wkKaMw?si=g1RsEnNtdw0bwqP-
-	- Testing Your Code https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NTWVG8eM7Dt43vvzulnIbK
-	- Jest tutorial with Node | testing Node.js applications https://youtu.be/KqQoiFBp36A?si=dl-oQ-ONnoM2f60I
-	- Testing Nodejs REST API with Express and MongoDB using Mocha & Chai https://youtube.com/playlist?list=PLSVX7Y2dUwe4Rrq4u7DRvz1wuOs1A31EN&si=dFsPA5uC8YG1VpMo
-	- How to write unit tests in node JS using Jest? https://youtu.be/W1grdBoFJdw?si=PC2W-9IRDuUdNFNX
-	- Supertest API Automation Tutorial | Node.js API Testing with Mocha & Chai https://youtu.be/xyXW2oHHqHY?si=Pr4aUzQHqR411EVk
-	- Introduction to Test-Driven Development (TDD) with TypeScript | 2021 https://youtu.be/a1jdwlujdk0?si=jO3PwZL01OTJnMcK
-	- How to Test Code Coupled to APIs & Databases https://youtu.be/ajfZqzeHp1E?si=2YieHkpIkHZmZ9bV
-	- Unit & Integration Testing in Node.js | Scalable Backend Architecture with Node.js https://youtu.be/_SDR6vAGens?si=CMChLPtxPrSzgLfm
-	- Turn Bad Code into Good Code (Javascript, TypeScript, Node, Jest, unit Testing) https://youtu.be/Ntd_rT-ZSBM?si=Rno4DukcSsfx7Nc-
-	- Node.js API Testing: The Ultimate Guide with Jest and Supertest (2025) https://youtu.be/LEYuxsGIeGo?si=pR8fw4RSkf8MZrq-
-	- Unit Testing with Jest – Complete Guide & Best Practices | Node.js & JavaScript Testing https://youtu.be/Oh0tZNKdobQ?si=jBfH4EKVLd3iW7O3
-	- Use Testing Coverage in Jest to Analyze Your Testing Suites https://youtu.be/m9SwRcnSAKI?si=yyvFo0Y9Vt-sSC6D
-	- JavaScript Testing with Jest https://youtu.be/UhG1xnDvXGY?si=WYgrxc-hNtfYuk4r
-	- Debugging Test in Node js Application - Express - Jest https://youtu.be/7bnoj_PY81M?si=hZgU78l-5DwBJ8yE
-	- Unit Testing with JEST in 80 Minutes https://youtu.be/GHVvrYD4VRE?si=6BVcfvkp6iERvsmy
-	- Node testing with Jest | Writing test cases | Node testing https://youtu.be/nGxircSyJMo?si=QqBOPseotWsAF46O
-	- Unit testing in 6 minutes: how to use Jest to unit test JavaScript code! https://youtu.be/QAqmVD-5eds?si=FBjVNEWbBui5uz1s
-	- Intro to Jest - Testing with ES6 https://youtu.be/kA9Pdu-IblI?si=5jrTJeEh3TGJfJIS
-	- Jest Tutorial | Testing NodeJS applications with JEST https://youtu.be/8gHEv5iNRKk?si=ALRarxiz6trYnj8b
-	- Introduction to Jest Testing | JavaScript Unit Tests https://youtu.be/x6NUZ8dc9Qg?si=vgt7vRNYe6XXUV-9
-	- Jest Crash Course - Learn How to Test your JavaScript Application https://youtu.be/ajiAl5UNzBU?si=KIcjKRh-jxZuZAxK
-	- Jest Crash Course - Unit Testing in JavaScript https://youtu.be/7r4xVDI2vho?si=rEU-3yNyWzll-OVe
-	- JavaScript Testing with Jest – Crash Course https://youtu.be/IPiUDhwnZxA?si=Ez2PvDFRMFSXCLFK
-	- ExpressJS - Jest & Unit Testing https://youtu.be/t5sFkGk8GY8?si=mYxo1hdJGNXz_tIY
-	- Unit Testing on NodeJS - Express API with Jest https://www.youtube.com/live/WnVrldHjN10?si=jbrUVxgrI6fJlwsM
-	- Node.js Unit Testing crash course in Hindi https://youtu.be/i2SHsjgEftg?si=wuO6DT4rP3nWWxwl
-	- Testing Express REST API With Jest & Supertest https://youtu.be/r5L1XRZaCR0?si=LBWl9XirSaqRqTq6
-	- How To Write Better Tests In 6 Easy Steps https://youtu.be/FcHUPqKRvxQ?si=v9TSzyPxzESh7Y0v
-	- Stop Writing So Many Tests https://youtu.be/4-_0aTlkqK0?si=1KU4CznNYEBcRjHA
-	- TDD Series - Test Driven Development Series https://youtube.com/playlist?list=PLUJeKZ3vVz9mByHlTJdOa3t4eeC3AvnXL&si=CNCVHDq4TLh0mQtM
-	- Testing Node Server with Jest and Supertest https://youtu.be/FKnzS_icp20?si=jCRmRaqLVN4WEvyF
-	- GPT Agents Build a Ready-to-Run Node.js Server Using TDD https://youtu.be/q-6HFvuUWbk?si=D2Hy3tBRp00od-H2
-	- Test Driven Development (TDD) | Crash Course https://youtu.be/z6gOPonp2t0?si=iJdR-2u90YywBm_3
-	- Software Testing Tutorial - Learn Unit Testing and Integration Testing https://youtu.be/Geq60OVyBPg?si=f7Qvqo1x0NYepIes
-	- Full Stack Testing with Node.js by Stacy Kirk, Quality Works https://youtu.be/i4Eu3Cczkek?si=peLni4jjovdkhOOY
-	- Practicing TDD using Jest and Node (JavaScript) for calorie tracker cli tool https://youtu.be/WlN2ps8XmTI?si=Qv4IICeYVhST6odk
-	- Using jest to unit test node command line tool https://youtu.be/ngbL6x4ma3Y?si=cdDNj-wduWwEWDVM
-	- TDD https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR
-	- Test Driven Development - TDD with Node js Express https://youtu.be/dTn_biKznU4?si=d7K-zODMR8qpC7nX
-	- Test-Driven Development // Fun TDD Introduction with JavaScript https://youtu.be/Jv2uxzhPFl4?si=-h85QELvf1ilp2ba
-	- NodeJS Express Test-Driven API Development (TDD) https://youtu.be/M44umyYPiuo?si=PorWc3smJNfMyk7j
-	- Testing https://www.youtube.com/playlist?list=PLyrXR-_n_7UrbBKka-FyXPgtRYl6Y1qlT
-	- Unit Testing with Mocha & Chai in Hindi | Node Js https://www.youtube.com/playlist?list=PLolI8AY2AS9bGs9pxrdRD13M2P6FOdswd
-	- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=ua3PxmFFVQI-ahnB
-	- Running NodeJS Tests/CI with GitHub Actions/Workflow https://www.youtube.com/watch?v=9KVCxMrshIk
-	- Introduction to JavaScript Testing with Jest https://www.youtube.com/watch?v=gfK38CQdlVU
-	- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIZzjlual3CbKn27HMUbJcJc
-	- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIYIR-yr5EVOo3B5k32gGCR7
-	- Practical Test Driven Development https://www.youtube.com/playlist?list=PLvkjn9Z-S4IncPs9hbhnGULgSx43-Kakb
-	- jest tutorial https://www.youtube.com/playlist?list=PL8p2I9GklV44-_4hh1evohe5WinvqrWr6
-	- Jest MOCK https://www.youtube.com/playlist?list=PLUXfUL9eJ8j5WDKM3js08NZ9BiK6TeDpg
-	- JavaScript Testing Fundamentals https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
-	- Jasmine Testing Framework Course https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
-	- Node testing with Jest | Supertest | Writing test cases https://youtu.be/KQjeU0mBQU8?si=0J5X1AGnVZbTEeET
-	- Cucumber BDD Framework with all Latest Features https://www.youtube.com/playlist?list=PLFGoYjJG_fqpObjigKg4bunu6_Ki7Ppn-
-	- Test Driven Development - TDD https://www.youtube.com/playlist?list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7
-	- TDD vs BDD https://www.youtube.com/playlist?list=PLngnoZX8cAn8XyTsN7_A1gTIQ15SNcKQS
-	- TDD vs BDD Death Match https://www.youtube.com/playlist?list=PLngnoZX8cAn-rZpWzX4TFlNbNLJRTKKDm
-	- Behaviour Driven Development https://www.youtube.com/playlist?list=PLngnoZX8cAn8mLgozOr3eEjE63sHSCQmT
-	- Testing https://www.youtube.com/playlist?list=PL18L3lKMddFpJTRSkoy3YDvUhKSRVwQ3z
-	- Test-Driven Development https://www.youtube.com/playlist?list=PL18L3lKMddFrXF3eoaCuG7RNpfkYfHBHc
-	- TDD - Test Driven Development https://www.youtube.com/playlist?list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q
-	- Acceptance Testing & BDD https://www.youtube.com/playlist?list=PLwLLcwQlnXByKR1Fo7UnE6gQAbx-JfYJZ
-	- Typescript Unit Testing - Full Course https://www.youtube.com/playlist?list=PLa72FipivD80tL1QpP0HKk6zL01h1y2KZ
-	- Simplified https://www.youtube.com/playlist?list=PL_QQ5oCdr7sPmJmMaiLw5opNS-tBwWesF
-## 3. Docker
+	- System Design
+		- Programming Concepts, Explained Simply https://www.youtube.com/playlist?list=PLnFamtQIJe6Klo-RppG19baEc94xgtcsr
+		- https://blog.bytebytego.com/archive?sort=new
+		- https://www.youtube.com/@interviewhappy
+		- https://www.youtube.com/@questpondvideos
+		- https://www.youtube.com/@hayk.simonyan
+		- Full HTTP Networking Course 5hrs https://www.youtube.com/watch?v=2JYT5f2isg4
+		- https://www.youtube.com/@AsliEngineering
+		- https://www.youtube.com/@SystemDesignSchool
+		- https://www.youtube.com/@SystemDesignInterview
+		- https://www.naukri.com/code360/library/low-level-design-lld
+		- https://www.youtube.com/@gkcs
+		- https://www.youtube.com/@ByteByteGo
+		- https://www.youtube.com/@WhiteboardDoodles24
+		- https://www.youtube.com/@SystemDR
+		- http://www.youtube.com/@hnasr
+		- http://www.youtube.com/@ByteMonk
+		- https://www.youtube.com/@rajan.techie/shorts
+		- RedBlackTech - All Tech Videos https://www.youtube.com/playlist?list=PLepuqCfcw65p7c4VPdpq3SYdUxtQoRQPu
+		- Distributed systems tutorial in hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafalSCnCmAyKJcsV_TuoV2kZ
+		- HTTPS, SSL, TLS & Certificate Authority Explained https://youtu.be/EnY6fSng3Ew?si=rpW6QrA1g_1F8a50
+		- HTTP vs WebSockets: Performance (Latency - CPU - Memory - Network) https://youtu.be/UtyxjO8LJQs?si=xGXm2ta7yAbQcwWX
+		- System Design https://www.youtube.com/playlist?list=PLFdpEvGo4EEqGyM8nafi_4ajhTsu6y-N4
+		- Webhooks - System design https://www.youtube.com/playlist?list=PLYpjLpq5ZDGsnBmwJCdFv5PhQbUZruKy3
+		- Big Concepts in Short Time https://www.youtube.com/playlist?list=PL6W8uoQQ2c62SrHJqawDW0FgbUmIUqWkm
+		- Low Level Design from Basics to Advanced https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+		- High Level Design from Basics to Advanced https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+		- Latest Technology Tutorials 2025 https://www.youtube.com/playlist?list=PLcnJIHtHiTA2Hdgon51_-G3Kt43hcU6kI
+		- System Design and Architecture https://www.youtube.com/playlist?list=PL5Lsd0YA4OMFvX88T5xH93NqBALI7TENz
+		- Popular Software Architectures https://www.youtube.com/playlist?list=PL5Lsd0YA4OMEIcV32mlOu-zVAAMvLPfUP
+		- Systems Design Questions 3.0 https://www.youtube.com/playlist?list=PLjTveVh7FakLGZ36GbWAk_DMf_0xBZpGv
+		- Deep Dives https://www.youtube.com/playlist?list=PLjTveVh7FakK3c6rb-1-_KO4k8r3--8CU
+		- https://www.youtube.com/@Code_Fap/shorts
+		- https://www.youtube.com/@SoftsWeb/videos
+		- System Design 101 https://www.youtube.com/playlist?list=PL2We04F3Y_42gZom7191PoUZWOrK-LUrG
+		- http://www.youtube.com/@udaykirantech
+		- https://www.youtube.com/@hello_interview/playlists
+		- https://www.youtube.com/@SoftsWeb/videos
+		- System Design https://www.youtube.com/playlist?list=PLi0P3bAJieri71WhnLs1esOCr27hpvFBZ
+		- Distributed systems tutorial in hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafalSCnCmAyKJcsV_TuoV2kZ
+		- Deep Dives https://www.youtube.com/playlist?list=PL5q3E8eRUieUHnsz0rh0W6AzwdVJBwEK6
+		- System Design Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM
+		- Complete Software Engineering Mastery https://www.youtube.com/playlist?list=PLivLegtKjo2ceXlNzSN8oa6EzYDT_WCjg
+		- Architecture https://www.youtube.com/playlist?list=PLThyvG1mlMzkQklYlHp_CdO5IEJ3i_ary
+		- Software Design https://www.youtube.com/playlist?list=PLThyvG1mlMznuNW2tITIGmgQqJikLBqab
+		- System Design https://www.youtube.com/playlist?list=PL-P_hNzCQhQjjm82SBCXzZ1Uzpw3o05Ry
+		- CS Fundamentals https://www.youtube.com/playlist?list=PLqR6Wq9GKBiuEEeAlPs-FGAY2b-DIp4vc
+		- Messenger service like Whatsapp or FB Chat https://youtu.be/9JqNszmEPHk?si=w_yR9-WFtwc42nX2
+		- Frontend System Design Mock Interview (build Google Search) https://youtu.be/jVMqj8A7Fpk?si=mQmEeupe3CUpNQcB
+		- HNSW Explained — How Amazon Finds Your Next Purchase in Milliseconds https://youtu.be/E6XaSWf95vc?si=dTTLWHR-1H7uI3ck
+		- System Design Basics https://www.youtube.com/playlist?list=PLBgdlMZhIRmExB642Hb7JeW8aBCA-m3PS
+		- Food Store | System Design https://youtu.be/bHelfhgSN2c?si=YQ6J85WZzmQjMwCc
+		- High Level Design vs Low Level Design https://youtu.be/H703ErIrby8?si=VMPUAtaWOMn_ArZS
+		- Architecture of Amazon, Flipkart like e-commerce system https://youtu.be/2BWr0fsDSs0?si=TxpsZTh_suWYzX1D
+		- Distributed Systems https://www.youtube.com/playlist?list=PLTCrU9sGybupq5YqUTlNqyuxzgCT6IUDl
+		- System Design Primer Course https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
+		- Low Level Design Primer Course https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k
+		- SOLID Principles Made Easy https://www.youtube.com/playlist?list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV
+		- System design https://www.youtube.com/playlist?list=PLSBeS-txjpHtpU4H5b2M7jC9KwEeewC9y
+		- Backend https://www.youtube.com/playlist?list=PLSBeS-txjpHvmwu7Xzlk_4Xg9HbvRbzVo
+		- System Design Interview https://www.youtube.com/playlist?list=PLQpVsaqBj4RL9mw5IMNKYWccqKMUGBEaM
+		- https://www.youtube.com/@kikisbytes/videos
+		- https://www.youtube.com/@interviewpen/videos
+		- https://www.youtube.com/@infinitycodesolution/shorts
+		- System Design Interview https://www.youtube.com/playlist?list=PLBrWqg4Ny6vUJXmkQVRa3bRVB59y1dx5A
+		- https://www.youtube.com/@FullStackDev-w9q/shorts
+		- System Design And Architecture https://www.youtube.com/playlist?list=PLjCYFwDcjeM6LndodrmZZpF0ifumjUYA1
+		- SOLID PRINCIPLES https://www.youtube.com/playlist?list=PLjCYFwDcjeM7cNomPSsdQYOHE4i3WbC0u
+		- https://www.youtube.com/@FullStackClasses/videos
+		- https://www.youtube.com/@fourzerothree
+		- https://www.youtube.com/@fiveminutetech/videos
+		- System Design Interview Prep https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL
+		- Product Design Interview Prep https://www.youtube.com/playlist?list=PLrtCHHeadkHo0blkeVU0Karin2lOOvyU5
+		- https://www.youtube.com/@drawingboxes/videos
+		- https://www.youtube.com/@sagaratytube/videos
+		- System Design Interview https://www.youtube.com/playlist?list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE
+		- https://www.youtube.com/@AsliEngineering
+		- New Benchmarks https://www.youtube.com/playlist?list=PLiMWaCMwGJXmcDLvMQeORJ-j_jayKaLVn
+		- https://www.youtube.com/@myakcoding/shorts
+		- System Design Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFDHtcKPFUjHPgv-KfcAiUUp
+		- System Design & Tips in 60 Seconds https://www.youtube.com/playlist?list=PLlDftNlvPbFAWTfmzLtyM3yZHFqpbA1A9
+		- Distributed Systems https://www.youtube.com/playlist?list=PL4JxLacgYgqSwZIS6MQ2HBqypMp-GagEy
+		- How Instagram Handle BILLIONS of likes 11m https://youtu.be/4c9ChCSGIp0?si=1Lny4N1cflqNmPJk
+		- HTTP APIs Walkthrough (3) https://www.youtube.com/playlist?list=PL9nWRykSBSFivg7AyK8XjGa6I7wGEibqG
+		- System Design Topics to know for Software Interviews (17) https://www.youtube.com/playlist?list=PL9nWRykSBSFgkCmkYdEfmXHX71m1UybNL
+		- Software Engineering Best Practices (3) https://www.youtube.com/playlist?list=PL9nWRykSBSFg9d0mDm8cuCv9cGnpxfnN5
+		- Be a Better Developer (16) https://www.youtube.com/playlist?list=PL9nWRykSBSFjpEqX9V1HsjF25kKW8oMFN
+		- System Design Concepts You NEED to Know (21) https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag
+		- Understanding HTTP Protocol (30) https://www.youtube.com/playlist?list=PL_euSNU_eLbfcQHdSA5bJvH5yQdivgISK
+		- HTTP Protocol (4) https://www.youtube.com/playlist?list=PL_euSNU_eLbdMWw2lE22mpNc-CVCQPYq_
+		- REST API (10) https://youtube.com/playlist?list=PLRtLu6rCuAlkMY9AGdYknLD6w_naQ1pYI&si=rtDUW59oZ8NNARv3
+		- SQL (19) https://youtube.com/playlist?list=PLRtLu6rCuAlk8UlYKQYq3OJ179M1YU_GB&si=23QJ_oYYGiXgJBUM
+		- System Design (15) https://youtube.com/playlist?list=PLRtLu6rCuAlkO-HiER3AKoKkSG5DPp9TX&si=huK3e-OaifQ6qs3Z
+		- Low Level Design (8) https://youtube.com/playlist?list=PLRtLu6rCuAllRv7QXkYfT9js-_soLt-SV&si=f_BGYRMoMfHpzWn7
+		- Introduction to TCP/IP and Sockets (2) https://youtube.com/playlist?list=PLbtjxiXev6lqCUaPWVMXaKxrJtHRRxcpM&si=Tu906KXnbYaXlq6Y
+		- How to Prove or Disprove Big-O 18m https://youtu.be/7NC-iyZ7vpQ?si=UFk67t_YbLw5BibE
+		- System Design was HARD until I Learned these 30 Concepts 20m https://youtu.be/s9Qh9fWeOAk?si=DrQqff2o8dEt1ip8
+		- SSL, TLS, HTTP, HTTPS Explained 6m https://youtu.be/hExRDVZHhig?si=wfwSeEKASzQVDR7a
+		- System Design Playlist (26) https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+		- Low Level Design (11) https://www.youtube.com/playlist?list=PLMCXHnjXnTnvQVh7WsgZ8SurU1O2v_UM7
+		- System Design Shorts (48) https://www.youtube.com/playlist?list=PLMCXHnjXnTnteVBQIKevQkq6c6I7weiZb
+		- Network Engineering (62) https://www.youtube.com/playlist?list=PLQnljOFTspQUBSgBXilKhRMJ1ACqr7pTr
+		- Proxies (30) https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC
+		- HTTP (60) https://www.youtube.com/playlist?list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO
+		- Web Security (95) https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv
+		- System Designs (9) https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d
+		- Minute Engineering (112) https://www.youtube.com/playlist?list=PLQnljOFTspQWXxAYDl_qSPXMcKpyH-LML
+		- OS Fundamentals (30) https://www.youtube.com/playlist?list=PLQnljOFTspQU2bFV-N5Ix-Qg9A3WAik7N
+		- HTTP/3 (4) https://www.youtube.com/playlist?list=PLQnljOFTspQVAtL9nmMTLFaXmKJIP7_38
+		- RFCs in 60 seconds (7) https://www.youtube.com/playlist?list=PLQnljOFTspQWVQCHSikE2j4SektL0KnSh
+		- The Backend Engineering Show (58) https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY
+		- Backend Outage Analysis of Large Companies (23) https://www.youtube.com/playlist?list=PLQnljOFTspQXdkZLiYCCh_5RBP1-T-Rnx
+		- Dev Tool them ALL! (16) https://www.youtube.com/playlist?list=PLQnljOFTspQX9U79P6eD_V9USIUTE9yAD
+		- Backend Engineering (Advanced) (78) https://www.youtube.com/playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ
+		- Backend Engineering (Intermediate) (54) https://www.youtube.com/playlist?list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs
+		- Browser API (9) https://www.youtube.com/playlist?list=PLQnljOFTspQVG32WQY3Sb3f2hYc7jGjsr
+		- TLS Certificates (10) https://www.youtube.com/playlist?list=PLQnljOFTspQXFUUIEnnmsQatlXz5duXRb
+		- High Availability (5) https://www.youtube.com/playlist?list=PLQnljOFTspQVPOt2GrGpq2_NRZjcdxzfu
+		- TCP (14) https://www.youtube.com/playlist?list=PLQnljOFTspQX_Zkt_8teMRsdY4sNt4BX6
+		- TLS (31) https://www.youtube.com/playlist?list=PLQnljOFTspQW4yHuqp_Opv853-G_wAiH-
+		- Distributed Systems (11) https://www.youtube.com/playlist?list=PLQnljOFTspQUVDsQcPnmdbtLUhqODSV1F
+		- Load Balancing (9) https://www.youtube.com/playlist?list=PLQnljOFTspQWdgYcGXCTkjda8vd2jWJYt
+		- The OSI Model Explained 40m https://www.youtube.com/watch?v=29fZYt8qRUs
+		- How the Internet Works: IP, protocols, Ports, MAC 40m https://www.youtube.com/watch?v=f9ASF9dgMNQ
+		- How Your Data Travels: The Secret Internet Handshake (TCP/IP Explained) https://www.youtube.com/watch?v=6Zf6ni9aPXY
+		- Ping, ICMP, HTTP, FTP,DNS, SSH Explained 17m https://www.youtube.com/watch?v=7b7c7zz4OZs&t=6s
+		- Firewall vs VPN: What’s the Difference & Why You Need Both 17m https://www.youtube.com/watch?v=BFLSngOgJL0
+		- What Happens When You Type a URL? | Internet Explained 28m https://www.youtube.com/watch?v=3Sl4umOrAhM
+		- Cryptography Basics for Cybersecurity & Ethical Hacking 19m https://www.youtube.com/watch?v=MogPnKMOa34
+		- Cryptography Essentials - (RSA ,Diffie-Hellman Algorithm.) 26m https://www.youtube.com/watch?v=eX43lpRoi6o
+		- Hashing in Cybersecurity 15m https://www.youtube.com/watch?v=IfJWrsyV1HY
+		- Full HTTP Networking Course – Fetch and REST APIs in JavaScript 300m https://www.youtube.com/watch?v=2JYT5f2isg4&t=5380s
+		- SSL TLS Explained: How SSL Certificates & Encryption Keep Your Data Safe [HINDI] https://www.youtube.com/watch?v=I43NnHTeACk
+		- http://www.youtube.com/@hello_interview
+		- https://www.youtube.com/@hayk.simonyan/videos
+		- https://www.youtube.com/@SystemDesignInterview
+		- https://www.youtube.com/playlist?list=PLyHJZXNdCXsfGig2zcWL71kdsZqYS7ltJ
+		- https://www.youtube.com/playlist?list=PLVKLWop9wWA8rdaNPIsG6r4a6QZClCH-M
+		- https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL
+		- https://www.youtube.com/playlist?list=PLRkUGTuYnlihciD2h69bC3g7id0Bh3m0o
+		- https://www.youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT
+		- https://www.youtube.com/playlist?list=PLinedj3B30sC3VyfC7xD_ILyGvlHunoQs
+		- https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o
+		- https://www.youtube.com/playlist?list=PLBrWqg4Ny6vUJXmkQVRa3bRVB59y1dx5A
+		- https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM
+		- https://www.youtube.com/playlist?list=PLCZ2MME8uzMhow9-hAsSm2-dvfF4ag6wy
+		- https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+		- https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf
+		- https://www.youtube.com/playlist?list=PLFdAYMIVJQHOWJgRrjv_RH-ng95B2h3ON
+		- https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
+		- https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+		- https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZVHPTnN2o7j0G8CSP48YxV
+		- https://www.youtube.com/playlist?list=PLaLqLOj2bk9bXHrewQhwDjXglwXpEfa6L
+		- https://www.youtube.com/playlist?list=PL285LgYq_FoIZCB2UX0Cpxb9Qk_QE3gjs
+		- https://www.youtube.com/playlist?list=PL285LgYq_FoJMIMzaQAVyfcvEaLXBZEw6
+		- https://www.youtube.com/watch?v=AAMZWZmsLrA&list=PL285LgYq_FoJOjiDW0ta9Db6lX-H9ZTzC&index=1
+		- https://www.youtube.com/playlist?list=PL285LgYq_FoLYHm80Q3pczJUm1iJRgTi0
+		- https://www.youtube.com/playlist?list=PL285LgYq_FoJy3kLMMihuWIlxfcpT6D2a
+		- https://www.youtube.com/playlist?list=PL285LgYq_FoI7Gw6n5ZxQXloo8tCm4JEf
+		- https://www.youtube.com/playlist?list=PL285LgYq_FoJK0zi3h3AiQUfJenArkOuQ
+		- https://www.youtube.com/playlist?list=PL285LgYq_FoLG3WkGNO_5G7st19Tb7Xdf
+		- https://www.youtube.com/playlist?list=PLL34mf651faNGMSGOBXdNVPKnRvfzvv8U
+		- https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k
+		- https://www.youtube.com/playlist?list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV
+		- https://www.youtube.com/playlist?list=PLTCrU9sGybuo3HIJUKusfhB_m7QucuDTQ
+		- https://www.youtube.com/playlist?list=PL6W8uoQQ2c62SrHJqawDW0FgbUmIUqWkm
+		- https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+		- https://youtu.be/jOMxKsUd6e0?si=NiGmBp-HHvsCmBVz
+		- https://youtu.be/FPu9Uld7W-E?si=GDsWolND2HWfo7BM
+		- https://youtu.be/Mo4vesaut8g?si=_BY1S3dXL6j-TVTs
+		- https://youtu.be/F2FmTdLtb_4?si=0qZd6t-48X1of9pJ
+		- https://youtu.be/SHkbPm1Wrno?si=lRdqQkZ82fZuyHe_
+		- https://youtu.be/s9Qh9fWeOAk?si=HarFwwjp7bJ8qV4B
+		- https://youtu.be/3baWzvEDfgU?si=tL1ytFR2RvAAIGvI
+		- https://youtu.be/3baWzvEDfgU?si=6eEFzEbG1E_xlaVa
+		- https://youtu.be/MDomi07XR8Q?si=OA7-UTUEqVx000WF
+		- https://youtu.be/3OVd-GDNN4c?si=Y-ULgbQhh6ytu_lI
+		- https://youtu.be/m8Icp_Cid5o?si=Rh9_oc7PCCn5nzx9
+		- https://youtu.be/sIkRdfSxCiI?si=HUpkwQFtueW5j48F
+		- https://youtu.be/FiXOaYnW64w?si=wxX-320U_6MPXh5_
+		- https://youtu.be/2JYT5f2isg4?si=oXZHXsJvLR5TQ0p0
+		- https://youtu.be/FsB_nRGdeLs?si=cQLcYYaWFPX5c2Yt
+		- https://www.youtube.com/shorts/9a-GdzWBhb8
+		- Systems Design https://youtube.com/playlist?list=PLdNCznBZ77NriBGbbHTdM34cvx7dLKi-_&si=5QenVxA9ZB8Bdbrk
+		- System Design Crash Course in 4 Hours https://youtu.be/zZGcasTtLfA?si=Nh7F4v6B_KC3GgMz
+		- System Design https://youtube.com/playlist?list=PL2mqqT1NBCtmJjntj80uAOtajmgoec0NY&si=0EkZyTxTV62E0TNh
+		- System Design Explained: APIs, Databases, Caching, CDNs, Load Balancing & Production Infra https://youtu.be/adOkTjIIDnk?si=JlmjNCMojunutBLJ
+		- System Design Interview https://youtube.com/playlist?list=PLdNCznBZ77NqqZMrLPRb1RLm7LObOCb21&si=f34KmczjRovAAmHE
+		- OSI Model Explained, Communication Process Defined– Ports, Protocols & More https://youtu.be/eZCJOEkMwhg?si=yOyp1D5e8wxfHamp
+		- OSI Model Deep Dive https://youtu.be/oVVlMqsLdro?si=Sd0DNwHStnjpnwog
+		- OSI and TCP/IP Network Models Explained https://youtu.be/mLDYqsgXvvU?si=cH6IobovD1rfwbBh
+		- Each layer of the OSI model and TCP/IP explained. https://youtu.be/kCuyS7ihr_E?si=8B0bi0rat3SsrwiG
+		- OSI vs TCP/IP Model https://youtu.be/GDz795QaS_k?si=YJukrwBO9sb7dhmj
+		- 1 minute videos on TCP, UDP https://www.youtube.com/@ITCybersecurityedu 
+		- Build Your Own X https://www.youtube.com/playlist?list=PLinedj3B30sC3VyfC7xD_ILyGvlHunoQs
+		- System Design https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o
+		- System Design Concepts Course and Interview Prep https://youtu.be/F2FmTdLtb_4?si=27d36vqjNNgJRa0m
+## Docker
 	- https://docs.docker.com/get-started/
 	- https://www.okteto.com/
 	- https://ona.com/ (earlier gitpod)
@@ -1064,6 +1114,8 @@
 	- https://www.youtube.com/@DockerInc
 	- https://j471n.in/blogs
 	- https://www.tutorialspoint.com/docker/index.htm
+	- Learn Docker https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3cIiT9Z5qxlA7PXEtlUa-
+	- Docker Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-svqMFkNEiNdDyhs41Vnib
 	- Docker Full Course for Beginners - 2025 https://www.youtube.com/watch?v=pg884pZFK0A
 	- Docker Course For Beginners 2025: Basic to Advance Tutorial https://www.youtube.com/watch?v=OhnTMWmfTBE&t=12s
 	- The Docker Crash Course https://youtu.be/KfGr49Z7OaA?si=Wj8QcyXt2qjm8nZ0
@@ -1305,214 +1357,166 @@
 	- Docker Complete Tutorial (58) https://www.youtube.com/playlist?list=PL_euSNU_eLbdTbQ4_-1_MrRqBudohCIhJ
 	- Ultimate Docker Crash Course: Learn Docker within 30 Minutes! https://youtu.be/WNUCAPKa44Y?si=kK7TWe9hvlqsWQgH
 	- DOCKER Full Course in HINDI | Docker Tutorial for beginners in 2022 https://youtu.be/0SS6bJczlgs?si=VN5QBFY7XBY3RY7T
-## 4. Kubernetes
-	- https://trainingportal.linuxfoundation.org/courses/introduction-to-kubernetes
-	- https://youtu.be/JD2es72cU6A?si=LGg88_Q9u3W2S2ny
-	- https://youtu.be/2vMEQ5zs1ko?si=1lW5dNefZwQxtQwv
-	- https://kubernetes.io/docs/home/
-	- https://www.cncf.io/training/courses/
-	- https://learn.kodekloud.com/courses
-	- https://www.kubeblogs.com/
-	- https://kodekloud.com/blog/kubernetes-tutorial-for-beginners/
-	- https://cast.ai/
-	- https://spacelift.io/blog/kubernetes-tutorial
-	- https://www.datacamp.com/tutorial/kubernetes
-	- https://www.okteto.com/blog/kubernetes-basics/
-	- https://github.com/knrt10/kubernetes-basicLearning?tab=readme-ov-file#keeping-pods-healthy
-	- https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-complete-guide/ 
-	- https://www.aquasec.com/cloud-native-academy/ (see right side 'Related Articles' and '70 Best Kubernetes Tutorials' there)
-	- https://www.geeksforgeeks.org/devops/kubernetes-tutorial/
-	- https://kubebyexample.com/learning-paths
-	- https://www.qovery.com/blog/kubernetes-tutorial-for-developers
-	- http://www.youtube.com/@codewithjay
-	- https://www.tutorialspoint.com/kubernetes/index.htm
-	- Kubernetes for Beginners in One Video 🔥 [HINDI] https://www.youtube.com/watch?v=rBeyHDKLVqM&t=949s
-	- Kubernetes For Beginners In Hindi https://youtube.com/playlist?list=PL6XT0grm_TfhFKUv_KI_DTVr0TCincl1r&si=OUWwzlQgJmzo1GO8
-	- The beginner mistake killing your Kubernetes journey https://youtu.be/rQDZgbZwNvs?si=pEYEP2Qn0QRicYIH
-	- Kubernetes Crash Course for Beginners https://youtu.be/9AKSLbfen6w?si=oom5FylLxvz-x1e9
-	- Deploy NodeJS App to Kubernetes https://youtu.be/WANEMc5tcaA?si=EdM8GdlaDNbybIRk
-	- How to deploy .NET Web API to Kubernetes https://youtu.be/zTBpl1nSPqk?si=YN91SQz0dq_r9BNB
-	- Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!) https://youtu.be/d6WC5n9G_sM?si=HzHL2AoNmkq_ekUl
-	- Kubernetes Zero to Hero: The Complete Beginner’s Guide (2025 Edition) https://youtu.be/MTHGoGUFpvE?si=woD-ljkUv3tGJDzK
-	- Kubernetes FULL COURSE 2025- Zero to Hero https://www.youtube.com/playlist?list=PLleCw-vqe90AqkxnzWVU8IexL7pWijxml
-	- Kubernetes Tutorials | CKAD Level Training https://youtube.com/playlist?list=PLleCw-vqe90DzAwG6Z_f9GARu-y6HbHXf&si=IuPDbG4j-kIvGpjo
-	- Most Common Kubernetes Deployment Strategies (Examples & Code) https://youtu.be/lxc4EXZOOvE?si=TXkT7cvxu-FWKE6N
-	- 2-Tier Application Deployment Project Series for DevOps Engineers | Episode 1 https://youtu.be/dXUnAK9_ets?si=uR77sbBjtKifGIKW
-	- https://www.youtube.com/@DevOpsToolkit
-	- Kubernetes Lightning Course https://youtube.com/playlist?list=PLHq1uqvAteVuOCnB0QUrf2BJ_jbMeYZ4l&si=XHHQt3KN9J6Vli3Q
-	- Logging Guide for DevOps https://youtube.com/playlist?list=PLHq1uqvAteVvfDxFW50Mdezk0xum-tyHT&si=KGJU9jBfByyD5tMS
-	- Kubernetes in the Cloud https://youtube.com/playlist?list=PLHq1uqvAteVsUhzNBkn-rPzXtPNpJu1-k&si=bnIJwC84ouI8rYE7
-	- CI/CD Guides for DevOps Engineers https://youtube.com/playlist?list=PLHq1uqvAteVsSsrnZimHEf7NJ1MlRhQUj&si=T2R0oT56gxR6OcSZ
-	- Kubernetes Secret Management guide https://youtube.com/playlist?list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj&si=akc3tt_1FihOsZ_Y
-	- Kubernetes Monitoring guide for beginners https://youtube.com/playlist?list=PLHq1uqvAteVuEXCrRkPFWLXRKWNLOVUHn&si=vywjvxAp27Q_ntjc
-	- Kubernetes development guide for https://youtube.com/playlist?list=PLHq1uqvAteVvUEdqaBeMK2awVThNujwMd&si=oDwFwV7rnKDg70hN
-	- Kubernetes Tutorial https://www.youtube.com/playlist?list=PLwvrYc43l1Mz3SjrJku5G0faF-xr-cCSQ
-	- Managed Kubernetes Cluster explained | Kubernetes on Cloud (1/2) https://youtu.be/k-V3_zxRasM?si=Sq9dGHlJhfErQz8L
-	- Step by Step Application Deployment on LKE using Helm | Kubernetes on Cloud (2/2) https://youtu.be/JGtJj_nAA2s?si=IR7YDvTYJyTwF15l
-	- Complete Kubernetes Tutorial for Beginners https://youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC&si=9ckAKgymOj1oFhMC
-	- How to Deploy Node.js Apps with Kubernetes, Docker & CI/CD Pipeline https://youtu.be/NI4XEDjGJsU?si=MKZ_zdkdL4_QMC-S
-	- Kubernetes Real time Scenerio Based Requests and Solutions https://www.youtube.com/playlist?list=PLYliwzTugkt0mP1yRDlILothC0OQv3jPj
-	- Kubernetes Tutorial for Beginners https://www.youtube.com/playlist?list=PLYliwzTugkt3_8H2JPTUfzQ6NpsEzF41K
-	- Kubernetes Multi Master Setup with LoadBalancer on Ubuntu https://youtu.be/Zxozz8P_l5M?si=7BqPJA1gbPIEJEk-
-	- Complete Kubernetes Course - From BEGINNER to PRO https://youtu.be/2T86xAtR6Fo?si=LUQmLrbnrguUyoFw
-	- Deploy Containers on Kubernetes (Docker Beginner to Pro - BONUS VIDEO) https://youtu.be/6TpXObxxFOU?si=EkSV5sis4GFWB2-U
-	- Kubernetes 101: Deploying Your First Application! https://youtu.be/XltFOyGanYE?si=jeJIG9EvVOndi3na
-	- Learn Kubernetes with KodeKloud https://www.youtube.com/playlist?list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5
-	- Install Kubernetes Cluster from Scratch https://www.youtube.com/playlist?list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo
-	- Kubernetes: KodeKloud Engineer #shorts https://www.youtube.com/playlist?list=PL2We04F3Y_41FPPQ7AebI5eIzH1eBvCNd
-	- Kubernetes-Hands-On-Learning https://www.youtube.com/playlist?list=PLwkjeLjcn3RyScjd0fcjT1KTA_5lfDMq0
-	- Kubernetes Troubleshooting https://www.youtube.com/playlist?list=PL55uMtDpag8qDW0nxR6FnLuUCqbH6ZrL3
-	- Kubernetes Deployment Strategies https://www.youtube.com/playlist?list=PL55uMtDpag8q3bw30ZSUT2L_nv3HQHomc
-	- Kubernetes Beginner Tutorials https://www.youtube.com/playlist?list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX
-	- Linode Kubernetes with Helm https://www.youtube.com/playlist?list=PLTnRtjQN5ieYD97JCZtcGbIjq1EINih2G
-	- Calico https://www.calicocloud.io/home#plans
-	- Helm Fundamental to Advance Tutorial 2023 https://www.youtube.com/playlist?list=PLTCuRW0ikUdOhDX9kvkmlWa7JpQn-7F-Q
-	- Kubernaties https://www.youtube.com/playlist?list=PLBJoSrneWLYt41XJAGdrbayXnNjLLNxdB
-	- Deploy NodeJS App to Kubernetes | Docker + Kubernetes | Basic Tutorial https://youtu.be/WANEMc5tcaA?si=mst-ptnz_is8bzUh
-	- Managing Microservices in Practice tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3NpflSrQWxiEOv_Vatc-ROt
-	- Hands-On Continuous Integration and Delivery https://www.youtube.com/playlist?list=PLTgRMOcmRb3OkYmEDl18ecJ52yhqELo8z
-	- Kubernetes Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIawlCTYW5XP33Exzpweu_6x
-	- Kubernetes https://www.youtube.com/playlist?list=PLXHMZDvOn5sVXjb88kYXSI7UMx4rhQwOj
-	- Kubernetes | Zero to Interview Hero https://www.youtube.com/playlist?list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn
-	- Module 2 : Kubernetes Failures & Fixes https://www.youtube.com/playlist?list=PL8h_iS3fGq0LgGCyCGraj6IQkGoJLcNT8
-	- 100 Real-World Kubernetes Failures & their Fixes https://www.youtube.com/playlist?list=PL8h_iS3fGq0K38XpD4jcwYWDZ_D08cuhh
-	- 100 Real-World Kubernetes Scenario Based Questions https://www.youtube.com/playlist?list=PL8h_iS3fGq0LwqaOmRSJ0jiqZbipwa-HN
-	- Certified Kubernetes Administrator Full Course For beginners https://www.youtube.com/playlist?list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC
-	- A Cloud Guru - Kubernetes https://www.youtube.com/playlist?list=PL2uKJaZguK1JtA5HxcH8d5Mdy21DYHc18
-	- A Cloud Guru - Kubernetes Fundamentals https://www.youtube.com/playlist?list=PL2uKJaZguK1JB4bg2nXZb5CiBpmqWH0QN
-	- The DevOps Tutorial https://www.youtube.com/playlist?list=PL4bM2dByZZML4EgEkopCL0DhWtNxYYo60
-	- Kafka https://www.youtube.com/playlist?list=PL-OjXpIFhMrf7sXlUsVMczqsNU5MOI6CV
-	- Kubernetes https://www.youtube.com/playlist?list=PL-OjXpIFhMre6lFtNmaGGIxYXS-U5FtHt
-	- Kubernetes https://www.youtube.com/playlist?list=PL4y5PiOmBnA9KrxpnrBzgvSpdEqD6LmtI
-	- Kubernetes Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYfanKF33E12LdJvl5q5PZGp
-	- K8s Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYdHLSdZz9fW0cMnpZny3UPL
-	- DevOps Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYcweaQnrRnD2L4Xc87COS70
-	- DevOps https://www.youtube.com/playlist?list=PL0JfpSrXxTMz-N-_OJNgiB8yoQSuWhwQl
-	- Learn about Kubernetes Authentication Methods https://www.youtube.com/playlist?list=PLShDm2AZYnK22Gqm5UJJ5WlUm48AYhHQ_
-	- Kubernetes bootcamp https://www.youtube.com/playlist?list=PL2z28C0cnXhMSIN0JyZkI1XBg1K3VZ3cV
-	- Kubernetes Cluster Architecture | Master & Worker Node Tutorial https://www.youtube.com/playlist?list=PL2NZAYdLkYviE7B06At6INbSCsDSRX8Ya
-	- Kubernetes and Container Tutorials https://www.youtube.com/playlist?list=PL5aURjJ6mdUedh8rPBXJ5w_ogdD9PM0D7
-	- Q/A for Kubernetes DevOps Interview https://www.youtube.com/playlist?list=PL5aURjJ6mdUc7O6xrwnv96SrZ4DxF-8tZ
-	- Kubernetes Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXmoKAmRh38U1-QEeh2dGEOX
-	- 100 Seconds of Code https://www.youtube.com/playlist?list=PLiMWaCMwGJXnjNhBQF-vR2Xqal0hN9U2-
-	- Kubernetes Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXnHmccp2xlBENZ1xr4FpjXF
-	- Kubernetes https://www.youtube.com/playlist?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
-	- 2-Tier Application Deployment with Docker in One Video | Episode 2 https://youtu.be/LxPd81wiUP4?si=r5lIpL4V5Cx-Vvg-
-	- Easiest Kubernetes Architecture and Cluster Setup (Kubeadm) For DevOps | Episode 3 https://youtu.be/oEGmaHSfcjQ?si=GWVqM8AaS5kBb4EB
-	- Stop using Kubernetes Ingress Nginx Controller Today https://youtu.be/ExUGVIOrNbE?si=ZoLfASET2dox4KMH
-	- Kubernetes Deployment of 2-Tier Application for DevOps Engineers | Episode 4 https://youtu.be/x43KlgDSRDg?si=M0vl3y4c7FU_jpOm
-	- Kubernetes End to End project on EKS | EKS Install and app deploy with Ingress https://youtu.be/RRCrY12VY_s?si=KUQAAjfm0fn6fvGD
-	- Beautiful Dashboards with Grafana and Prometheus - Monitoring Kubernetes Tutorial https://youtu.be/fzny5uUaAeY?si=DYV2BRoanIRETTbN
-	- Kubernetes 101 workshop - complete hands-on https://www.youtube.com/live/PN3VqbZqmD8?si=8_n1aZKiQ2aQNs8V
-	- The Kubernetes Course 2025 https://youtu.be/EV47Oxwet6Y?si=JL4mvZg4OUVqz13x
-	- What is Kubernetes-Hindi https://youtu.be/mYVzuE3daY8?si=CvKzWuUrc_OpMoT3
-	- Kubernetes 35 Videos https://youtube.com/playlist?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc&si=wlS6HYL6bdR-VQQy
-	- Troubleshooting Kubernetes 6 Videos https://youtube.com/playlist?list=PLdpzxOOAlwvIrFBI1farpLS_OSUBXJMLX&si=vnW8Lc19iFk5PiA1
-	- Kubernetes Service, Ingress with TLS and Ingress Controllers with Live coding https://youtu.be/3YTU4EPjEh4?si=fTSZhARzjTZyep8I
-	- Full Kubernetes tutorial on Docker, KinD, kubectl, Helm, Prometheus, Grafana https://youtu.be/SeQevrW176A?si=ngjIeV7RZbbG09K5
-	- Kubernetes Deployment Strategies Explained (Hands-On Project) https://youtu.be/_T3vfkl-3Vk?si=rfwrVnTR89tO0LaC
-	- Docker and Kubernetes Tutorial https://youtu.be/bhBSlnQcq2k?si=AVpwWeQAVDUwHu3u
-	- Docker and Kubernetes Crash Course | Containerization, Virtualization & More https://youtu.be/dWkTSjYco_g?si=tIjnRN322US4tgu3
-	- KUBERNETES SERVICES DEEP DIVE| LIVE DEMO | LEARN TRAFFIC FLOW USING KUBESHARK https://youtu.be/fCX8O7GA_lY?si=kYyg-Dhp06UU8phn
-	- Kubernetes Administration Course https://youtube.com/playlist?list=PLKiTC45c1PK-SwbeIuwdPhHx9XHiM4drK&si=YZffv7oGsecI6i2S
-	- Scaling Explained Through Kubernetes HPA, VPA, KEDA & Cluster Autoscaler https://youtu.be/HQY2jgSN6pA?si=_Fucvk-K1hEb0aZk
-	- How to create Multi Node Cluster in Kubernetes FULL DEMO in hindi | Kubernetes Tutorials in hindi https://youtu.be/4_Vvr5L9ojY?si=J7MsdkMwm7oD05d5
-	- Kubernetes Crash Course https://youtu.be/llf65JSPmDY?si=geyn8qxlFqyPVT54
-	- Kubernetes Tutorials for Beginners to Advanced | FULL https://youtube.com/playlist?list=PLrFWmDe-rbloGXuycxXX6HNFRVcvRhQcq&si=kQML8atWuoyBIq8O
-	- What is Deployment in Kubernetes FULL DEMO in hindi | Kubernetes Tutorials in hindi https://youtu.be/sz2WYJq6iAA?si=35iBXTXsUOf0jLXz
-	- Kubernetes https://youtube.com/playlist?list=PL_JVnPgp2IRcN7LqvC1s3JIWSGy9_mrXt&si=DWLxWOo9Ep4uDEiY
-	- My Kubernetes Homelab https://youtube.com/playlist?list=PL_JVnPgp2IReqn18A46SGh8yy5WVVWHAu&si=Vdn52LK8vB-nznez
-	- How to Deploy To Kubernetes with Jenkins GitOps GitHub Pipeline https://youtu.be/o4QG_kqYvHk?si=Au5V754_tP6Gz1eq
-	- https://www.youtube.com/playlist?list=PLxv9HL8TPbSxBEjcHPwTjvYBfioVmtT1W
-	- https://www.youtube.com/playlist?list=PLAdTNzDIZj__bptTvTGIaL1ezkeg_p-5R
-	- https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP
-	- https://www.youtube.com/playlist?list=PLVz2XdJiJQxybsyOxK7WFtteH42ayn5i9
-	- https://www.youtube.com/playlist?list=PL6tu16kXT9PpKXQADb8AyJ1zHyp7xDHHo
-	- https://www.youtube.com/playlist?list=PL_JVnPgp2IRcN7LqvC1s3JIWSGy9_mrXt
-	- https://www.youtube.com/playlist?list=PL_JVnPgp2IRdpXdNpsZOqi0xk9k1aXQ93
-	- https://www.youtube.com/playlist?list=PL_JVnPgp2IReqn18A46SGh8yy5WVVWHAu
-	- https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC
-	- https://www.youtube.com/playlist?list=PLy7NrYWoggjxqLwqmbE-gGuxpo0nWZqCi
-	- https://www.youtube.com/playlist?list=PLy7NrYWoggjy3urR5g7BLJiNjLtQcVckT
-	- https://www.youtube.com/playlist?list=PLy7NrYWoggjw0OMxUDIImjWQjM7qZWn_R
-	- https://www.youtube.com/playlist?list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb
-	- https://www.youtube.com/playlist?list=PLzy9PUwrUMZosMVcNvQNdfb5Madz7Qjf7
-	- https://www.youtube.com/playlist?list=PLzy9PUwrUMZoWM5KCJhnzM3q250RuZC0k
-	- Kubernetes https://www.youtube.com/playlist?list=PLJ8v-58rML88pfgdtOZv2gjFzC6O06m-0
-	- https://youtu.be/RdtNX-aagW0?si=HcyxZcIOAUdyCGgM
-	- https://youtu.be/wIfnkN_T6Eo?si=UgyjsvcWN1gmOk3I
-	- https://youtu.be/1xo-0gCVhTU?si=p5ZKcmOvMYlkZN2K
-	- https://www.youtube.com/live/0j-iIW3_sbg?si=M9pux46yWiJ80XlW
-	- https://youtu.be/d6WC5n9G_sM?si=OJA4PiZPzPz9sIMT
-	- https://youtu.be/Y8oFew4MfqA?si=AxDZnUXtzRD63SdS
-	- https://youtu.be/Wf2eSG3owoA?si=ldElHW5uPK9NNCPB
-	- https://youtu.be/XuSQU5Grv1g?si=0qJs-HWDC89wrmlE
-	- https://youtu.be/Cfznp8jRh7I?si=9Vi4YMZXLGadcT-w
-	- https://youtu.be/0QhUhrWGB9k?si=HgJWTRrD4-l66n8n
-	- https://youtu.be/kTp5xUtcalw?si=XK6Dmdvxs07-jraz
-	- https://youtu.be/rBeyHDKLVqM?si=F2BbC8bGSH88MdW9
-	- https://youtu.be/7XDeI5fyj3w?si=SaJ3j-jN0q8T_QBb
-	- https://youtu.be/KVBON1lA9N8?si=bu0OKPP6zeCMP_cX
-	- https://youtu.be/MTHGoGUFpvE?si=bMiRK4FS2WRwnwsm
-	- https://youtu.be/MTHGoGUFpvE?si=RzsNMb3b08coht3j
-	- https://youtu.be/s_o8dwzRlu4?si=F5B1E_qAUtbM8_tR
-	- https://youtu.be/a-nWPre5QYI?si=M4VEsQ4cek6u2gbS
-	- https://youtu.be/X48VuDVv0do?si=uCvIqGmEQRdwCngH
-	- https://youtu.be/T8Pxv5jr5jc?si=Pz1z3ZZRTzQlT3CB
-	- https://youtu.be/T8Pxv5jr5jc?si=q_LWq2Uvu6bY3MtY
-	- https://youtu.be/W04brGNgxN4?si=jmugKVjTMr44rDQ6
-	- https://youtu.be/UsVtffyShuA?si=y8q9CaHIj9qqFvM1
-	- https://youtu.be/W04brGNgxN4?si=ADtAXY5NIHMoBYhL
-	- https://youtu.be/mglql-ApISw?si=sch211aiBeCRTXAJ
-	- https://youtu.be/XuSQU5Grv1g?si=oVBizhL2PJThqwRn
-	- https://youtu.be/zodW7t3NnFs?si=GVPov_K30K7zHhaU
-	- https://youtu.be/s0kBqGpThp0?si=qDICTEYzJhaXQkZn
-	- https://youtu.be/huiQd2QojXY?si=zQ-XMMJvso2Nf7se
-	- https://youtu.be/IA070wtt2iU?si=eBqr0KUv_fspau4z
-	- https://youtu.be/toLAU_QPF6o?si=QVDVKif9UufwHYDD
-	- https://youtu.be/s_o8dwzRlu4?si=mglRunvrd3SFbJeC
-	- https://youtu.be/bhBSlnQcq2k?si=wcu6Kb20HuWzFeRI
-	- https://youtu.be/7A5cH8iqgHU?si=Wz_eetLGk1K1rW9i
-	- Kubernetes in DevOps in Hindi | Devops Tutorial for beginner https://youtu.be/LElkyOgy9ZI?si=lSEflS9Xwv65-HgI
-	- Beginner DevOps Project: CI/CD Pipeline with Jenkins, Docker, and Kubernetes https://youtu.be/sIlGaidwLig?si=OuANxx68AjqjHo5O
-	- DevOps Project Setup with Jenkins, Docker & Kubernetes: Complete Guide https://youtu.be/llBvl_iSLDw?si=9KQHhKEkJMfh6xvY
-## 4.1 Talos
-	- https://www.talos.dev/
-## 4.2 minikube
-	- https://minikube.sigs.k8s.io/docs/
-## 5. Helm
-	- https://helm.sh/docs/
-	- HELM Packaging of Two-Tier Applications for DevOps Engineers | Episode 5 https://youtu.be/4oVom1xrMEQ?si=1oxANeuo3OT-zjPX
-	- Complete Helm Chart Tutorial: From Beginner to Expert Guide https://youtu.be/DQk8HOVlumI?si=hoWUjIFKSAuOrqci
-	- How to Build and Deploy an app Helm Chart on Kubernetes Cluster with GitLab CI/CD https://youtu.be/qSbE7NOXm8U?si=dr792MY7Q2lhQl-G
-	- Helm installation and commands Hindi | Lec-58 | Hands-on Helm | What is Helm in Kubernetes https://youtu.be/FpJpHWe3Va4?si=Mu5Cw0ykSWtAN3d1
-	- Helm Zero to Hero: Master Kubernetes https://www.youtube.com/playlist?list=PLWgk5rA0QxeYeXvqjSeGLvtJAAh7Q5RiW
-	- Helm 3 Tutorial https://www.youtube.com/playlist?list=PLiMWaCMwGJXn0ecHNxvUZesPotlxcw4v8
-## 6. Tilt
-	- https://tilt.dev/
-## 7. Keda
-	- Optimize Your Kubernetes Cluster with KEDA: The Ultimate Guide | Kubernetes Event Driven Autoscaling https://youtu.be/8IWCr5gy6lU?si=DqLUK0HXbXJo2qMu
-	- https://keda.sh/
-## 8. Gatling
-	- https://docs.gatling.io/
-## 9. GrafanaLabs
-	- https://grafana.com/
-## 10. Traefik
-	- https://doc.traefik.io/
-	- Expose Your Docker Containers With Traefik https://youtu.be/PzbdEZ4DQTg?si=dbUFv_jp0jNeqP0J
-	- Traefik v3.3 - Secure Everything! Complete Tutorial https://youtu.be/CmUzMi5QLzI?si=6f006EEM904ZcExQ 
-	- https://www.youtube.com/playlist?list=PLxwqA42jxPR5wkcOFq3JP8MvFmI9u7K6Z
-	- https://www.youtube.com/playlist?list=PL34sAs7_26wNldKrBBY_uagluNKC9cCak
-	- https://www.youtube.com/playlist?list=PLn6POgpklwWpdJrBM_tNWzanTBAO3ZmcN
-	- https://youtu.be/KMZIyoZ3jWM?si=9zXO_o5S9NCXnT-n
-	- https://youtu.be/n1vOfdz5Nm8?si=UgPrl5PcrVvmoa94
-	- https://youtu.be/C6IL8tjwC5E?si=NxEgYUpCNIwFahsD
-	- https://youtu.be/B9t1iNNiHUA?si=tZ-xylCSspOFifD4
-	- https://youtu.be/-hfejNXqOzA?si=evX0hlpQ73sFBSUf
-	- https://youtu.be/wLrmmh1eI94?si=oZQGgrbcKcPi5p3k
-## 11. DAST Escape
-	- https://escape.tech/
-## 12. MicroService
+## NestJS
+	- freeCodeCamp 1:20hr https://www.youtube.com/watch?v=21_I-12f5JE&t=189s
+	- https://wanago.io/
+	- https://docs.nestjs.com/
+	- NestJS Testing Tutorial | Unit and Integration Testing https://www.youtube.com/watch?v=dXOfOgFFKuY
+	- Add RBAC to Your Nest.js API in ~ 7 minutes https://www.youtube.com/watch?v=xd3LJqdU1ig
+	- Master NestJS Database with Repository Pattern https://youtu.be/mVSdivtfE1A?si=e-CxpqcSybGDvyNx
+	- Nest.js Build an Auth System Hindi https://youtu.be/KMg_Qg0WCds?si=LaITNR7XIHFTs1zt
+	- NestJS Testing Tutorials 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
+	- The Right way to write Nest.js & Typescript clean-code - SOLID https://www.youtube.com/watch?v=vE74gnv4VlY
+	- Centralized Authentication in NestJS Microservices with TCP & API Gateway https://www.youtube.com/watch?v=iiSTB0btEgA
+	- NestJS Authentication & Authorization https://www.youtube.com/playlist?list=PLQbmrL9zPupXh-PNVc8AsCtI098JupFCi
+	- How to manage different config environment in Nest.js https://youtu.be/1dU6Sjw6vIc?si=UMRU3wAOYysiBEyv
+	- How to implement Caching in Nestjs https://www.youtube.com/watch?v=HUpVbvXSPwQ
+	- Role Based Authentication Nestjs https://www.youtube.com/watch?v=_JZ4_hjv7pE
+	- JSON Web Token Authentication in Nest.js https://www.youtube.com/watch?v=fW2hUMiiPFs
+	- Build your first MCP Server in NestJS https://www.youtube.com/watch?v=kqS5i6U-kHk
+	- Nestjs Testing Tutorials || 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
+	
+	- Nest JS Microservices || 12 Factor App https://www.youtube.com/playlist?list=PLIGDNOJWiL18srI6BmFLfwDPvorTmyQ_c
+	- nodejs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLIGDNOJWiL1_SzJqkfxd-rcPBJBdFmWfw
+	- Nest JS Advanced Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr
+	- Nest JS Master Course https://www.youtube.com/playlist?list=PLIGDNOJWiL186E2BIAofH6vbS9GxAWRle
+	- Nest JS Advanced Course 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL1-8hpXEDlD1UrphjmZ9aMT1
+	- Nest JS Microservices with Monorepo Nx https://www.youtube.com/playlist?list=PLIGDNOJWiL1-zscX224pibRBb4RChTpgM
+	- Nestjs Crash Course for Beginners 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL18vQIXd4KdZjzBZN5YIpidI
+	- Microservices in Nest.js https://www.youtube.com/watch?v=t76UMpwFNs0&t=1454s
+	- https://www.youtube.com/@NestJSSimplified/playlists
+	- https://www.youtube.com/@NestJSSimplified/playlists
+	- https://www.youtube.com/@procademy/playlists
+	- NestJs Course for Beginners - Create a REST API https://www.youtube.com/watch?v=GHTA143_b-s
+	- Nest JS Full Course 2025 https://www.youtube.com/watch?v=XVZ10uFY9DU&t=1351s
+	- NestJS, MySQL, TypeORM Crash Course https://www.youtube.com/watch?v=W1gvIw0GNl8
+	- NestJS Crash Course https://www.youtube.com/watch?v=xzu3QXwo1BU&t=37s
+	- NestJS Crash Course | Build Real-World REST API with TypeScript, PostgreSQL & Node.js https://www.youtube.com/watch?v=d_WqMEX6jIc&t=1861s
+	- Nestjs Full Course 2022 https://www.youtube.com/watch?v=Mgr5_r70OJQ&t=61s
+	- Nest.js Crash Course https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr
+	- NestJS Full Course 2024 https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR
+	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4
+	- NestJS Tutorial for Beginners to Advanced 2025 https://www.youtube.com/playlist?list=PL5OhSdfH4uDt6iG-qze_Q3qgik6VKHeRU
+	- Nest.js Complete Package https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
+	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4&t=44s
+	- Master NestJS with these Guides https://www.youtube.com/playlist?list=PLnsTzQ998QGQRY_8SaeMyd3_RuLyegJyx
+	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=184s
+	- Node JS Full Course 2024 | Complete Backend Development Course | Part 1 https://www.youtube.com/watch?v=MIJt9H69QVc&t=7s
+	- Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2 https://www.youtube.com/watch?v=_f7h6xQXiLA&t=2014s
+	- Node JS Full Course 2025 | PostgreSQL, Prisma, Nest JS, Bun, Hono, Prometheus, Grafana | Part 3 https://www.youtube.com/watch?v=pa9xqOnorx0&t=15710s
+	- Nest JS Full Course 2025 | Node JS Full Course | Part 4 https://www.youtube.com/watch?v=XVZ10uFY9DU&t=1324s
+	- Master NestJS: The Ultimate Crash Course for Beginners! https://youtu.be/TVOuvr7c0pA?si=oxmCpU36_aO5KRpU
+	- Amazing NestJS - NestJS Framework (Hindi) https://www.youtube.com/playlist?list=PLqLR2H326bY6eRNOXJxWQkvKNlzmJQfLj
+	- Learn NestJS – Complete Course https://www.youtube.com/watch?v=sFnAHC9lLaw&t=1457s
+	- Learn Nest.JS https://www.youtube.com/playlist?list=PLhnVDNT5zYN-GI_i8vwsUtQB4iI-8f4hx
+	- Nest.js with MongoDB - Complete Example https://www.youtube.com/watch?v=ulfU5vY6I78
+	- NestJS tutorial for Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIbihafA6GlwyvmwkHshmVyh
+	- NestJS Authentication Full Course https://www.youtube.com/playlist?list=PLhnVDNT5zYN-WbouwtijXKFZ1JsgBEY9Y
+	- NestJS Crash Course: Everything you need to know! https://www.youtube.com/watch?v=2n3xS89TJMI&t=5s
+	- Full NestJS Course with Projects || Hindi https://www.youtube.com/watch?v=O-957TuMgJA
+	- NestJS Full Course 2024 https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR
+	- NestJs Tutorial In hindi https://www.youtube.com/playlist?list=PLVo1k_VwkKMyxkNyMFTtcMcfNHA3xKjZ0
+	- NestJS Tutorials for Beginners https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr
+	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=33s
+	- NestJS Crash Course - Build a Complete Backend API https://youtu.be/BiN-xzNkH_0?si=BAiVtfURTjOhCeE3
+	- Nest.js Microservices with NATS, SQL, and Docker https://youtu.be/5HlsgPRcm3w?si=CEOTOFLK0M6CHkPx
+	- Nest.js Complete Package https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
+	- Nest JS Complete Tutorial With Projects https://www.youtube.com/watch?v=bZef6x9_xEI
+	- NestJS Tutorial For Beginners - Learn NestJS https://www.youtube.com/watch?v=BCl0p5gZ1yw
+	- NestJS https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB
+	- NestJS Crash Course https://www.youtube.com/watch?v=xzu3QXwo1BU&t=5s
+	- Nest JS Tutorial in Hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9aSTUPvXrQNBGR8S4J4dAdx
+	- NestJS Crash Course | Build Real-World REST API with TypeScript, PostgreSQL & Node.js https://www.youtube.com/watch?v=d_WqMEX6jIc
+	- [In-Depth] Nest.JS Tutorials https://www.youtube.com/playlist?list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK
+	- NestJS Microservices Architecture https://www.youtube.com/playlist?list=PLzHoH-EeZ8dcauaR9ABn7EDYwNrakig0g
+	- NestJS https://www.youtube.com/playlist?list=PLzHoH-EeZ8dcgCGMf3oPlkedhSH_2nyNP
+	- Next.js https://www.youtube.com/playlist?list=PLJ8v-58rML88ENSmWkjVfnDwfWk6t39oS
+	- Master NestJS with these Guides https://www.youtube.com/playlist?list=PLnsTzQ998QGQRY_8SaeMyd3_RuLyegJyx
+	- Projects https://www.youtube.com/playlist?list=PLJ8v-58rML8-zpKQrRkDEN5Jb6jNpj7ou
+	- NestJS https://www.youtube.com/playlist?list=PLJ8v-58rML8_p8vCXjoGVCltwhkmgdMVd
+	- Nest JS Full Course 2025 https://www.youtube.com/watch?v=XVZ10uFY9DU
+	- Nestjs Full Course 2022 | Beginner Nestjs Tutorial https://www.youtube.com/watch?v=Mgr5_r70OJQ&t=4s
+	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw
+	- NestJS Advanced Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPcUDAmmEnuiFMrqcurNCs7
+	- Full Stack Swiggy Clone https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPrL1Qz2XXVtzvgxrYp7ms9
+	- Full Stack Clone Uber Eats https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMF7JqIV6OZZ9LYPGhqZjfS
+	- Microservices with Nest JS Node JS https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMsAZ7SiV7qksYLQbwIDHtY
+	- Master Course on Nest JS Node JS https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNu6Ibx1DAxRk4ofXYNc8mT
+	- Node JS with Knex JS Postgres https://www.youtube.com/playlist?list=PLT5Jhb7lgSBP0-4Sm40LWm5nEclx1YbYG
+	- Nest JS Advanced Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx
+	- Nx Monorepo for development https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPTzeblwMiC5XIqhzfbvztT
+	- Nest JS Microservices with Nx Monorepo https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMuxEkXfB8AgubNHCOy-zo0
+	- Airbnb FullStack Clone Application https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPnQrc6YSQmj1w9-uPgI0DJ
+	- Build Microservices in 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMHMbscUTeBhlIyu9PBaBP1
+	- Build Nest.js Microservices With RabbitMQ, MongoDB & Docker https://www.youtube.com/watch?v=yuVVKB0EaOQ
+	- Microservices in Nest.js https://www.youtube.com/watch?v=t76UMpwFNs0&t=18s
+	- nerstjs microservices with Performance Test https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMmfhUvFPiMhaLqqnCMU0lv
+	- nestjs microservices Architecture Patterns https://www.youtube.com/playlist?list=PLT5Jhb7lgSBM8D-w30f0OgqJzEpoNk0pB
+	- nestjs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPPxNKLB37PMOFzpfE2mOcV
+	- nestjs microservices Deployment (Docker, K8S, AWS) https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNw24oFF67p5QHYbDMOImji
+	- nestjs microservices with Monitoring https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNJSUY34A8wQqZAlrJZFbfC
+	- nestjs microservices authentication type and authorisation https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPoVZSt4hIZMbrumpxkFKTs
+	- NestJS Crash Course Beginner to Advanced https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMEqOsbiGuKwntRY_SqWW6o
+	- Nestjs + NextJs - Build FullStack AI Pomodoro App https://www.youtube.com/playlist?list=PLQbmrL9zPupVCoE7KoB4VsVq7fg08kA3J
+	- Nestjs Postgres Prisma Tutorial Series https://www.youtube.com/playlist?list=PLQbmrL9zPupX6E8pqdLGggoqoBHa1ODOH
+	- RabbitMQ + NestJS Microservices Crash Course | A Simple Order Processing Project https://www.youtube.com/watch?v=j2S2gBoT7qc&t=22s
+	- NestJS Microservices Course https://www.youtube.com/playlist?list=PLhnVDNT5zYN-wg3QxqmlYs2mBwCn7v59D
+	- Nestjs Microservices #1 Authentication Flow Explained https://www.youtube.com/watch?v=hlsk_ibXpgg
+	- Nestjs Authentication Microservice #2 Create Authentication Microservice https://www.youtube.com/watch?v=jyDXgCFltaw
+	- NestJs Microservices Authentication #3 - Signup and Login Feature https://www.youtube.com/watch?v=mDwpaC8x8Hc
+	- NestJs Microservices Authentication #4 - JSON Web Token Authentication https://www.youtube.com/watch?v=6mXL7MD_Gc0
+	- Nestjs Microservices Authentication #5 Protect API Routes https://www.youtube.com/watch?v=wH2Zl1cZQls
+	- Nestjs Complete Tutorial | Nest JavaScript Framework https://www.youtube.com/playlist?list=PL2NZAYdLkYviHnr4kfw3bm0vANXA6dZ0k
+	- Comprehensive Nest JS Course: From Beginne https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2
+	- NestJS Tutorial for Beginners to Advanced 2025 | Complete https://www.youtube.com/playlist?list=PL5OhSdfH4uDt6iG-qze_Q3qgik6VKHeRU
+## MongoDB
+	- MongoDB Crash Course 2023 https://www.youtube.com/watch?v=QPFlGswpyJY
+	- Learn MongoDB in 50 minutes https://youtu.be/liocKBCVJyw?si=yeyh2mOPZRG1mTT7
+	- Learn MongoDB in 1 hour https://youtu.be/c2M-rlkkT5o?si=ogPR603GSc1dbQZF
+	- MongoDB Complete Tutorial (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
+	- Database Sharding and Partitioning https://youtu.be/wXvljefXyEo?si=oFUBCel88bufGYjL
+	- MongoDB Aggregation Framework Tutorials https://youtube.com/playlist?list=PLYxzS__5yYQmr3HQQJMPBMbKtMY37sdsv&si=-Vt6CpAwRG9BhJa_
+	- MongoDB Crash Course 2026 (with Handbook) https://youtu.be/M1dKYQ7GsTg?si=srlo7QKPGPvUAXU1
+	- REST API using NodeJS and MongoDB https://youtube.com/playlist?list=PLdHg5T0SNpN3EoN3PEyCmPR42Ok_44OFT&si=DwdPxVeUJpM2mING
+	- MongoDB Tutorial For Beginners https://youtu.be/Www6cTUymCY?si=00f6mUVRYPpazar4
+	- mongo-DB https://www.youtube.com/playlist?list=PLVz2XdJiJQxzEDYrjG-31qrRYrKymm1Ab
+	- MongoDB tutorial in hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX
+	- MongoDB Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
+	- MongoDB Tutorial For Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIZ7owau3kb35LhzP-acBB5g
+	- Node.js MongoDB Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIa_NV-WyzSzLd-T_Fzx67Oj
+	- MongoDB https://www.youtube.com/playlist?list=PLeVPKY-He4asKVH-ac6Jj5Fli5NaBmGMX
+	- Complete MongoDB Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+	- MongoDB User Authentication Authorization and Role (Hindi) https://youtu.be/JMPAzAgTfXU?si=WhidJUESAlbcBlq9
+	- MongoDB Complete Tutorial https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
+	- MongoDB Complete Crash Course https://youtu.be/FjRapH7oyjY?si=X1Ao8aGkBUzGbUgO
+	- MongoDB Crash Course 2023 https://youtu.be/QPFlGswpyJY?si=U9DD0A6QWA-nym_P
+	- MongoDB Tutorial Series for Beginners https://www.youtube.com/playlist?list=PLQbmrL9zPupWbHoroCyHjtoIfiZKxiQsQ
+	- Complete MongoDB (Version 8) Course https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc
+	- Master MONGODB in ONE VIDEO [HINDI] https://www.youtube.com/watch?v=tww-gbNPOcA
+	- MongoDB Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
+	- Complete MongoDB Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+## PostgresSQL
+	- SQL Crash Course for Beginners 2022 (MySQL & PostgreSQL) https://www.youtube.com/watch?v=DWtQU8VP3Hg
+	- https://blog.logrocket.com/node-js-orms-why-shouldnt-use/
+	- PostgresSQL (40) https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
+	- Database Normalization Explained | Master 1NF to 5NF Normalization Fast! https://youtu.be/ztiLSQMd6hc?si=gVCwQ6c5LuTVF1qi
+	- Data Governance Explained in 5 Minutes https://youtu.be/uPsUjKLHLAg?si=82RCZoCXe_WmVqtW
+	- Database Normalization: First, Second, & Third Normal Form https://youtu.be/GqOlxf676A0?si=6_Aify1VJSG2ln53
+	- Course | SQL Fundamentals with PostgreSQL https://youtube.com/playlist?list=PLOLrQ9Pn6caykER3hgdEajMiT-OnCicLK&si=N0SjmqQagBRCLGed
+	- Databases https://youtube.com/playlist?list=PLdNCznBZ77NogZNCTT5X397WynTHHk9vT&si=QqNbskMVeqr9aRJb
+	- Introduction to PostgreSQL https://youtube.com/playlist?list=PLHq1uqvAteVsnMSMVp-Tcb0MSBVKQ7GLg&si=TeblfwRRjXkXSl_4
+	- PosgresSQL Course https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS
+	- Learn PostgreSQL: Full Course for Beginners https://www.youtube.com/live/6DKA6oF9r2M?si=7OvpMUXWLPE2PoxH
+	- node-postgres Connection Pool https://youtu.be/tS264hwZn0Y?si=-0EDqYM38QjCVDZT
+	- Complete SQL Mastery https://www.youtube.com/playlist?list=PLOghUv2IDLKHKlkQNuzN8SPLYuVhhLlpa
+	- SQL Full Tutorial from Beginner to Advanced https://www.youtube.com/playlist?list=PLrFWmDe-rblqhaE9pSdEpF3hSiLqCM5qG
+	- https://www.youtube.com/@ScalingPostgres/videos
+	- https://knexjs.org/
+	- PostgreSQL High-Availability https://www.youtube.com/playlist?list=PLBrWqg4Ny6vVwwrxjgEtJgdreMVbWkBz0
+	- Master POSTGRESQL in ONE VIDEO https://www.youtube.com/watch?v=cnzka7kF5Zk&t=10488s
+	- PostgresSQL https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
+
+## MicroService
 	- https://moleculer.services/docs/0.15/
 	- https://docs.nats.io/
 	- https://www.youtube.com/@SynadiaCommunications/playlists
@@ -1768,10 +1772,9 @@
 	- Microservices https://www.youtube.com/playlist?list=PLwvrYc43l1Mwqpf9i-1B1gXfMeHOm6DeY
 	- NestJS https://www.youtube.com/playlist?list=PLHVUNsO6sqSpeFjQBl1KZMYEI-IL5idqZ
 	- NestJs Tutorials https://www.youtube.com/playlist?list=PLNTXksYYFsn8Dz2xrFYrMqEO1buLodr6P
-## 13. gRPC
 	- Node gRPC code
 	- https://www.youtube.com/@DivyeshLadva/videos
-## 14. RabbitMQ
+## RabbitMQ
 	- https://www.youtube.com/watch?v=V1rHy1pMjns
 	- https://youtu.be/vckfyxCb-GE?si=wL679UDsHw-1wnUG
 	- https://youtu.be/oUJbuFMyBDk?si=Fx8Lm7Ez97ql6VR_
@@ -1846,7 +1849,7 @@
 	- Message Queues & PubSub Systems (19) https://www.youtube.com/playlist?list=PLQnljOFTspQVcumYRWE2w9kVxxIXy_AMo
 	- The RabbitMQ Tutorial https://youtu.be/ul2EAP8wIPc?si=qrYpRq-CrGpUv2hv
 	- RabbitMQ beginners guide https://youtube.com/playlist?list=PLHq1uqvAteVswmKZovQrqFfJ74ndV6xSL&si=jNRh3sSmq0aBxTXX
-## 15. Kafka
+## Kafka, Pulsar
 	- https://strimzi.io/
 	- Kafka https://www.youtube.com/playlist?list=PL2We04F3Y_414xuRxkpSRO6T5sQvnEGac
 	- Messaging Queues in System Design https://youtu.be/XsJthAJemPU?si=7EDv_u46oRddFk8a
@@ -1893,8 +1896,6 @@
 	- Kafka Connect | Connectors in Practice https://www.youtube.com/playlist?list=PLf38f5LhQthc4pNQlDTocxsyUYdxFPU0Y
 	- Greatest Hits | Confluent Developer https://www.youtube.com/playlist?list=PLf38f5LhQthfrcMW4aqcy4C8FftVpHecN
 	- Kafka playlist https://www.youtube.com/playlist?list=PLaz3Ms051BAm_AUoDsNnjVv44w69lgzKn
-	- PySpark | Apache Spark https://www.youtube.com/playlist?list=PLaz3Ms051BAkwR7d9voHsflTRmumfkGVW
-	- Apache Pulsar: Finally an Alternative to Kafka? https://youtu.be/VD7y5h4AtgM?si=phtx_U8dnrbdOA35
 	- Real-Time Stock Market Data Pipeline | End-to-End Kafka & AWS Project (Hands-On!) https://youtu.be/XTAv7Ye1CGg?si=vq-WKiEhop9SXy5_
 	- Introduction to Apache Kafka and Flink on Confluent - Data Engineering Pipelines https://youtu.be/YyQPabxXDqQ?si=jWy1s3DVWcT5Shki
 	- Real Time Tweets Word Count Streaming Pipeline with Python, Kafka, Flink, Elasticsearch and Kibana https://youtu.be/ZP29tSlKJ3A?si=zbNJsGMQW-hy3LQu
@@ -1920,11 +1921,12 @@
 	- Kafka System Design | Full Course | Design & Architecture https://youtu.be/4TezK-w9_W0?si=yW13vYQllmqkuVUh
 	- https://www.youtube.com/@kai-waehner/videos
 	- Apache Kafka Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXlL8-E-xu8RBwyC5YfS3V5e
-## 15.1 Pulsar
-	- 5 Minutes About Apache Pulsar https://www.youtube.com/playlist?list=PL2g2h-wyI4SqeKH16czlcQ5x4Q_z-X7_m
-	- Learn Apache Pulsar https://www.youtube.com/playlist?list=PLWbrp-I4BRT-N1pC70w2EJa3ChFe3186j
-	- https://www.youtube.com/@streamnativeacademy8484
-## 15.2 Flink
+	- Pulsar
+		- 5 Minutes About Apache Pulsar https://www.youtube.com/playlist?list=PL2g2h-wyI4SqeKH16czlcQ5x4Q_z-X7_m
+		- Learn Apache Pulsar https://www.youtube.com/playlist?list=PLWbrp-I4BRT-N1pC70w2EJa3ChFe3186j
+		- https://www.youtube.com/@streamnativeacademy8484
+		- Apache Pulsar: Finally an Alternative to Kafka? https://youtu.be/VD7y5h4AtgM?si=phtx_U8dnrbdOA35
+## Flink
 	- Apache Flink Hindi Main Seekhe https://www.youtube.com/playlist?list=PLbjBd5AKkhvUHms5UOImZOSxkjEMIfJA9
 	- Apache Flink 101 https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
 	- Getting Started with Apache Flink https://www.youtube.com/playlist?list=PLa7VYi0yPIH2GTo3vRtX8w9tgNTTyYSux
@@ -1937,26 +1939,13 @@
 	- Fundamentals of Apache Flink https://www.youtube.com/playlist?list=PLTgRMOcmRb3NdjfslZqP9xndZGWHABHVb
 	- Apache Flink https://www.youtube.com/playlist?list=PLL2hlSFBmWwx8AayxvaYaFZ7jibd7FD3d
 	- Apache Flink https://www.youtube.com/playlist?list=PLLa_h7BriLH2ccqbQApQKgQW_pHGeC8dI
-## 16. Istio
-	- What is Service Mesh? 💡 [Microservices | System Design] https://youtu.be/hiR2xQpnmTQ?si=eqvn7zm50IIG_GkO
-	- Service Mesh In Kubernetes Explained https://youtu.be/cjhb7_uwzDk?si=B3YOk5Zo8LMOVHRU
-	- Guide to ServiceMesh https://youtube.com/playlist?list=PLHq1uqvAteVsmxHpGsMjTOROn3i99lzTA&si=yBklNDcPBSdyuKU6
-	- https://istio.io/latest/
-	- Istio & Service Mesh - simply explained in 15 mins https://youtu.be/16fgzklcF7Y?si=J33kcl7xWkWKwJef
-	- Istio Setup in Kubernetes https://youtu.be/voAyroDb6xk?si=3b_70PBDdtHxvtU-
-	- Observability https://www.youtube.com/playlist?list=PLPXBnDoWo1HS3SapEe557ZqiWF-BKHZDD
-	- Data Mesh and Data Domains Tutorials https://www.youtube.com/playlist?list=PLa7VYi0yPIH0L8ahQYbyBFkGc6a949-Lj
-	- Kubernetes Service Mesh with Istio tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3NDPcHDII3kQh49qBnNO8td
-	- Install Istio with istioctl on Kubernetes (Kind Setup + Namespace Injection Demo) https://youtu.be/wfAxK8b4KAo?si=ArGrqZtwpXzx89Wu
-	- Envoy Istio https://www.youtube.com/playlist?list=PL0xeHY_ImQVVoPJAW95L02bF69s0HBXYn
-## 17. Kurrent
+## CQRS
 	- https://docs.kurrent.io/
 	- https://academy.kurrent.io/courses
 	- https://www.kurrent.io/cqrs-pattern
 	- http://www.youtube.com/@Kurrent_io
-## 18. CQRS
-    - https://reimagined.github.io/resolve/docs/
-    - https://blog.bitsrc.io/building-a-cqrs-es-app-with-resolve-41f839362ffd
+	- https://reimagined.github.io/resolve/docs/
+	- https://blog.bitsrc.io/building-a-cqrs-es-app-with-resolve-41f839362ffd
 	- Complete Redis, Websockets, Pub Subs and Message queues https://www.youtube.com/watch?v=IJkYipYNEtI&t=53s
 	- https://www.geeksforgeeks.org/dbms/event-sourcing-database-design-patterns/
 	- https://github.com/leandrocp/awesome-cqrs-event-sourcing
@@ -2036,7 +2025,7 @@
 	- Patterns of Event-Driven Architecture https://www.youtube.com/playlist?list=PLCOG9xkUD90LZsCgsbZ4ETY2pdfLewThP
 	- Domain-Driven Design https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v
 	- Intermediate-Advanced https://www.youtube.com/playlist?list=PLzYkqgWkHPKB-jd60fk_J7lZX65zovmSA
-## 19. Redis
+## Redis
 	- https://redis.io/docs/
 	- https://redis.io/docs/latest/develop/
 	- https://redis.io/docs/latest/integrate/
@@ -2066,8 +2055,6 @@
 	- Redis Cache https://www.youtube.com/playlist?list=PLx-yi7Oq17ptnG2YT0SIYCJh1wIQS-EaR
 	- I Was Wrong About Redis. https://www.youtube.com/watch?v=hcabxEvM7KU
 	- Build your own redis like server https://www.youtube.com/playlist?list=PL-P_hNzCQhQi-6BsYBHoXUW2V9j2b3ITa
-## 20. ValKey
-	- https://valkey.io/topics/
 	- https://www.youtube.com/playlist?list=PLbGui_ZYuhijTJDBVBBqvri76uUNfsrCc
 	- https://youtu.be/sFBMdF55Tpo?si=R0RYsju-_e5VXKfe
 	- https://youtu.be/IJkYipYNEtI?si=cLuQL-SFNL2EcS9B
@@ -2081,155 +2068,229 @@
 	- https://youtu.be/-Ai7GDa2OgE?si=ndZZtV3yNtj_8jgA
 	- https://youtu.be/IJkYipYNEtI?si=E7NTMja6QaJBAub5
 	- Database Engineering (118) https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
-## 21. NestJS
-	- freeCodeCamp 1:20hr https://www.youtube.com/watch?v=21_I-12f5JE&t=189s
-	- Microservices in Nest.js https://www.youtube.com/watch?v=t76UMpwFNs0&t=1454s
-	- https://docs.nestjs.com/
-	- https://www.youtube.com/@NestJSSimplified/playlists
-	- https://wanago.io/
-	- https://www.youtube.com/@NestJSSimplified/playlists
-	- https://www.youtube.com/@procademy/playlists
-	- NestJs Course for Beginners - Create a REST API https://www.youtube.com/watch?v=GHTA143_b-s
-	- Nest JS Full Course 2025 https://www.youtube.com/watch?v=XVZ10uFY9DU&t=1351s
-	- NestJS, MySQL, TypeORM Crash Course https://www.youtube.com/watch?v=W1gvIw0GNl8
-	- NestJS Crash Course https://www.youtube.com/watch?v=xzu3QXwo1BU&t=37s
-	- NestJS Crash Course | Build Real-World REST API with TypeScript, PostgreSQL & Node.js https://www.youtube.com/watch?v=d_WqMEX6jIc&t=1861s
-	- Nestjs Full Course 2022 https://www.youtube.com/watch?v=Mgr5_r70OJQ&t=61s
-	- Nest.js Crash Course https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr
-	- NestJS Full Course 2024 https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR
-	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4
-	- NestJS Tutorial for Beginners to Advanced 2025 https://www.youtube.com/playlist?list=PL5OhSdfH4uDt6iG-qze_Q3qgik6VKHeRU
-	- Nest.js Complete Package https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
-	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4&t=44s
-	- Master NestJS with these Guides https://www.youtube.com/playlist?list=PLnsTzQ998QGQRY_8SaeMyd3_RuLyegJyx
-	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=184s
-	- Node JS Full Course 2024 | Complete Backend Development Course | Part 1 https://www.youtube.com/watch?v=MIJt9H69QVc&t=7s
-	- Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2 https://www.youtube.com/watch?v=_f7h6xQXiLA&t=2014s
-	- Node JS Full Course 2025 | PostgreSQL, Prisma, Nest JS, Bun, Hono, Prometheus, Grafana | Part 3 https://www.youtube.com/watch?v=pa9xqOnorx0&t=15710s
-	- Nest JS Full Course 2025 | Node JS Full Course | Part 4 https://www.youtube.com/watch?v=XVZ10uFY9DU&t=1324s
-	- Master NestJS: The Ultimate Crash Course for Beginners! https://youtu.be/TVOuvr7c0pA?si=oxmCpU36_aO5KRpU
-	- Amazing NestJS - NestJS Framework (Hindi) https://www.youtube.com/playlist?list=PLqLR2H326bY6eRNOXJxWQkvKNlzmJQfLj
-	- Learn NestJS – Complete Course https://www.youtube.com/watch?v=sFnAHC9lLaw&t=1457s
-	- Learn Nest.JS https://www.youtube.com/playlist?list=PLhnVDNT5zYN-GI_i8vwsUtQB4iI-8f4hx
-	- Nest.js with MongoDB - Complete Example https://www.youtube.com/watch?v=ulfU5vY6I78
-	- NestJS tutorial for Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIbihafA6GlwyvmwkHshmVyh
-	- NestJS Authentication Full Course https://www.youtube.com/playlist?list=PLhnVDNT5zYN-WbouwtijXKFZ1JsgBEY9Y
-	- NestJS Crash Course: Everything you need to know! https://www.youtube.com/watch?v=2n3xS89TJMI&t=5s
-	- Full NestJS Course with Projects || Hindi https://www.youtube.com/watch?v=O-957TuMgJA
-	- NestJS Full Course 2024 https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR
-	- NestJs Tutorial In hindi https://www.youtube.com/playlist?list=PLVo1k_VwkKMyxkNyMFTtcMcfNHA3xKjZ0
-	- NestJS Tutorials for Beginners https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr
-	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=33s
-	- NestJS Crash Course - Build a Complete Backend API https://youtu.be/BiN-xzNkH_0?si=BAiVtfURTjOhCeE3
-	- Nest.js Microservices with NATS, SQL, and Docker https://youtu.be/5HlsgPRcm3w?si=CEOTOFLK0M6CHkPx
-	- Nest.js Complete Package https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
-	- Add RBAC to Your Nest.js API in ~ 7 minutes https://www.youtube.com/watch?v=xd3LJqdU1ig
-	- Nest JS Complete Tutorial With Projects https://www.youtube.com/watch?v=bZef6x9_xEI
-	- NestJS Tutorial For Beginners - Learn NestJS https://www.youtube.com/watch?v=BCl0p5gZ1yw
-	- NestJS https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB
-	- NestJS Crash Course https://www.youtube.com/watch?v=xzu3QXwo1BU&t=5s
-	- Nest JS Tutorial in Hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9aSTUPvXrQNBGR8S4J4dAdx
-	- NestJS Crash Course | Build Real-World REST API with TypeScript, PostgreSQL & Node.js https://www.youtube.com/watch?v=d_WqMEX6jIc
-	- Master NestJS Database with Repository Pattern https://youtu.be/mVSdivtfE1A?si=e-CxpqcSybGDvyNx
-	- [In-Depth] Nest.JS Tutorials https://www.youtube.com/playlist?list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK
-	- Nest.js Build an Auth System Hindi https://youtu.be/KMg_Qg0WCds?si=LaITNR7XIHFTs1zt
-	- NestJS Microservices Architecture https://www.youtube.com/playlist?list=PLzHoH-EeZ8dcauaR9ABn7EDYwNrakig0g
-	- NestJS https://www.youtube.com/playlist?list=PLzHoH-EeZ8dcgCGMf3oPlkedhSH_2nyNP
-	- Next.js https://www.youtube.com/playlist?list=PLJ8v-58rML88ENSmWkjVfnDwfWk6t39oS
-	- Master NestJS with these Guides https://www.youtube.com/playlist?list=PLnsTzQ998QGQRY_8SaeMyd3_RuLyegJyx
-	- Projects https://www.youtube.com/playlist?list=PLJ8v-58rML8-zpKQrRkDEN5Jb6jNpj7ou
-	- NestJS https://www.youtube.com/playlist?list=PLJ8v-58rML8_p8vCXjoGVCltwhkmgdMVd
-	- Nest JS Full Course 2025 https://www.youtube.com/watch?v=XVZ10uFY9DU
-	- Nestjs Full Course 2022 | Beginner Nestjs Tutorial https://www.youtube.com/watch?v=Mgr5_r70OJQ&t=4s
-	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw
-	- NestJS Advanced Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPcUDAmmEnuiFMrqcurNCs7
-	- Full Stack Swiggy Clone https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPrL1Qz2XXVtzvgxrYp7ms9
-	- Full Stack Clone Uber Eats https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMF7JqIV6OZZ9LYPGhqZjfS
-	- Microservices with Nest JS Node JS https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMsAZ7SiV7qksYLQbwIDHtY
-	- Master Course on Nest JS Node JS https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNu6Ibx1DAxRk4ofXYNc8mT
-	- Node JS with Knex JS Postgres https://www.youtube.com/playlist?list=PLT5Jhb7lgSBP0-4Sm40LWm5nEclx1YbYG
-	- Nest JS Advanced Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx
-	- Nx Monorepo for development https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPTzeblwMiC5XIqhzfbvztT
-	- Nest JS Microservices with Nx Monorepo https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMuxEkXfB8AgubNHCOy-zo0
-	- Airbnb FullStack Clone Application https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPnQrc6YSQmj1w9-uPgI0DJ
-	- Build Microservices in 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMHMbscUTeBhlIyu9PBaBP1
-	- Build Nest.js Microservices With RabbitMQ, MongoDB & Docker https://www.youtube.com/watch?v=yuVVKB0EaOQ
-	- Microservices in Nest.js https://www.youtube.com/watch?v=t76UMpwFNs0&t=18s
-	- NestJS Testing Tutorials 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
-	- nerstjs microservices with Performance Test https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMmfhUvFPiMhaLqqnCMU0lv
-	- nestjs microservices Architecture Patterns https://www.youtube.com/playlist?list=PLT5Jhb7lgSBM8D-w30f0OgqJzEpoNk0pB
-	- nestjs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPPxNKLB37PMOFzpfE2mOcV
-	- nestjs microservices Deployment (Docker, K8S, AWS) https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNw24oFF67p5QHYbDMOImji
-	- nestjs microservices with Monitoring https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNJSUY34A8wQqZAlrJZFbfC
-	- nestjs microservices authentication type and authorisation https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPoVZSt4hIZMbrumpxkFKTs
-	- NestJS Crash Course Beginner to Advanced https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMEqOsbiGuKwntRY_SqWW6o
-	- NestJS Authentication & Authorization https://www.youtube.com/playlist?list=PLQbmrL9zPupXh-PNVc8AsCtI098JupFCi
-	- How to manage different config environment in Nest.js https://youtu.be/1dU6Sjw6vIc?si=UMRU3wAOYysiBEyv
-	- Nestjs + NextJs - Build FullStack AI Pomodoro App https://www.youtube.com/playlist?list=PLQbmrL9zPupVCoE7KoB4VsVq7fg08kA3J
-	- Nestjs Postgres Prisma Tutorial Series https://www.youtube.com/playlist?list=PLQbmrL9zPupX6E8pqdLGggoqoBHa1ODOH
-	- RabbitMQ + NestJS Microservices Crash Course | A Simple Order Processing Project https://www.youtube.com/watch?v=j2S2gBoT7qc&t=22s
-	- NestJS Microservices Course https://www.youtube.com/playlist?list=PLhnVDNT5zYN-wg3QxqmlYs2mBwCn7v59D
-	- Nestjs Microservices #1 Authentication Flow Explained https://www.youtube.com/watch?v=hlsk_ibXpgg
-	- Nestjs Authentication Microservice #2 Create Authentication Microservice https://www.youtube.com/watch?v=jyDXgCFltaw
-	- NestJs Microservices Authentication #3 - Signup and Login Feature https://www.youtube.com/watch?v=mDwpaC8x8Hc
-	- NestJs Microservices Authentication #4 - JSON Web Token Authentication https://www.youtube.com/watch?v=6mXL7MD_Gc0
-	- Nestjs Microservices Authentication #5 Protect API Routes https://www.youtube.com/watch?v=wH2Zl1cZQls
-	- How to implement Caching in Nestjs https://www.youtube.com/watch?v=HUpVbvXSPwQ
-	- Role Based Authentication Nestjs https://www.youtube.com/watch?v=_JZ4_hjv7pE
-	- JSON Web Token Authentication in Nest.js https://www.youtube.com/watch?v=fW2hUMiiPFs
-	- Nestjs Complete Tutorial | Nest JavaScript Framework https://www.youtube.com/playlist?list=PL2NZAYdLkYviHnr4kfw3bm0vANXA6dZ0k
-	- Comprehensive Nest JS Course: From Beginne https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2
-	- NestJS Tutorial for Beginners to Advanced 2025 | Complete https://www.youtube.com/playlist?list=PL5OhSdfH4uDt6iG-qze_Q3qgik6VKHeRU
-	- The Right way to write Nest.js & Typescript clean-code - SOLID https://www.youtube.com/watch?v=vE74gnv4VlY
-	- Centralized Authentication in NestJS Microservices with TCP & API Gateway https://www.youtube.com/watch?v=iiSTB0btEgA
-	- Build your first MCP Server in NestJS https://www.youtube.com/watch?v=kqS5i6U-kHk
-	- NestJS Testing Tutorial | Unit and Integration Testing https://www.youtube.com/watch?v=dXOfOgFFKuY
-## 22. MongoDB
-	- MongoDB Crash Course 2023 https://www.youtube.com/watch?v=QPFlGswpyJY
-	- Learn MongoDB in 50 minutes https://youtu.be/liocKBCVJyw?si=yeyh2mOPZRG1mTT7
-	- Learn MongoDB in 1 hour https://youtu.be/c2M-rlkkT5o?si=ogPR603GSc1dbQZF
-	- MongoDB Complete Tutorial (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
-	- Database Sharding and Partitioning https://youtu.be/wXvljefXyEo?si=oFUBCel88bufGYjL
-	- MongoDB Aggregation Framework Tutorials https://youtube.com/playlist?list=PLYxzS__5yYQmr3HQQJMPBMbKtMY37sdsv&si=-Vt6CpAwRG9BhJa_
-	- MongoDB Crash Course 2026 (with Handbook) https://youtu.be/M1dKYQ7GsTg?si=srlo7QKPGPvUAXU1
-	- REST API using NodeJS and MongoDB https://youtube.com/playlist?list=PLdHg5T0SNpN3EoN3PEyCmPR42Ok_44OFT&si=DwdPxVeUJpM2mING
-	- MongoDB Tutorial For Beginners https://youtu.be/Www6cTUymCY?si=00f6mUVRYPpazar4
-	- mongo-DB https://www.youtube.com/playlist?list=PLVz2XdJiJQxzEDYrjG-31qrRYrKymm1Ab
-	- MongoDB tutorial in hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX
-	- MongoDB Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
-	- MongoDB Tutorial For Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIZ7owau3kb35LhzP-acBB5g
-	- Node.js MongoDB Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIa_NV-WyzSzLd-T_Fzx67Oj
-	- MongoDB https://www.youtube.com/playlist?list=PLeVPKY-He4asKVH-ac6Jj5Fli5NaBmGMX
-	- Complete MongoDB Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
-	- MongoDB User Authentication Authorization and Role (Hindi) https://youtu.be/JMPAzAgTfXU?si=WhidJUESAlbcBlq9
-	- MongoDB Complete Tutorial https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
-	- MongoDB Complete Crash Course https://youtu.be/FjRapH7oyjY?si=X1Ao8aGkBUzGbUgO
-	- MongoDB Crash Course 2023 https://youtu.be/QPFlGswpyJY?si=U9DD0A6QWA-nym_P
-	- MongoDB Tutorial Series for Beginners https://www.youtube.com/playlist?list=PLQbmrL9zPupWbHoroCyHjtoIfiZKxiQsQ
-	- Complete MongoDB (Version 8) Course https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc
-	- Master MONGODB in ONE VIDEO [HINDI] https://www.youtube.com/watch?v=tww-gbNPOcA
-	- MongoDB Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
-	- Complete MongoDB Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
-## 23. PostgresSQL
-	- SQL Crash Course for Beginners 2022 (MySQL & PostgreSQL) https://www.youtube.com/watch?v=DWtQU8VP3Hg
-	- https://blog.logrocket.com/node-js-orms-why-shouldnt-use/
-	- PostgresSQL (40) https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
-	- Database Normalization Explained | Master 1NF to 5NF Normalization Fast! https://youtu.be/ztiLSQMd6hc?si=gVCwQ6c5LuTVF1qi
-	- Data Governance Explained in 5 Minutes https://youtu.be/uPsUjKLHLAg?si=82RCZoCXe_WmVqtW
-	- Database Normalization: First, Second, & Third Normal Form https://youtu.be/GqOlxf676A0?si=6_Aify1VJSG2ln53
-	- Course | SQL Fundamentals with PostgreSQL https://youtube.com/playlist?list=PLOLrQ9Pn6caykER3hgdEajMiT-OnCicLK&si=N0SjmqQagBRCLGed
-	- Databases https://youtube.com/playlist?list=PLdNCznBZ77NogZNCTT5X397WynTHHk9vT&si=QqNbskMVeqr9aRJb
-	- Introduction to PostgreSQL https://youtube.com/playlist?list=PLHq1uqvAteVsnMSMVp-Tcb0MSBVKQ7GLg&si=TeblfwRRjXkXSl_4
-	- PosgresSQL Course https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS
-	- Learn PostgreSQL: Full Course for Beginners https://www.youtube.com/live/6DKA6oF9r2M?si=7OvpMUXWLPE2PoxH
-	- node-postgres Connection Pool https://youtu.be/tS264hwZn0Y?si=-0EDqYM38QjCVDZT
-	- Complete SQL Mastery https://www.youtube.com/playlist?list=PLOghUv2IDLKHKlkQNuzN8SPLYuVhhLlpa
-	- SQL Full Tutorial from Beginner to Advanced https://www.youtube.com/playlist?list=PLrFWmDe-rblqhaE9pSdEpF3hSiLqCM5qG
-	- https://www.youtube.com/@ScalingPostgres/videos
-	- https://knexjs.org/
-	- PostgreSQL High-Availability https://www.youtube.com/playlist?list=PLBrWqg4Ny6vVwwrxjgEtJgdreMVbWkBz0
-	- Master POSTGRESQL in ONE VIDEO https://www.youtube.com/watch?v=cnzka7kF5Zk&t=10488s
-	- PostgresSQL https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
+## HBase
+	- https://hbase.apache.org/book.html
+## Ceph
+	- Collecting SMART Disk Metrics from Ceph with OpenTelemetry https://youtu.be/9vn8SEEfmAg?si=SiCwDf-nVWZfOHsR
+## Kubernetes
+	- https://trainingportal.linuxfoundation.org/courses/introduction-to-kubernetes
+	- https://youtu.be/JD2es72cU6A?si=LGg88_Q9u3W2S2ny
+	- https://youtu.be/2vMEQ5zs1ko?si=1lW5dNefZwQxtQwv
+	- https://kubernetes.io/docs/home/
+	- https://www.cncf.io/training/courses/
+	- https://learn.kodekloud.com/courses
+	- https://www.kubeblogs.com/
+	- https://kodekloud.com/blog/kubernetes-tutorial-for-beginners/
+	- https://cast.ai/
+	- https://spacelift.io/blog/kubernetes-tutorial
+	- https://www.datacamp.com/tutorial/kubernetes
+	- https://www.okteto.com/blog/kubernetes-basics/
+	- https://github.com/knrt10/kubernetes-basicLearning?tab=readme-ov-file#keeping-pods-healthy
+	- https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-complete-guide/ 
+	- https://www.aquasec.com/cloud-native-academy/ (see right side 'Related Articles' and '70 Best Kubernetes Tutorials' there)
+	- https://www.geeksforgeeks.org/devops/kubernetes-tutorial/
+	- https://kubebyexample.com/learning-paths
+	- https://www.qovery.com/blog/kubernetes-tutorial-for-developers
+	- http://www.youtube.com/@codewithjay
+	- https://www.tutorialspoint.com/kubernetes/index.htm
+	- Kubernetes for Beginners in One Video 🔥 [HINDI] https://www.youtube.com/watch?v=rBeyHDKLVqM&t=949s
+	- Kubernetes For Beginners In Hindi https://youtube.com/playlist?list=PL6XT0grm_TfhFKUv_KI_DTVr0TCincl1r&si=OUWwzlQgJmzo1GO8
+	- The beginner mistake killing your Kubernetes journey https://youtu.be/rQDZgbZwNvs?si=pEYEP2Qn0QRicYIH
+	- Kubernetes Crash Course for Beginners https://youtu.be/9AKSLbfen6w?si=oom5FylLxvz-x1e9
+	- Deploy NodeJS App to Kubernetes https://youtu.be/WANEMc5tcaA?si=EdM8GdlaDNbybIRk
+	- How to deploy .NET Web API to Kubernetes https://youtu.be/zTBpl1nSPqk?si=YN91SQz0dq_r9BNB
+	- Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!) https://youtu.be/d6WC5n9G_sM?si=HzHL2AoNmkq_ekUl
+	- Kubernetes Zero to Hero: The Complete Beginner’s Guide (2025 Edition) https://youtu.be/MTHGoGUFpvE?si=woD-ljkUv3tGJDzK
+	- Kubernetes FULL COURSE 2025- Zero to Hero https://www.youtube.com/playlist?list=PLleCw-vqe90AqkxnzWVU8IexL7pWijxml
+	- Kubernetes Tutorials | CKAD Level Training https://youtube.com/playlist?list=PLleCw-vqe90DzAwG6Z_f9GARu-y6HbHXf&si=IuPDbG4j-kIvGpjo
+	- Most Common Kubernetes Deployment Strategies (Examples & Code) https://youtu.be/lxc4EXZOOvE?si=TXkT7cvxu-FWKE6N
+	- 2-Tier Application Deployment Project Series for DevOps Engineers | Episode 1 https://youtu.be/dXUnAK9_ets?si=uR77sbBjtKifGIKW
+	- https://www.youtube.com/@DevOpsToolkit
+	- Kubernetes Lightning Course https://youtube.com/playlist?list=PLHq1uqvAteVuOCnB0QUrf2BJ_jbMeYZ4l&si=XHHQt3KN9J6Vli3Q
+	- Logging Guide for DevOps https://youtube.com/playlist?list=PLHq1uqvAteVvfDxFW50Mdezk0xum-tyHT&si=KGJU9jBfByyD5tMS
+	- Kubernetes in the Cloud https://youtube.com/playlist?list=PLHq1uqvAteVsUhzNBkn-rPzXtPNpJu1-k&si=bnIJwC84ouI8rYE7
+	- CI/CD Guides for DevOps Engineers https://youtube.com/playlist?list=PLHq1uqvAteVsSsrnZimHEf7NJ1MlRhQUj&si=T2R0oT56gxR6OcSZ
+	- Kubernetes Secret Management guide https://youtube.com/playlist?list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj&si=akc3tt_1FihOsZ_Y
+	- Kubernetes Monitoring guide for beginners https://youtube.com/playlist?list=PLHq1uqvAteVuEXCrRkPFWLXRKWNLOVUHn&si=vywjvxAp27Q_ntjc
+	- Kubernetes development guide for https://youtube.com/playlist?list=PLHq1uqvAteVvUEdqaBeMK2awVThNujwMd&si=oDwFwV7rnKDg70hN
+	- Kubernetes Tutorial https://www.youtube.com/playlist?list=PLwvrYc43l1Mz3SjrJku5G0faF-xr-cCSQ
+	- Managed Kubernetes Cluster explained | Kubernetes on Cloud (1/2) https://youtu.be/k-V3_zxRasM?si=Sq9dGHlJhfErQz8L
+	- Step by Step Application Deployment on LKE using Helm | Kubernetes on Cloud (2/2) https://youtu.be/JGtJj_nAA2s?si=IR7YDvTYJyTwF15l
+	- Complete Kubernetes Tutorial for Beginners https://youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC&si=9ckAKgymOj1oFhMC
+	- How to Deploy Node.js Apps with Kubernetes, Docker & CI/CD Pipeline https://youtu.be/NI4XEDjGJsU?si=MKZ_zdkdL4_QMC-S
+	- Kubernetes Real time Scenerio Based Requests and Solutions https://www.youtube.com/playlist?list=PLYliwzTugkt0mP1yRDlILothC0OQv3jPj
+	- Kubernetes Tutorial for Beginners https://www.youtube.com/playlist?list=PLYliwzTugkt3_8H2JPTUfzQ6NpsEzF41K
+	- Kubernetes Multi Master Setup with LoadBalancer on Ubuntu https://youtu.be/Zxozz8P_l5M?si=7BqPJA1gbPIEJEk-
+	- Complete Kubernetes Course - From BEGINNER to PRO https://youtu.be/2T86xAtR6Fo?si=LUQmLrbnrguUyoFw
+	- Deploy Containers on Kubernetes (Docker Beginner to Pro - BONUS VIDEO) https://youtu.be/6TpXObxxFOU?si=EkSV5sis4GFWB2-U
+	- Kubernetes 101: Deploying Your First Application! https://youtu.be/XltFOyGanYE?si=jeJIG9EvVOndi3na
+	- Learn Kubernetes with KodeKloud https://www.youtube.com/playlist?list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5
+	- Install Kubernetes Cluster from Scratch https://www.youtube.com/playlist?list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo
+	- Kubernetes: KodeKloud Engineer #shorts https://www.youtube.com/playlist?list=PL2We04F3Y_41FPPQ7AebI5eIzH1eBvCNd
+	- Kubernetes-Hands-On-Learning https://www.youtube.com/playlist?list=PLwkjeLjcn3RyScjd0fcjT1KTA_5lfDMq0
+	- Kubernetes Troubleshooting https://www.youtube.com/playlist?list=PL55uMtDpag8qDW0nxR6FnLuUCqbH6ZrL3
+	- Kubernetes Deployment Strategies https://www.youtube.com/playlist?list=PL55uMtDpag8q3bw30ZSUT2L_nv3HQHomc
+	- Kubernetes Beginner Tutorials https://www.youtube.com/playlist?list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX
+	- Linode Kubernetes with Helm https://www.youtube.com/playlist?list=PLTnRtjQN5ieYD97JCZtcGbIjq1EINih2G
+	- Calico https://www.calicocloud.io/home#plans
+	- Helm Fundamental to Advance Tutorial 2023 https://www.youtube.com/playlist?list=PLTCuRW0ikUdOhDX9kvkmlWa7JpQn-7F-Q
+	- Kubernaties https://www.youtube.com/playlist?list=PLBJoSrneWLYt41XJAGdrbayXnNjLLNxdB
+	- Deploy NodeJS App to Kubernetes | Docker + Kubernetes | Basic Tutorial https://youtu.be/WANEMc5tcaA?si=mst-ptnz_is8bzUh
+	- Managing Microservices in Practice tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3NpflSrQWxiEOv_Vatc-ROt
+	- Hands-On Continuous Integration and Delivery https://www.youtube.com/playlist?list=PLTgRMOcmRb3OkYmEDl18ecJ52yhqELo8z
+	- Kubernetes Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIawlCTYW5XP33Exzpweu_6x
+	- Kubernetes https://www.youtube.com/playlist?list=PLXHMZDvOn5sVXjb88kYXSI7UMx4rhQwOj
+	- Kubernetes | Zero to Interview Hero https://www.youtube.com/playlist?list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn
+	- Module 2 : Kubernetes Failures & Fixes https://www.youtube.com/playlist?list=PL8h_iS3fGq0LgGCyCGraj6IQkGoJLcNT8
+	- 100 Real-World Kubernetes Failures & their Fixes https://www.youtube.com/playlist?list=PL8h_iS3fGq0K38XpD4jcwYWDZ_D08cuhh
+	- 100 Real-World Kubernetes Scenario Based Questions https://www.youtube.com/playlist?list=PL8h_iS3fGq0LwqaOmRSJ0jiqZbipwa-HN
+	- Certified Kubernetes Administrator Full Course For beginners https://www.youtube.com/playlist?list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC
+	- A Cloud Guru - Kubernetes https://www.youtube.com/playlist?list=PL2uKJaZguK1JtA5HxcH8d5Mdy21DYHc18
+	- A Cloud Guru - Kubernetes Fundamentals https://www.youtube.com/playlist?list=PL2uKJaZguK1JB4bg2nXZb5CiBpmqWH0QN
+	- The DevOps Tutorial https://www.youtube.com/playlist?list=PL4bM2dByZZML4EgEkopCL0DhWtNxYYo60
+	- Kafka https://www.youtube.com/playlist?list=PL-OjXpIFhMrf7sXlUsVMczqsNU5MOI6CV
+	- Kubernetes https://www.youtube.com/playlist?list=PL-OjXpIFhMre6lFtNmaGGIxYXS-U5FtHt
+	- Kubernetes https://www.youtube.com/playlist?list=PL4y5PiOmBnA9KrxpnrBzgvSpdEqD6LmtI
+	- Kubernetes Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYfanKF33E12LdJvl5q5PZGp
+	- K8s Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYdHLSdZz9fW0cMnpZny3UPL
+	- DevOps Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYcweaQnrRnD2L4Xc87COS70
+	- DevOps https://www.youtube.com/playlist?list=PL0JfpSrXxTMz-N-_OJNgiB8yoQSuWhwQl
+	- Learn about Kubernetes Authentication Methods https://www.youtube.com/playlist?list=PLShDm2AZYnK22Gqm5UJJ5WlUm48AYhHQ_
+	- Kubernetes bootcamp https://www.youtube.com/playlist?list=PL2z28C0cnXhMSIN0JyZkI1XBg1K3VZ3cV
+	- Kubernetes Cluster Architecture | Master & Worker Node Tutorial https://www.youtube.com/playlist?list=PL2NZAYdLkYviE7B06At6INbSCsDSRX8Ya
+	- Kubernetes and Container Tutorials https://www.youtube.com/playlist?list=PL5aURjJ6mdUedh8rPBXJ5w_ogdD9PM0D7
+	- Q/A for Kubernetes DevOps Interview https://www.youtube.com/playlist?list=PL5aURjJ6mdUc7O6xrwnv96SrZ4DxF-8tZ
+	- Kubernetes Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXmoKAmRh38U1-QEeh2dGEOX
+	- 100 Seconds of Code https://www.youtube.com/playlist?list=PLiMWaCMwGJXnjNhBQF-vR2Xqal0hN9U2-
+	- Kubernetes Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXnHmccp2xlBENZ1xr4FpjXF
+	- Kubernetes https://www.youtube.com/playlist?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
+	- 2-Tier Application Deployment with Docker in One Video | Episode 2 https://youtu.be/LxPd81wiUP4?si=r5lIpL4V5Cx-Vvg-
+	- Easiest Kubernetes Architecture and Cluster Setup (Kubeadm) For DevOps | Episode 3 https://youtu.be/oEGmaHSfcjQ?si=GWVqM8AaS5kBb4EB
+	- Stop using Kubernetes Ingress Nginx Controller Today https://youtu.be/ExUGVIOrNbE?si=ZoLfASET2dox4KMH
+	- Kubernetes Deployment of 2-Tier Application for DevOps Engineers | Episode 4 https://youtu.be/x43KlgDSRDg?si=M0vl3y4c7FU_jpOm
+	- Kubernetes End to End project on EKS | EKS Install and app deploy with Ingress https://youtu.be/RRCrY12VY_s?si=KUQAAjfm0fn6fvGD
+	- Beautiful Dashboards with Grafana and Prometheus - Monitoring Kubernetes Tutorial https://youtu.be/fzny5uUaAeY?si=DYV2BRoanIRETTbN
+	- Kubernetes 101 workshop - complete hands-on https://www.youtube.com/live/PN3VqbZqmD8?si=8_n1aZKiQ2aQNs8V
+	- The Kubernetes Course 2025 https://youtu.be/EV47Oxwet6Y?si=JL4mvZg4OUVqz13x
+	- What is Kubernetes-Hindi https://youtu.be/mYVzuE3daY8?si=CvKzWuUrc_OpMoT3
+	- Kubernetes 35 Videos https://youtube.com/playlist?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc&si=wlS6HYL6bdR-VQQy
+	- Troubleshooting Kubernetes 6 Videos https://youtube.com/playlist?list=PLdpzxOOAlwvIrFBI1farpLS_OSUBXJMLX&si=vnW8Lc19iFk5PiA1
+	- Kubernetes Service, Ingress with TLS and Ingress Controllers with Live coding https://youtu.be/3YTU4EPjEh4?si=fTSZhARzjTZyep8I
+	- Full Kubernetes tutorial on Docker, KinD, kubectl, Helm, Prometheus, Grafana https://youtu.be/SeQevrW176A?si=ngjIeV7RZbbG09K5
+	- Kubernetes Deployment Strategies Explained (Hands-On Project) https://youtu.be/_T3vfkl-3Vk?si=rfwrVnTR89tO0LaC
+	- Docker and Kubernetes Tutorial https://youtu.be/bhBSlnQcq2k?si=AVpwWeQAVDUwHu3u
+	- Docker and Kubernetes Crash Course | Containerization, Virtualization & More https://youtu.be/dWkTSjYco_g?si=tIjnRN322US4tgu3
+	- KUBERNETES SERVICES DEEP DIVE| LIVE DEMO | LEARN TRAFFIC FLOW USING KUBESHARK https://youtu.be/fCX8O7GA_lY?si=kYyg-Dhp06UU8phn
+	- Kubernetes Administration Course https://youtube.com/playlist?list=PLKiTC45c1PK-SwbeIuwdPhHx9XHiM4drK&si=YZffv7oGsecI6i2S
+	- Scaling Explained Through Kubernetes HPA, VPA, KEDA & Cluster Autoscaler https://youtu.be/HQY2jgSN6pA?si=_Fucvk-K1hEb0aZk
+	- How to create Multi Node Cluster in Kubernetes FULL DEMO in hindi | Kubernetes Tutorials in hindi https://youtu.be/4_Vvr5L9ojY?si=J7MsdkMwm7oD05d5
+	- Kubernetes Crash Course https://youtu.be/llf65JSPmDY?si=geyn8qxlFqyPVT54
+	- Kubernetes Tutorials for Beginners to Advanced | FULL https://youtube.com/playlist?list=PLrFWmDe-rbloGXuycxXX6HNFRVcvRhQcq&si=kQML8atWuoyBIq8O
+	- What is Deployment in Kubernetes FULL DEMO in hindi | Kubernetes Tutorials in hindi https://youtu.be/sz2WYJq6iAA?si=35iBXTXsUOf0jLXz
+	- Kubernetes https://youtube.com/playlist?list=PL_JVnPgp2IRcN7LqvC1s3JIWSGy9_mrXt&si=DWLxWOo9Ep4uDEiY
+	- My Kubernetes Homelab https://youtube.com/playlist?list=PL_JVnPgp2IReqn18A46SGh8yy5WVVWHAu&si=Vdn52LK8vB-nznez
+	- How to Deploy To Kubernetes with Jenkins GitOps GitHub Pipeline https://youtu.be/o4QG_kqYvHk?si=Au5V754_tP6Gz1eq
+	- https://www.youtube.com/playlist?list=PLxv9HL8TPbSxBEjcHPwTjvYBfioVmtT1W
+	- https://www.youtube.com/playlist?list=PLAdTNzDIZj__bptTvTGIaL1ezkeg_p-5R
+	- https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP
+	- https://www.youtube.com/playlist?list=PLVz2XdJiJQxybsyOxK7WFtteH42ayn5i9
+	- https://www.youtube.com/playlist?list=PL6tu16kXT9PpKXQADb8AyJ1zHyp7xDHHo
+	- https://www.youtube.com/playlist?list=PL_JVnPgp2IRcN7LqvC1s3JIWSGy9_mrXt
+	- https://www.youtube.com/playlist?list=PL_JVnPgp2IRdpXdNpsZOqi0xk9k1aXQ93
+	- https://www.youtube.com/playlist?list=PL_JVnPgp2IReqn18A46SGh8yy5WVVWHAu
+	- https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC
+	- https://www.youtube.com/playlist?list=PLy7NrYWoggjxqLwqmbE-gGuxpo0nWZqCi
+	- https://www.youtube.com/playlist?list=PLy7NrYWoggjy3urR5g7BLJiNjLtQcVckT
+	- https://www.youtube.com/playlist?list=PLy7NrYWoggjw0OMxUDIImjWQjM7qZWn_R
+	- https://www.youtube.com/playlist?list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb
+	- https://www.youtube.com/playlist?list=PLzy9PUwrUMZosMVcNvQNdfb5Madz7Qjf7
+	- https://www.youtube.com/playlist?list=PLzy9PUwrUMZoWM5KCJhnzM3q250RuZC0k
+	- Kubernetes https://www.youtube.com/playlist?list=PLJ8v-58rML88pfgdtOZv2gjFzC6O06m-0
+	- https://youtu.be/RdtNX-aagW0?si=HcyxZcIOAUdyCGgM
+	- https://youtu.be/wIfnkN_T6Eo?si=UgyjsvcWN1gmOk3I
+	- https://youtu.be/1xo-0gCVhTU?si=p5ZKcmOvMYlkZN2K
+	- https://www.youtube.com/live/0j-iIW3_sbg?si=M9pux46yWiJ80XlW
+	- https://youtu.be/d6WC5n9G_sM?si=OJA4PiZPzPz9sIMT
+	- https://youtu.be/Y8oFew4MfqA?si=AxDZnUXtzRD63SdS
+	- https://youtu.be/Wf2eSG3owoA?si=ldElHW5uPK9NNCPB
+	- https://youtu.be/XuSQU5Grv1g?si=0qJs-HWDC89wrmlE
+	- https://youtu.be/Cfznp8jRh7I?si=9Vi4YMZXLGadcT-w
+	- https://youtu.be/0QhUhrWGB9k?si=HgJWTRrD4-l66n8n
+	- https://youtu.be/kTp5xUtcalw?si=XK6Dmdvxs07-jraz
+	- https://youtu.be/rBeyHDKLVqM?si=F2BbC8bGSH88MdW9
+	- https://youtu.be/7XDeI5fyj3w?si=SaJ3j-jN0q8T_QBb
+	- https://youtu.be/KVBON1lA9N8?si=bu0OKPP6zeCMP_cX
+	- https://youtu.be/MTHGoGUFpvE?si=bMiRK4FS2WRwnwsm
+	- https://youtu.be/MTHGoGUFpvE?si=RzsNMb3b08coht3j
+	- https://youtu.be/s_o8dwzRlu4?si=F5B1E_qAUtbM8_tR
+	- https://youtu.be/a-nWPre5QYI?si=M4VEsQ4cek6u2gbS
+	- https://youtu.be/X48VuDVv0do?si=uCvIqGmEQRdwCngH
+	- https://youtu.be/T8Pxv5jr5jc?si=Pz1z3ZZRTzQlT3CB
+	- https://youtu.be/T8Pxv5jr5jc?si=q_LWq2Uvu6bY3MtY
+	- https://youtu.be/W04brGNgxN4?si=jmugKVjTMr44rDQ6
+	- https://youtu.be/UsVtffyShuA?si=y8q9CaHIj9qqFvM1
+	- https://youtu.be/W04brGNgxN4?si=ADtAXY5NIHMoBYhL
+	- https://youtu.be/mglql-ApISw?si=sch211aiBeCRTXAJ
+	- https://youtu.be/XuSQU5Grv1g?si=oVBizhL2PJThqwRn
+	- https://youtu.be/zodW7t3NnFs?si=GVPov_K30K7zHhaU
+	- https://youtu.be/s0kBqGpThp0?si=qDICTEYzJhaXQkZn
+	- https://youtu.be/huiQd2QojXY?si=zQ-XMMJvso2Nf7se
+	- https://youtu.be/IA070wtt2iU?si=eBqr0KUv_fspau4z
+	- https://youtu.be/toLAU_QPF6o?si=QVDVKif9UufwHYDD
+	- https://youtu.be/s_o8dwzRlu4?si=mglRunvrd3SFbJeC
+	- https://youtu.be/bhBSlnQcq2k?si=wcu6Kb20HuWzFeRI
+	- https://youtu.be/7A5cH8iqgHU?si=Wz_eetLGk1K1rW9i
+	- Kubernetes in DevOps in Hindi | Devops Tutorial for beginner https://youtu.be/LElkyOgy9ZI?si=lSEflS9Xwv65-HgI
+	- Beginner DevOps Project: CI/CD Pipeline with Jenkins, Docker, and Kubernetes https://youtu.be/sIlGaidwLig?si=OuANxx68AjqjHo5O
+	- DevOps Project Setup with Jenkins, Docker & Kubernetes: Complete Guide https://youtu.be/llBvl_iSLDw?si=9KQHhKEkJMfh6xvY
+	- Talos
+		- https://www.talos.dev/
+	- minikube
+		- https://minikube.sigs.k8s.io/docs/
+	- Helm
+		- https://helm.sh/docs/
+		- HELM Packaging of Two-Tier Applications for DevOps Engineers | Episode 5 https://youtu.be/4oVom1xrMEQ?si=1oxANeuo3OT-zjPX
+		- Complete Helm Chart Tutorial: From Beginner to Expert Guide https://youtu.be/DQk8HOVlumI?si=hoWUjIFKSAuOrqci
+		- How to Build and Deploy an app Helm Chart on Kubernetes Cluster with GitLab CI/CD https://youtu.be/qSbE7NOXm8U?si=dr792MY7Q2lhQl-G
+		- Helm installation and commands Hindi | Lec-58 | Hands-on Helm | What is Helm in Kubernetes https://youtu.be/FpJpHWe3Va4?si=Mu5Cw0ykSWtAN3d1
+		- Helm Zero to Hero: Master Kubernetes https://www.youtube.com/playlist?list=PLWgk5rA0QxeYeXvqjSeGLvtJAAh7Q5RiW
+		- Helm 3 Tutorial https://www.youtube.com/playlist?list=PLiMWaCMwGJXn0ecHNxvUZesPotlxcw4v8
+	- Tilt
+		- https://tilt.dev/
+	- Keda
+		- Optimize Your Kubernetes Cluster with KEDA: The Ultimate Guide | Kubernetes Event Driven Autoscaling https://youtu.be/8IWCr5gy6lU?si=DqLUK0HXbXJo2qMu
+		- https://keda.sh/
+## Gatling
+	- https://docs.gatling.io/
+## GrafanaLabs
+	- https://grafana.com/
+## Traefik
+	- https://doc.traefik.io/
+	- Expose Your Docker Containers With Traefik https://youtu.be/PzbdEZ4DQTg?si=dbUFv_jp0jNeqP0J
+	- Traefik v3.3 - Secure Everything! Complete Tutorial https://youtu.be/CmUzMi5QLzI?si=6f006EEM904ZcExQ 
+	- https://www.youtube.com/playlist?list=PLxwqA42jxPR5wkcOFq3JP8MvFmI9u7K6Z
+	- https://www.youtube.com/playlist?list=PL34sAs7_26wNldKrBBY_uagluNKC9cCak
+	- https://www.youtube.com/playlist?list=PLn6POgpklwWpdJrBM_tNWzanTBAO3ZmcN
+	- https://youtu.be/KMZIyoZ3jWM?si=9zXO_o5S9NCXnT-n
+	- https://youtu.be/n1vOfdz5Nm8?si=UgPrl5PcrVvmoa94
+	- https://youtu.be/C6IL8tjwC5E?si=NxEgYUpCNIwFahsD
+	- https://youtu.be/B9t1iNNiHUA?si=tZ-xylCSspOFifD4
+	- https://youtu.be/-hfejNXqOzA?si=evX0hlpQ73sFBSUf
+	- https://youtu.be/wLrmmh1eI94?si=oZQGgrbcKcPi5p3k
+## DAST Escape
+	- https://escape.tech/
+## Istio
+	- What is Service Mesh? 💡 [Microservices | System Design] https://youtu.be/hiR2xQpnmTQ?si=eqvn7zm50IIG_GkO
+	- Service Mesh In Kubernetes Explained https://youtu.be/cjhb7_uwzDk?si=B3YOk5Zo8LMOVHRU
+	- Guide to ServiceMesh https://youtube.com/playlist?list=PLHq1uqvAteVsmxHpGsMjTOROn3i99lzTA&si=yBklNDcPBSdyuKU6
+	- https://istio.io/latest/
+	- Istio & Service Mesh - simply explained in 15 mins https://youtu.be/16fgzklcF7Y?si=J33kcl7xWkWKwJef
+	- Istio Setup in Kubernetes https://youtu.be/voAyroDb6xk?si=3b_70PBDdtHxvtU-
+	- Observability https://www.youtube.com/playlist?list=PLPXBnDoWo1HS3SapEe557ZqiWF-BKHZDD
+	- Data Mesh and Data Domains Tutorials https://www.youtube.com/playlist?list=PLa7VYi0yPIH0L8ahQYbyBFkGc6a949-Lj
+	- Kubernetes Service Mesh with Istio tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3NDPcHDII3kQh49qBnNO8td
+	- Install Istio with istioctl on Kubernetes (Kind Setup + Namespace Injection Demo) https://youtu.be/wfAxK8b4KAo?si=ArGrqZtwpXzx89Wu
+	- Envoy Istio https://www.youtube.com/playlist?list=PL0xeHY_ImQVVoPJAW95L02bF69s0HBXYn
 ## Linux, Bash
 	- Beginner's Guide To The Linux Terminal https://youtu.be/s3ii48qYBxA?si=uP7xYXHBOIubzXF9
 	- Linux Commands https://youtube.com/playlist?list=PL6XT0grm_TfirXAzmWyjPNX_9k_9osF4b&si=aX4WQM40Ub4eKB4l
@@ -2600,69 +2661,25 @@
 	- https://www.youtube.com/@AntonPutra
 	- https://www.youtube.com/@nebulit
 	- https://www.youtube.com/@codeforinterview
+	- Code with Jay
 	- https://www.youtube.com/@Alta3Research
 	- https://www.youtube.com/@CodeOpinion
 	- https://www.youtube.com/@DevOpsDirective
 	- https://www.youtube.com/@TechnoTim
+	- tkssharma
 	- https://www.youtube.com/watch?v=2lUr4Mey0is&list=PLTgRMOcmRb3NXaiWg43YQX91t6BtZ-QOn
 	- https://www.youtube.com/watch?v=oBt53YbR9Kk
 	- https://www.youtube.com/@ChiragBhalodia
 	- AI for developpers https://www.youtube.com/playlist?list=PLnsTzQ998QGRu7gG70wT4HwNXQo_jappa
 	- ChatGPT Full Course https://www.youtube.com/playlist?list=PL_euSNU_eLbd40BcAHD7y5DRUXPSKa7wq
 	- Machine Learning https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
-	- Collecting SMART Disk Metrics from Ceph with OpenTelemetry https://youtu.be/9vn8SEEfmAg?si=SiCwDf-nVWZfOHsR
 	- GenAI Full Course for Beginners in 2025 https://www.youtube.com/watch?v=yO4wI8OWPK4
 	- Generative AI for NodeJs, OpenAI https://www.youtube.com/playlist?list=PLXXI5Oe3aCLm2pjaBMm7_r8oDSZe4UPa6
-	- tkssharma
-	- Crack Node JS Interview https://www.youtube.com/playlist?list=PLIGDNOJWiL1--PkxBwF8ghr0Oc0hXVJi7
-	- JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL18m9eEwA6K5GqFx6C6-eht8
-	- Learn Javascript, Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-42-wM9jfgN364lzxwFFI2
-	- Learn Docker https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3cIiT9Z5qxlA7PXEtlUa-
-	- Top-50 Node JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL1_yLcirFqgAxlNFL3tsdxrM
-	- Design Pattern in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL19ybjwD69t3G2yrQ9a0Pbij
-	- Understanding Microservices Patterns https://www.youtube.com/playlist?list=PLIGDNOJWiL1_-i0DjC69qr4gRUOkpTvRQ
-	- Node JS Crash course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-anK_Dyz9zRq7UYMJfc3P0
-	- Docker Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-svqMFkNEiNdDyhs41Vnib
-	- Node JS Master Playlist https://www.youtube.com/playlist?list=PLIGDNOJWiL18Rh8ymQgXnIwtg_Qx0fkXf
-	- Javascript Lessons Everyday https://www.youtube.com/playlist?list=PLIGDNOJWiL19go98IKaQ4sqThyi2V67JG
-	- Building Microservices with Node JS https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O
-	- Writing Clean Code in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL1_rJsSXnWH1YMxaPuWaDL44
-	- Javascript Quiz for Interviews https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3vYHL_Ka3WlF5rATsStB_
-	- Scraping Web with Node JS https://www.youtube.com/playlist?list=PLIGDNOJWiL1-W3tmbQ5W_yWpYBeFf03Aq
-	- Testing in Javascript Full stack Application https://www.youtube.com/playlist?list=PLIGDNOJWiL1-IVcu_hvsIPQJRZ9oOwWRf
-	- Nest JS Microservices || 12 Factor App https://www.youtube.com/playlist?list=PLIGDNOJWiL18srI6BmFLfwDPvorTmyQ_c
-	- Node JS Microservices REST Based APIs https://www.youtube.com/playlist?list=PLIGDNOJWiL1_WRS8LRcEXkqdi9S748Pvv
-	- Nodejs Microservices Different Authentication https://www.youtube.com/playlist?list=PLIGDNOJWiL1_4oKD4yLNnT85Pstu97xrp
-	- Nodejs Microservices with Monitoring and APM Tools https://www.youtube.com/playlist?list=PLIGDNOJWiL1_XqljnnKXIJoTHEQkt_xMO
-	- nodejs microservices Deployment (Docker, K8S, AWS) https://www.youtube.com/playlist?list=PLIGDNOJWiL19d4JCn2lKy3FnglBY8IEPl
-	- nodejs microservices with Performance Test https://www.youtube.com/playlist?list=PLIGDNOJWiL18yb3Pf1fGwJtMYGYj685YP
-	- nodejs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLIGDNOJWiL1_SzJqkfxd-rcPBJBdFmWfw
-	- Building Microservices and deploying for SAAS Product https://www.youtube.com/playlist?list=PLIGDNOJWiL19tboY7wTzz6_RY6h2gpNrH
-	- Node JS Microservices Master Course https://www.youtube.com/playlist?list=PLIGDNOJWiL19WHIxJ0Q4aP4X3oljPha5n
-	- nodejs microservices Architecture Patterns https://www.youtube.com/playlist?list=PLIGDNOJWiL18s_fjlMlAbKZDiMta8RLs0
-	- nodejs microservices with Performance Test https://www.youtube.com/playlist?list=PLIGDNOJWiL18yb3Pf1fGwJtMYGYj685YP
-	- Building Microservices with Node JS https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O
-	- Node JS Microservices Master Course https://www.youtube.com/playlist?list=PLIGDNOJWiL19WHIxJ0Q4aP4X3oljPha5n
-	- Nest JS Advanced Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr
-	- Nest JS Master Course https://www.youtube.com/playlist?list=PLIGDNOJWiL186E2BIAofH6vbS9GxAWRle
-	- Nest JS Advanced Course 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL1-8hpXEDlD1UrphjmZ9aMT1
-	- Nest JS Microservices with Monorepo Nx https://www.youtube.com/playlist?list=PLIGDNOJWiL1-zscX224pibRBb4RChTpgM
-	- Nestjs Testing Tutorials || 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
-	- Nestjs Crash Course for Beginners 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL18vQIXd4KdZjzBZN5YIpidI
-	- Code with Jay
-	- Node.js Beginner's Guide https://www.youtube.com/playlist?list=PLaLqLOj2bk9aOIybS1gRhpryWCZEhfVx-
-	- NodeJS Microservice COMPLETE Production Level Course https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs
-	- NodeJS Microservice Master Class https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr
-	- Mastering Node.js Microservices with Kafka: A Complete Guide https://www.youtube.com/playlist?list=PLaLqLOj2bk9aaZZYoH7tMDj5obE7os45_
-	- Fastify & Node.js Masterclass https://www.youtube.com/playlist?list=PLaLqLOj2bk9bXHrewQhwDjXglwXpEfa6L
-	- Mastering Node.js Microservices with Kafka: A Complete Guide https://www.youtube.com/playlist?list=PLaLqLOj2bk9aaZZYoH7tMDj5obE7os45_
-	- NodeJS Microservice COMPLETE Production Level Course https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs
-	- NodeJS Microservice Master Class https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr
 ## Communication
 	- https://developer.bondy.io/
 	- https://matrix.org/
 	- https://atproto.com/
-	- WebSocket vs webhooks vc WebTransport
+	- WebSocket vs SSE vs webhooks vc WebTransport
 	- https://developer.chrome.com/docs/capabilities/web-apis/webtransport
 	- https://www.videosdk.live/developer-hub/webtransport/webtransport-api
 	- https://www.digitalocean.com/community/tags/docker

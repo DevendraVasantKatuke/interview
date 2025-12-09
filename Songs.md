@@ -1,18 +1,3 @@
--   Bielizna nocna Rzeszów body sklep z bielizną Implicite Paryżanka
--   Speedy Climbs From Shane (Part 2 ) Parkour
--   Jump Rope & Splits Training Outtakes - Yoga & Fitness with Rhyanna Open Hearts Can Unite
--   Hombre baila con muñecos // Talento Chiclayano Talentos Peruanos
--   Sang-A AEROBIC session 01 Sang-A yonini
--   Public Media Art #1 "WAVE" Short ver. d'strict
--   Talking Heads - Take me to the River 1980 fritz5153
--   Hailey Clauson Goes Bottomless In Sumba Island | Uncovered | Sports Illustrated Swimsuit Sports Illustrated Swimsuit
--   Struggling with technology ?// LOL ComediHa!
--   Top Billing visits a beautiful forest home in Cape Town | FULL INSERT sabc3topbilling
--   China Army ft. Daft Punk - Get Lucky romerezecrew
--   CASA MINIMALISTA DE 10 X 17 M CONCEPTO DE DISEÑO GERARDO MARVEZ ARCHITECTURE
--   Men Whitout Hats - Safety Dance Remix - Robot Dance Vs. Break Dance albejim
--   Rolls Royce from the Year 2035! Supercar Blondie
--   Korn - Evolution (Official Video) kornchannel
 -   Natalia Poklonskaya - She's So Beautiful arc4dexp
 -   100 Forgotten Songs of the '80s (1980-1984) Some random guy
 -   Yangtze River Cruise, China in 4K Ultra HD Amazing Places on Our Planet
@@ -307,7 +292,6 @@
 -   Motivational Poem : सब जाग रहे तू सोता रह ,किस्मत को थामे रोता रह :Written By kavi Sandeep Dwivedi
 -   DASRATH MANJHI || GEHLORE || GAYA || BIHAR || INDIA EHAIINDIA
 -   Best Tik Tok and Whatsapp Talent videos #4 | Top 10 Talents | of 2018, 2019 Super Clips
--   Jai Wolf - Indian Summer (Official Music Video)
 -   Mahmut Orhan - Feel feat. Sena Sener (Official Video) Ultra Music
 -   Wild Child - Crazy Bird OFFICIAL
 -   Kalki - Varanasi (Official Music Video)
@@ -450,10 +434,6 @@ hatka| ISD India Speaks Daily
 -   Lady Gaga & Bradley Cooper - Shallow (Alternative Editing with Different Takes) reh
 -   Lady Gaga, Bradley Cooper - Shallow (From A Star Is Born/Live From The Oscars)
 -   Hombre baila con muñecos // Talento Chiclayano Talentos Peruanos
--   Talking Heads - Take me to the River 1980 fritz5153
--   China Army ft. Daft Punk - Get Lucky romerezecrew
--   Men Whitout Hats - Safety Dance Remix - Robot Dance Vs. Break Dance albejim
--   Korn - Evolution (Official Video) kornchannel
 -   Natalia Poklonskaya - She's So Beautiful arc4dexp
 -   100 Forgotten Songs of the '80s (1980-1984) Some random guy
 -   Joe Jackson- "Is She Really Going Out With Him?" on Countdown 1980 ReelinInTheYears66
@@ -741,7 +721,6 @@ hatka| ISD India Speaks Daily
 -   Motivational Poem : सब जाग रहे तू सोता रह ,किस्मत को थामे रोता रह :Written By kavi Sandeep Dwivedi
 -   DASRATH MANJHI || GEHLORE || GAYA || BIHAR || INDIA EHAIINDIA
 -   Best Tik Tok and Whatsapp Talent videos #4 | Top 10 Talents | of 2018, 2019 Super Clips
--   Jai Wolf - Indian Summer (Official Music Video)
 -   Mahmut Orhan - Feel feat. Sena Sener (Official Video) Ultra Music
 -   Wild Child - Crazy Bird OFFICIAL
 -   Kalki - Varanasi (Official Music Video)
@@ -908,26 +887,13 @@ hatka| ISD India Speaks Daily
 -   Lady Gaga, Bradley Cooper - Shallow (From A Star Is Born/Live From The Oscars)
 -   Speedy Climbs From Shane (Part 2 ) Parkour
 -   💥Hanuman Dand💪TRADITIONAL PUSH UPS🔥😱full body conditioning.. Karate TV
--   Jump Rope & Splits Training Outtakes - Yoga & Fitness with Rhyanna Open Hearts Can Unite
--   Hombre baila con muñecos // Talento Chiclayano Talentos Peruanos
 -   5 Minute Fat Burning Bikini Workout #89 Zuzka Light
 -   The Forgotten Bodyweight Exercise (REVERSE HYPER ALTERNATIVE) FitnessFAQs
 -   NYC Harinam Attracts All Kinds to Join In Krishna Kripa Das
--   Sang-A AEROBIC session 01 Sang-A yonini
 -   26,450 BC Years Old Kalpa Vigraha The Oldest Idol Ever Known To Mankind? Indian Monk
 -   What the media WON'T show you: A Tibetan Monastery/Ancient walled-city - Photojournal China numuves
--   Public Media Art #1 "WAVE" Short ver. d'strict
--   Talking Heads - Take me to the River 1980 fritz5153
 -   3D epoxy flooring or customize flooring information and price perfect floor
 -   Award winning Inside outside house that camouflages with the landscape Tempting Culture
--   Hailey Clauson Goes Bottomless In Sumba Island | Uncovered | Sports Illustrated Swimsuit Sports Illustrated Swimsuit
--   Struggling with technology ?// LOL ComediHa!
--   Top Billing visits a beautiful forest home in Cape Town | FULL INSERT sabc3topbilling
--   China Army ft. Daft Punk - Get Lucky romerezecrew
--   CASA MINIMALISTA DE 10 X 17 M CONCEPTO DE DISEÑO GERARDO MARVEZ ARCHITECTURE
--   Men Whitout Hats - Safety Dance Remix - Robot Dance Vs. Break Dance albejim
--   Rolls Royce from the Year 2035! Supercar Blondie
--   Korn - Evolution (Official Video) kornchannel
 -   Natalia Poklonskaya - She's So Beautiful arc4dexp
 -   100 Forgotten Songs of the '80s (1980-1984) Some random guy
 -   Yangtze River Cruise, China in 4K Ultra HD Amazing Places on Our Planet
@@ -1235,7 +1201,6 @@ hatka| ISD India Speaks Daily
 -   Motivational Poem : सब जाग रहे तू सोता रह ,किस्मत को थामे रोता रह :Written By kavi Sandeep Dwivedi
 -   DASRATH MANJHI || GEHLORE || GAYA || BIHAR || INDIA EHAIINDIA
 -   Best Tik Tok and Whatsapp Talent videos #4 | Top 10 Talents | of 2018, 2019 Super Clips
--   Jai Wolf - Indian Summer (Official Music Video)
 -   Mahmut Orhan - Feel feat. Sena Sener (Official Video) Ultra Music
 -   Wild Child - Crazy Bird OFFICIAL
 -   Kalki - Varanasi (Official Music Video)
@@ -1247,7 +1212,6 @@ hatka| ISD India Speaks Daily
 -   Fittest Soldier in the World - Diamond Ott | Muscle Madness
 -   The Octo-Bouncer Electron Dust
 -   Oh Wonder - How It Goes
--	Black Box - Ride on Time
 -   Yas - Empty Crown MrSuicideSheep
 -   18 ADVANCED WAYS TO SIT DOWN 😅 Jiemba Sands
 -   20 Ways To Style Formal Shirt Pant For Men | Best 20 Formal Dress For Men | Men Fashion IN TREND FASHION&VLOGS
@@ -1460,6 +1424,8 @@ hatka| ISD India Speaks Daily
 	-	Somebody Said A Prayer
 -   Black Atlas
     -   Kinda Like It
+-	Black Box
+	-	Ride on Time
 -	Black Pumas
 	-	Colors
 -	Blood, Sweat & Tears
@@ -1509,6 +1475,7 @@ hatka| ISD India Speaks Daily
     -   Slave To Love
     -   Like a hurricane
     -   Don't Stop The Dance
+    -	Johnny & Mary
 -	Burak Yeter
 	-	Tuesday ft. Danelle Sandoval
 -	C. C. Catch
@@ -1577,6 +1544,8 @@ hatka| ISD India Speaks Daily
 	-   Hymn For The Weekend
 -	Colour Castle
 	-	Love Addict
+-	Color Me Badd
+	-	All 4 Love
 -   Commodores
     -   Nightshift
 -	Concrete Blonde
@@ -1834,9 +1803,15 @@ hatka| ISD India Speaks Daily
 	-	Boom Boom - Nazia Hassan
 	-	Dil ki girah khol do - Kala Ankur
 	-	Ek Raasta Hai Zindagi - Kaala Patthar
+	-	ग़ुलाम अली
+		-	हम तेरे शहर में आए हैं मुसाफ़िर की तरह
+		-	चुपके चुपके रात दिन आँसू बहाना याद है
+		-	ये दिल ये पागल दिल मिरा क्यूँ बुझ गया आवारगी
+		-	चमकते चांद को टूटा हुआ तारा बना डाला
 	-	Jaane Kya Dhoondta Hai Ye Mera DiL - Lucky Ali
 	-	Jaane Kisne - Shiamak Davar
 	-	Jahan Dekhoon Main Jawaniyan - Ali Haider
+	-	Kaho Kahan Chale Jahan Tum Le Chalo- Kishore & Asha
 	-	Kaise Kaise Haadse Sahte Rahey - Jagjit Singh
 	-	Kisi Nazar Ko Tera Intezar - Aitbaar
 	-	Maa ne kaha tha - Chacha bahtija
@@ -1844,6 +1819,7 @@ hatka| ISD India Speaks Daily
 	-	Mujhe chhu rahi hai - Swayamwar
 	-	O Mere Dil Ke Chain - Mere Jeevan Saathi
 	-	Pal Pal Dil Ke Paas - Blackmail
+	-	Pyar Chahiye Mujhe - Raj Kiran & Kalpana Iyer
 	-	Tanha Tanha - Penaz Masani 
 	-	Tera Ramji Karenge Beda Paar - Hariom Sharan Premanjali Pushpanjali
 	-	Tere Dar Par Sanam - Phir Teri Kahani Yaad Aayee
@@ -1890,6 +1866,7 @@ hatka| ISD India Speaks Daily
 	-	Sensitive Kind
 -   Jai Wolf (feat. The Chain Gang Of 1974)
     -   Drive
+    -	Indian Summer (Official Music Video)
 -	James Bay
 	-	Hold Back The River
 -	James Last
@@ -2297,6 +2274,8 @@ hatka| ISD India Speaks Daily
 	-	Secret World (Album)
 -	Peter Schilling
 	-	The Different Story
+-	Phats & Small
+	-	Turn Around
 -	PhD
 	-	I Won't Let You Down
 -	Phil Collins
@@ -2342,6 +2321,7 @@ hatka| ISD India Speaks Daily
 	-	Oh Sheila
 -	Real McCoy
 	-	Come And Get Your Love
+	-	Another Night
 -   Regina Belle
     -   Baby Come To Me
 -	Rene & Angela
@@ -2391,6 +2371,8 @@ hatka| ISD India Speaks Daily
 	-	Everybody's Free w0lf6pack
 -   Ruth B
     -   Lost Boy (sad & slowed)
+-	Saint Etienne
+	-	He's On The Phone
 -   Sam Cooke
     -   A Change Is Gonna Come
 -	Sam Smith
@@ -2408,6 +2390,8 @@ hatka| ISD India Speaks Daily
 	-	Deliver Me
 -   Sash! feat. Tina Cousins
 	-	Mysterious Times
+-	Sash! feat. La Trec
+	-	Stay
 -   Savage
     -   Tonight
 	-	Don't Cry Tonight
@@ -2484,6 +2468,8 @@ hatka| ISD India Speaks Daily
 -   SNAP!
     -   Rhythm Is A Dancer
 	-	The Power Ultra Version
+-	Sniff 'n' The Tears
+	- Driver's Seat
 -   Snow Patrol
     -   Open Your Eyes
 -	Snowy White
@@ -2531,6 +2517,8 @@ hatka| ISD India Speaks Daily
 	-	Let's Straighten it Out
 -	SWEATCULT
 	-	if u wanna stay
+-	Swing Out Sister
+	-	Breakout
 -	SYML
 	-	Girl
 -	T'Pau
@@ -2625,6 +2613,8 @@ hatka| ISD India Speaks Daily
 -	The Midnight
 	-	Synthetic
 	-	Light Years (feat. Nikki Flores)
+-	The Moth & The Flame
+	-	Young & Unafraid
 -   The Paper Kites
     -   Steal My Heart Away (https://youtu.be/VR11Hs9a36Y)
 	-	Electric Indigo
@@ -2636,6 +2626,7 @@ hatka| ISD India Speaks Daily
 	-	Angie
 -	The S O S Band
 	-	The Finest 1986
+	-	Just Be Good To Me
 -	The Stranglers
 	-	Always The Sun
 -	The Stylistics
