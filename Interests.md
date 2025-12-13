@@ -1,0 +1,102 @@
+```
+`hasOwnProperty` checks if the property exists on the object itself.
+The in operator checks the entire prototype chain.
+```
+- Use MS Access in SoloTrade
+- Remove SQLite
+- Remove Management Object, introduce Old code for processor ID
+- Import Marg data
+- Make an Image. send to Customers.
+- Counter Sale as permanent, Shortcut. Use drop-down grid view.
+- Medicine A4, A5, A6 bills.
+- Auto Update
+- https://zennx.in/
+- Move Outdated Stock in Stock Reconciliation
+- Provide Wallet logo
+- Link indent to Purchase Order
+- Drug code for Jan aushadhi kendra.
+- eWay bill, if transportation is in another state, or greater than 50000 for same state
+- Schedule H, H1, NRX, TB
+- eInvoice: Turnover > 5 Cr
+- BackOffice Center for Prescription Recognition
+- Connected Bank Feature
+- Online Retail Store for Clients. Charge Commission.
+- eBilling Android App for Van Sales People of Distributors
+- WhatsApp reminders for Pending Payments and Inventory
+- WhatsApp reminders for Product Indent, OutDate
+- Product should hint at alternate Salt.
+- Vendor/Customer balance in Purchase/Sale
+- Make 2 Shelves. Waste Bin and Un allotted.
+	- AFTER USE BEFORE, PURCHASE ITEMS GOES TO WASTE BIN.
+	- IMPORTED PRODUCT GOES TO UN ALLOTTED.
+- Stock Adjustment by Rack. Complete Stock Reconciliation by Rack.
+- Centralized Purchase for multiple stores.
+- Ordered and Delivered for both Purchase and Sale
+- Expiring Items Vendor wise. Show in control panel.
+- Show eWay bill, if amount greater than 5000.
+- Transporter GSTIN and Truck number.
+- Generate eWay bill.
+- Save E-way Bill Number.
+- Bulk eWay bill, if transporter and truck number is the same.
+- Use the word Catalogue, list instead of Product, Vendor master.
+- non moving, fast moving items report
+- Group by Salt in Purchase and Sale Product Select.
+	- % Margin field in Purchase and Sale Product Select.
+- Product indent should have Ordered and Received units.
+- Purchase Return shows the product expired, nearing expiry, non moving, damaged. (From that Vendor)
+- Print QR Code at the time of Purchase. (To stick labels while purchasing)
+- Map local products to remote. Same to Vendor, Customer etc.
+- https://staging.fynamics.co.in//api-docs/gst
+- https://hyperswitch.io/
+- https://juspay.io/in/docs/upi-tpap-sdk/android/getting-the-sdk/getting-sdk
+- Contact Ravi Medical, Katuke.
+- https://exploringjs.com/js/book/
+- https://www.javascripttutorial.net/
+- https://www.learn-js.org/
+- https://www.learn-ts.org/
+- https://www.geeksforgeeks.org/
+- https://slothbytes.beehiiv.com/
+- https://bytebytego.com/exercises/coding-patterns
+- https://craftbettersoftware.com/p/unit-testing-what-exactly-is-a-unit
+- https://blog.logrocket.com/react-infinite-scroll/
+- https://bersache.com/collections/shoes-under-1000
+- https://dataprofy.com/product-category/ebook/
+- https://labs.iximiuz.com/
+- https://rancherdesktop.io/
+- https://infintyedificewatch.shop/collections/frontpage
+- https://www.cqrs.com/
+- https://www.eventsourcing.ai/
+- https://www.eventsourcingdatabase.com/
+- https://kata-log.rocks/
+- https://www.startdataengineering.com/
+- https://contextmapper.org/
+- https://lakesail.com/
+- https://streamnative.io/
+- https://pola.rs/
+- https://archive.org/details/vertigo.-1958.-german.-ac-3-d.-dl.-1080p.-blu-ray.x-265-fu-n
+- https://sparkbyexamples.com/
+- https://google.github.io/adk-docs/
+- https://www.linode.com/lp/5000-credit-offer/
+- https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment
+- https://uxcel.com/blog/top-free-ai-certifications
+- https://www.edx.org/courses?q=free+ai+courses
+- https://www.elementsofai.com/
+- https://students.yourlearning.ibm.com/recommended/aoi/TECHNICAL_SKILLS/AI_-ARTIFICIAL_INTELLIGENCE-
+- https://developer.confluent.io/
+- https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcareer-tracks%2Fassociate-data-engineer-in-sql
+- https://www.kdnuggets.com/
+- https://www.pullmanparisroissycdg.com/
+- https://leetcode.com/discuss/post/5366542/all-leetcode-articles-on-coding-patterns-1uhy/
+- https://seanprashad.com/leetcode-patterns/
+- https://dataengineering.wiki/Index
+- https://www.skool.com/discovery?q=Kubernetes
+- command to rename git branch
+	- git branch -m feature-new-design
+- Life is a beautiful sport since 2025
+- https://www.freecodecamp.org/news/the-architecture-of-mathematics-and-how-developers-can-use-it-in-code/
+- https://www.milanjovanovic.tech/
+- https://tutedude.com/
+- https://eventuous.dev/docs/intro/
+- https://app.datacamp.com/learn
+- https://platform.claude.com/docs/en/home
+- https://axonops.com/

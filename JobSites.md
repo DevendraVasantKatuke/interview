@@ -56,3 +56,9 @@
 -	https://www.jobs.nestjs.com/#jobs
 -	https://wellfound.com/
 -	https://www.toptal.com/talent/apply?as=developer
+-	https://nearform.com/careers/
+-	https://www.stepstone.de/en/
+-	https://nenzy.ai/
+-	https://cloudhire.ai/for-candidates/
+-	https://www.wonsulting.com/resumai
+-	https://www.creddinv.in/

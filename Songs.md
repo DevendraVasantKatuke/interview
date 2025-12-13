@@ -1653,6 +1653,8 @@ hatka| ISD India Speaks Daily
     -   A Girl Like You
 -   Eiffel 65
     -   Blue
+-	Electronic
+	-	Feel Every Beat
 -   Electrik Youth
     -   Final Girl
 -   Elise LeGrow
@@ -1942,6 +1944,8 @@ hatka| ISD India Speaks Daily
 	-   The Walls Of The World DramaticoMusic
 -   Ken Laszlo
     -   Hey Hey Guy
+-	Kidburn & Lazer Club
+	-	Fall in Love
 -	Kiesza
 	-	All Of The Feelings
 -   Kiss
@@ -2653,6 +2657,8 @@ hatka| ISD India Speaks Daily
 	-	Apologize ft. OneRepublic
 -   Timex Social Club
     -   Rumors (https://youtu.be/p7dyXYG_zNw)
+-	Tina Cousins
+	-	Pray
 -   Tina Turner
 	-	What's love got to do about it
     -   We Don't Need Another Hero (https://youtu.be/zEb8-v1nkRo)
