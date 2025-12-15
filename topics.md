@@ -1,3 +1,10 @@
+- https://openai.com/api/
+- https://platform.openai.com/docs/overview
+- https://cookbook.openai.com/
+- https://chatgpt.com/
+- https://modelcontextprotocol.io/docs/getting-started/intro
+- https://docs.langchain.com/#typescript
+
 ## JavaScript
 	- Coding with AI (Copilot) Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9joeiiVaLExvfSgmdtBbSPM
 	- Callback
@@ -549,13 +556,13 @@
 		- How to write unit tests in node JS using Jest? 10m https://youtu.be/W1grdBoFJdw?si=PC2W-9IRDuUdNFNX
 		- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=sUykUML05rDzHDWy
 		- JavaScript Testing 101 with Jest https://youtube.com/playlist?list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&si=-ETQ16EeAImLBspi
-		- TDD Express (2) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR
 		- TDD Express App (4) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR
 		- Jasmine Testing Framework Course (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
 		- Jest tutorial with Node | testing Node.js applications https://youtu.be/KqQoiFBp36A?si=dl-oQ-ONnoM2f60I
 		- Introduction to Test-Driven Development (TDD) with TypeScript | 2021 https://youtu.be/a1jdwlujdk0?si=jO3PwZL01OTJnMcK
 		- Turn Bad Code into Good Code (Javascript, TypeScript, Node, Jest, unit Testing) https://youtu.be/Ntd_rT-ZSBM?si=Rno4DukcSsfx7Nc-
 		- JavaScript Testing with Jest https://youtu.be/UhG1xnDvXGY?si=WYgrxc-hNtfYuk4r
+		- INTEGRATION TESTING CRASH COURSE IN 80 MINUTES WITH JEST AND SUPERTEST - Node JS (2022) https://www.youtube.com/watch?v=IPX0OswHoxg
 
 		- Testing Nodejs REST API with Express and MongoDB using Mocha & Chai https://youtube.com/playlist?list=PLSVX7Y2dUwe4Rrq4u7DRvz1wuOs1A31EN&si=dFsPA5uC8YG1VpMo
 		- Supertest API Automation Tutorial | Node.js API Testing with Mocha & Chai https://youtu.be/xyXW2oHHqHY?si=Pr4aUzQHqR411EVk
