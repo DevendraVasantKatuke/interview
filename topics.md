@@ -143,6 +143,9 @@
 	- http://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
 	- Daily Javascript Lessons https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMbcbZGQPJc20dkbswRr3Il
 	- Just JavaScript https://www.youtube.com/playlist?list=PL_L_J_Lv0U2r6AV7Q9CfI8JgRAxIv4Yvk
+
+	- https://www.learn-js.org/
+	- https://www.learn-ts.org/
 	- https://exploringjs.com/js/book/index.html
 	- https://exploringjs.com/es5/toc.html
 	- https://exploringjs.com/es6/index.html
@@ -266,6 +269,10 @@
 	- https://github.com/malgamves/CommunityWriterPrograms
 	- https://esdiscuss.org/
 	- https://www.dennisokeeffe.com/
+	- https://slothbytes.beehiiv.com/
+	- https://bytebytego.com/exercises/coding-patterns
+	- https://craftbettersoftware.com/p/unit-testing-what-exactly-is-a-unit
+	- https://blog.logrocket.com/react-infinite-scroll/
 	- Writing Clean JavaScript https://youtube.com/playlist?list=PL0iFifR5umcmk05cCPf9_e8n-3wXuRQ8L&si=ht1rQGiAvBtpF164
 	- JavaScript Tips & Tricks https://youtube.com/playlist?list=PL0iFifR5umclMa0ySiALLWFEd1fmK0yNd&si=LJObictf21cpOk68
 	- JavaScript https://youtube.com/playlist?list=PL0X6fGhFFNTcBB9N4fPyMgtOxfvyujiEh&si=LE5FpXtQijCi7Ofy
@@ -337,7 +344,6 @@
 	- JavaScript tutorials (29) https://www.youtube.com/playlist?list=PL_euSNU_eLbduec7Ki4kAp2KrSCytwkjh
 	- Data Structures and Algorithms
 		- Javascript Data Structures and Algorithms (3) https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
-		- Javascript Data Structures and Algorithms https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
 		- https://visualgo.net/en
 		- https://www.simplilearn.com/tutorials/data-structure-tutorial
 		- https://herovired.com/learning-hub/blogs
@@ -540,30 +546,30 @@
 		- [LIVE] Building a Chat App with NestJS, ReactJS https://www.youtube.com/playlist?list=PL_cUvD4qzbkzS16TsnJDLbHuWBkKIbeVr
 		- Building a Cron Job Scheduler in Express with Node Cron https://www.youtube.com/watch?v=TeUHBA-iZRc&list=PLzHoH-EeZ8dfO4vffqHyeEGy9W8lXLi8w
 	- Testing
-		- Unit testing in 6 minutes: how to use Jest to unit test JavaScript code! https://youtu.be/QAqmVD-5eds?si=FBjVNEWbBui5uz1s
-		- Master Testing in Node.js https://www.youtube.com/watch?v=dWKy_JdaWcA
-		- Jasmine Testing Framework Course (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
-		- Jest tutorial with Node | testing Node.js applications https://youtu.be/KqQoiFBp36A?si=dl-oQ-ONnoM2f60I
-		- How to write unit tests in node JS using Jest? https://youtu.be/W1grdBoFJdw?si=PC2W-9IRDuUdNFNX
-		- Testing Nodejs REST API with Express and MongoDB using Mocha & Chai https://youtube.com/playlist?list=PLSVX7Y2dUwe4Rrq4u7DRvz1wuOs1A31EN&si=dFsPA5uC8YG1VpMo
-		- Supertest API Automation Tutorial | Node.js API Testing with Mocha & Chai https://youtu.be/xyXW2oHHqHY?si=Pr4aUzQHqR411EVk
+		- How to write unit tests in node JS using Jest? 10m https://youtu.be/W1grdBoFJdw?si=PC2W-9IRDuUdNFNX
 		- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=sUykUML05rDzHDWy
 		- JavaScript Testing 101 with Jest https://youtube.com/playlist?list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&si=-ETQ16EeAImLBspi
 		- TDD Express (2) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlZW2ydnBFrEseIQNHT2hzFR
-		- TDD Express App https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR
-		- Using jest to unit test node command line tool (1) https://youtu.be/ngbL6x4ma3Y?si=8qihGkGlWC1QVT1X
+		- TDD Express App (4) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR
+		- Jasmine Testing Framework Course (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
+		- Jest tutorial with Node | testing Node.js applications https://youtu.be/KqQoiFBp36A?si=dl-oQ-ONnoM2f60I
 		- Introduction to Test-Driven Development (TDD) with TypeScript | 2021 https://youtu.be/a1jdwlujdk0?si=jO3PwZL01OTJnMcK
 		- Turn Bad Code into Good Code (Javascript, TypeScript, Node, Jest, unit Testing) https://youtu.be/Ntd_rT-ZSBM?si=Rno4DukcSsfx7Nc-
-		- Node.js API Testing: The Ultimate Guide with Jest and Supertest (2025) https://youtu.be/LEYuxsGIeGo?si=pR8fw4RSkf8MZrq-
-		- Unit Testing with Jest – Complete Guide & Best Practices | Node.js & JavaScript Testing https://youtu.be/Oh0tZNKdobQ?si=jBfH4EKVLd3iW7O3
-		- Use Testing Coverage in Jest to Analyze Your Testing Suites https://youtu.be/m9SwRcnSAKI?si=yyvFo0Y9Vt-sSC6D
 		- JavaScript Testing with Jest https://youtu.be/UhG1xnDvXGY?si=WYgrxc-hNtfYuk4r
+
+		- Testing Nodejs REST API with Express and MongoDB using Mocha & Chai https://youtube.com/playlist?list=PLSVX7Y2dUwe4Rrq4u7DRvz1wuOs1A31EN&si=dFsPA5uC8YG1VpMo
+		- Supertest API Automation Tutorial | Node.js API Testing with Mocha & Chai https://youtu.be/xyXW2oHHqHY?si=Pr4aUzQHqR411EVk
+		- Using jest to unit test node command line tool (1) https://youtu.be/ngbL6x4ma3Y?si=8qihGkGlWC1QVT1X
+		- Node.js API Testing: The Ultimate Guide with Jest and Supertest (2025) https://youtu.be/LEYuxsGIeGo?si=pR8fw4RSkf8MZrq-
+		- JavaScript Testing Basics with Jest https://youtube.com/playlist?list=PLmZPx_9ZF_sB7aBEa4UV8qX3Oi3tBElpN&si=gQ0esLEP9hNg-zwB		
+
 		- Debugging Test in Node js Application - Express - Jest https://youtu.be/7bnoj_PY81M?si=hZgU78l-5DwBJ8yE
 		- Unit Testing with JEST in 80 Minutes https://youtu.be/GHVvrYD4VRE?si=6BVcfvkp6iERvsmy
 		- Node testing with Jest | Writing test cases | Node testing https://youtu.be/nGxircSyJMo?si=QqBOPseotWsAF46O
 		- Intro to Jest - Testing with ES6 https://youtu.be/kA9Pdu-IblI?si=5jrTJeEh3TGJfJIS
 		- Jest Tutorial | Testing NodeJS applications with JEST https://youtu.be/8gHEv5iNRKk?si=ALRarxiz6trYnj8b
 		- Introduction to Jest Testing | JavaScript Unit Tests https://youtu.be/x6NUZ8dc9Qg?si=vgt7vRNYe6XXUV-9
+		- Mocking Asynchronous Functions with Jest https://www.youtube.com/watch?v=gA-uNj2FgdM
 		- Jest Crash Course - Learn How to Test your JavaScript Application https://youtu.be/ajiAl5UNzBU?si=KIcjKRh-jxZuZAxK
 		- Jest Crash Course - Unit Testing in JavaScript https://youtu.be/7r4xVDI2vho?si=rEU-3yNyWzll-OVe
 		- JavaScript Testing with Jest – Crash Course https://youtu.be/IPiUDhwnZxA?si=Ez2PvDFRMFSXCLFK
@@ -580,13 +586,11 @@
 		- Software Testing Tutorial - Learn Unit Testing and Integration Testing https://youtu.be/Geq60OVyBPg?si=f7Qvqo1x0NYepIes
 		- Full Stack Testing with Node.js by Stacy Kirk, Quality Works https://youtu.be/i4Eu3Cczkek?si=peLni4jjovdkhOOY
 		- Practicing TDD using Jest and Node (JavaScript) for calorie tracker cli tool https://youtu.be/WlN2ps8XmTI?si=Qv4IICeYVhST6odk
-		- Using jest to unit test node command line tool https://youtu.be/ngbL6x4ma3Y?si=cdDNj-wduWwEWDVM
 		- Test Driven Development - TDD with Node js Express https://youtu.be/dTn_biKznU4?si=d7K-zODMR8qpC7nX
 		- Test-Driven Development // Fun TDD Introduction with JavaScript https://youtu.be/Jv2uxzhPFl4?si=-h85QELvf1ilp2ba
 		- NodeJS Express Test-Driven API Development (TDD) https://youtu.be/M44umyYPiuo?si=PorWc3smJNfMyk7j
 		- Testing https://www.youtube.com/playlist?list=PLyrXR-_n_7UrbBKka-FyXPgtRYl6Y1qlT
 		- Unit Testing with Mocha & Chai in Hindi | Node Js https://www.youtube.com/playlist?list=PLolI8AY2AS9bGs9pxrdRD13M2P6FOdswd
-		- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=ua3PxmFFVQI-ahnB
 		- Running NodeJS Tests/CI with GitHub Actions/Workflow https://www.youtube.com/watch?v=9KVCxMrshIk
 		- Introduction to JavaScript Testing with Jest https://www.youtube.com/watch?v=gfK38CQdlVU
 		- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIZzjlual3CbKn27HMUbJcJc
@@ -595,8 +599,6 @@
 		- jest tutorial https://www.youtube.com/playlist?list=PL8p2I9GklV44-_4hh1evohe5WinvqrWr6
 		- Jest MOCK https://www.youtube.com/playlist?list=PLUXfUL9eJ8j5WDKM3js08NZ9BiK6TeDpg
 		- JavaScript Testing Fundamentals https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
-		- Jasmine Testing Framework Course https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
-		- Node testing with Jest | Supertest | Writing test cases https://youtu.be/KQjeU0mBQU8?si=0J5X1AGnVZbTEeET
 		- Cucumber BDD Framework with all Latest Features https://www.youtube.com/playlist?list=PLFGoYjJG_fqpObjigKg4bunu6_Ki7Ppn-
 		- Test Driven Development - TDD https://www.youtube.com/playlist?list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7
 		- TDD vs BDD https://www.youtube.com/playlist?list=PLngnoZX8cAn8XyTsN7_A1gTIQ15SNcKQS
@@ -609,12 +611,14 @@
 		- Typescript Unit Testing - Full Course https://www.youtube.com/playlist?list=PLa72FipivD80tL1QpP0HKk6zL01h1y2KZ
 		- Simplified https://www.youtube.com/playlist?list=PL_QQ5oCdr7sPmJmMaiLw5opNS-tBwWesF
 
+		- Unit Testing with Jest – Complete Guide & Best Practices | Node.js & JavaScript Testing https://youtu.be/Oh0tZNKdobQ?si=jBfH4EKVLd3iW7O3
+		- Use Testing Coverage in Jest to Analyze Your Testing Suites https://youtu.be/m9SwRcnSAKI?si=yyvFo0Y9Vt-sSC6D
+		- Master Testing in Node.js (JavaScript): Unit, Integration & E2E Testing (with In-Memory MongoDB!) https://youtu.be/dWKy_JdaWcA?si=vuQK3Cj-sUMrBuu_
 		- Unit & Integration Testing in Node.js | Scalable Backend Architecture with Node.js https://youtu.be/_SDR6vAGens?si=CMChLPtxPrSzgLfm
 		- How to Test Code Coupled to APIs & Databases https://youtu.be/ajfZqzeHp1E?si=2YieHkpIkHZmZ9bV
 		- Testing Your Code https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NTWVG8eM7Dt43vvzulnIbK
 		- How to Test Endpoint in Nodejs https://youtu.be/5dCL8wkKaMw?si=g1RsEnNtdw0bwqP-
 		- Testing with Vitest FREE COURSE https://youtu.be/cM_AeQHzlGg?si=CtIVF0xZN3qTcgsH
-		- JavaScript Testing Fundamentals Course Guide (15) https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
 		- Testing https://youtube.com/playlist?list=PLZlA0Gpn_vH_63f0HH-dUtkininO7GO6f&si=uO19NUFsILnVhobp
 		- JavaScript Testing Best Practices tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3OeWQwi0h0uDsWSNmU0nh4r
 		- Every Software Engineer Can Learn TDD https://youtu.be/tmOMJhZhIFI?si=WHioNIEBsir3bqH1
@@ -635,7 +639,6 @@
 		- TDD Is The Best Design Technique https://youtu.be/ln4WnxX-wrw?si=Onvz1uXm3B7B6gjM
 		- What is TDD? What is Test Driven Development? https://youtu.be/H4Hf3pji7Fw?si=ZgHz8AyzPRek2sS1
 		- TDD is useless in programming https://youtu.be/Z3LiEeOEbCo?si=-fKQ9_XlD8fD6EA5
-		- Master Testing in Node.js (JavaScript): Unit, Integration & E2E Testing (with In-Memory MongoDB!) https://youtu.be/dWKy_JdaWcA?si=vuQK3Cj-sUMrBuu_
 		- What TDD Looks Like In A REAL PROJECT https://youtu.be/RrFXxaH2sFc?si=lM0TdzawKB_qKGge
 		- Start Your TDD Journey with C# in 15 MINUTES https://youtu.be/dp1WRyR0TiE?si=TOZrIR1w0janUgG9
 		- THIS stops 90% of C# Developers Learning TDD https://youtu.be/x5hsO6R6Me8?si=tx_2MwAeQoT8eHzl
@@ -2665,6 +2668,7 @@
 	- https://www.youtube.com/watch?v=2lUr4Mey0is&list=PLTgRMOcmRb3NXaiWg43YQX91t6BtZ-QOn
 	- https://www.youtube.com/watch?v=oBt53YbR9Kk
 	- https://www.youtube.com/@ChiragBhalodia
+	- https://druid.apache.org/
 	- AI for developpers https://www.youtube.com/playlist?list=PLnsTzQ998QGRu7gG70wT4HwNXQo_jappa
 	- ChatGPT Full Course https://www.youtube.com/playlist?list=PL_euSNU_eLbd40BcAHD7y5DRUXPSKa7wq
 	- Machine Learning https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s

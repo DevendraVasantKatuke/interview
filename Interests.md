@@ -2,63 +2,66 @@
 `hasOwnProperty` checks if the property exists on the object itself.
 The in operator checks the entire prototype chain.
 ```
-- Use MS Access in SoloTrade
-- Remove SQLite
-- Remove Management Object, introduce Old code for processor ID
-- Import Marg data
+## SoloTrade
+1. Product should hint at alternate Salt. Group by Salt in Purchase and Sale Product Select.
+2. % Margin field in Purchase and Sale Product Select.
+3. Vendor/Customer balance in Purchase/Sale
+4. Non Moving, Fast Moving items report
+5. Expiring Items Vendor wise. Show in control panel.
+6. Anonymous Sale Panel. Counter Sale as permanent, Shortcut. Use drop-down grid view.
+7. Purchase Return shows the product expired, nearing expiry, non moving, damaged. (From that Vendor).
+8. Stock Adjustment by Rack. Complete Stock Reconciliation by Rack.
+	- Move Outdated Stock in Stock Reconciliation
+	- Make 2 Shelves. Waste Bin and Un allotted.
+		- AFTER USE BEFORE, PURCHASE ITEMS GOES TO WASTE BIN.
+		- IMPORTED PRODUCT GOES TO UN ALLOTTED.
+9. Print QR Code at the time of Purchase. (To stick labels while purchasing)
+10. Medicine A4, A5, A6 bills.
+11. GSTIN
+	- Show eWay bill, if amount greater than 50000. - eWay bill, if transportation is in another state, or greater than 50000 for same state
+	- Transporter GSTIN and Truck number.
+	- Generate eWay bill. Field for E-way Bill Number.
+	- Bulk eWay bill, if transporter and truck number is the same.
+	- eInvoice: Turnover > 5 Cr
+12. Import Marg data.
+13. Auto Update
 - Make an Image. send to Customers.
-- Counter Sale as permanent, Shortcut. Use drop-down grid view.
-- Medicine A4, A5, A6 bills.
-- Auto Update
-- https://zennx.in/
-- Move Outdated Stock in Stock Reconciliation
+- Contact Ravi Medical, Katuke.
+## PeerTrade
+1. Centralized Purchase for multiple stores (Stock Transfer). Know GST implications.
+2. Ordered and Delivered for both Purchase and Sale
+3. Product indent should have Ordered and Received units.
+4. Product indent should have Ordered and Received units.
+- Map local products to Cloud. Same to Vendor, Customer etc.
 - Provide Wallet logo
 - Link indent to Purchase Order
-- Drug code for Jan aushadhi kendra.
-- eWay bill, if transportation is in another state, or greater than 50000 for same state
-- Schedule H, H1, NRX, TB
-- eInvoice: Turnover > 5 Cr
 - BackOffice Center for Prescription Recognition
 - Connected Bank Feature
-- Online Retail Store for Clients. Charge Commission.
+- Retail App for Consumer, Logistic Provider, Sales Agents.
 - eBilling Android App for Van Sales People of Distributors
 - WhatsApp reminders for Pending Payments and Inventory
 - WhatsApp reminders for Product Indent, OutDate
-- Product should hint at alternate Salt.
-- Vendor/Customer balance in Purchase/Sale
-- Make 2 Shelves. Waste Bin and Un allotted.
-	- AFTER USE BEFORE, PURCHASE ITEMS GOES TO WASTE BIN.
-	- IMPORTED PRODUCT GOES TO UN ALLOTTED.
-- Stock Adjustment by Rack. Complete Stock Reconciliation by Rack.
-- Centralized Purchase for multiple stores.
-- Ordered and Delivered for both Purchase and Sale
-- Expiring Items Vendor wise. Show in control panel.
-- Show eWay bill, if amount greater than 5000.
-- Transporter GSTIN and Truck number.
-- Generate eWay bill.
-- Save E-way Bill Number.
-- Bulk eWay bill, if transporter and truck number is the same.
-- Use the word Catalogue, list instead of Product, Vendor master.
-- non moving, fast moving items report
-- Group by Salt in Purchase and Sale Product Select.
-	- % Margin field in Purchase and Sale Product Select.
-- Product indent should have Ordered and Received units.
-- Purchase Return shows the product expired, nearing expiry, non moving, damaged. (From that Vendor)
-- Print QR Code at the time of Purchase. (To stick labels while purchasing)
 - Map local products to remote. Same to Vendor, Customer etc.
+- https://zennx.in/
 - https://staging.fynamics.co.in//api-docs/gst
 - https://hyperswitch.io/
 - https://juspay.io/in/docs/upi-tpap-sdk/android/getting-the-sdk/getting-sdk
-- Contact Ravi Medical, Katuke.
-- https://exploringjs.com/js/book/
-- https://www.javascripttutorial.net/
-- https://www.learn-js.org/
-- https://www.learn-ts.org/
-- https://www.geeksforgeeks.org/
-- https://slothbytes.beehiiv.com/
-- https://bytebytego.com/exercises/coding-patterns
-- https://craftbettersoftware.com/p/unit-testing-what-exactly-is-a-unit
-- https://blog.logrocket.com/react-infinite-scroll/
+- ICICI Bank Plugin for Desktop Application
+	- https://www.bankplugin.com/
+- https://developer.icicibank.com/
+	- devendravasantkatuke Nomad@123
+- https://mindsdb.com/
+- https://developers.cloudflare.com/d1/
+- https://memgraph.com/
+- https://www.dolthub.com/
+- Get real ICICI, SBI Bank statements from API
+- https://setu.co/
+- https://hyperswitch.io/
+- https://juspay.io/in
+- SBI, HDFC, Kotak
+- https://open.money/
+- https://barcloud.com/
+
 - https://bersache.com/collections/shoes-under-1000
 - https://dataprofy.com/product-category/ebook/
 - https://labs.iximiuz.com/
@@ -90,8 +93,6 @@ The in operator checks the entire prototype chain.
 - https://seanprashad.com/leetcode-patterns/
 - https://dataengineering.wiki/Index
 - https://www.skool.com/discovery?q=Kubernetes
-- command to rename git branch
-	- git branch -m feature-new-design
 - Life is a beautiful sport since 2025
 - https://www.freecodecamp.org/news/the-architecture-of-mathematics-and-how-developers-can-use-it-in-code/
 - https://www.milanjovanovic.tech/
