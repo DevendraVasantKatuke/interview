@@ -1,3 +1,12 @@
+You must enable strict mode in your tsconfig.json. This is a best practice for all TypeScript projects.
+```
+// tsconfig.json
+{
+  	"compilerOptions": {
+    	"strict": true
+	}
+}
+```
 ```
 const sum = (a: number, b: number): number => a + b;
 ```

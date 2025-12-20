@@ -1,156 +1,13 @@
-- https://openai.com/api/
-- https://platform.openai.com/docs/overview
-- https://cookbook.openai.com/
-- https://chatgpt.com/
-- https://modelcontextprotocol.io/docs/getting-started/intro
-- https://docs.langchain.com/#typescript
-
+## Erlang
+	- https://learnyousomeerlang.com/contents
+## AI
+	- https://openai.com/api/
+	- https://platform.openai.com/docs/overview
+	- https://cookbook.openai.com/
+	- https://chatgpt.com/
+	- https://mastra.ai/docs
+	- https://modelcontextprotocol.io/docs/getting-started/intro
 ## JavaScript
-	- Coding with AI (Copilot) Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9joeiiVaLExvfSgmdtBbSPM
-	- Callback
-		- https://www.youtube.com/watch?v=IYoTF9APsMI
-		- https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/
-		- https://medium.com/@mdsiaofficial/callback-function-in-javascript-f381d77ea8fb
-		- https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/
-		- https://www.reddit.com/r/learnjavascript/comments/yz869i/please_help_me_understand_callback_functions/
-		- https://teamtreehouse.com/community/return-vs-callback-javascript
-		- https://stackoverflow.com/questions/3458553/javascript-passing-parameters-to-a-callback-function
-		- https://www.sitepoint.com/callbacks-javascript/
-		- https://www.topcoder.com/thrive/articles/what-is-a-callback-function-in-javascript
-		- https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
-	- Closure
-		- https://softwareengineering.stackexchange.com/questions/203507/whats-so-useful-about-closures-in-js
-		- https://thecontentauthority.com/blog/callback-vs-closure
-		- https://medium.com/@mohdtalib.dev/callback-in-javascript-the-what-why-and-how-80efa5ee3510
-		- https://medium.com/@charliekroon/closures-and-callbacks-in-javascript-a56647d14ab2
-		- https://stackoverflow.com/questions/615907/how-is-a-closure-different-from-a-callback
-		- https://medium.com/@punitkmr/whats-is-callbacks-closure-promises-and-async-await-a8d47eb83862
-		- https://www.reddit.com/r/learnjavascript/comments/1cnxvfg/does_callback_function_always_creates_a_closures/
-		- https://www.quora.com/Whats-the-difference-between-closures-callbacks-and-anonymous-functions
-		- https://www.quora.com/Are-callback-functions-in-JavaScript-a-form-of-closure-How
-		- https://www.educative.io/answers/how-to-streamline-javascript-with-lambda-expressions-and-closures
-	- this
-		- https://www.youtube.com/watch?v=n1-2zA8kV8U
-		- https://medium.com/codex/understanding-this-in-javascript-the-complete-guide-c4c21fe15ff8
-		- https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/#heading-what-is-the-bind-method-in-javascript
-		- https://www.reddit.com/r/learnjavascript/comments/1ib94xu/this_keyword_in_javascript/
-		- https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
-		- https://medium.com/tech-tajawal/javascript-this-4-rules-7354abdb274c
-	- Decorator
-		- https://www.youtube.com/playlist?list=PL_L_J_Lv0U2pVE0kO1RiYId_SISfUXa-c
-		- https://medium.com/@artemkhrenov/the-decorator-pattern-in-modern-javascript-adding-functionality-without-breaking-code-b43d9c237047
-		- https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841
-		- https://dev.to/frehner/composing-javascript-decorators-2o38
-	- Currying
-		- https://medium.com/@kevincennis/currying-in-javascript-c66080543528
-		- https://stackoverflow.com/questions/113780/javascript-curry-what-are-the-practical-applications
-		- https://blog.logrocket.com/understanding-javascript-currying/
-		- https://meenumatharu.medium.com/unwrapping-the-magic-of-currying-in-javascript-603a69e28af9
-		- https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/
-		- https://www.reddit.com/r/learnprogramming/comments/12j2s9y/why_use_currying/
-		- https://javascript.plainenglish.io/understanding-currying-function-in-javascript-c3e1c92b7579
-		- https://javascript.plainenglish.io/infinite-currying-in-javascript-f17ec1619568
-	- Proxy, Reflect
-		- 3 Examples of using Proxy and Reflect API in JavaScript https://youtu.be/yj56BCWiE28?si=hx2SJtNxDTzJYw4u
-		- Why use a proxy object? https://youtu.be/GL3XgJ7vWdo?si=oOIV-nj2vSDYey2p
-		- A Practical Guide to JavaScript Proxy Objects https://youtu.be/cH2oWB2dNIU?si=7jajIqo7K8v0-ahf
-		- Proxies (ES6) https://youtu.be/vExLi5bTt3k?si=wJJidq6AkcKUUY-I
-		- Actual use case for JavaScript PROXY! https://youtu.be/9jl1lhFylJs?si=pg2m9LgbWroZk5ay
-		- https://medium.com/@ignatovich.dm/understanding-javascript-proxy-object-9129f44c88d7
-		- https://www.freecodecamp.org/news/javascript-proxy-object/
-		- https://rehmat-sayany.medium.com/understanding-javascript-proxy-objects-cf4ce35452fe
-		- Building reactive systems with Proxies and Reflects https://youtu.be/4jV2CosUGhw?si=n3SVjeXy3FWMDKWB
-	- mixins
-		- https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
-		- https://stackoverflow.com/questions/860245/mixin-vs-inheritance
-		- https://medium.com/@michalistzikas/inheritance-vs-mixins-b57a95a32505
-		- https://blog.bitsrc.io/inheritance-abstract-classes-and-class-mixin-in-javascript-c636ac00f5a9
-		- https://www.reddit.com/r/learnprogramming/comments/1f92hw1/what_is_inheritance_tax_and_why_are_mixins_a/
-		- https://www.linkedin.com/pulse/understanding-mixins-javascript-laurence-svekis--v63xc/
-		- https://medium.com/@mariappan/mixins-in-javascript-simplified-58782141519b
-		- https://stackoverflow.com/questions/42247434/how-to-add-mixins-to-es6-javascript-classes
-		- https://blog.bitsrc.io/mixin-in-javascript-7a7eaa6d4920
-	- Prototype
-	- Slice
-	- Splice,
-	- Throttle, Debounce
-	- Iterator, Generators
-		- Learn JavaScript Generators In 12 Minutes https://youtu.be/IJ6EgdiI_wU?si=cQXoUkbJS58drqHX
-		- https://medium.com/simform-engineering/iterators-and-generators-in-javascript-22da731b7fe3
-		- https://stackoverflow.com/questions/28739745/how-to-make-an-iterator-out-of-an-es6-class
-		- https://www.qed42.com/insights/implementing-iterators-and-generators-in-javascript
-		- https://medium.com/@ignatovich.dm/understanding-javascript-generators-with-practical-examples-947ab3d89421
-		- https://www.reddit.com/r/javascript/comments/yojg3z/why_would_anyone_need_javascript_generator/
-		- https://neuralsorcerer.medium.com/understanding-generators-in-javascript-an-in-depth-guide-with-examples-e398937b6a19
-		- https://stackoverflow.com/questions/78913849/understanding-the-need-for-generator-functions-in-javascript
-		- https://www.linkedin.com/pulse/using-javascript-generators-yield-promises-vladim%C3%ADr-gorej/
-		- https://stackoverflow.com/questions/20768922/javascript-generators-understanding-them
-		- https://stackoverflow.com/questions/53894639/why-does-javascript-iterator-next-return-an-object
-		- https://www.reddit.com/r/learnjavascript/comments/xdeou7/could_someone_eli5_what_iterators_and_generators/
-		- https://www.greatfrontend.com/questions/quiz/what-are-iterators-and-generators-and-what-are-they-used-for
-		- https://mimo.org/glossary/javascript/iterator
-		- https://www.programiz.com/javascript/iterators-iterables
-		- https://dev.to/mpodlasin/iterables-iterators-an-in-depth-javascript-tutorial-5eh2
-		- https://www.codeguage.com/v1/courses/advanced-js/iteration-iterators
-	- Symbols
-		- https://rahuulmiishra.medium.com/symbols-in-javascript-beyond-strings-and-numbers-for-unique-identity-68033188839b
-		- https://stackoverflow.com/questions/60048014/what-do-people-use-symbol-functions-in-javascript-for
-		- https://javascript.plainenglish.io/mastering-symbol-iterator-build-your-own-iterable-in-javascript-1414a9e7767d 
-		- https://www.freecodecamp.org/news/how-did-i-miss-javascript-symbols-c1f1c0e1874a/
-		- https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c
-		- https://www.reddit.com/r/javascript/comments/j1tgh0/who_needs_javascript_symbols/
-	- Patterns
-	- Javascript top 500 Interview Questions https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv
-	- Typescript interview question In Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44tAjAUneicbZPjoYSe3VUd
-	- Frequently asked JavaScript Interview Questions https://www.youtube.com/playlist?list=PLU-tOA_pABIlrx_wRdRNS3ZNs-quXMP9P
-	- Lydia Halle Javascript tricky questions
-	- Sudhirji
-	- https://www.youtube.com/@theavocoder
-	- https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
-	- Javascript Interview Question https://www.youtube.com/playlist?list=PLinedj3B30sDi0keEOQU3n5p3Op28eN2e
-	- JavaScript Interview Questions https://www.youtube.com/playlist?list=PLinedj3B30sDofFbjtCBqbj2l68UHv5Zr
-	- Interview Printing Patterns https://www.youtube.com/playlist?list=PLBxoNyjx7V0Cj4TETn4Za-4V9sJ0WWV12
-	- Javascript Interview questions in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44pN_8iYi2pPl2Gw4Pwb70f
-	- JavaScript Interview Questions Hindi - Short https://www.youtube.com/playlist?list=PL8p2I9GklV45vViIWw-RWxMneChzo7tzp
-	- Javascript Interview questions https://www.youtube.com/playlist?list=PLXQpH_kZIxTVwiGpOqnkFb1-aHMIai7ld
-	- https://www.thatjsdude.com/interview/js1.html
-	- https://www.thatjsdude.com/interview/js2.html
-	- https://www.thatjsdude.com/interview/dom.html
-	- https://www.thatjsdude.com/jsConcepts/concepts/scope.html
-	- https://www.thatjsdude.com/jsConcepts/concepts/this.html
-	- https://www.thatjsdude.com/jsConcepts/concepts/array.html
-	- https://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/
-	- JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL18m9eEwA6K5GqFx6C6-eht8
-	- Design Pattern in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL19ybjwD69t3G2yrQ9a0Pbij
-	- Writing Clean Code in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL1_rJsSXnWH1YMxaPuWaDL44
-	- Javascript Quiz for Interviews https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3vYHL_Ka3WlF5rATsStB_
-
-	- Learn Javascript, Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-42-wM9jfgN364lzxwFFI2
-	- Javascript Lessons Everyday https://www.youtube.com/playlist?list=PLIGDNOJWiL19go98IKaQ4sqThyi2V67JG
-	- https://www.tutorialsteacher.com/typescript
-	- https://www.tutorialspoint.com/typescript/index.htm
-	- https://www.typescripttutorial.net/
-	- https://www.programiz.com/typescript
-	- https://www.learn-ts.org/#google_vignette
-	- https://www.scaler.com/topics/typescript/
-	- https://www.typescriptlang.org/docs/handbook/intro.html
-	- https://www.typescriptlang.org/play/
-	- https://www.totaltypescript.com/books/total-typescript-essentials
-	- https://www.totaltypescript.com/tutorials
-	- https://www.totaltypescript.com/tips
-	- https://www.totaltypescript.com/articles
-	- https://www.totaltypescript.com/concepts
-	- Complete TypeScript Course https://www.youtube.com/playlist?list=PL_euSNU_eLbfJEwuNa43lM89yfev537Mj
-	- TypeScript Tutorial in Hindi 2025 | Most Detailed explanations https://www.youtube.com/playlist?list=PL8p2I9GklV44fWXJGEsBvR_ylJClgdVAN
-	- TypeScript Fundamentals https://www.youtube.com/playlist?list=PL0teIBDEuMdvJ00wZHMSaqvI4h5EZXBf1
-	- https://www.geeksforgeeks.org/courses/category/programming-languages
-	- Different Programming Paradigms with Examples Using JavaScript https://youtu.be/PNjFzvEG0E4?si=MyvifEQ23--ii90R
-	- Solve This Classic Bracket Problem Like a Pro https://www.youtube.com/watch?v=HrNXLvWA6l4
-	- Functional Programming in Javascript https://www.youtube.com/playlist?list=PLzHoH-EeZ8dfyW_9J1skD9Dx_nftGZ-W5
-	- http://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
-	- Daily Javascript Lessons https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMbcbZGQPJc20dkbswRr3Il
-	- Just JavaScript https://www.youtube.com/playlist?list=PL_L_J_Lv0U2r6AV7Q9CfI8JgRAxIv4Yvk
-
 	- https://www.learn-js.org/
 	- https://www.learn-ts.org/
 	- https://exploringjs.com/js/book/index.html
@@ -375,21 +232,11 @@
 		- Data Structure & Algorithm https://www.youtube.com/playlist?list=PLFGoYjJG_fqpNW4onglHmxyLHfs4pKAjc
 		- All Sorting Algorithms https://www.youtube.com/playlist?list=PLFGoYjJG_fqpVtMswMMWcY0WUuYqySiZ5
 		- Shorts https://www.youtube.com/@VijayDahiyaDeveloper/shorts
-		- Big O Notation https://youtu.be/4QdZAlZfqyY?si=90494qvdgBAVZsEk
 		- Typescript DSA Course https://www.youtube.com/playlist?list=PLa72FipivD81DkPyKlsG99XAGVbnMfToV
 		- JavaScript Algorithms and Data Structures https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
 		- Intro to Data Structures https://www.youtube.com/playlist?list=PLGdfV5UgThVNvC0woabFLkK4gggNU5pak
 		- Data Structures Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFAjpAItCWvIIJX68sav9-6N
-		- Data Structure Visualizations https://www.youtube.com/playlist?list=PLlDftNlvPbFD8I9W4gFnMXYXiLqpVvsEB
 	- Patterns
-		- https://www.dofactory.com/javascript/design-patterns
-		- https://www.dofactory.com/javascript
-		- https://refactoring.guru/
-		- https://www.patterns.dev/
-		- https://www.patterns.dev/#patterns
-		- https://javascriptpatterns.vercel.app/patterns
-		- https://js-design-patterns.vercel.app/#0
-		- https://design-patterns-101.vercel.app/
 		- https://www.scholarhat.com/tutorial/javascript/javascript-design-patterns
 		- Dependency Injection in Javascript https://www.youtube.com/watch?v=F9ZEZRGYWr8
 		- Singleton Design Pattern In Javascript https://www.youtube.com/watch?v=7u_7Gfczycc
@@ -423,8 +270,6 @@
 		- Behavioral Design patterns https://www.youtube.com/playlist?list=PLa72FipivD80PdAJCK6tXjBFedOScNUZL
 		- DESIGN PATTERNS https://www.youtube.com/playlist?list=PLVvjrrRCBy2LKvNBbBpUAN_ywK7NyMiC4
 ## ReactJS
-	- https://react.dev/
-	- https://redux-toolkit.js.org/
 	- React JS 19 - The Ultimate Crash Course with AI! https://www.youtube.com/watch?v=GPWHql7scWc
 	- GitHub Copilot
 	- Testing React component with Jest https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOrIKCE0mrPOkIg57qPDRKM   
@@ -438,67 +283,6 @@
 	- React Redux Toolkit Tutorials https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo
 	- Redux Toolkit for React Apps https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPMUvkSNl5BXBECMOUWC_lm
 ## NodeJS
-	- Interview Theory
-		- https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
-		- https://www.interviewkickstart.com/blogs/interview-questions/advanced-node-js-interview-questions
-		- Node js interview questions in hindi https://www.youtube.com/playlist?list=PL8p2I9GklV47MAUttpKKEkQT3xV4KuDwx
-		- How to implement Clean Architecture in Node.js (and why it's important) https://www.youtube.com/watch?v=VmY22KuRDbk
-		- worker threads and cluster
-		- event loop nuances, microtasks and macrotasks, set immediate vs async await vs next tick etc
-		- how to debug memory leaks and what things can cause them
-		- Nodejs Core Concepts https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
-		- Understanding the Node.js Event Loop: Is Node.js Single or Multithreaded? https://youtu.be/wMGCwfLsyhc?si=9WttE5j-MllEGoJC
-		- Do not thrash the Node js event loop https://youtu.be/VI29mUA8n9w?si=46PKAGaXqrD8kSZ6
-		- Node.js Event Loop https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN
-		- Layered Architecture in Node.js https://www.youtube.com/playlist?list=PLZVBmpM0E_DGngTx5A3f0K-F4m-UalDyb
-		- What is Tracing & Why You Need It https://youtu.be/cIH-xNOjhcI?si=hNT_N_CcBkG0zKcj
-		- Bloom Filters https://www.youtube.com/playlist?list=PLJALjJgNSDVp7bU4crKW9PPqWfWbNm6tD
-		- ”🔥Pro Tip: 💪Unlock 8x Speed in Node.js with 1 Line! 🚀 | Cluster Mode Explained https://youtu.be/L0T-x9kdmtA?si=ZNxv2VP-Hfv9GOWU
-		- Crack Node JS Interview https://www.youtube.com/playlist?list=PLIGDNOJWiL1--PkxBwF8ghr0Oc0hXVJi7
-		- Top-50 Node JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL1_yLcirFqgAxlNFL3tsdxrM
-	- Interview Practical
-		- Build a URL Shortener with Node.js, React, TypeScript & MongoDB https://youtube.com/playlist?list=PL0iFifR5umcmO4TrYZawg6TsUcPjYaK_8&si=IoKlX2tY7bJsqWPl
-		- How I Implemented a Long-lived Timeout that Scales https://youtu.be/kSDbBhJTTiA?si=KyEujziA2qZnzBwr
-		- Schedule Tasks in Node.js with Cron Jobs | node-cron Tutorial Step by Step https://youtu.be/lDp3t8EZ50Q?si=ENgdOHD-pB03zxdQ
-		- Model View Controller in NodeJS | MVC Pattern https://youtu.be/JLtXoru-ipo?si=pX-rGrqydOMhZIQg
-		- Node JS- Rest API-MongoDB https://www.youtube.com/playlist?list=PLD5mJXRPUUgusuhRX_16pltiZV6hPNPzd
-		- Caching in Node.js: Boost Your App Performance https://www.youtube.com/watch?v=2883HqL5Pbw
-		- Caching Implementation Using NODE JS || Cache || Node-Cache https://www.youtube.com/watch?v=-wPojC20928
-		- Implementing API Rate Limit & Throttling in Node.js & Express.JS https://www.youtube.com/watch?v=--KuQpt2oYE
-		- How to Prevent SQL Injection Attacks in Node.js https://youtu.be/vYFZDRraMnw?si=8Q3Qb6M31OAJhaFb
-		- RSA Key Generation, Signatures and Encryption using OpenSSL | Encryption Decryption using openSSL https://youtu.be/efkAJ27fUa8?si=3KhOd9Uo_4GOLqpV
-		- Create a simple Node.js Docker Container from scratch https://youtu.be/EKaGsShRXNY?si=3ODWHrObHjA3bTSC
-		- Debugging Node.js + Typescript Running inside Docker Containers with Hot Reload https://www.youtube.com/watch?v=1WUoITRINf0
-		- Full Text Search With MongoDB And Node.js https://www.youtube.com/watch?v=Z05rVI5mhzE
-		- Build a Realtime Chat App with React and NodeJS https://www.youtube.com/playlist?list=PLlameCF3cMEvB8N2bhctdqCMfj1q5aiZh
-		- React & NestJS Lazy Loading, Search  & Sorting using MySQL https://www.youtube.com/playlist?list=PLlameCF3cMEtOzwKqcmdD7DEjdqjfb_c3
-		- Use Classes In NodeJS | Inheritance | Express App using classes https://youtu.be/kbPXLlnYuBg?si=cBDbe--Q-TU4D6-Q
-		- CRON Jobs Scheduler With Practical Example https://youtu.be/qvdDZjhtA8g?si=MbPKQ5oK6ZkNtXPK
-		- Dependency Injection in Node with awilix https://www.youtube.com/playlist?list=PL1Nml43UBm6ez_JKgCUpgkwfh9oQLjVmm
-		- Build API Gateway in Nodejs using Express Gateway https://www.youtube.com/watch?v=CPffHrnob88
-		- Learn API Gateway in Node.js in 5 Minutes! https://youtu.be/YkRC0V7tlIk?si=m2QQAc_unLrkgtoQ
-		- NodeJS Tips & Tricks https://youtube.com/playlist?list=PLdHg5T0SNpN2c0j8ggRFUU4iRxVznozWt&si=hgJHjfzVnjzfvquC
-		- Production Ready Server Setup https://youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9&si=g4pa1mQvmRDH_YBn
-		- SETUP Your File Sharing Server in MINUTES For Small Company https://youtu.be/X3bz0gftGD4?si=aPPNZ08i1YCFI-H_
-		- Building an API Gateway with NodeJs https://youtu.be/bD6Mxc_9kzw?si=P8DT-SQObuvQpEks
-		- Use Classes In NodeJS | Inheritance | Express App using classes https://youtu.be/kbPXLlnYuBg?si=EqfH4MVNZOAuTYQ8
-		- Boost Node.js Speed 🚀 Use All Your CPU Cores! 💻 | Handle Parallelism Like a Pro https://youtu.be/w8FCthycTBg?si=76rDsGp6Jkz9FLdk		
-		- Which Pagination Method is BEST for You Offset or Cursor? 13m https://youtu.be/jOmkjTYW03U?si=BbCwuMdiRJPkhXTC
-		- NodeJS MultiThreading (13) https://www.youtube.com/playlist?list=PL_euSNU_eLbdi-nNMgGgzX-oL0LPshJwO
-		- NodeJS Compression 9m https://youtu.be/gMT0G8BFQ28?si=hVIaXqyT2BMeEhAw
-		- Unix in NodeJS Concepts (34) https://www.youtube.com/playlist?list=PL_euSNU_eLbdNhMn1zO8oik-Ndsp084e9
-		- Networking - NodeJS (21) https://www.youtube.com/playlist?list=PL_euSNU_eLbcU-00ZsoVbghHedbCpQOD1
-		- Hire API Node Project (38) https://www.youtube.com/playlist?list=PL_euSNU_eLbdR4-kezzzXCQi-Xhe4jmY-
-		- Nodejs Core Concepts (151) https://www.youtube.com/playlist?list=PL_euSNU_eLbeZp4jujxMDZyR7nk9z1Mh_
-		- Nodejs Files (8) https://www.youtube.com/playlist?list=PL_euSNU_eLbe4mF6ph80TI2U8SNKod1oO
-		- Nodejs Streams (33) https://www.youtube.com/playlist?list=PL_euSNU_eLbeXBWFFA6AER8ke1pAIbCqm
-		- NodeJS Complete Guide (60) https://www.youtube.com/playlist?list=PL_euSNU_eLbdf5XbrFl-nOw6-7ZtT27Bn
-		- A Beginner’s Guide to Debugging Node.js Applications [Hindi] https://youtu.be/J8AQRdbGz0g?si=pdDhIP0wIsIC-Frf
-		- How to debug Node.js in Visual Studio Code https://youtu.be/4UGyzRo8Dsk?si=kafr0pakGWJv_ZSV
-		- How to use Multithreading with "worker threads" in Node.js? https://www.youtube.com/watch?v=MuwJJrfIfsU
-		- Worker Threads in Node.js: The Secret to High-Performance Backends 🔥 https://www.youtube.com/watch?v=Vej327jN8WI
-		- How I Build REST APIs that Scale https://youtu.be/m1sNz9Fw_vY?si=07EOSobQ9dCcMS8t
-		- Scraping Web with Node JS https://www.youtube.com/playlist?list=PLIGDNOJWiL1-W3tmbQ5W_yWpYBeFf03Aq
 	- Authentication
 		- How to implement JWT Token in NodeJS https://www.youtube.com/watch?v=NjpFBpfJC58
 		- JSON Web Token (JWT) https://youtube.com/playlist?list=PL0iFifR5umcnOlQFZHhlxpwnCG_U1nYMn&si=KbIy4IG_fqNQjYVL
@@ -552,120 +336,7 @@
 		- HTTP/2 vs Socket.io Demo React & Node https://youtu.be/JAxcr2zRM5M?si=K0YHu_LMQNNNbMaD
 		- [LIVE] Building a Chat App with NestJS, ReactJS https://www.youtube.com/playlist?list=PL_cUvD4qzbkzS16TsnJDLbHuWBkKIbeVr
 		- Building a Cron Job Scheduler in Express with Node Cron https://www.youtube.com/watch?v=TeUHBA-iZRc&list=PLzHoH-EeZ8dfO4vffqHyeEGy9W8lXLi8w
-	- Testing
-		- How to write unit tests in node JS using Jest? 10m https://youtu.be/W1grdBoFJdw?si=PC2W-9IRDuUdNFNX
-		- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=sUykUML05rDzHDWy
-		- JavaScript Testing 101 with Jest https://youtube.com/playlist?list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&si=-ETQ16EeAImLBspi
-		- TDD Express App (4) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR
-		- Jasmine Testing Framework Course (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
-		- Jest tutorial with Node | testing Node.js applications https://youtu.be/KqQoiFBp36A?si=dl-oQ-ONnoM2f60I
-		- Introduction to Test-Driven Development (TDD) with TypeScript | 2021 https://youtu.be/a1jdwlujdk0?si=jO3PwZL01OTJnMcK
-		- Turn Bad Code into Good Code (Javascript, TypeScript, Node, Jest, unit Testing) https://youtu.be/Ntd_rT-ZSBM?si=Rno4DukcSsfx7Nc-
-		- JavaScript Testing with Jest https://youtu.be/UhG1xnDvXGY?si=WYgrxc-hNtfYuk4r
-		- INTEGRATION TESTING CRASH COURSE IN 80 MINUTES WITH JEST AND SUPERTEST - Node JS (2022) https://www.youtube.com/watch?v=IPX0OswHoxg
-
-		- Testing Nodejs REST API with Express and MongoDB using Mocha & Chai https://youtube.com/playlist?list=PLSVX7Y2dUwe4Rrq4u7DRvz1wuOs1A31EN&si=dFsPA5uC8YG1VpMo
-		- Supertest API Automation Tutorial | Node.js API Testing with Mocha & Chai https://youtu.be/xyXW2oHHqHY?si=Pr4aUzQHqR411EVk
-		- Using jest to unit test node command line tool (1) https://youtu.be/ngbL6x4ma3Y?si=8qihGkGlWC1QVT1X
-		- Node.js API Testing: The Ultimate Guide with Jest and Supertest (2025) https://youtu.be/LEYuxsGIeGo?si=pR8fw4RSkf8MZrq-
-		- JavaScript Testing Basics with Jest https://youtube.com/playlist?list=PLmZPx_9ZF_sB7aBEa4UV8qX3Oi3tBElpN&si=gQ0esLEP9hNg-zwB		
-
-		- Debugging Test in Node js Application - Express - Jest https://youtu.be/7bnoj_PY81M?si=hZgU78l-5DwBJ8yE
-		- Unit Testing with JEST in 80 Minutes https://youtu.be/GHVvrYD4VRE?si=6BVcfvkp6iERvsmy
-		- Node testing with Jest | Writing test cases | Node testing https://youtu.be/nGxircSyJMo?si=QqBOPseotWsAF46O
-		- Intro to Jest - Testing with ES6 https://youtu.be/kA9Pdu-IblI?si=5jrTJeEh3TGJfJIS
-		- Jest Tutorial | Testing NodeJS applications with JEST https://youtu.be/8gHEv5iNRKk?si=ALRarxiz6trYnj8b
-		- Introduction to Jest Testing | JavaScript Unit Tests https://youtu.be/x6NUZ8dc9Qg?si=vgt7vRNYe6XXUV-9
-		- Mocking Asynchronous Functions with Jest https://www.youtube.com/watch?v=gA-uNj2FgdM
-		- Jest Crash Course - Learn How to Test your JavaScript Application https://youtu.be/ajiAl5UNzBU?si=KIcjKRh-jxZuZAxK
-		- Jest Crash Course - Unit Testing in JavaScript https://youtu.be/7r4xVDI2vho?si=rEU-3yNyWzll-OVe
-		- JavaScript Testing with Jest – Crash Course https://youtu.be/IPiUDhwnZxA?si=Ez2PvDFRMFSXCLFK
-		- ExpressJS - Jest & Unit Testing https://youtu.be/t5sFkGk8GY8?si=mYxo1hdJGNXz_tIY
-		- Unit Testing on NodeJS - Express API with Jest https://www.youtube.com/live/WnVrldHjN10?si=jbrUVxgrI6fJlwsM
-		- Node.js Unit Testing crash course in Hindi https://youtu.be/i2SHsjgEftg?si=wuO6DT4rP3nWWxwl
-		- Testing Express REST API With Jest & Supertest https://youtu.be/r5L1XRZaCR0?si=LBWl9XirSaqRqTq6
-		- How To Write Better Tests In 6 Easy Steps https://youtu.be/FcHUPqKRvxQ?si=v9TSzyPxzESh7Y0v
-		- Stop Writing So Many Tests https://youtu.be/4-_0aTlkqK0?si=1KU4CznNYEBcRjHA
-		- TDD Series - Test Driven Development Series https://youtube.com/playlist?list=PLUJeKZ3vVz9mByHlTJdOa3t4eeC3AvnXL&si=CNCVHDq4TLh0mQtM
-		- Testing Node Server with Jest and Supertest https://youtu.be/FKnzS_icp20?si=jCRmRaqLVN4WEvyF
-		- GPT Agents Build a Ready-to-Run Node.js Server Using TDD https://youtu.be/q-6HFvuUWbk?si=D2Hy3tBRp00od-H2
-		- Test Driven Development (TDD) | Crash Course https://youtu.be/z6gOPonp2t0?si=iJdR-2u90YywBm_3
-		- Software Testing Tutorial - Learn Unit Testing and Integration Testing https://youtu.be/Geq60OVyBPg?si=f7Qvqo1x0NYepIes
-		- Full Stack Testing with Node.js by Stacy Kirk, Quality Works https://youtu.be/i4Eu3Cczkek?si=peLni4jjovdkhOOY
-		- Practicing TDD using Jest and Node (JavaScript) for calorie tracker cli tool https://youtu.be/WlN2ps8XmTI?si=Qv4IICeYVhST6odk
-		- Test Driven Development - TDD with Node js Express https://youtu.be/dTn_biKznU4?si=d7K-zODMR8qpC7nX
-		- Test-Driven Development // Fun TDD Introduction with JavaScript https://youtu.be/Jv2uxzhPFl4?si=-h85QELvf1ilp2ba
-		- NodeJS Express Test-Driven API Development (TDD) https://youtu.be/M44umyYPiuo?si=PorWc3smJNfMyk7j
-		- Testing https://www.youtube.com/playlist?list=PLyrXR-_n_7UrbBKka-FyXPgtRYl6Y1qlT
-		- Unit Testing with Mocha & Chai in Hindi | Node Js https://www.youtube.com/playlist?list=PLolI8AY2AS9bGs9pxrdRD13M2P6FOdswd
-		- Running NodeJS Tests/CI with GitHub Actions/Workflow https://www.youtube.com/watch?v=9KVCxMrshIk
-		- Introduction to JavaScript Testing with Jest https://www.youtube.com/watch?v=gfK38CQdlVU
-		- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIZzjlual3CbKn27HMUbJcJc
-		- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIYIR-yr5EVOo3B5k32gGCR7
-		- Practical Test Driven Development https://www.youtube.com/playlist?list=PLvkjn9Z-S4IncPs9hbhnGULgSx43-Kakb
-		- jest tutorial https://www.youtube.com/playlist?list=PL8p2I9GklV44-_4hh1evohe5WinvqrWr6
-		- Jest MOCK https://www.youtube.com/playlist?list=PLUXfUL9eJ8j5WDKM3js08NZ9BiK6TeDpg
-		- JavaScript Testing Fundamentals https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
-		- Cucumber BDD Framework with all Latest Features https://www.youtube.com/playlist?list=PLFGoYjJG_fqpObjigKg4bunu6_Ki7Ppn-
-		- Test Driven Development - TDD https://www.youtube.com/playlist?list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7
-		- TDD vs BDD https://www.youtube.com/playlist?list=PLngnoZX8cAn8XyTsN7_A1gTIQ15SNcKQS
-		- TDD vs BDD Death Match https://www.youtube.com/playlist?list=PLngnoZX8cAn-rZpWzX4TFlNbNLJRTKKDm
-		- Behaviour Driven Development https://www.youtube.com/playlist?list=PLngnoZX8cAn8mLgozOr3eEjE63sHSCQmT
-		- Testing https://www.youtube.com/playlist?list=PL18L3lKMddFpJTRSkoy3YDvUhKSRVwQ3z
-		- Test-Driven Development https://www.youtube.com/playlist?list=PL18L3lKMddFrXF3eoaCuG7RNpfkYfHBHc
-		- TDD - Test Driven Development https://www.youtube.com/playlist?list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q
-		- Acceptance Testing & BDD https://www.youtube.com/playlist?list=PLwLLcwQlnXByKR1Fo7UnE6gQAbx-JfYJZ
-		- Typescript Unit Testing - Full Course https://www.youtube.com/playlist?list=PLa72FipivD80tL1QpP0HKk6zL01h1y2KZ
-		- Simplified https://www.youtube.com/playlist?list=PL_QQ5oCdr7sPmJmMaiLw5opNS-tBwWesF
-
-		- Unit Testing with Jest – Complete Guide & Best Practices | Node.js & JavaScript Testing https://youtu.be/Oh0tZNKdobQ?si=jBfH4EKVLd3iW7O3
-		- Use Testing Coverage in Jest to Analyze Your Testing Suites https://youtu.be/m9SwRcnSAKI?si=yyvFo0Y9Vt-sSC6D
-		- Master Testing in Node.js (JavaScript): Unit, Integration & E2E Testing (with In-Memory MongoDB!) https://youtu.be/dWKy_JdaWcA?si=vuQK3Cj-sUMrBuu_
-		- Unit & Integration Testing in Node.js | Scalable Backend Architecture with Node.js https://youtu.be/_SDR6vAGens?si=CMChLPtxPrSzgLfm
-		- How to Test Code Coupled to APIs & Databases https://youtu.be/ajfZqzeHp1E?si=2YieHkpIkHZmZ9bV
-		- Testing Your Code https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NTWVG8eM7Dt43vvzulnIbK
-		- How to Test Endpoint in Nodejs https://youtu.be/5dCL8wkKaMw?si=g1RsEnNtdw0bwqP-
-		- Testing with Vitest FREE COURSE https://youtu.be/cM_AeQHzlGg?si=CtIVF0xZN3qTcgsH
-		- Testing https://youtube.com/playlist?list=PLZlA0Gpn_vH_63f0HH-dUtkininO7GO6f&si=uO19NUFsILnVhobp
-		- JavaScript Testing Best Practices tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3OeWQwi0h0uDsWSNmU0nh4r
-		- Every Software Engineer Can Learn TDD https://youtu.be/tmOMJhZhIFI?si=WHioNIEBsir3bqH1
-		- Unit Testing Is The BARE MINIMUM https://youtu.be/h-4i5N89TUI?si=d8jFfN0sU7SG9OOx
-		- The 3 Types of Unit Test in TDD https://youtu.be/W40mpZP9xQQ?si=JRCa0CFWVe6tIvTM
-		- Test-Driven Development (TDD) Automation Framework Explained https://youtu.be/ndOJmVnPHPw?si=1I_UPgg_IWGy5ezS
-		- Why Unit Testing is Required https://youtu.be/bMeoZxN_dL0?si=INJNTrmmx_rrkVxM
-		- The ONLY REASON To Unit Test https://youtu.be/FF50H2RWaEY?si=FPSAxH429QJlROO1
-		- What is BDD? What is Behavior Driven Development? https://youtu.be/VS6EEUVZGLE?si=mRYQvgyaButvYTMP
-		- BDD Introduction https://youtu.be/6IUNFs3j14U?si=XWNuyp89wU657huZ
-		- BDD vs TDD (explained) https://youtu.be/mT8QDNNhExg?si=LzRI4QBabJVUWJPL
-		- Test Driven vs Behaviour Driven Development https://youtu.be/4QFYTQy47yA?si=6kLh_RQ943cCpmPU
-		- BDD Explained (Behaviour Driven Development) https://youtu.be/zYj70EsD7uI?si=f954LZogijndI8jM
-		- What is Behavior Driven Development? https://youtu.be/ydddSkVz_a8?si=6UcBHmPA6-8GgCnT
-		- Test Driven Development Vs Behavior Driven Development https://youtu.be/06M51vtmXdE?si=xW3gU2JPP20P8Ujs
-		- Test Driven Development vs Behavior Driven Development https://youtu.be/Bq_oz7nCNUA?si=DWoFU0xsinTBUPEy
-		- TDD vs BDD | Test Driven and Behavior Driven Development Difference Explained https://youtu.be/feaxjn2BXzc?si=7jpNGaTNZa32cKlu
-		- TDD Is The Best Design Technique https://youtu.be/ln4WnxX-wrw?si=Onvz1uXm3B7B6gjM
-		- What is TDD? What is Test Driven Development? https://youtu.be/H4Hf3pji7Fw?si=ZgHz8AyzPRek2sS1
-		- TDD is useless in programming https://youtu.be/Z3LiEeOEbCo?si=-fKQ9_XlD8fD6EA5
-		- What TDD Looks Like In A REAL PROJECT https://youtu.be/RrFXxaH2sFc?si=lM0TdzawKB_qKGge
-		- Start Your TDD Journey with C# in 15 MINUTES https://youtu.be/dp1WRyR0TiE?si=TOZrIR1w0janUgG9
-		- THIS stops 90% of C# Developers Learning TDD https://youtu.be/x5hsO6R6Me8?si=tx_2MwAeQoT8eHzl
-		- What is TDD (Test Driven Development)? | How to do TDD with Example https://youtu.be/h26wrTxF94k?si=0GyNhstFpwDOETEC
-		- When To Unit, E2E, And Integration Test https://youtu.be/isI1c0eGSZ0?si=1FfGCK-1psRtAxmX
-		- Test driven development (TDD) - Tutorial for Beginners https://youtu.be/y8TcPr73Bwo?si=fA3VbJeXnu4AOikT
-		- TDD and The Terminator - An Introduction to Test Driven Development https://youtu.be/EcoIjf3RABI?si=P-Aih_KDX95VFQHb
-		- Test Driven Development In C# - TDD https://youtu.be/egzICSv-x_U?si=buZ7dLSK3zNhoxsd
-		- My 25 Laws of Test Driven Development https://youtu.be/x_3GSUiRhfM?si=PMjTNv0sBtcuMl5W
-		- Lets Chat About Unit Tests https://youtu.be/IInciWyU74U?si=2u3xpnJpXZTjBc7V
-		- Test Driven Development (TDD) Is A Broken Practice https://youtu.be/h-3z8i-MwFg?si=igkfLWMfkDHdIgTL
 	- Core, Process vs Threads
-		- Why Are Threads Needed On Single Core Processors https://youtu.be/M9HHWFp84f0?si=7jYxbvSdd7DwwsyS
-		- What Happens When a Program Calls Sleeps? https://www.youtube.com/watch?v=e5g8eYKEhMw
-		- Threads On Multicore Systems https://www.youtube.com/watch?v=5sw9XJokAqw
-		- A PROGRAM is not a PROCESS. https://www.youtube.com/watch?v=7ge7u5VUSbE
-		- CONCURRENCY IS NOT WHAT YOU THINK https://www.youtube.com/watch?v=3X93PnKRNUo
-		- ARRAYLIST VS LINKEDLIST https://www.youtube.com/watch?v=xFMXIgvlgcY
-		- WHY IS THE HEAP SO SLOW? https://www.youtube.com/watch?v=ioJkA7Mw2-U
-		- WHY IS THE STACK SO FAST? https://www.youtube.com/watch?v=N3o5yHYLviQ
 		- https://youtu.be/USlroJToye0?si=rbO8Ngvq8CV8dmC6
 		- https://youtu.be/hwTYDQ0zZOw?si=s3zIjAAIWfllTAjT
 		- https://youtu.be/ImzYxO3Lsvc?si=TX57qQTYM_2UN6xR
@@ -719,6 +390,7 @@
 		- Postman Crash Course for Beginners https://www.youtube.com/playlist?list=PL6iUkDSEH9StfnjSTCsASTZbivezT18mW
 		- Postman Tips & Tricks https://www.youtube.com/playlist?list=PL6iUkDSEH9SuNMh1L8iuveirlKcs26tZ5
 
+	- https://algodaily.com/curriculum
 	- Node JS Crash course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-anK_Dyz9zRq7UYMJfc3P0
 	- Node.js Beginner's Guide https://www.youtube.com/playlist?list=PLaLqLOj2bk9aOIybS1gRhpryWCZEhfVx-
 	- Testing in Javascript Full stack Application https://www.youtube.com/playlist?list=PLIGDNOJWiL1-IVcu_hvsIPQJRZ9oOwWRf	
@@ -904,14 +576,11 @@
 	- WhatsApp Cloud API https://www.youtube.com/playlist?list=PLDSFjvmlLP4R1J_wtpw9IwtgkqkmYPwa7
 	- Auto Deploy Nodejs Rest API on AWS EC2 | CI/CD pipeline using GitHub Actions https://www.youtube.com/watch?v=cgWXQqL-ZU8
 	- System Design
-		- Programming Concepts, Explained Simply https://www.youtube.com/playlist?list=PLnFamtQIJe6Klo-RppG19baEc94xgtcsr
-		- https://blog.bytebytego.com/archive?sort=new
 		- https://www.youtube.com/@interviewhappy
 		- https://www.youtube.com/@questpondvideos
 		- https://www.youtube.com/@hayk.simonyan
 		- Full HTTP Networking Course 5hrs https://www.youtube.com/watch?v=2JYT5f2isg4
 		- https://www.youtube.com/@AsliEngineering
-		- https://www.youtube.com/@SystemDesignSchool
 		- https://www.youtube.com/@SystemDesignInterview
 		- https://www.naukri.com/code360/library/low-level-design-lld
 		- https://www.youtube.com/@gkcs
@@ -1100,6 +769,109 @@
 		- Build Your Own X https://www.youtube.com/playlist?list=PLinedj3B30sC3VyfC7xD_ILyGvlHunoQs
 		- System Design https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o
 		- System Design Concepts Course and Interview Prep https://youtu.be/F2FmTdLtb_4?si=27d36vqjNNgJRa0m
+## Testing
+	- https://quii.gitbook.io/learn-go-with-tests
+	- Node testing with Jest | Supertest | Writing test cases | Test API's | Node testing https://youtu.be/KQjeU0mBQU8?si=sUykUML05rDzHDWy
+	- How to Unit Test Javascript Coding using Jest https://www.youtube.com/watch?v=uH5doKI8gd8
+	- JavaScript Testing 101 with Jest https://youtube.com/playlist?list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&si=-ETQ16EeAImLBspi
+	- TDD Express App (4) https://www.youtube.com/playlist?list=PL6x5Q-Sj_BlaMDB3kZ26R221wsA5HPgJR
+	- Jasmine Testing Framework Course (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl
+	- Jest tutorial with Node | testing Node.js applications https://youtu.be/KqQoiFBp36A?si=dl-oQ-ONnoM2f60I
+	- Introduction to Test-Driven Development (TDD) with TypeScript | 2021 https://youtu.be/a1jdwlujdk0?si=jO3PwZL01OTJnMcK
+	- Turn Bad Code into Good Code (Javascript, TypeScript, Node, Jest, unit Testing) https://youtu.be/Ntd_rT-ZSBM?si=Rno4DukcSsfx7Nc-
+	- JavaScript Testing with Jest https://youtu.be/UhG1xnDvXGY?si=WYgrxc-hNtfYuk4r
+	- INTEGRATION TESTING CRASH COURSE IN 80 MINUTES WITH JEST AND SUPERTEST - Node JS (2022) https://www.youtube.com/watch?v=IPX0OswHoxg
+	- Testing Nodejs REST API with Express and MongoDB using Mocha & Chai https://youtube.com/playlist?list=PLSVX7Y2dUwe4Rrq4u7DRvz1wuOs1A31EN&si=dFsPA5uC8YG1VpMo
+	- Supertest API Automation Tutorial | Node.js API Testing with Mocha & Chai https://youtu.be/xyXW2oHHqHY?si=Pr4aUzQHqR411EVk
+	- Using jest to unit test node command line tool (1) https://youtu.be/ngbL6x4ma3Y?si=8qihGkGlWC1QVT1X
+	- Node.js API Testing: The Ultimate Guide with Jest and Supertest (2025) https://youtu.be/LEYuxsGIeGo?si=pR8fw4RSkf8MZrq-
+	- JavaScript Testing Basics with Jest https://youtube.com/playlist?list=PLmZPx_9ZF_sB7aBEa4UV8qX3Oi3tBElpN&si=gQ0esLEP9hNg-zwB		
+	- Debugging Test in Node js Application - Express - Jest https://youtu.be/7bnoj_PY81M?si=hZgU78l-5DwBJ8yE
+	- Unit Testing with JEST in 80 Minutes https://youtu.be/GHVvrYD4VRE?si=6BVcfvkp6iERvsmy
+	- Node testing with Jest | Writing test cases | Node testing https://youtu.be/nGxircSyJMo?si=QqBOPseotWsAF46O
+	- Intro to Jest - Testing with ES6 https://youtu.be/kA9Pdu-IblI?si=5jrTJeEh3TGJfJIS
+	- Jest Tutorial | Testing NodeJS applications with JEST https://youtu.be/8gHEv5iNRKk?si=ALRarxiz6trYnj8b
+	- Introduction to Jest Testing | JavaScript Unit Tests https://youtu.be/x6NUZ8dc9Qg?si=vgt7vRNYe6XXUV-9
+	- Mocking Asynchronous Functions with Jest https://www.youtube.com/watch?v=gA-uNj2FgdM
+	- Jest Crash Course - Learn How to Test your JavaScript Application https://youtu.be/ajiAl5UNzBU?si=KIcjKRh-jxZuZAxK
+	- Jest Crash Course - Unit Testing in JavaScript https://youtu.be/7r4xVDI2vho?si=rEU-3yNyWzll-OVe
+	- JavaScript Testing with Jest – Crash Course https://youtu.be/IPiUDhwnZxA?si=Ez2PvDFRMFSXCLFK
+	- ExpressJS - Jest & Unit Testing https://youtu.be/t5sFkGk8GY8?si=mYxo1hdJGNXz_tIY
+	- Unit Testing on NodeJS - Express API with Jest https://www.youtube.com/live/WnVrldHjN10?si=jbrUVxgrI6fJlwsM
+	- Node.js Unit Testing crash course in Hindi https://youtu.be/i2SHsjgEftg?si=wuO6DT4rP3nWWxwl
+	- Testing Express REST API With Jest & Supertest https://youtu.be/r5L1XRZaCR0?si=LBWl9XirSaqRqTq6
+	- How To Write Better Tests In 6 Easy Steps https://youtu.be/FcHUPqKRvxQ?si=v9TSzyPxzESh7Y0v
+	- Stop Writing So Many Tests https://youtu.be/4-_0aTlkqK0?si=1KU4CznNYEBcRjHA
+	- TDD Series - Test Driven Development Series https://youtube.com/playlist?list=PLUJeKZ3vVz9mByHlTJdOa3t4eeC3AvnXL&si=CNCVHDq4TLh0mQtM
+	- Testing Node Server with Jest and Supertest https://youtu.be/FKnzS_icp20?si=jCRmRaqLVN4WEvyF
+	- GPT Agents Build a Ready-to-Run Node.js Server Using TDD https://youtu.be/q-6HFvuUWbk?si=D2Hy3tBRp00od-H2
+	- Test Driven Development (TDD) | Crash Course https://youtu.be/z6gOPonp2t0?si=iJdR-2u90YywBm_3
+	- Software Testing Tutorial - Learn Unit Testing and Integration Testing https://youtu.be/Geq60OVyBPg?si=f7Qvqo1x0NYepIes
+	- Full Stack Testing with Node.js by Stacy Kirk, Quality Works https://youtu.be/i4Eu3Cczkek?si=peLni4jjovdkhOOY
+	- Practicing TDD using Jest and Node (JavaScript) for calorie tracker cli tool https://youtu.be/WlN2ps8XmTI?si=Qv4IICeYVhST6odk
+	- Test Driven Development - TDD with Node js Express https://youtu.be/dTn_biKznU4?si=d7K-zODMR8qpC7nX
+	- Mock vs Spy in Testing with Jest: Which is Better? https://www.youtube.com/watch?v=9N8D7U9Am8o
+	- Just building an express REST API with some Jest Testing | Part 1 https://www.youtube.com/watch?v=NXsDNY7SpKs&t=1423sSj_BlaMDB3kZ26R221wsA5HPgJR
+	- Test-Driven Development // Fun TDD Introduction with JavaScript https://youtu.be/Jv2uxzhPFl4?si=-h85QELvf1ilp2ba
+	- NodeJS Express Test-Driven API Development (TDD) https://youtu.be/M44umyYPiuo?si=PorWc3smJNfMyk7j
+	- Testing https://www.youtube.com/playlist?list=PLyrXR-_n_7UrbBKka-FyXPgtRYl6Y1qlT
+	- Unit Testing with Mocha & Chai in Hindi | Node Js https://www.youtube.com/playlist?list=PLolI8AY2AS9bGs9pxrdRD13M2P6FOdswd
+	- Running NodeJS Tests/CI with GitHub Actions/Workflow https://www.youtube.com/watch?v=9KVCxMrshIk
+	- Introduction to JavaScript Testing with Jest https://www.youtube.com/watch?v=gfK38CQdlVU
+	- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIZzjlual3CbKn27HMUbJcJc
+	- Node.js Native Test Runner Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIYIR-yr5EVOo3B5k32gGCR7
+	- Practical Test Driven Development https://www.youtube.com/playlist?list=PLvkjn9Z-S4IncPs9hbhnGULgSx43-Kakb
+	- jest tutorial https://www.youtube.com/playlist?list=PL8p2I9GklV44-_4hh1evohe5WinvqrWr6
+	- Jest MOCK https://www.youtube.com/playlist?list=PLUXfUL9eJ8j5WDKM3js08NZ9BiK6TeDpg
+	- JavaScript Testing Fundamentals https://www.youtube.com/playlist?list=PL_euSNU_eLbfMOdfgkg3dCTX0MmrhAr5T
+	- Cucumber BDD Framework with all Latest Features https://www.youtube.com/playlist?list=PLFGoYjJG_fqpObjigKg4bunu6_Ki7Ppn-
+	- Test Driven Development - TDD https://www.youtube.com/playlist?list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7
+	- TDD vs BDD https://www.youtube.com/playlist?list=PLngnoZX8cAn8XyTsN7_A1gTIQ15SNcKQS
+	- TDD vs BDD Death Match https://www.youtube.com/playlist?list=PLngnoZX8cAn-rZpWzX4TFlNbNLJRTKKDm
+	- Behaviour Driven Development https://www.youtube.com/playlist?list=PLngnoZX8cAn8mLgozOr3eEjE63sHSCQmT
+	- Testing https://www.youtube.com/playlist?list=PL18L3lKMddFpJTRSkoy3YDvUhKSRVwQ3z
+	- Test-Driven Development https://www.youtube.com/playlist?list=PL18L3lKMddFrXF3eoaCuG7RNpfkYfHBHc
+	- TDD - Test Driven Development https://www.youtube.com/playlist?list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q
+	- Acceptance Testing & BDD https://www.youtube.com/playlist?list=PLwLLcwQlnXByKR1Fo7UnE6gQAbx-JfYJZ
+	- Typescript Unit Testing - Full Course https://www.youtube.com/playlist?list=PLa72FipivD80tL1QpP0HKk6zL01h1y2KZ
+	- Simplified https://www.youtube.com/playlist?list=PL_QQ5oCdr7sPmJmMaiLw5opNS-tBwWesF
+	- Unit Testing Crash Course https://www.youtube.com/playlist?list=PL4cUxeGkcC9iyuClsf48SSgsJPBStHo7F
+	- Vitest https://www.youtube.com/playlist?list=PLw5h0DiJ-9PA7W7DLUpg6rFkjTxSEW6SX
+	- Unit Testing with Jest – Complete Guide & Best Practices | Node.js & JavaScript Testing https://youtu.be/Oh0tZNKdobQ?si=jBfH4EKVLd3iW7O3
+	- Use Testing Coverage in Jest to Analyze Your Testing Suites https://youtu.be/m9SwRcnSAKI?si=yyvFo0Y9Vt-sSC6D
+	- Master Testing in Node.js (JavaScript): Unit, Integration & E2E Testing (with In-Memory MongoDB!) https://youtu.be/dWKy_JdaWcA?si=vuQK3Cj-sUMrBuu_
+	- Unit & Integration Testing in Node.js | Scalable Backend Architecture with Node.js https://youtu.be/_SDR6vAGens?si=CMChLPtxPrSzgLfm
+	- How to Test Code Coupled to APIs & Databases https://youtu.be/ajfZqzeHp1E?si=2YieHkpIkHZmZ9bV
+	- Testing Your Code https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NTWVG8eM7Dt43vvzulnIbK
+	- How to Test Endpoint in Nodejs https://youtu.be/5dCL8wkKaMw?si=g1RsEnNtdw0bwqP-
+	- Testing with Vitest FREE COURSE https://youtu.be/cM_AeQHzlGg?si=CtIVF0xZN3qTcgsH
+	- Testing https://youtube.com/playlist?list=PLZlA0Gpn_vH_63f0HH-dUtkininO7GO6f&si=uO19NUFsILnVhobp
+	- JavaScript Testing Best Practices tutorial https://www.youtube.com/playlist?list=PLTgRMOcmRb3OeWQwi0h0uDsWSNmU0nh4r
+	- Every Software Engineer Can Learn TDD https://youtu.be/tmOMJhZhIFI?si=WHioNIEBsir3bqH1
+	- Unit Testing Is The BARE MINIMUM https://youtu.be/h-4i5N89TUI?si=d8jFfN0sU7SG9OOx
+	- The 3 Types of Unit Test in TDD https://youtu.be/W40mpZP9xQQ?si=JRCa0CFWVe6tIvTM
+	- Test-Driven Development (TDD) Automation Framework Explained https://youtu.be/ndOJmVnPHPw?si=1I_UPgg_IWGy5ezS
+	- Why Unit Testing is Required https://youtu.be/bMeoZxN_dL0?si=INJNTrmmx_rrkVxM
+	- The ONLY REASON To Unit Test https://youtu.be/FF50H2RWaEY?si=FPSAxH429QJlROO1
+	- What is BDD? What is Behavior Driven Development? https://youtu.be/VS6EEUVZGLE?si=mRYQvgyaButvYTMP
+	- BDD Introduction https://youtu.be/6IUNFs3j14U?si=XWNuyp89wU657huZ
+	- Test Driven vs Behaviour Driven Development https://youtu.be/4QFYTQy47yA?si=6kLh_RQ943cCpmPU
+	- BDD Explained (Behaviour Driven Development) https://youtu.be/zYj70EsD7uI?si=f954LZogijndI8jM
+	- What is Behavior Driven Development? https://youtu.be/ydddSkVz_a8?si=6UcBHmPA6-8GgCnT
+	- Test Driven Development Vs Behavior Driven Development https://youtu.be/06M51vtmXdE?si=xW3gU2JPP20P8Ujs
+	- Test Driven Development vs Behavior Driven Development https://youtu.be/Bq_oz7nCNUA?si=DWoFU0xsinTBUPEy
+	- TDD Is The Best Design Technique https://youtu.be/ln4WnxX-wrw?si=Onvz1uXm3B7B6gjM
+	- What is TDD? What is Test Driven Development? https://youtu.be/H4Hf3pji7Fw?si=ZgHz8AyzPRek2sS1
+	- What TDD Looks Like In A REAL PROJECT https://youtu.be/RrFXxaH2sFc?si=lM0TdzawKB_qKGge
+	- Start Your TDD Journey with C# in 15 MINUTES https://youtu.be/dp1WRyR0TiE?si=TOZrIR1w0janUgG9
+	- THIS stops 90% of C# Developers Learning TDD https://youtu.be/x5hsO6R6Me8?si=tx_2MwAeQoT8eHzl
+	- What is TDD (Test Driven Development)? | How to do TDD with Example https://youtu.be/h26wrTxF94k?si=0GyNhstFpwDOETEC
+	- When To Unit, E2E, And Integration Test https://youtu.be/isI1c0eGSZ0?si=1FfGCK-1psRtAxmX
+	- Test driven development (TDD) - Tutorial for Beginners https://youtu.be/y8TcPr73Bwo?si=fA3VbJeXnu4AOikT
+	- TDD and The Terminator - An Introduction to Test Driven Development https://youtu.be/EcoIjf3RABI?si=P-Aih_KDX95VFQHb
+	- Test Driven Development In C# - TDD https://youtu.be/egzICSv-x_U?si=buZ7dLSK3zNhoxsd
+	- My 25 Laws of Test Driven Development https://youtu.be/x_3GSUiRhfM?si=PMjTNv0sBtcuMl5W
+	- Lets Chat About Unit Tests https://youtu.be/IInciWyU74U?si=2u3xpnJpXZTjBc7V
 ## Docker
 	- https://docs.docker.com/get-started/
 	- https://www.okteto.com/
@@ -1119,14 +891,10 @@
 	- https://j471n.in/blogs
 	- https://www.tutorialspoint.com/docker/index.htm
 	- Docker Compose with .NET 8, PostgreSQL, and Redis (step by step) https://youtu.be/WQFx2m5Ub9M?si=4W23z1WN1YxFVXx2
-	- Learn Docker https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3cIiT9Z5qxlA7PXEtlUa-
-	- Docker Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-svqMFkNEiNdDyhs41Vnib
-	- Docker Full Course for Beginners - 2025 https://www.youtube.com/watch?v=pg884pZFK0A
 	- Docker Course For Beginners 2025: Basic to Advance Tutorial https://www.youtube.com/watch?v=OhnTMWmfTBE&t=12s
 	- The Docker Crash Course https://youtu.be/KfGr49Z7OaA?si=Wj8QcyXt2qjm8nZ0
 	- Containerization https://youtube.com/playlist?list=PL5t_ArJWLrLQMn6p1xNcH4J5Pvi6Lwu_Z&si=eA6CJaQNcyAGQRov
 	- Ready to Scale? 🚀 Build & Run Your .NET Web API in Kubernetes with Docker! https://youtu.be/AGrputZLBBQ?si=CmycAFASVFAy0chp
-	- Docker development guide for beginners https://youtube.com/playlist?list=PLHq1uqvAteVvqQaaIAvfIWWTL_JmmXcfg&si=fxLdaHKVjz_frSZ8
 	- Docker and Kubernetes Tutorial https://youtu.be/bhBSlnQcq2k?si=XKcWP9Ck1oRRmEKG
 	- Docker Postgres and DataGrip Tutorial https://youtu.be/lNsJRM9ga-s?si=LJltkoj8qYN4mi1k
 	- Ultimate Docker Compose Tutorial https://youtu.be/SXwC9fSwct8?si=kfaQ59uQBw5B3CRx
@@ -1363,14 +1131,12 @@
 	- Ultimate Docker Crash Course: Learn Docker within 30 Minutes! https://youtu.be/WNUCAPKa44Y?si=kK7TWe9hvlqsWQgH
 	- DOCKER Full Course in HINDI | Docker Tutorial for beginners in 2022 https://youtu.be/0SS6bJczlgs?si=VN5QBFY7XBY3RY7T
 ## NestJS
-	- freeCodeCamp 1:20hr https://www.youtube.com/watch?v=21_I-12f5JE&t=189s
 	- https://wanago.io/
-	- https://docs.nestjs.com/
 	- NestJS Testing Tutorial | Unit and Integration Testing https://www.youtube.com/watch?v=dXOfOgFFKuY
+	- NestJS Testing Tutorials 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
+	- Nestjs Testing Tutorials || 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
 	- Add RBAC to Your Nest.js API in ~ 7 minutes https://www.youtube.com/watch?v=xd3LJqdU1ig
 	- Master NestJS Database with Repository Pattern https://youtu.be/mVSdivtfE1A?si=e-CxpqcSybGDvyNx
-	- Nest.js Build an Auth System Hindi https://youtu.be/KMg_Qg0WCds?si=LaITNR7XIHFTs1zt
-	- NestJS Testing Tutorials 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
 	- The Right way to write Nest.js & Typescript clean-code - SOLID https://www.youtube.com/watch?v=vE74gnv4VlY
 	- Centralized Authentication in NestJS Microservices with TCP & API Gateway https://www.youtube.com/watch?v=iiSTB0btEgA
 	- NestJS Authentication & Authorization https://www.youtube.com/playlist?list=PLQbmrL9zPupXh-PNVc8AsCtI098JupFCi
@@ -1379,7 +1145,7 @@
 	- Role Based Authentication Nestjs https://www.youtube.com/watch?v=_JZ4_hjv7pE
 	- JSON Web Token Authentication in Nest.js https://www.youtube.com/watch?v=fW2hUMiiPFs
 	- Build your first MCP Server in NestJS https://www.youtube.com/watch?v=kqS5i6U-kHk
-	- Nestjs Testing Tutorials || 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
+	
 	
 	- Nest JS Microservices || 12 Factor App https://www.youtube.com/playlist?list=PLIGDNOJWiL18srI6BmFLfwDPvorTmyQ_c
 	- nodejs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLIGDNOJWiL1_SzJqkfxd-rcPBJBdFmWfw
@@ -1402,7 +1168,6 @@
 	- NestJS Full Course 2024 https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR
 	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4
 	- NestJS Tutorial for Beginners to Advanced 2025 https://www.youtube.com/playlist?list=PL5OhSdfH4uDt6iG-qze_Q3qgik6VKHeRU
-	- Nest.js Complete Package https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
 	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4&t=44s
 	- Master NestJS with these Guides https://www.youtube.com/playlist?list=PLnsTzQ998QGQRY_8SaeMyd3_RuLyegJyx
 	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=184s
@@ -1425,7 +1190,6 @@
 	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=33s
 	- NestJS Crash Course - Build a Complete Backend API https://youtu.be/BiN-xzNkH_0?si=BAiVtfURTjOhCeE3
 	- Nest.js Microservices with NATS, SQL, and Docker https://youtu.be/5HlsgPRcm3w?si=CEOTOFLK0M6CHkPx
-	- Nest.js Complete Package https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
 	- Nest JS Complete Tutorial With Projects https://www.youtube.com/watch?v=bZef6x9_xEI
 	- NestJS Tutorial For Beginners - Learn NestJS https://www.youtube.com/watch?v=BCl0p5gZ1yw
 	- NestJS https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB
@@ -1945,11 +1709,6 @@
 	- Apache Flink https://www.youtube.com/playlist?list=PLL2hlSFBmWwx8AayxvaYaFZ7jibd7FD3d
 	- Apache Flink https://www.youtube.com/playlist?list=PLLa_h7BriLH2ccqbQApQKgQW_pHGeC8dI
 ## CQRS
-	- https://docs.kurrent.io/
-	- https://academy.kurrent.io/courses
-	- https://www.kurrent.io/cqrs-pattern
-	- http://www.youtube.com/@Kurrent_io
-	- https://reimagined.github.io/resolve/docs/
 	- https://blog.bitsrc.io/building-a-cqrs-es-app-with-resolve-41f839362ffd
 	- Complete Redis, Websockets, Pub Subs and Message queues https://www.youtube.com/watch?v=IJkYipYNEtI&t=53s
 	- https://www.geeksforgeeks.org/dbms/event-sourcing-database-design-patterns/

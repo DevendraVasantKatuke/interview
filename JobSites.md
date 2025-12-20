@@ -62,3 +62,5 @@
 -	https://cloudhire.ai/for-candidates/
 -	https://www.wonsulting.com/resumai
 -	https://www.creddinv.in/
+-	https://trio.dev/hire-javascript-developers/
+-	https://www.devjobsscanner.com/nestjs-jobs/
