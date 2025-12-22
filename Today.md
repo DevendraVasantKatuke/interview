@@ -1,44 +1,51 @@
-- Create API for KeymanERP Website
-	- NestJS, Zod, tRPC, Mongoose, MongoDB
-- Create API for eGuruG
-	- NestJS, Zod, tRPC, GraphQL, DGraph (Course), Knex, PostgreSQL
-- Vitest https://vitest.dev/guide/why.html
-- NestJS
-	- Nest.js Complete Package https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
-	- Nest.js Build an Auth System Hindi https://youtu.be/KMg_Qg0WCds?si=LaITNR7XIHFTs1zt
-	- freeCodeCamp 1:20hr https://www.youtube.com/watch?v=21_I-12f5JE&t=189s
+NestJS 
 	- https://docs.nestjs.com/
-	- Coding with AI (Copilot) Tutorial [11][100m]- https://www.youtube.com/playlist?list=PL4cUxeGkcC9joeiiVaLExvfSgmdtBbSPM
-	- List all Concepts here
-- Zod
-- tRPC
-- Knex
-- Mongoose
-- GraphQL
+	- NestJS Testing Tutorial | Unit and Integration Testing https://www.youtube.com/watch?v=dXOfOgFFKuY
+	- NestJS Testing Tutorials 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
+	- Nestjs Testing Tutorials || 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
+Zod
+tRPC
+Knex
+Mongoose
+GraphQL
 	- https://graphql.org/learn/
 	- https://docs.dgraph.io/graphql/
-- DGraph
+DGraph
 	- https://docs.dgraph.io/
 	- https://docs.hypermode.com/dgraph/overview
-- Docker, Compose
+Vitest https://vitest.dev/guide/why.html
+Docker, Compose
 	- Learn Docker https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3cIiT9Z5qxlA7PXEtlUa-
 	- Docker Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-svqMFkNEiNdDyhs41Vnib
 	- Docker Full Course for Beginners - 2025 https://www.youtube.com/watch?v=pg884pZFK0A
 	- Docker development guide for beginners https://youtube.com/playlist?list=PLHq1uqvAteVvqQaaIAvfIWWTL_JmmXcfg&si=fxLdaHKVjz_frSZ8
 	- Docker compose for MERN Stack | Hindi https://www.youtube.com/watch?v=XuzMTMGQUFg&t=324s
-- React https://react.dev/
-- Erlang
-- Mnesia
-- Riak
-- Event Sourcing
-- CQRS 
+React https://react.dev/
+OpenAI
+MCP
+MastraAI
+Erlang
+	- https://learnyousomeerlang.com/errors-and-exceptions
+Mnesia
+	- https://www.erlang.org/doc/apps/mnesia/mnesia_chap2.html
+	- https://grokipedia.com/page/Mnesia
+Event Sourcing
+	- Event driven vs event sourcing https://youtu.be/y1KJITitFA8?si=bcnFfl9DnZrpGhzV
+	- Event Sourcing : what could possibly go wrong https://youtu.be/MYD4rrIqDhA?si=IrgFrRpfjhq1jdGK
+	- System Design - Event Sourcing https://youtu.be/JTmgi0vO5Ug?si=hBPPvvoVBzCu_ZCR
+	- Custom CQRS and Domain Events Setup https://www.youtube.com/playlist?list=PLYpjLpq5ZDGvQTc0MMZapXlPSRBABlpz1
+	- Event Sourcing https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ
+	- Event Sourcing and Event Storage with Apache Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
+	- CQRS - Event Sourcing https://www.youtube.com/playlist?list=PL-OjXpIFhMreyjOo4D5-HVIrUbb31VOSV
+	- Event Driven Design Vs Event Sourcing https://youtu.be/C471HVRetcQ?si=Njy2iVFQxjwMuj9G
+CQRS
 	- https://cqrs.nu/
 	- https://docs.kurrent.io/
 	- https://academy.kurrent.io/courses
 	- https://www.kurrent.io/cqrs-pattern
 	- http://www.youtube.com/@Kurrent_io
 	- https://reimagined.github.io/resolve/docs/
-- gRPC https://grpc.io/docs/what-is-grpc/
+gRPC https://grpc.io/docs/what-is-grpc/
 - JavaScript
 	- Callback
 		- https://www.youtube.com/watch?v=IYoTF9APsMI
@@ -212,6 +219,8 @@
 	- ”🔥Pro Tip: 💪Unlock 8x Speed in Node.js with 1 Line! 🚀 | Cluster Mode Explained https://youtu.be/L0T-x9kdmtA?si=ZNxv2VP-Hfv9GOWU
 	- Crack Node JS Interview https://www.youtube.com/playlist?list=PLIGDNOJWiL1--PkxBwF8ghr0Oc0hXVJi7
 	- Top-50 Node JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL1_yLcirFqgAxlNFL3tsdxrM
+	- Programming Concepts, Explained Simply https://www.youtube.com/playlist?list=PLnFamtQIJe6Klo-RppG19baEc94xgtcsr
+	- https://blog.bytebytego.com/archive?sort=new
 - NodeJS Interview Practical
 	- Build a URL Shortener with Node.js, React, TypeScript & MongoDB https://youtube.com/playlist?list=PL0iFifR5umcmO4TrYZawg6TsUcPjYaK_8&si=IoKlX2tY7bJsqWPl
 	- How I Implemented a Long-lived Timeout that Scales https://youtu.be/kSDbBhJTTiA?si=KyEujziA2qZnzBwr
@@ -255,15 +264,3 @@
 	- Worker Threads in Node.js: The Secret to High-Performance Backends 🔥 https://www.youtube.com/watch?v=Vej327jN8WI
 	- How I Build REST APIs that Scale https://youtu.be/m1sNz9Fw_vY?si=07EOSobQ9dCcMS8t
 	- Scraping Web with Node JS https://www.youtube.com/playlist?list=PLIGDNOJWiL1-W3tmbQ5W_yWpYBeFf03Aq
-
-- Why Are Threads Needed On Single Core Processors https://youtu.be/M9HHWFp84f0?si=7jYxbvSdd7DwwsyS
-- What Happens When a Program Calls Sleeps? https://www.youtube.com/watch?v=e5g8eYKEhMw
-- Threads On Multicore Systems https://www.youtube.com/watch?v=5sw9XJokAqw
-- A PROGRAM is not a PROCESS. https://www.youtube.com/watch?v=7ge7u5VUSbE
-- CONCURRENCY IS NOT WHAT YOU THINK https://www.youtube.com/watch?v=3X93PnKRNUo
-- ARRAYLIST VS LINKEDLIST https://www.youtube.com/watch?v=xFMXIgvlgcY
-- WHY IS THE HEAP SO SLOW? https://www.youtube.com/watch?v=ioJkA7Mw2-U
-- WHY IS THE STACK SO FAST? https://www.youtube.com/watch?v=N3o5yHYLviQ
-- https://www.youtube.com/@SystemDesignSchool
-- Programming Concepts, Explained Simply https://www.youtube.com/playlist?list=PLnFamtQIJe6Klo-RppG19baEc94xgtcsr
-- https://blog.bytebytego.com/archive?sort=new

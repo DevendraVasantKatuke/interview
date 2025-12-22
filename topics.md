@@ -1,5 +1,3 @@
-## Erlang
-	- https://learnyousomeerlang.com/contents
 ## AI
 	- https://openai.com/api/
 	- https://platform.openai.com/docs/overview
@@ -7,6 +5,7 @@
 	- https://chatgpt.com/
 	- https://mastra.ai/docs
 	- https://modelcontextprotocol.io/docs/getting-started/intro
+	- https://huggingface.co/
 ## JavaScript
 	- https://www.learn-js.org/
 	- https://www.learn-ts.org/
@@ -1132,9 +1131,6 @@
 	- DOCKER Full Course in HINDI | Docker Tutorial for beginners in 2022 https://youtu.be/0SS6bJczlgs?si=VN5QBFY7XBY3RY7T
 ## NestJS
 	- https://wanago.io/
-	- NestJS Testing Tutorial | Unit and Integration Testing https://www.youtube.com/watch?v=dXOfOgFFKuY
-	- NestJS Testing Tutorials 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
-	- Nestjs Testing Tutorials || 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
 	- Add RBAC to Your Nest.js API in ~ 7 minutes https://www.youtube.com/watch?v=xd3LJqdU1ig
 	- Master NestJS Database with Repository Pattern https://youtu.be/mVSdivtfE1A?si=e-CxpqcSybGDvyNx
 	- The Right way to write Nest.js & Typescript clean-code - SOLID https://www.youtube.com/watch?v=vE74gnv4VlY
@@ -1154,11 +1150,9 @@
 	- Nest JS Advanced Course 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL1-8hpXEDlD1UrphjmZ9aMT1
 	- Nest JS Microservices with Monorepo Nx https://www.youtube.com/playlist?list=PLIGDNOJWiL1-zscX224pibRBb4RChTpgM
 	- Nestjs Crash Course for Beginners 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL18vQIXd4KdZjzBZN5YIpidI
-	- Microservices in Nest.js https://www.youtube.com/watch?v=t76UMpwFNs0&t=1454s
 	- https://www.youtube.com/@NestJSSimplified/playlists
 	- https://www.youtube.com/@NestJSSimplified/playlists
 	- https://www.youtube.com/@procademy/playlists
-	- NestJs Course for Beginners - Create a REST API https://www.youtube.com/watch?v=GHTA143_b-s
 	- Nest JS Full Course 2025 https://www.youtube.com/watch?v=XVZ10uFY9DU&t=1351s
 	- NestJS, MySQL, TypeORM Crash Course https://www.youtube.com/watch?v=W1gvIw0GNl8
 	- NestJS Crash Course https://www.youtube.com/watch?v=xzu3QXwo1BU&t=37s
@@ -1170,14 +1164,12 @@
 	- NestJS Tutorial for Beginners to Advanced 2025 https://www.youtube.com/playlist?list=PL5OhSdfH4uDt6iG-qze_Q3qgik6VKHeRU
 	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4&t=44s
 	- Master NestJS with these Guides https://www.youtube.com/playlist?list=PLnsTzQ998QGQRY_8SaeMyd3_RuLyegJyx
-	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=184s
 	- Node JS Full Course 2024 | Complete Backend Development Course | Part 1 https://www.youtube.com/watch?v=MIJt9H69QVc&t=7s
 	- Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2 https://www.youtube.com/watch?v=_f7h6xQXiLA&t=2014s
 	- Node JS Full Course 2025 | PostgreSQL, Prisma, Nest JS, Bun, Hono, Prometheus, Grafana | Part 3 https://www.youtube.com/watch?v=pa9xqOnorx0&t=15710s
 	- Nest JS Full Course 2025 | Node JS Full Course | Part 4 https://www.youtube.com/watch?v=XVZ10uFY9DU&t=1324s
 	- Master NestJS: The Ultimate Crash Course for Beginners! https://youtu.be/TVOuvr7c0pA?si=oxmCpU36_aO5KRpU
 	- Amazing NestJS - NestJS Framework (Hindi) https://www.youtube.com/playlist?list=PLqLR2H326bY6eRNOXJxWQkvKNlzmJQfLj
-	- Learn NestJS – Complete Course https://www.youtube.com/watch?v=sFnAHC9lLaw&t=1457s
 	- Learn Nest.JS https://www.youtube.com/playlist?list=PLhnVDNT5zYN-GI_i8vwsUtQB4iI-8f4hx
 	- Nest.js with MongoDB - Complete Example https://www.youtube.com/watch?v=ulfU5vY6I78
 	- NestJS tutorial for Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIbihafA6GlwyvmwkHshmVyh
@@ -1187,7 +1179,6 @@
 	- NestJS Full Course 2024 https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR
 	- NestJs Tutorial In hindi https://www.youtube.com/playlist?list=PLVo1k_VwkKMyxkNyMFTtcMcfNHA3xKjZ0
 	- NestJS Tutorials for Beginners https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr
-	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw&t=33s
 	- NestJS Crash Course - Build a Complete Backend API https://youtu.be/BiN-xzNkH_0?si=BAiVtfURTjOhCeE3
 	- Nest.js Microservices with NATS, SQL, and Docker https://youtu.be/5HlsgPRcm3w?si=CEOTOFLK0M6CHkPx
 	- Nest JS Complete Tutorial With Projects https://www.youtube.com/watch?v=bZef6x9_xEI
@@ -1205,7 +1196,6 @@
 	- NestJS https://www.youtube.com/playlist?list=PLJ8v-58rML8_p8vCXjoGVCltwhkmgdMVd
 	- Nest JS Full Course 2025 https://www.youtube.com/watch?v=XVZ10uFY9DU
 	- Nestjs Full Course 2022 | Beginner Nestjs Tutorial https://www.youtube.com/watch?v=Mgr5_r70OJQ&t=4s
-	- Nest.js Full Course for Beginners https://www.youtube.com/watch?v=8_X0nSrzrCw
 	- NestJS Advanced Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPcUDAmmEnuiFMrqcurNCs7
 	- Full Stack Swiggy Clone https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPrL1Qz2XXVtzvgxrYp7ms9
 	- Full Stack Clone Uber Eats https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMF7JqIV6OZZ9LYPGhqZjfS
@@ -1218,7 +1208,6 @@
 	- Airbnb FullStack Clone Application https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPnQrc6YSQmj1w9-uPgI0DJ
 	- Build Microservices in 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMHMbscUTeBhlIyu9PBaBP1
 	- Build Nest.js Microservices With RabbitMQ, MongoDB & Docker https://www.youtube.com/watch?v=yuVVKB0EaOQ
-	- Microservices in Nest.js https://www.youtube.com/watch?v=t76UMpwFNs0&t=18s
 	- nerstjs microservices with Performance Test https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMmfhUvFPiMhaLqqnCMU0lv
 	- nestjs microservices Architecture Patterns https://www.youtube.com/playlist?list=PLT5Jhb7lgSBM8D-w30f0OgqJzEpoNk0pB
 	- nestjs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPPxNKLB37PMOFzpfE2mOcV
@@ -1310,7 +1299,6 @@
 	- Full-Stack E-Commerce App with Microservices Architecture https://www.youtube.com/watch?v=O9YnPuKC4w4&t=1s
 	- Microservice Architecture https://www.youtube.com/playlist?list=PLzewa6pjbr3JQKhB_U_FiuYwQC70i-TyU
 	- gRPC Tutorial C# https://www.youtube.com/playlist?list=PLzewa6pjbr3IOa6POjAMM0xiPZ-shjoem
-	- Event driven vs event sourcing https://youtu.be/y1KJITitFA8?si=bcnFfl9DnZrpGhzV
 	- Microservices https://youtube.com/playlist?list=PL2mqqT1NBCtnKpMKse50AJaYbzFTv2A_c&si=5O4N4wQGpLAVIQYi
 	- Microservices, API Gateway with Node.js & Express | Role-Based Authorization & Login Service https://youtu.be/mnmEF7D2eG4?si=-dDPWWX-OJD87QoQ
 	- API GATEWAY and Microservices Architecture | How API Gateway act as a Single Entry Point? https://youtu.be/dkgxvnk8cWw?si=vIuo2b8v0zbu8-79
@@ -1325,14 +1313,12 @@
 	- Microservice Tracing https://youtube.com/playlist?list=PL285LgYq_FoLxj1bOdVeQxFhwwq14ddn6&si=XSvYF1rGmuHLqUsb
 	- Microservices with Reverse Proxy https://youtube.com/playlist?list=PL285LgYq_FoJu4C55ILz5sQvg3aX88cHY&si=0k4XjL6F93QV8KRg
 	- Microservices https://youtube.com/playlist?list=PL285LgYq_FoI1jgP0-9zba9cgOWnMZTTX&si=9tCrw0GCsaA2qtrU
-	- Event Sourcing : what could possibly go wrong https://youtu.be/MYD4rrIqDhA?si=IrgFrRpfjhq1jdGK
 	- Microservices explained - the What, Why and How? https://youtu.be/rv4LlmLmVWk?si=XcAHRRFvi0-3WfsZ
 	- What is Domain Driven Microservices, Difference Domain and SubDomain in Hindi https://youtu.be/kMk5xJHoKTU?si=thM5GDgH0q2qywg6
 	- Microservices Tutorial in English https://www.youtube.com/playlist?list=PLz-zP8qAkT_2Lv3rE3UlJ1bZBGHtUFQ_q
 	- Microservices - Distributed Transaction https://www.youtube.com/playlist?list=PLz-zP8qAkT_0BV9VW0T37DVX-k8zipvse
 	- Microservice design patterns https://www.youtube.com/playlist?list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL
 	- 12 Logging BEST Practices in 12 minutes https://youtu.be/I2mWnh66Bkg?si=SekuQIi2sAZoqYme
-	- System Design - Event Sourcing https://youtu.be/JTmgi0vO5Ug?si=hBPPvvoVBzCu_ZCR
 	- The Saga Pattern is More EXPENSIVE Than You Think https://youtu.be/oqhV5Mpqeew?si=0-0kaLFc1ezoVtYb
 	- .NET Microservices – Full Course https://youtu.be/DgVjEo3OGBI?si=7K1PV6crEJQTcWNJ
 	- gRPC Service with .NET 7 https://youtu.be/Rqz9XiSqH3E?si=uvOt1uqJewZN1LzQ
@@ -1378,7 +1364,6 @@
 	- HTTP API https://www.youtube.com/playlist?list=PLThyvG1mlMzk9bWLp4UzG4NFTYaWsc105
 	- Shorts https://www.youtube.com/playlist?list=PLThyvG1mlMznVjur-BZcGkEcTWdBLMg7z
 	- Fat Controller CQRS Diet https://www.youtube.com/playlist?list=PLThyvG1mlMzl6IlrOQXugTHt4mlPfhooE
-	- Event Sourcing https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ
 	- Messaging https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg
 	- CQRS https://www.youtube.com/playlist?list=PLThyvG1mlMznwqEruP2y0jm-tX74rvnK4
 	- Building microservices with Node.js https://www.youtube.com/playlist?list=PLQrB0_KjTmHgwsxlKduUdIB4Eu29s6zcB
@@ -1388,7 +1373,6 @@
 	- Microservices Masterclass https://www.youtube.com/playlist?list=PL-P_hNzCQhQiooV3oGRJ6jAAlZSjen3B5
 	- How to design great Aggregate Roots in Domain-Driven Design https://youtu.be/Pkvt87yL6Gs?si=AMILAGByc4pHq2Iv
 	- Transactional Outbox Pattern https://www.youtube.com/playlist?list=PLYpjLpq5ZDGvNUESD6Y5keFyHi80EUloW
-	- Custom CQRS and Domain Events Setup https://www.youtube.com/playlist?list=PLYpjLpq5ZDGvQTc0MMZapXlPSRBABlpz1
 	- Microservices https://www.youtube.com/playlist?list=PL-cS3nFTTrKqQUgRnLpk92GCNBYklyPIW
 	- Multi Vendor Eshop Web Application https://www.youtube.com/playlist?list=PLyah27R0n8V5I965YCBjpXW3rdIxbj-zC
 	- All about microservices https://www.youtube.com/playlist?list=PL4bM2dByZZMKakCZWyYZpYh11IwqJuQoy
@@ -1470,7 +1454,6 @@
 	- https://youtu.be/w11dXbZJCBE?si=W1RwFOS3MdomPxO9
 	- https://youtu.be/85YbMEb1qkQ?si=l0ii4hjQ-aL81z2V
 	- Build Nest.js Microservices With RabbitMQ, MongoDB & Docker https://www.youtube.com/watch?v=yuVVKB0EaOQ&t=22s
-	- Microservices in Nest.js https://www.youtube.com/watch?v=t76UMpwFNs0&t=18s
 	- https://youtu.be/OiwyYb8is0s?si=gfMzAwbQuIWdTa5B
 	- https://youtu.be/ppRn9Fp4hXI?si=a4GvXCIyuWKo1GSz
 	- https://youtu.be/vNplj9LwQSw?si=XqlUMOg-X44Oq8Aa
@@ -1647,7 +1630,6 @@
 	- ksqlDB and Stream Processing Tutorials https://www.youtube.com/playlist?list=PLa7VYi0yPIH3ulxsOf5g43_QiB-HOg5_Y
 	- ksqlDB & Advanced Stream Processing https://www.youtube.com/playlist?list=PLa7VYi0yPIH0SG2lvtS2Aoa12F22jKYYJ
 	- Kafka Streams Tutorials | Kafka Streams https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s
-	- Event Sourcing and Event Storage with Apache Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
 	- Building Data Pipelines with Apache Kafka® and Confluent https://www.youtube.com/playlist?list=PLa7VYi0yPIH1MculjFWJxs-aENPxRHHOS
 	- Apache Kafka® Architecture | Kafka's Internal Components https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN
 	- Designing Events and Event Streams https://www.youtube.com/playlist?list=PLa7VYi0yPIH145SVtPoh3Efv8xZ1ehUYy
@@ -1783,9 +1765,7 @@
 	- CQRS System Design Pattern https://youtu.be/vNplj9LwQSw?si=Xkx2wpLLcCysS9l-
 	- CQRS Step by step build in .NET https://youtu.be/PSlsP8osEGI?si=1HHfhRt68VhLZkaM
 	- CQRS & MediatR in a .NET Web API https://youtu.be/BewUyKLZjtc?si=SpWJmXCDwBgc4vOb
-	- CQRS - Event Sourcing https://www.youtube.com/playlist?list=PL-OjXpIFhMreyjOo4D5-HVIrUbb31VOSV
 	- Event Driven Programming https://www.youtube.com/playlist?list=PLTyWtrsGknYfu2rwM6aQ7Fy-1O0Xdstb1
-	- Event Driven Design Vs Event Sourcing https://youtu.be/C471HVRetcQ?si=Njy2iVFQxjwMuj9G
 	- Patterns of Event-Driven Architecture https://www.youtube.com/playlist?list=PLCOG9xkUD90LZsCgsbZ4ETY2pdfLewThP
 	- Domain-Driven Design https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v
 	- Intermediate-Advanced https://www.youtube.com/playlist?list=PLzYkqgWkHPKB-jd60fk_J7lZX65zovmSA
