@@ -64,3 +64,27 @@
 -	https://www.creddinv.in/
 -	https://trio.dev/hire-javascript-developers/
 -	https://www.devjobsscanner.com/nestjs-jobs/
+-	https://www.flexjobs.com/job_wizard/remote/why_remote
+-	https://jobs.sitepoint.com/
+-	https://careercompass.ai/
+
+For Germany, visit the website make-it-in-germany . com
+It is the official website of the German Govt focused on skilled labour from overseas...
+Apart from mentioning the process, the visas... it has a full job listing portal where one can search for listed jobs
+Another website is jobboardfinder . com/jobboard-arbeitsagentur-germany
+There are other portals like Step Stone, Indeed . de and Jobs . de
+👉🏻 For Italy, the official job portal is called Clic Lavoro and is accessible at global citizen solutions . com
+Indeed . it and infojobs . it, or monster . it also work
+Where quite like “de” is the suffix for German websites, “it” is the suffix for the Italian ones.
+👉🏻 The official portal for New Zealand is jobs . govt . nz and careers . govt. nz
+👉🏻 For Japan, the most popular portals are GaijinPot, Daijob, and Japan Dev
+
+## Startup VC
+-	https://tally.so/r/mRbWxv
+-	https://www.athena.vc/
+-	https://hvflabs.com/about/
+-	https://wellfound.com/company/hvf-labs/funding
+-	https://www.idealab.com/
+-	https://idealabstudio.com/
+-	https://cmt3.research.microsoft.com/User/Register?ReturnUrl=%2F
+-	https://www.investmentnetwork.sg/

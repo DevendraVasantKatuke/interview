@@ -1,34 +1,78 @@
-NestJS 
-	- https://docs.nestjs.com/
-	- NestJS Testing Tutorial | Unit and Integration Testing https://www.youtube.com/watch?v=dXOfOgFFKuY
-	- NestJS Testing Tutorials 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
-	- Nestjs Testing Tutorials || 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
-Zod
-tRPC
-Knex
-Mongoose
-GraphQL
-	- https://graphql.org/learn/
-	- https://docs.dgraph.io/graphql/
-DGraph
-	- https://docs.dgraph.io/
-	- https://docs.hypermode.com/dgraph/overview
-Vitest https://vitest.dev/guide/why.html
+https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/nodejs/default.asp
+https://www.w3schools.com/typescript/index.php
+https://www.codechef.com/learn/course/advanced-javascript
+https://mimo.org/glossary/javascript
+https://mimo.org/glossary/typescript
+https://tutorial.techaltum.com/javascript.html
+https://tutorial.techaltum.com/nodejs.html
+https://tutorial.techaltum.com/mongodb.html
+https://tutorial.techaltum.com/mongoose.html
+https://www.webdevstory.com/guide-sync-async-js/
+https://www.quora.com/Why-callback-functions-are-asynchronous-in-JavaScript-How-do-they-work
+https://blog.stackademic.com/deep-dive-into-javascript-asynchronous-operations-understanding-callbacks-promises-and-316d9a934e70
+https://adrianmejia.com/callbacks-concurrency-in-javascript-node/
+https://dev.to/koladev/a-simple-guide-to-asynchronous-javascript-callbacks-promises-async-await-4m03
+https://metana.io/blog/asynchronous-javascript-callbacks-promises-and-async-await/
+https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
+https://www.geeksforgeeks.org/javascript/callbacks-vs-promises-vs-async-await/
+https://www.twilio.com/en-us/blog/developers/community/asynchronous-javascript-understanding-callbacks
+https://www.dezlearn.com/javascript-promises-async-awaits-callbacks/
+https://javascript.plainenglish.io/mastering-asynchronous-javascript-callbacks-promises-and-async-await-dd037fd7bc04
+https://medium.com/@AnaghTechnologies/asynchronous-processes-and-callback-functions-in-javascript-99075c83e7af
+https://chhakulizingare.hashnode.dev/javascript-callback-function-simply-explained
+https://www.infoworld.com/article/2257926/asynchronous-javascript-callbacks-and-promises-explained.html
+https://dmitripavlutin.com/javascript-callback/
+https://codefinity.com/courses/v2/e3664631-639c-41a1-aa8a-f384b364de15/bfae4c31-0d27-4fa3-89f5-99682af4f743/873a5e8a-7b60-413c-8662-50abd655a4aa
+https://builtin.com/software-engineering-perspectives/callback-function
+https://maximorlov.com/synchronous-vs-asynchronous-callbacks/
+https://blog.bitsrc.io/journey-from-callbacks-to-promises-to-async-await-6fcd7f7fa3c5
+https://www.toptal.com/developers/javascript/asynchronous-javascript-async-await-tutorial
+https://www.digitalocean.com/community/tutorials/understanding-the-event-loop-callbacks-promises-and-async-await-in-javascript
+https://medium.com/@developervick/mastering-javascript-callbacks-a-deep-dive-into-asynchronous-operations-fef23a995526
+https://blog.risingstack.com/asynchronous-javascript/
+https://www.linkedin.com/pulse/mastering-callbacks-promises-asyncawait-javascript-adekola-olawale-mdhzf/
+https://dhis2-app-course.ifi.uio.no/learn/javascript/async/callbacks/
+https://ui.dev/async-javascript-from-callbacks-to-promises-to-async-await
+https://www.geeksforgeeks.org/javascript/asynchronous-javascript/
+https://eloquentjavascript.net/11_async.html
+## Vitest https://vitest.dev/
+## Learn NestJS
+- https://www.youtube.com/watch?v=8_X0nSrzrCw
+- https://www.youtube.com/watch?v=21_I-12f5JE
+- https://www.youtube.com/watch?v=GHTA143_b-s
+- 14 Hrs https://www.youtube.com/watch?v=sFnAHC9lLaw
+- https://www.youtube.com/watch?v=t76UMpwFNs0
+- https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
+- https://www.youtube.com/playlist?list=PLU-FndeNRY4Ayuy07FaKwsE5cySlQU-Wg
+- https://www.youtube.com/playlist?list=PLU-FndeNRY4DtRToRKmYF8qrZgQqzsnNR
+- https://www.youtube.com/watch?v=dXOfOgFFKuY
+- https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
+- https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
+## tRPC
+- Official Site
+- https://www.youtube.com/watch?v=VedrpVSstSY
+- https://www.youtube.com/watch?v=nTXP9fz8lIQ
+- https://www.youtube.com/watch?v=GuzZN-4kc3w
+## Zod
+- Official Site
+- https://www.youtube.com/watch?v=8db7FZCY2Zo
+- https://www.youtube.com/watch?v=L6BE-U3oy80
+- https://www.youtube.com/watch?v=D46R2cykFt0
+- https://www.youtube.com/watch?v=iR2Nm99CV20
+# Tutorial
 Docker, Compose
 	- Learn Docker https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3cIiT9Z5qxlA7PXEtlUa-
 	- Docker Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-svqMFkNEiNdDyhs41Vnib
 	- Docker Full Course for Beginners - 2025 https://www.youtube.com/watch?v=pg884pZFK0A
 	- Docker development guide for beginners https://youtube.com/playlist?list=PLHq1uqvAteVvqQaaIAvfIWWTL_JmmXcfg&si=fxLdaHKVjz_frSZ8
 	- Docker compose for MERN Stack | Hindi https://www.youtube.com/watch?v=XuzMTMGQUFg&t=324s
-React https://react.dev/
+React 
+	- https://react.dev/
+	- https://react-typescript-cheatsheet.netlify.app/
 OpenAI
 MCP
 MastraAI
-Erlang
-	- https://learnyousomeerlang.com/errors-and-exceptions
-Mnesia
-	- https://www.erlang.org/doc/apps/mnesia/mnesia_chap2.html
-	- https://grokipedia.com/page/Mnesia
 Event Sourcing
 	- Event driven vs event sourcing https://youtu.be/y1KJITitFA8?si=bcnFfl9DnZrpGhzV
 	- Event Sourcing : what could possibly go wrong https://youtu.be/MYD4rrIqDhA?si=IrgFrRpfjhq1jdGK
@@ -38,14 +82,14 @@ Event Sourcing
 	- Event Sourcing and Event Storage with Apache Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
 	- CQRS - Event Sourcing https://www.youtube.com/playlist?list=PL-OjXpIFhMreyjOo4D5-HVIrUbb31VOSV
 	- Event Driven Design Vs Event Sourcing https://youtu.be/C471HVRetcQ?si=Njy2iVFQxjwMuj9G
-CQRS
+- CQRS
 	- https://cqrs.nu/
 	- https://docs.kurrent.io/
 	- https://academy.kurrent.io/courses
 	- https://www.kurrent.io/cqrs-pattern
 	- http://www.youtube.com/@Kurrent_io
 	- https://reimagined.github.io/resolve/docs/
-gRPC https://grpc.io/docs/what-is-grpc/
+- gRPC https://grpc.io/docs/what-is-grpc/
 - JavaScript
 	- Callback
 		- https://www.youtube.com/watch?v=IYoTF9APsMI

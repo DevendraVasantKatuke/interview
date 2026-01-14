@@ -1,0 +1,44 @@
+```
+`hasOwnProperty` checks if the property exists on the object itself.
+The in operator checks the entire prototype chain.
+```
+- https://bersache.com/collections/shoes-under-1000
+- https://dataprofy.com/product-category/ebook/
+- https://labs.iximiuz.com/
+- https://rancherdesktop.io/
+- https://infintyedificewatch.shop/collections/frontpage
+- https://www.cqrs.com/
+- https://www.eventsourcing.ai/
+- https://www.eventsourcingdatabase.com/
+- https://kata-log.rocks/
+- https://www.startdataengineering.com/
+- https://contextmapper.org/
+- https://lakesail.com/
+- https://streamnative.io/
+- https://pola.rs/
+- https://archive.org/details/vertigo.-1958.-german.-ac-3-d.-dl.-1080p.-blu-ray.x-265-fu-n
+- https://sparkbyexamples.com/
+- https://google.github.io/adk-docs/
+- https://www.linode.com/lp/5000-credit-offer/
+- https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment
+- https://uxcel.com/blog/top-free-ai-certifications
+- https://www.edx.org/courses?q=free+ai+courses
+- https://www.elementsofai.com/
+- https://students.yourlearning.ibm.com/recommended/aoi/TECHNICAL_SKILLS/AI_-ARTIFICIAL_INTELLIGENCE-
+- https://developer.confluent.io/
+- https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcareer-tracks%2Fassociate-data-engineer-in-sql
+- https://www.kdnuggets.com/
+- https://www.pullmanparisroissycdg.com/
+- https://leetcode.com/discuss/post/5366542/all-leetcode-articles-on-coding-patterns-1uhy/
+- https://seanprashad.com/leetcode-patterns/
+- https://dataengineering.wiki/Index
+- https://www.skool.com/discovery?q=Kubernetes
+- Life is a beautiful sport since 2025
+- https://www.freecodecamp.org/news/the-architecture-of-mathematics-and-how-developers-can-use-it-in-code/
+- https://www.milanjovanovic.tech/
+- https://tutedude.com/
+- https://eventuous.dev/docs/intro/
+- https://app.datacamp.com/learn
+- https://platform.claude.com/docs/en/home
+- https://axonops.com/
+- https://tigerbeetle.com/

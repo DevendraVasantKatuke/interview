@@ -1,0 +1,61 @@
+1. Set project in NestJS Vitest
+https://vitest.dev/guide/why.html
+https://www.youtube.com/watch?v=dXOfOgFFKuY
+https://www.youtube.com/playlist?list=PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt
+https://www.youtube.com/playlist?list=PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht
+
+2. NestJS
+https://docs.nestjs.com/
+https://www.youtube.com/watch?v=8_X0nSrzrCw
+https://www.youtube.com/watch?v=21_I-12f5JE
+https://www.youtube.com/watch?v=GHTA143_b-s
+https://www.youtube.com/watch?v=sFnAHC9lLaw
+https://www.youtube.com/watch?v=t76UMpwFNs0
+https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
+https://www.youtube.com/playlist?list=PLU-FndeNRY4Ayuy07FaKwsE5cySlQU-Wg
+https://www.youtube.com/playlist?list=PLU-FndeNRY4DtRToRKmYF8qrZgQqzsnNR
+
+3. Set project in NestJS Zod
+https://zod.dev/
+
+4. Set project in NestJS tRPC
+https://trpc.io/docs
+
+5. Set project in NestJS knex
+https://knexjs.org/
+
+6. Set project in NestJS mongoose
+https://mongoosejs.com/docs/index.html
+
+7. Set project in NestJS GraphQL
+https://docs.dgraph.io/dgraph-overview
+https://docs.dgraph.io/graphql/
+https://graphql.org/learn/#tutorials
+https://hygraph.com/learn/graphql
+https://docs.github.com/en/graphql
+https://www.apollographql.com/docs/concepts/graphs
+https://graphql.com/learn/
+https://hasura.io/graphql/#overview-graphql
+https://www.howtographql.com/
+
+8. Set project in NestJS gRPC
+https://grpc.io/
+
+9. All 7 projects above as Docker Compose
+https://www.docker.com/learning-paths/learning-basics/
+https://docs.docker.com/get-started/docker-concepts/building-images/
+https://docs.docker.com/manuals/
+https://docs.docker.com/reference/
+https://docs.docker.com/guides/
+https://app.docker.com/accounts/devendravasantkatuke
+https://testcontainers.com/cloud/docs/
+https://dockerlabs.collabnix.com/
+
+10. eGuruG on Grafana and APISIX
+https://grafana.com/
+https://apisix.apache.org/docs/apisix/getting-started/README/
+
+
+11. https://mastra.ai/
+
+docker run -d --name dgraph-play -v dgraph-data:/dgraph -p 8080:8080 -p 9080:9080 dgraph/standalone:latest
