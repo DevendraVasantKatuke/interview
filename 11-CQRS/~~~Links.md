@@ -1,0 +1,92 @@
+	- https://cqrs.nu/
+	- https://docs.kurrent.io/
+	- https://academy.kurrent.io/courses
+	- https://www.kurrent.io/cqrs-pattern
+	- http://www.youtube.com/@Kurrent_io
+	- https://reimagined.github.io/resolve/docs/
+	- https://blog.bitsrc.io/building-a-cqrs-es-app-with-resolve-41f839362ffd
+	- Complete Redis, Websockets, Pub Subs and Message queues https://www.youtube.com/watch?v=IJkYipYNEtI&t=53s
+	- https://www.geeksforgeeks.org/dbms/event-sourcing-database-design-patterns/
+	- https://github.com/leandrocp/awesome-cqrs-event-sourcing
+	- https://reimagined.github.io/resolve/docs/getting-started/
+	- https://developer.confluent.io/courses/event-sourcing/hands-on-confluent-cloud/
+	- https://kalele.io/blog/
+	- https://www.instaclustr.com/support/documentation/
+	- https://www.geeksforgeeks.org/system-design/cqrs-design-pattern-in-microservices/
+	- https://www.geeksforgeeks.org/system-design/cqrs-command-query-responsibility-segregation/
+	- https://systemdesignschool.io/blog/cqrs-pattern
+	- https://www.redhat.com/en/blog/illustrated-cqrs
+	- https://discuss.axoniq.io/t/cqrs-pattern-how-are-command-and-query-separated-how-to-correctly-implement-cqrs/4456/5
+	- https://www.c-sharpcorner.com/article/using-the-cqrs-pattern-in-c-sharp/
+	- https://www.linkedin.com/pulse/cqrs-design-pattern-amir-doosti-ooqjf/
+	- https://deviq.com/
+	- https://awesome-architecture.com/cqrs/
+	- https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/
+	- https://www.equalefforts.com/blog/cqrs-design-pattern/
+	- https://shiftasia.com/community/microservices-with-cqrs-and-event-sourcing-part1/
+	- https://dzone.com/articles/cqrs-is-an-anti-pattern-for-ddd
+	- https://system-design.muthu.co/posts/modern-architecture-patterns/cqrs-pattern/index.html
+	- https://system-design.muthu.co/
+	- https://sandorian.com/blog/command-query-responsibility-segregation-cqrs
+	- https://refactoring.guru/
+	- https://blog.backendengineering.io/p/cqrs-pattern-explained-discuss-the
+	- https://blog.bytebytego.com/p/a-guide-to-microservices-architecture
+	- https://singhajit.com/explainers/
+	- https://umamahesh.net/design-patterns-for-microservice-architecture-command-query-responsibility-segregation-cqrs/
+	- https://www.hellointerview.com/learn/system-design/in-a-hurry/patterns
+	- https://dev.to/genichm/cqrs-command-and-query-responsibility-segregation-architectural-pattern-4594
+	- https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+	- https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-data-persistence/cqrs-pattern.html
+	- https://ironpdf.com/blog/net-help/cqrs-pattern-csharp/
+	- https://blog.risingstack.com/cqrs-explained-node-js-at-scale/
+	- https://barryosull.com/blog/projection-building-blocks-what-you-ll-need-to-build-projections/
+	- https://www.baeldung.com/cqrs-event-sourcing-java
+	- https://mia-platform.eu/blog/understanding-event-sourcing-and-cqrs-pattern/
+	- https://domaincentric.net/blog/event-sourcing-projections
+	- https://stackoverflow.com/questions/41935619/cqrs-event-store-aggregate-vs-projection
+	- https://stackoverflow.com/questions/53688339/cqrs-event-sourcing-projections-with-multiple-aggregates?rq=3
+	- https://danielwhittaker.me/
+	- https://danielwhittaker.me/2014/11/15/aggregate-root-cqrs-event-sourcing/
+	- https://microservices.io/patterns/data/event-sourcing.html
+	- https://www.redpanda.com/guides/event-stream-processing-event-sourcing-database
+	- https://www.redpanda.com/resources
+	- https://www.eventsourcingdatabase.com/
+	- https://www.eventsourcing.ai/
+	- https://www.cqrs.com/
+	- https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+	- https://youtu.be/hrmeeCEqzo8?si=5xJg32FoOy80GL09
+	- https://youtu.be/85YbMEb1qkQ?si=hnbgROgI5bK15dBc
+	- https://youtu.be/_pKG3GOYhK8?si=h9Cy5ej9KCorMrDA
+	- https://youtu.be/dwFNWiRHQXE?si=Th9BJPOXGpvGlWgH
+	- https://youtu.be/BewUyKLZjtc?si=lE7Ph81bWTjcLU1l
+	- https://youtu.be/E-7TBZxmkXE?si=i4ZGrLiS6ypSQPsb
+	- https://youtu.be/sUjNZAYTZwI?si=mnKJd0RyzGZndDFY
+	- https://youtu.be/i2eVTk2Fb40?si=D-EmCRoBtTj3LtH9
+	- https://youtu.be/ZQuXruUlLYY?si=gPNnN4fQXs64Q0je
+	- https://www.youtube.com/watch?v=jcn8xRfL8Gc
+	- https://www.youtube.com/watch?v=Z9oTuyC1jgM
+	- https://www.youtube.com/watch?v=l09hnKdltto
+	- https://www.youtube.com/watch?v=W_EEKAN9IVU
+	- https://www.youtube.com/watch?v=zcKiKrT8IHQ
+	- https://www.youtube.com/watch?v=NIYxiA_WDh4
+	- https://www.youtube.com/watch?v=_pKG3GOYhK8
+	- https://www.youtube.com/watch?v=lg6aF5PP4Tc
+	- https://www.youtube.com/watch?v=01lygxvbao4
+	- https://www.youtube.com/watch?v=L1eonUM7yAM
+	- https://www.youtube.com/watch?v=q3YQy1lJutw
+	- APIs Vs. Events | Can they coexist? | API First or Event First https://youtu.be/3t7pMx35Reg?si=Pi7w5y96DQiLyWvt
+	- CQRS System Design Pattern https://youtu.be/vNplj9LwQSw?si=Xkx2wpLLcCysS9l-
+	- CQRS Step by step build in .NET https://youtu.be/PSlsP8osEGI?si=1HHfhRt68VhLZkaM
+	- CQRS & MediatR in a .NET Web API https://youtu.be/BewUyKLZjtc?si=SpWJmXCDwBgc4vOb
+	- Event Driven Programming https://www.youtube.com/playlist?list=PLTyWtrsGknYfu2rwM6aQ7Fy-1O0Xdstb1
+	- Patterns of Event-Driven Architecture https://www.youtube.com/playlist?list=PLCOG9xkUD90LZsCgsbZ4ETY2pdfLewThP
+	- Domain-Driven Design https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v
+	- Intermediate-Advanced https://www.youtube.com/playlist?list=PLzYkqgWkHPKB-jd60fk_J7lZX65zovmSA
+	- Event driven vs event sourcing https://youtu.be/y1KJITitFA8?si=bcnFfl9DnZrpGhzV
+	- Event Sourcing : what could possibly go wrong https://youtu.be/MYD4rrIqDhA?si=IrgFrRpfjhq1jdGK
+	- System Design - Event Sourcing https://youtu.be/JTmgi0vO5Ug?si=hBPPvvoVBzCu_ZCR
+	- Custom CQRS and Domain Events Setup https://www.youtube.com/playlist?list=PLYpjLpq5ZDGvQTc0MMZapXlPSRBABlpz1
+	- Event Sourcing https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ
+	- Event Sourcing and Event Storage with Apache Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
+	- CQRS - Event Sourcing https://www.youtube.com/playlist?list=PL-OjXpIFhMreyjOo4D5-HVIrUbb31VOSV
+	- Event Driven Design Vs Event Sourcing https://youtu.be/C471HVRetcQ?si=Njy2iVFQxjwMuj9G

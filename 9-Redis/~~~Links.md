@@ -1,0 +1,42 @@
+- https://redis.io/docs/
+	- https://redis.io/docs/latest/develop/
+	- https://redis.io/docs/latest/integrate/
+	- https://redis.io/docs/latest/operate/
+	- https://redis.io/docs/latest/commands/
+	- https://redis.io/docs/latest/apis/
+	- https://developer.redis.com/howtos/quick-start
+	- https://university.redis.io/library/?contentType=course
+	- https://redis.io/search/
+	- https://redis.io/json/
+	- https://redis.io/active-active/
+	- https://redis.io/solutions/flex/
+	- https://redis.io/data-integration/
+	- https://redis.io/solutions/
+	- https://redis.io/industries/retail/
+	- https://redis.io/solutions/microservices/
+	- https://redis.io/resources/
+	- Install Redis using docker and docker compose | Redis Insight docker installation https://youtu.be/qucL1F2YEKE?si=BdTPVK-ZGDunhW33
+	- Redis cache in Nextcloud https://youtu.be/MRr1cl3Ijgo?si=NtldlfcMMZ_CMyl6
+	- Redis with Node Crash Course - Cache Data for Improved Performance https://youtu.be/AzQ6_DTcG6c?si=DokjLUnaC3cd_G5P
+	- Redis Master Slave Replication using Docker Compose | Redis https://youtu.be/4MMtuDzxmuE?si=vmaQHc8-9-rXDVUg
+	- Learn how to do caching in NodeJS using Redis https://youtu.be/RL9mnX0qXhY?si=tsfLqRemPt-pHGMn
+	- Redis Crash Course + Node.Js Integration https://youtu.be/-Ai7GDa2OgE?si=QFyuUzkc1kqIqBcC
+	- Redis beginners guide https://youtube.com/playlist?list=PLHq1uqvAteVtlgFkmOlIqWro3XP26y_oW&si=tEz--niGC_G-ONXU
+	- Redis as a Primary DB using a .NET 6 API https://youtu.be/GgyizgXwXAg?si=zXIQb_kxRqjSa0-O
+	- Publisher Subscriber Pattern - Build your own .NET Message Broker https://youtu.be/es8A7aw6Y5E?si=ZmCJPsMPsJSVFYel
+	- Redis Cache https://www.youtube.com/playlist?list=PLx-yi7Oq17ptnG2YT0SIYCJh1wIQS-EaR
+	- I Was Wrong About Redis. https://www.youtube.com/watch?v=hcabxEvM7KU
+	- Build your own redis like server https://www.youtube.com/playlist?list=PL-P_hNzCQhQi-6BsYBHoXUW2V9j2b3ITa
+	- https://www.youtube.com/playlist?list=PLbGui_ZYuhijTJDBVBBqvri76uUNfsrCc
+	- https://youtu.be/sFBMdF55Tpo?si=R0RYsju-_e5VXKfe
+	- https://youtu.be/IJkYipYNEtI?si=cLuQL-SFNL2EcS9B
+	- https://youtu.be/DACToq_WMQ8?si=S3YPg0Dcz7o-UCrw
+	- https://youtu.be/Vx2zPMPvmug?si=iLaNdlmwSEXJCeX_
+	- https://youtu.be/uptxcaf2s_4?si=DgTfemLkZeOFqgpA
+	- https://youtu.be/QqTB97aMa4c?si=WHQxXoU3r_s2CwVo
+	- https://www.youtube.com/live/mmeO2VoVLuM?si=2reqIxJvKjZWXIDG
+	- https://youtu.be/b7DJEAJZsG0?si=RS_YkO_0lEEeDRf_
+	- https://youtu.be/WQ61RL1GpEE?si=5a_fkAvAUoqDxALy
+	- https://youtu.be/-Ai7GDa2OgE?si=ndZZtV3yNtj_8jgA
+	- https://youtu.be/IJkYipYNEtI?si=E7NTMja6QaJBAub5
+	- Database Engineering (118) https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2

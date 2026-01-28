@@ -1,0 +1,26 @@
+- https://mongoosejs.com/docs/index.html
+- MongoDB Crash Course 2023 https://www.youtube.com/watch?v=QPFlGswpyJY
+	- Learn MongoDB in 50 minutes https://youtu.be/liocKBCVJyw?si=yeyh2mOPZRG1mTT7
+	- Learn MongoDB in 1 hour https://youtu.be/c2M-rlkkT5o?si=ogPR603GSc1dbQZF
+	- MongoDB Complete Tutorial (65) https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
+	- Database Sharding and Partitioning https://youtu.be/wXvljefXyEo?si=oFUBCel88bufGYjL
+	- MongoDB Aggregation Framework Tutorials https://youtube.com/playlist?list=PLYxzS__5yYQmr3HQQJMPBMbKtMY37sdsv&si=-Vt6CpAwRG9BhJa_
+	- MongoDB Crash Course 2026 (with Handbook) https://youtu.be/M1dKYQ7GsTg?si=srlo7QKPGPvUAXU1
+	- REST API using NodeJS and MongoDB https://youtube.com/playlist?list=PLdHg5T0SNpN3EoN3PEyCmPR42Ok_44OFT&si=DwdPxVeUJpM2mING
+	- MongoDB Tutorial For Beginners https://youtu.be/Www6cTUymCY?si=00f6mUVRYPpazar4
+	- mongo-DB https://www.youtube.com/playlist?list=PLVz2XdJiJQxzEDYrjG-31qrRYrKymm1Ab
+	- MongoDB tutorial in hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX
+	- MongoDB Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
+	- MongoDB Tutorial For Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIZ7owau3kb35LhzP-acBB5g
+	- Node.js MongoDB Tutorial https://www.youtube.com/playlist?list=PLS1QulWo1RIa_NV-WyzSzLd-T_Fzx67Oj
+	- MongoDB https://www.youtube.com/playlist?list=PLeVPKY-He4asKVH-ac6Jj5Fli5NaBmGMX
+	- Complete MongoDB Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+	- MongoDB User Authentication Authorization and Role (Hindi) https://youtu.be/JMPAzAgTfXU?si=WhidJUESAlbcBlq9
+	- MongoDB Complete Tutorial https://www.youtube.com/playlist?list=PL_euSNU_eLbfmDxRw-Gx45ow5MtBAM3YS
+	- MongoDB Complete Crash Course https://youtu.be/FjRapH7oyjY?si=X1Ao8aGkBUzGbUgO
+	- MongoDB Crash Course 2023 https://youtu.be/QPFlGswpyJY?si=U9DD0A6QWA-nym_P
+	- MongoDB Tutorial Series for Beginners https://www.youtube.com/playlist?list=PLQbmrL9zPupWbHoroCyHjtoIfiZKxiQsQ
+	- Complete MongoDB (Version 8) Course https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc
+	- Master MONGODB in ONE VIDEO [HINDI] https://www.youtube.com/watch?v=tww-gbNPOcA
+	- MongoDB Playlist in Hindi https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1
+	- Complete MongoDB Tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA

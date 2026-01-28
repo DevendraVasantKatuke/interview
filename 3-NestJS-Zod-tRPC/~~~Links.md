@@ -1,0 +1,114 @@
+- Middleware (https://echo.labstack.com/docs/category/middleware)
+		- Basic Auth, Body Dump, Body Limit, Casbin Auth, Context Timeout, CORS, CSRF, Decompress, Gzip, Jaeger, JWT, Key Auth, Logger, Method Override, Prometheus, Proxy, Rate Limiter, Recover, Redirect, Request ID, Rewrite, Secure, Session, Static, Trailing Slash
+	- Cookbook (https://echo.labstack.com/docs/category/cookbook)
+		- Auto TLS, Embed Resources, File Download, File Upload, Graceful Shutdown, Hello World, HTTP/2 Server Push, HTTP/2 Server, JSONP, JWT
+	- Others
+		- Error Handling, Sessions, Cookies, Load Balancing, Reverse Proxy, Server-Sent-Events (SSE), Streaming Response, Subdomain, Timeout, WebSocket, Background Job Workers, Mailers, Local Authentication, Third Party Authentication, Events, Localization, Logging, Websockets, Compression, HTTP/2 Push, Anti-bot CAPTCHA, Binary, Content Negotiation, MessagePack, Protobuf, Recorder, Stream
+	- Tutorials
+			- https://www.youtube.com/watch?v=8_X0nSrzrCw
+			- https://www.youtube.com/watch?v=21_I-12f5JE
+			- https://www.youtube.com/watch?v=GHTA143_b-s
+			- https://www.youtube.com/watch?v=sFnAHC9lLaw
+			- https://www.youtube.com/watch?v=t76UMpwFNs0
+			- https://www.youtube.com/playlist?list=PLXQpH_kZIxTWf_O-jsYCwg9IQCqIEvRtI
+			- https://www.youtube.com/playlist?list=PLU-FndeNRY4Ayuy07FaKwsE5cySlQU-Wg
+			- https://www.youtube.com/playlist?list=PLU-FndeNRY4DtRToRKmYF8qrZgQqzsnNR
+			- Add RBAC to Your Nest.js API in ~ 7 minutes https://www.youtube.com/watch?v=xd3LJqdU1ig
+			- Master NestJS Database with Repository Pattern https://youtu.be/mVSdivtfE1A?si=e-CxpqcSybGDvyNx
+			- The Right way to write Nest.js & Typescript clean-code - SOLID https://www.youtube.com/watch?v=vE74gnv4VlY
+			- Nest JS Advanced Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr
+			- Nest JS Master Course https://www.youtube.com/playlist?list=PLIGDNOJWiL186E2BIAofH6vbS9GxAWRle
+			- Nest JS Advanced Course 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL1-8hpXEDlD1UrphjmZ9aMT1
+	- Set project in NestJS Zod
+		- https://zod.dev/
+		- https://www.youtube.com/watch?v=8db7FZCY2Zo
+		- https://www.youtube.com/watch?v=L6BE-U3oy80
+		- https://www.youtube.com/watch?v=D46R2cykFt0
+		- https://www.youtube.com/watch?v=iR2Nm99CV20
+	- Set project in NestJS tRPC
+		- https://trpc.io/docs
+		- https://www.youtube.com/watch?v=VedrpVSstSY
+		- https://www.youtube.com/watch?v=nTXP9fz8lIQ
+		- https://www.youtube.com/watch?v=GuzZN-4kc3w
+	
+	- https://docs.nestjs.com/
+	- https://www.better-auth.com/
+	- https://wanago.io/
+	- Centralized Authentication in NestJS Microservices with TCP & API Gateway https://www.youtube.com/watch?v=iiSTB0btEgA
+	- NestJS Authentication & Authorization https://www.youtube.com/playlist?list=PLQbmrL9zPupXh-PNVc8AsCtI098JupFCi
+	- How to manage different config environment in Nest.js https://youtu.be/1dU6Sjw6vIc?si=UMRU3wAOYysiBEyv
+	- How to implement Caching in Nestjs https://www.youtube.com/watch?v=HUpVbvXSPwQ
+	- Role Based Authentication Nestjs https://www.youtube.com/watch?v=_JZ4_hjv7pE
+	- JSON Web Token Authentication in Nest.js https://www.youtube.com/watch?v=fW2hUMiiPFs
+	- Build your first MCP Server in NestJS https://www.youtube.com/watch?v=kqS5i6U-kHk
+	- https://github.com/Sairyss (4 repositories, Standards)
+	- Nest JS Microservices || 12 Factor App https://www.youtube.com/playlist?list=PLIGDNOJWiL18srI6BmFLfwDPvorTmyQ_c
+	- nodejs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLIGDNOJWiL1_SzJqkfxd-rcPBJBdFmWfw
+	- Nest JS Microservices with Monorepo Nx https://www.youtube.com/playlist?list=PLIGDNOJWiL1-zscX224pibRBb4RChTpgM
+	- Nestjs Crash Course for Beginners 2024 https://www.youtube.com/playlist?list=PLIGDNOJWiL18vQIXd4KdZjzBZN5YIpidI
+	- https://www.youtube.com/@NestJSSimplified/playlists
+	- https://www.youtube.com/@procademy/playlists
+	- Nest JS Full Course 2025 | Node JS Full Course | Part 4 https://www.youtube.com/watch?v=XVZ10uFY9DU&t=1324s
+	- NestJS, MySQL, TypeORM Crash Course https://www.youtube.com/watch?v=W1gvIw0GNl8
+	- NestJS Crash Course https://www.youtube.com/watch?v=xzu3QXwo1BU&t=37s
+	- NestJS Crash Course | Build Real-World REST API with TypeScript, PostgreSQL & Node.js https://www.youtube.com/watch?v=d_WqMEX6jIc&t=1861s
+	- Nestjs Full Course 2022 https://www.youtube.com/watch?v=Mgr5_r70OJQ&t=61s
+	- Nest.js Crash Course https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr
+	- NestJS Full Course 2024 https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR
+	- NestJS Crash Course https://www.youtube.com/watch?v=wqhNoDE6pb4
+	- NestJS Tutorial for Beginners to Advanced 2025 https://www.youtube.com/playlist?list=PL5OhSdfH4uDt6iG-qze_Q3qgik6VKHeRU
+	- Master NestJS with these Guides https://www.youtube.com/playlist?list=PLnsTzQ998QGQRY_8SaeMyd3_RuLyegJyx
+	- Node JS Full Course 2024 | Complete Backend Development Course | Part 1 https://www.youtube.com/watch?v=MIJt9H69QVc&t=7s
+	- Node JS Full Course 2025 | Microservices, Redis, CI CD, Docker, VPS Hosting | Hostinger | Part 2 https://www.youtube.com/watch?v=_f7h6xQXiLA&t=2014s
+	- Node JS Full Course 2025 | PostgreSQL, Prisma, Nest JS, Bun, Hono, Prometheus, Grafana | Part 3 https://www.youtube.com/watch?v=pa9xqOnorx0&t=15710s
+	- Master NestJS: The Ultimate Crash Course for Beginners! https://youtu.be/TVOuvr7c0pA?si=oxmCpU36_aO5KRpU
+	- Amazing NestJS - NestJS Framework (Hindi) https://www.youtube.com/playlist?list=PLqLR2H326bY6eRNOXJxWQkvKNlzmJQfLj
+	- Learn Nest.JS https://www.youtube.com/playlist?list=PLhnVDNT5zYN-GI_i8vwsUtQB4iI-8f4hx
+	- Nest.js with MongoDB - Complete Example https://www.youtube.com/watch?v=ulfU5vY6I78
+	- NestJS tutorial for Beginners https://www.youtube.com/playlist?list=PLS1QulWo1RIbihafA6GlwyvmwkHshmVyh
+	- NestJS Authentication Full Course https://www.youtube.com/playlist?list=PLhnVDNT5zYN-WbouwtijXKFZ1JsgBEY9Y
+	- NestJS Crash Course: Everything you need to know! https://www.youtube.com/watch?v=2n3xS89TJMI&t=5s
+	- Full NestJS Course with Projects || Hindi https://www.youtube.com/watch?v=O-957TuMgJA
+	- NestJs Tutorial In hindi https://www.youtube.com/playlist?list=PLVo1k_VwkKMyxkNyMFTtcMcfNHA3xKjZ0
+	- NestJS Tutorials for Beginners https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr
+	- NestJS Crash Course - Build a Complete Backend API https://youtu.be/BiN-xzNkH_0?si=BAiVtfURTjOhCeE3
+	- Nest.js Microservices with NATS, SQL, and Docker https://youtu.be/5HlsgPRcm3w?si=CEOTOFLK0M6CHkPx
+	- Nest JS Complete Tutorial With Projects https://www.youtube.com/watch?v=bZef6x9_xEI
+	- NestJS Tutorial For Beginners - Learn NestJS https://www.youtube.com/watch?v=BCl0p5gZ1yw
+	- NestJS https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB
+	- Nest JS Tutorial in Hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9aSTUPvXrQNBGR8S4J4dAdx
+	- [In-Depth] Nest.JS Tutorials https://www.youtube.com/playlist?list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK
+	- NestJS Microservices Architecture https://www.youtube.com/playlist?list=PLzHoH-EeZ8dcauaR9ABn7EDYwNrakig0g
+	- NestJS https://www.youtube.com/playlist?list=PLzHoH-EeZ8dcgCGMf3oPlkedhSH_2nyNP
+	- Next.js https://www.youtube.com/playlist?list=PLJ8v-58rML88ENSmWkjVfnDwfWk6t39oS
+	- Projects https://www.youtube.com/playlist?list=PLJ8v-58rML8-zpKQrRkDEN5Jb6jNpj7ou
+	- NestJS https://www.youtube.com/playlist?list=PLJ8v-58rML8_p8vCXjoGVCltwhkmgdMVd
+	- NestJS Advanced Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPcUDAmmEnuiFMrqcurNCs7
+	- Full Stack Swiggy Clone https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPrL1Qz2XXVtzvgxrYp7ms9
+	- Full Stack Clone Uber Eats https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMF7JqIV6OZZ9LYPGhqZjfS
+	- Microservices with Nest JS Node JS https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMsAZ7SiV7qksYLQbwIDHtY
+	- Master Course on Nest JS Node JS https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNu6Ibx1DAxRk4ofXYNc8mT
+	- Nest JS Advanced Course https://www.youtube.com/playlist?list=PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx
+	- Nx Monorepo for development https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPTzeblwMiC5XIqhzfbvztT
+	- Nest JS Microservices with Nx Monorepo https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMuxEkXfB8AgubNHCOy-zo0
+	- Airbnb FullStack Clone Application https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPnQrc6YSQmj1w9-uPgI0DJ
+	- Build Microservices in 2024 https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMHMbscUTeBhlIyu9PBaBP1
+	- Build Nest.js Microservices With RabbitMQ, MongoDB & Docker https://www.youtube.com/watch?v=yuVVKB0EaOQ
+	- nerstjs microservices with Performance Test https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMmfhUvFPiMhaLqqnCMU0lv
+	- nestjs microservices Architecture Patterns https://www.youtube.com/playlist?list=PLT5Jhb7lgSBM8D-w30f0OgqJzEpoNk0pB
+	- nestjs microservices with nestjs (kafka, rabbitmq, gPRC, TCP) https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPPxNKLB37PMOFzpfE2mOcV
+	- nestjs microservices Deployment (Docker, K8S, AWS) https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNw24oFF67p5QHYbDMOImji
+	- nestjs microservices with Monitoring https://www.youtube.com/playlist?list=PLT5Jhb7lgSBNJSUY34A8wQqZAlrJZFbfC
+	- nestjs microservices authentication type and authorisation https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPoVZSt4hIZMbrumpxkFKTs
+	- NestJS Crash Course Beginner to Advanced https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMEqOsbiGuKwntRY_SqWW6o
+	- Nestjs + NextJs - Build FullStack AI Pomodoro App https://www.youtube.com/playlist?list=PLQbmrL9zPupVCoE7KoB4VsVq7fg08kA3J
+	- Nestjs Postgres Prisma Tutorial Series https://www.youtube.com/playlist?list=PLQbmrL9zPupX6E8pqdLGggoqoBHa1ODOH
+	- RabbitMQ + NestJS Microservices Crash Course | A Simple Order Processing Project https://www.youtube.com/watch?v=j2S2gBoT7qc&t=22s
+	- NestJS Microservices Course https://www.youtube.com/playlist?list=PLhnVDNT5zYN-wg3QxqmlYs2mBwCn7v59D
+	- Nestjs Microservices #1 Authentication Flow Explained https://www.youtube.com/watch?v=hlsk_ibXpgg
+	- Nestjs Authentication Microservice #2 Create Authentication Microservice https://www.youtube.com/watch?v=jyDXgCFltaw
+	- NestJs Microservices Authentication #3 - Signup and Login Feature https://www.youtube.com/watch?v=mDwpaC8x8Hc
+	- NestJs Microservices Authentication #4 - JSON Web Token Authentication https://www.youtube.com/watch?v=6mXL7MD_Gc0
+	- Nestjs Microservices Authentication #5 Protect API Routes https://www.youtube.com/watch?v=wH2Zl1cZQls
+	- Nestjs Complete Tutorial | Nest JavaScript Framework https://www.youtube.com/playlist?list=PL2NZAYdLkYviHnr4kfw3bm0vANXA6dZ0k
+	- Comprehensive Nest JS Course: From Beginne https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2

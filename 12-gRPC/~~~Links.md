@@ -1,0 +1,5 @@
+	- https://grpc.io/
+		- gRPC in Node.js Explained | Beginner's Easy Guide https://youtu.be/5sFCKB8aCJA?si=BcoBREB5gwg2OeKs
+		- gRPC in Node.js Tutorial | Build Fast Microservices with Proto Files https://youtu.be/MCwgV9idOeY?si=IUuYZ7YqSO64PdTK	
+		- gRPC | Let's try Hands on https://youtu.be/iv9ylBYgACE?si=HiQEjMAKHEHS4ysA
+		- Implementing a gRPC client and server in Typescript with Node https://youtu.be/H0c4Wjl4kRQ?si=pHJwA6CYHciw2Vup

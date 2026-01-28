@@ -1,0 +1,22 @@
+		- https://knexjs.org/
+		- Node JS with Knex JS Postgres https://www.youtube.com/playlist?list=PLT5Jhb7lgSBP0-4Sm40LWm5nEclx1YbYG
+
+- SQL Crash Course for Beginners 2022 (MySQL & PostgreSQL) https://www.youtube.com/watch?v=DWtQU8VP3Hg
+	- https://blog.logrocket.com/node-js-orms-why-shouldnt-use/
+	- PostgresSQL (40) https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
+	- Database Normalization Explained | Master 1NF to 5NF Normalization Fast! https://youtu.be/ztiLSQMd6hc?si=gVCwQ6c5LuTVF1qi
+	- Data Governance Explained in 5 Minutes https://youtu.be/uPsUjKLHLAg?si=82RCZoCXe_WmVqtW
+	- Database Normalization: First, Second, & Third Normal Form https://youtu.be/GqOlxf676A0?si=6_Aify1VJSG2ln53
+	- Course | SQL Fundamentals with PostgreSQL https://youtube.com/playlist?list=PLOLrQ9Pn6caykER3hgdEajMiT-OnCicLK&si=N0SjmqQagBRCLGed
+	- Databases https://youtube.com/playlist?list=PLdNCznBZ77NogZNCTT5X397WynTHHk9vT&si=QqNbskMVeqr9aRJb
+	- Introduction to PostgreSQL https://youtube.com/playlist?list=PLHq1uqvAteVsnMSMVp-Tcb0MSBVKQ7GLg&si=TeblfwRRjXkXSl_4
+	- PosgresSQL Course https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS
+	- Learn PostgreSQL: Full Course for Beginners https://www.youtube.com/live/6DKA6oF9r2M?si=7OvpMUXWLPE2PoxH
+	- node-postgres Connection Pool https://youtu.be/tS264hwZn0Y?si=-0EDqYM38QjCVDZT
+	- Complete SQL Mastery https://www.youtube.com/playlist?list=PLOghUv2IDLKHKlkQNuzN8SPLYuVhhLlpa
+	- SQL Full Tutorial from Beginner to Advanced https://www.youtube.com/playlist?list=PLrFWmDe-rblqhaE9pSdEpF3hSiLqCM5qG
+	- https://www.youtube.com/@ScalingPostgres/videos
+	- https://knexjs.org/
+	- PostgreSQL High-Availability https://www.youtube.com/playlist?list=PLBrWqg4Ny6vVwwrxjgEtJgdreMVbWkBz0
+	- Master POSTGRESQL in ONE VIDEO https://www.youtube.com/watch?v=cnzka7kF5Zk&t=10488s
+	- PostgresSQL https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj

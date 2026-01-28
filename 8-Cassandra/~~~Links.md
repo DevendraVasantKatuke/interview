@@ -1,0 +1,1 @@
+https://cassandra.apache.org/doc/latest/

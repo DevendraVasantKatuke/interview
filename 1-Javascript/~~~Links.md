@@ -1,0 +1,481 @@
+- https://refine.dev/blog/tags/typescript/
+	- https://www.typescripttutorial.net/
+	- https://www.w3schools.com/typescript/index.php
+	- https://www.codechef.com/learn/course/advanced-javascript
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+	- https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_elements
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function*
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/await_using
+	- https://javascript.info/async
+	- https://www.learn-js.org/
+	- https://www.learn-ts.org/
+	- https://mimo.org/glossary/javascript
+	- https://mimo.org/glossary/typescript
+	- https://exploringjs.com/js/book/index.html
+	- https://exploringjs.com/es5/toc.html
+	- https://exploringjs.com/es6/index.html
+	- https://exploringjs.com/deep-js/toc.html
+	- https://exercism.org/tracks/javascript/exercises
+	- https://johnresig.com/apps/learn/
+	- https://ponyfoo.com/
+	- https://www.youtube.com/@AllThingsJavaScript
+	- https://www.promisejs.org/
+	- https://www.greatfrontend.com/
+	- https://www.codementor.io/@zacksiri/javascript-promise-api-basics-szmiuoinl
+	- https://blog.greenroots.info/introducing-promiviz-visualize-and-learn-javascript-promise-apis
+	- https://www.freecodecamp.org/news/javascript-promise-tutorial-how-to-resolve-or-reject-promises-in-js/
+	- https://www.joshwcomeau.com/javascript/
+	- https://www.youtube.com/@theavocoder/shorts
+	- https://www.youtube.com/@theavocoder/videos
+	- https://www.robinwieruch.de/blog/
+	- https://www.educative.io/answers
+	- https://www.educative.io/guide
+	- https://www.educative.io/blog
+	- https://stackabuse.com/search/?q=&type=article
+	- https://www.sudshekhar.com/blog/prototype-and-prototype-chain-in-javascript
+	- https://blog.sentry.io/wrap-javascript-functions/
+	- https://tutorial.techaltum.com/javascript.html
+	- https://tutorial.techaltum.com/nodejs.html
+	- https://tutorial.techaltum.com/mongodb.html
+	- https://tutorial.techaltum.com/mongoose.html
+	- https://www.webdevstory.com/guide-sync-async-js/
+	- https://www.quora.com/Why-callback-functions-are-asynchronous-in-JavaScript-How-do-they-work
+	- https://blog.stackademic.com/deep-dive-into-javascript-asynchronous-operations-understanding-callbacks-promises-and-316d9a934e70
+	- https://adrianmejia.com/callbacks-concurrency-in-javascript-node/
+	- https://dev.to/koladev/a-simple-guide-to-asynchronous-javascript-callbacks-promises-async-await-4m03
+	- https://metana.io/blog/asynchronous-javascript-callbacks-promises-and-async-await/
+	- https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
+	- https://www.geeksforgeeks.org/javascript/callbacks-vs-promises-vs-async-await/
+	- https://www.twilio.com/en-us/blog/developers/community/asynchronous-javascript-understanding-callbacks
+	- https://www.dezlearn.com/javascript-promises-async-awaits-callbacks/
+	- https://javascript.plainenglish.io/mastering-asynchronous-javascript-callbacks-promises-and-async-await-dd037fd7bc04
+	- https://medium.com/@AnaghTechnologies/asynchronous-processes-and-callback-functions-in-javascript-99075c83e7af
+	- https://chhakulizingare.hashnode.dev/javascript-callback-function-simply-explained
+	- https://www.infoworld.com/article/2257926/asynchronous-javascript-callbacks-and-promises-explained.html
+	- https://dmitripavlutin.com/javascript-callback/
+	- https://codefinity.com/courses/v2/e3664631-639c-41a1-aa8a-f384b364de15/bfae4c31-0d27-4fa3-89f5-99682af4f743/873a5e8a-7b60-413c-8662-50abd655a4aa
+	- https://builtin.com/software-engineering-perspectives/callback-function
+	- https://maximorlov.com/synchronous-vs-asynchronous-callbacks/
+	- https://blog.bitsrc.io/journey-from-callbacks-to-promises-to-async-await-6fcd7f7fa3c5
+	- https://www.toptal.com/developers/javascript/asynchronous-javascript-async-await-tutorial
+	- https://www.digitalocean.com/community/tutorials/understanding-the-event-loop-callbacks-promises-and-async-await-in-javascript
+	- https://medium.com/@developervick/mastering-javascript-callbacks-a-deep-dive-into-asynchronous-operations-fef23a995526
+	- https://blog.risingstack.com/asynchronous-javascript/
+	- https://www.linkedin.com/pulse/mastering-callbacks-promises-asyncawait-javascript-adekola-olawale-mdhzf/
+	- https://dhis2-app-course.ifi.uio.no/learn/javascript/async/callbacks/
+	- https://ui.dev/async-javascript-from-callbacks-to-promises-to-async-await
+	- https://www.geeksforgeeks.org/javascript/asynchronous-javascript/
+	- https://eloquentjavascript.net/11_async.html
+	- JavaScript: Under The Hood https://www.youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB
+	- JavaScript Basic + Advanced + ES6 Tutorial in Hindi https://www.youtube.com/playlist?list=PLolI8AY2AS9YBo2MsLpFqSfws1UwzmcQe
+	- Javascript https://www.youtube.com/playlist?list=PLrOmLLDpZg9PMOZdk3LNlp1g5xM0KL1Hf
+	- What will be the output? https://www.youtube.com/playlist?list=PLBxoNyjx7V0CdRKfSOrWDc7tzyWAYs_ha
+	- JS Codes https://www.youtube.com/playlist?list=PLBxoNyjx7V0BbT0qXf4KVxZ2F6wEqixu2
+	- Dev Ninja Moves https://www.youtube.com/playlist?list=PLBxoNyjx7V0CMuJpXDuFpt2SF-fryACsq
+	- Asynchronous JavaScript (2020 version) https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu
+	- Object Oriented JavaScript https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7
+	- javascript code tricks https://www.youtube.com/playlist?list=PL8p2I9GklV47SB9hjXCO1VsVAGPNu9Tgg
+	- Advanced javascript tutorial in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV45z6Cov4omIOsbptPR1kxpg
+	- Ecma script tutorial in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV46wKSUuvqBsBtU1gv9gSKKG
+	- JavaScript https://www.youtube.com/playlist?list=PL0X6fGhFFNTcBB9N4fPyMgtOxfvyujiEh
+	- Regular Expressions in JavaScript https://www.youtube.com/playlist?list=PL_euSNU_eLbeaiP8KiMHZjeD4spiJpZmf
+	- JavaScript tutorials https://www.youtube.com/playlist?list=PL_euSNU_eLbduec7Ki4kAp2KrSCytwkjh
+	- Complete ECMAscript6 (ES6 | ES2015) Course https://www.youtube.com/playlist?list=PL_euSNU_eLbfIr88Sgtalv4W58mTW07V4
+	- JavaScript for Absolute Beginners https://www.youtube.com/playlist?list=PLFGoYjJG_fqqJC5ODNTPLhv5MUKVkYakh
+	- JavaScript Tutorial Series https://www.youtube.com/playlist?list=PLBg2PQNi6uvml8DlggsQxRiPPk5ZVfCrt
+	- Promises In Javascript - callback hell, async await,.then() & .catch() https://youtu.be/CyZGdPPjwDA?si=jphjVLEF3eVxacmu
+	- Promise Interview Questions And Answers https://youtu.be/3Hgac-wHiRE?si=4ofuVb7SIWiexYP9
+	- What is Memoization in Javascript? https://youtu.be/OcAvFE6kZAA?si=K9z91R2t2XmL5tnM
+	- JavaScript 30-Day Challenge https://www.youtube.com/playlist?list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz
+	- Building a JavaScript application https://www.youtube.com/playlist?list=PLBAZWBMYeVYgE8HAMlxU3haWEMz0Tx0Lp
+	- JAVASCRIPT TUTORIALS https://www.youtube.com/playlist?list=PLVvjrrRCBy2IeK_wtxbxtwg89KWVNn2Sa
+	- PROGRAMMING CONCEPTS https://www.youtube.com/playlist?list=PLVvjrrRCBy2LS3TfbE4ZjXbYy4eECQjuc
+	- JAVASCRIPT CLASSES TUTORIALS https://www.youtube.com/playlist?list=PLVvjrrRCBy2I2eE1e1yOuhts2oTvWesMy
+	- JAVASCRIPT PROMISES TUTORIALS https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSPVPlRmdiWnZ-c6PlzEVA
+	- WEBSOCKETS TUTORIALS https://www.youtube.com/playlist?list=PLVvjrrRCBy2I4V6nsCxwO03Y8GHaT-izr
+	- JAVASCRIPT MUST KNOW https://www.youtube.com/playlist?list=PLVvjrrRCBy2L5Tyg-CunjpBhcKMZt4Z94
+	- CodeWars - JavaScript https://www.youtube.com/playlist?list=PLVvjrrRCBy2JvwwBWDmth0tJpebLjgNqS
+	- In 2 Minutes — JavaScript https://www.youtube.com/playlist?list=PLVvjrrRCBy2J6s41a5EJzDgtiC8GCnmX6
+	- https://www.letscodejavascript.com/
+	- https://www.simplilearn.com/tutorials/javascript-tutorial
+	- https://www.simplilearn.com/resources/software-development
+	- https://www.digitalocean.com/community/tags
+	- https://www.digitalocean.com/community/tags/tutorial-series
+	- https://www.digitalocean.com/community/tags/javascript
+	- https://webreference.com/
+	- https://www.almabetter.com/bytes/tutorials
+	- https://www.almabetter.com/bytes/articles
+	- https://www.almabetter.com/bytes/cheat-sheet
+	- https://codeparrot.ai/blogs
+	- https://www.alooba.com/skills/programming-languages/javascript-49/
+	- https://www.naukri.com/code360/library/javascript
+	- https://www.sitepoint.com/blog/
+	- https://www.tutorialspoint.com/javascript/index.htm
+	- https://www.tutorialspoint.com/es6/index.htm
+	- https://www.naukri.com/code360/library/javascript
+	- https://jscrambler.com/blog
+	- https://blog.openreplay.com/
+	- https://neetcode.io/
+	- https://www.reactsquad.io/reactsquad-blog-all-posts
+	- https://jrsinclair.com/web-development/
+	- https://codedamn.com/problem-list/javascript-logic-building?page=1
+	- https://www.topcoder.com/thrive
+	- https://www.topcoder.com/thrive/tracks?tax=Recursion&track=Competitive%20Programming
+	- https://www.w3schools.com/js/default.asp
+	- https://blog.frankmtaylor.com/category/web/code-and-development/javascript/
+	- https://github.com/leonardomso/33-js-concepts
+	- https://javascript.info/
+	- https://www.programiz.com/javascript
+	- https://www.smashingmagazine.com/category/javascript/
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+	- https://developer.okta.com/blog/
+	- https://dmitripavlutin.com/
+	- https://dmitripavlutin.com/all-posts/
+	- https://www.codeguage.com/v1/courses
+	- https://www.wscubetech.com/resources
+	- https://www.educative.io/guide
+	- https://builtin.com/tag/software-engineering-perspectives
+	- https://refine.dev/blog/tags/tutorial/
+	- https://www.scaler.com/topics/hubs/
+	- https://frontendmasters.com/blog/tag/javascript/
+	- https://www.simplethread.com/blog/
+	- https://blog.logrocket.com/
+	- https://thecodebarbarian.com/
+	- https://www.trevorlasn.com/
+	- https://skillcraft.ai/
+	- https://www.javascripttutorial.net/
+	- https://web.dev/javascript
+	- https://web.dev/learn/javascript
+	- https://web.dev/articles/javascript-this
+	- https://www.fullstackfoundations.com/blog
+	- https://www.scaler.com/topics/javascript/
+	- https://www.scaler.com/topics/courses/
+	- https://www.zhenghao.io/posts
+	- https://mithle.sh/
+	- https://www.youtube.com/playlist?list=PLjCYFwDcjeM7cNomPSsdQYOHE4i3WbC0u
+	- https://www.javascripttutorial.net/
+	- https://dev.to/
+	- https://upmostly.com/tutorials
+	- https://javascript-in-30-words.netlify.app/
+	- https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
+	- https://github.com/topics/javascript-concepts
+	- https://xbsoftware.com/blog/7-javascript-concepts/
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+	- https://www.30secondsofcode.org/collections/p/1/
+	- https://reintech.io/blog
+	- https://www.educative.io/explore
+	- https://www.youtube.com/@codewithjay
+	- https://byby.dev/javascript
+	- https://babeljs.io/docs/learn
+	- https://humanwhocodes.com/books/
+	- https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3
+	- https://projecteuler.net/archives
+	- https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/
+	- https://github.com/malgamves/CommunityWriterPrograms
+	- https://esdiscuss.org/
+	- https://www.dennisokeeffe.com/
+	- https://slothbytes.beehiiv.com/
+	- https://bytebytego.com/exercises/coding-patterns
+	- https://craftbettersoftware.com/p/unit-testing-what-exactly-is-a-unit
+	- https://blog.logrocket.com/react-infinite-scroll/
+	- Writing Clean JavaScript https://youtube.com/playlist?list=PL0iFifR5umcmk05cCPf9_e8n-3wXuRQ8L&si=ht1rQGiAvBtpF164
+	- JavaScript Tips & Tricks https://youtube.com/playlist?list=PL0iFifR5umclMa0ySiALLWFEd1fmK0yNd&si=LJObictf21cpOk68
+	- JavaScript https://youtube.com/playlist?list=PL0X6fGhFFNTcBB9N4fPyMgtOxfvyujiEh&si=LE5FpXtQijCi7Ofy
+	- OOP - Javascript https://youtube.com/playlist?list=PLXQpH_kZIxTWQfh_krE4sI_8etq5rH_z6&si=A7FyD840nqkduA0v
+	- JavaScript Complete course https://www.youtube.com/playlist?list=PLXQpH_kZIxTV7slsiwQarBEVXHgQWDhLQ
+	- 100 Seconds of Code https://www.youtube.com/playlist?list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN
+	- JavaScript indexing; the WRONG way https://youtu.be/-O6MoH6pJ-s?si=uptr_4de3RAyujY_
+	- Ultimate Javascript Tutorials https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv
+	- Complete ECMAscript6 (56) https://www.youtube.com/playlist?list=PL_euSNU_eLbfIr88Sgtalv4W58mTW07V4
+	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa
+	- https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
+	- https://www.youtube.com/playlist?list=PL3rNcyAiDYK1fUOYO83KOfF-NriBRAERV
+	- https://www.youtube.com/playlist?list=PL7ersPsTyYt1t3I-ehKTNsRj8tSAdofZC
+	- https://www.youtube.com/playlist?list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM
+	- https://www.youtube.com/playlist?list=PLQOMi2yb4hF3msFEfZuNNXNlXT1D-oMub
+	- https://www.youtube.com/playlist?list=PLQOMi2yb4hF2_mzvBK9g0efyHMTIw7Jrc
+	- https://www.youtube.com/playlist?list=PLQOMi2yb4hF0kyhFOcgDWvWkonMDLquqy
+	- https://www.youtube.com/playlist?list=PLQOMi2yb4hF2kQ5Axv_tdznWLInV5qj8M
+	- https://www.reddit.com/r/typescript/comments/ebb3oa/completely_dont_understand_the_purpose_of/
+	- https://gist.github.com/amysimmons/3d228a9a57e30ec13ab1
+	- https://justinfagnani.com/
+	- https://youtu.be/Hj_rA0dhr2I?si=9oLjNY_avC3f-jmA
+	- https://youtu.be/lvdKvb6tvh4?si=2tRKeKhAB9CO3vjx
+	- https://youtu.be/TVw9ENfQk10?si=2V_Xn-NgTYZlpnly
+	- https://youtu.be/Y3e9jB3_s-o?si=KTylfWzX50LYz4eW
+	- https://youtu.be/O9v10jQkm5c?si=w61M-iT3ZWvLpgqS
+	- https://youtu.be/WNrHrwm1wkU?si=wWcaP5zIFSjI0xDy
+	- https://youtu.be/MpwygIqcJhc?si=0UI8GVyntc5t_5jK
+	- https://youtu.be/jKd_w6LN-5U?si=BoBynABsz6EE7ITD
+	- https://youtu.be/2pHQdjgSVUk?si=oyzWWvs29mmV5BEC
+	- https://youtu.be/tefDg3kBcow?si=3H-TmlicBP7Cyh6S
+	- https://youtu.be/eiC58R16hb8?si=zBgTWpDHeTGfK1nL
+	- https://youtu.be/SKrHs03i08Q?si=fkMj6_iJsSJqMc3q
+	- https://youtu.be/VaH09NXQZ58?si=dS6Km19k9gyTqfhb
+	- https://youtu.be/ranuTFXPgbw?si=MlccHPvpQwzXVTyz
+	- https://youtu.be/8VsjB1DFWeg?si=QuFT4BnCP_1xjUfE
+	- https://youtu.be/-VEXOaatbnk?si=TfcRQvEoNXtGrhJO
+	- https://youtu.be/TPEv_kozB_s?si=FyfuZPl-nUgVsv9a
+	- https://youtu.be/T7t27SSe0wQ?si=CCReEicZ7BAKTBt4
+	- https://youtu.be/SMNzn0x8gAE?si=bhqJxZ_tJS72FGlc
+	- https://youtu.be/P9Ldx1eTlRc?si=YkgwUtCziFym_8Fi
+	- https://youtu.be/0hxi-Eazz2Y?si=vlmC8mFg-PQUbm9z
+	- https://youtu.be/ngCos392W4w?si=RsKQxPDzkF8rodld
+	- https://youtu.be/O9v10jQkm5c?si=dQJixYS_CWTxrqwz
+	- https://www.youtube.com/live/_-jcg2egB1A?si=XaUMqbUiyIMGQis6
+	- https://youtu.be/KwBuV7YZido?si=FpF7ehgLMIcdtKTV
+	- https://youtu.be/4LqGJcPWcbU?si=LaZeo39ZEbZAn_-2
+	- https://youtu.be/8_tFfRj4NE0?si=sKfa9TRG7CSfJyHL  (https://www.youtube.com/@rahuulmiishra)
+	- https://youtu.be/W-Szy00-g_8?si=DQwj6QRLlR7PvCSQ
+	- https://youtu.be/j1laALb8OVM?si=IpGZpLed5dsNhZTR
+	- https://youtu.be/e5E8HHEYRNI?si=vxgx2z1dK7AIOjJ0
+	- https://youtu.be/lXVr3IlPL1I?si=cSF1pBYJF2EwbHRB
+	- https://youtu.be/HRP-5MS9DkQ?si=kFajWD7To54P0Nlm
+	- https://youtu.be/9jl1lhFylJs?si=9gWRVwF2Pv8HkAGa
+	- https://youtu.be/KMaodk7j4Q8?si=t9U7Qk4HL9JYTWYB
+	- https://youtu.be/XcSmNcmMTww?si=gpn_CA31E0NU1Mx9
+	- https://youtu.be/pZUTdw6zcck?si=3QZ1_gx7btlYidfB
+	- https://youtu.be/kMYBKiapc14?si=astF5qrE0rebwKVj
+	- https://youtu.be/yjzIYUwp5uI?si=VSp-FYIvdNpB0SvW
+	- https://youtu.be/rivBfgaEyWQ?si=lQf9ZqxwRxXKiXEC
+	- https://youtu.be/qxICCY9eNwk?si=0Achq1duqo75nEvW
+	- https://youtu.be/lb14uZ3SGLM?si=pUWsCL8XvuPwqduF
+	- https://youtu.be/wBtPGnVnA9g?si=BkoTwoxm-FyCo5XJ
+	- https://youtu.be/dhOO53JjqUM?si=yKBQpPO5JR7214dI
+	- https://youtu.be/-J2lmN-DC3k?si=Ow5g4QH_NNIs2Ysr
+	- https://youtu.be/de0_9txuudQ?si=22fdYV89kpX2m4yt
+	- https://youtu.be/DjYZk8nrXVY?si=hluZGemukHd2NKWu
+	- Code Smells to Clean Code in JavaScript – Tutorial https://youtu.be/626BcUO84og?si=xhrl_nP0DbdL0H3d
+	- JavaScript tutorials (29) https://www.youtube.com/playlist?list=PL_euSNU_eLbduec7Ki4kAp2KrSCytwkjh
+- JavaScript Interview
+	- Callback
+		- https://www.youtube.com/watch?v=IYoTF9APsMI
+		- https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/
+		- https://medium.com/@mdsiaofficial/callback-function-in-javascript-f381d77ea8fb
+		- https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/
+		- https://www.reddit.com/r/learnjavascript/comments/yz869i/please_help_me_understand_callback_functions/
+		- https://teamtreehouse.com/community/return-vs-callback-javascript
+		- https://stackoverflow.com/questions/3458553/javascript-passing-parameters-to-a-callback-function
+		- https://www.sitepoint.com/callbacks-javascript/
+		- https://www.topcoder.com/thrive/articles/what-is-a-callback-function-in-javascript
+		- https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+	- Closure
+		- https://softwareengineering.stackexchange.com/questions/203507/whats-so-useful-about-closures-in-js
+		- https://thecontentauthority.com/blog/callback-vs-closure
+		- https://medium.com/@mohdtalib.dev/callback-in-javascript-the-what-why-and-how-80efa5ee3510
+		- https://medium.com/@charliekroon/closures-and-callbacks-in-javascript-a56647d14ab2
+		- https://stackoverflow.com/questions/615907/how-is-a-closure-different-from-a-callback
+		- https://medium.com/@punitkmr/whats-is-callbacks-closure-promises-and-async-await-a8d47eb83862
+		- https://www.reddit.com/r/learnjavascript/comments/1cnxvfg/does_callback_function_always_creates_a_closures/
+		- https://www.quora.com/Whats-the-difference-between-closures-callbacks-and-anonymous-functions
+		- https://www.quora.com/Are-callback-functions-in-JavaScript-a-form-of-closure-How
+		- https://www.educative.io/answers/how-to-streamline-javascript-with-lambda-expressions-and-closures
+	- this
+		- https://www.youtube.com/watch?v=n1-2zA8kV8U
+		- https://medium.com/codex/understanding-this-in-javascript-the-complete-guide-c4c21fe15ff8
+		- https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/#heading-what-is-the-bind-method-in-javascript
+		- https://www.reddit.com/r/learnjavascript/comments/1ib94xu/this_keyword_in_javascript/
+		- https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
+		- https://medium.com/tech-tajawal/javascript-this-4-rules-7354abdb274c
+	- Decorator
+		- https://www.youtube.com/playlist?list=PL_L_J_Lv0U2pVE0kO1RiYId_SISfUXa-c
+		- https://medium.com/@artemkhrenov/the-decorator-pattern-in-modern-javascript-adding-functionality-without-breaking-code-b43d9c237047
+		- https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841
+		- https://dev.to/frehner/composing-javascript-decorators-2o38
+	- Currying
+		- https://medium.com/@kevincennis/currying-in-javascript-c66080543528
+		- https://stackoverflow.com/questions/113780/javascript-curry-what-are-the-practical-applications
+		- https://blog.logrocket.com/understanding-javascript-currying/
+		- https://meenumatharu.medium.com/unwrapping-the-magic-of-currying-in-javascript-603a69e28af9
+		- https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/
+		- https://www.reddit.com/r/learnprogramming/comments/12j2s9y/why_use_currying/
+		- https://javascript.plainenglish.io/understanding-currying-function-in-javascript-c3e1c92b7579
+		- https://javascript.plainenglish.io/infinite-currying-in-javascript-f17ec1619568
+	- Proxy, Reflect
+		- 3 Examples of using Proxy and Reflect API in JavaScript https://youtu.be/yj56BCWiE28?si=hx2SJtNxDTzJYw4u
+		- Why use a proxy object? https://youtu.be/GL3XgJ7vWdo?si=oOIV-nj2vSDYey2p
+		- A Practical Guide to JavaScript Proxy Objects https://youtu.be/cH2oWB2dNIU?si=7jajIqo7K8v0-ahf
+		- Proxies (ES6) https://youtu.be/vExLi5bTt3k?si=wJJidq6AkcKUUY-I
+		- Actual use case for JavaScript PROXY! https://youtu.be/9jl1lhFylJs?si=pg2m9LgbWroZk5ay
+		- https://medium.com/@ignatovich.dm/understanding-javascript-proxy-object-9129f44c88d7
+		- https://www.freecodecamp.org/news/javascript-proxy-object/
+		- https://rehmat-sayany.medium.com/understanding-javascript-proxy-objects-cf4ce35452fe
+		- Building reactive systems with Proxies and Reflects https://youtu.be/4jV2CosUGhw?si=n3SVjeXy3FWMDKWB
+	- mixins
+		- https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
+		- https://stackoverflow.com/questions/860245/mixin-vs-inheritance
+		- https://medium.com/@michalistzikas/inheritance-vs-mixins-b57a95a32505
+		- https://blog.bitsrc.io/inheritance-abstract-classes-and-class-mixin-in-javascript-c636ac00f5a9
+		- https://www.reddit.com/r/learnprogramming/comments/1f92hw1/what_is_inheritance_tax_and_why_are_mixins_a/
+		- https://www.linkedin.com/pulse/understanding-mixins-javascript-laurence-svekis--v63xc/
+		- https://medium.com/@mariappan/mixins-in-javascript-simplified-58782141519b
+		- https://stackoverflow.com/questions/42247434/how-to-add-mixins-to-es6-javascript-classes
+		- https://blog.bitsrc.io/mixin-in-javascript-7a7eaa6d4920
+	- Prototype
+	- Slice
+	- Splice,
+	- Throttle, Debounce
+	- Iterator, Generators
+		- Learn JavaScript Generators In 12 Minutes https://youtu.be/IJ6EgdiI_wU?si=cQXoUkbJS58drqHX
+		- https://medium.com/simform-engineering/iterators-and-generators-in-javascript-22da731b7fe3
+		- https://stackoverflow.com/questions/28739745/how-to-make-an-iterator-out-of-an-es6-class
+		- https://www.qed42.com/insights/implementing-iterators-and-generators-in-javascript
+		- https://medium.com/@ignatovich.dm/understanding-javascript-generators-with-practical-examples-947ab3d89421
+		- https://www.reddit.com/r/javascript/comments/yojg3z/why_would_anyone_need_javascript_generator/
+		- https://neuralsorcerer.medium.com/understanding-generators-in-javascript-an-in-depth-guide-with-examples-e398937b6a19
+		- https://stackoverflow.com/questions/78913849/understanding-the-need-for-generator-functions-in-javascript
+		- https://www.linkedin.com/pulse/using-javascript-generators-yield-promises-vladim%C3%ADr-gorej/
+		- https://stackoverflow.com/questions/20768922/javascript-generators-understanding-them
+		- https://stackoverflow.com/questions/53894639/why-does-javascript-iterator-next-return-an-object
+		- https://www.reddit.com/r/learnjavascript/comments/xdeou7/could_someone_eli5_what_iterators_and_generators/
+		- https://www.greatfrontend.com/questions/quiz/what-are-iterators-and-generators-and-what-are-they-used-for
+		- https://mimo.org/glossary/javascript/iterator
+		- https://www.programiz.com/javascript/iterators-iterables
+		- https://dev.to/mpodlasin/iterables-iterators-an-in-depth-javascript-tutorial-5eh2
+		- https://www.codeguage.com/v1/courses/advanced-js/iteration-iterators
+	- Symbols
+		- https://rahuulmiishra.medium.com/symbols-in-javascript-beyond-strings-and-numbers-for-unique-identity-68033188839b
+		- https://stackoverflow.com/questions/60048014/what-do-people-use-symbol-functions-in-javascript-for
+		- https://javascript.plainenglish.io/mastering-symbol-iterator-build-your-own-iterable-in-javascript-1414a9e7767d 
+		- https://www.freecodecamp.org/news/how-did-i-miss-javascript-symbols-c1f1c0e1874a/
+		- https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c
+		- https://www.reddit.com/r/javascript/comments/j1tgh0/who_needs_javascript_symbols/
+	- SOLID
+	- Dependency Injection https://appliedgo.net/di/
+	- Clean Code https://blog.cleancoder.com/
+	- Javascript top 500 Interview Questions https://www.youtube.com/playlist?list=PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv
+	- Typescript interview question In Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44tAjAUneicbZPjoYSe3VUd
+	- Frequently asked JavaScript Interview Questions https://www.youtube.com/playlist?list=PLU-tOA_pABIlrx_wRdRNS3ZNs-quXMP9P
+	- Lydia Halle Javascript tricky questions
+	- Sudhirji
+	- https://www.youtube.com/@theavocoder
+	- https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
+	- Javascript Interview Question https://www.youtube.com/playlist?list=PLinedj3B30sDi0keEOQU3n5p3Op28eN2e
+	- JavaScript Interview Questions https://www.youtube.com/playlist?list=PLinedj3B30sDofFbjtCBqbj2l68UHv5Zr
+	- Interview Printing Patterns https://www.youtube.com/playlist?list=PLBxoNyjx7V0Cj4TETn4Za-4V9sJ0WWV12
+	- Javascript Interview questions in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV44pN_8iYi2pPl2Gw4Pwb70f
+	- JavaScript Interview Questions Hindi - Short https://www.youtube.com/playlist?list=PL8p2I9GklV45vViIWw-RWxMneChzo7tzp
+	- Javascript Interview questions https://www.youtube.com/playlist?list=PLXQpH_kZIxTVwiGpOqnkFb1-aHMIai7ld
+	- https://www.thatjsdude.com/interview/js1.html
+	- https://www.thatjsdude.com/interview/js2.html
+	- https://www.thatjsdude.com/interview/dom.html
+	- https://www.thatjsdude.com/jsConcepts/concepts/scope.html
+	- https://www.thatjsdude.com/jsConcepts/concepts/this.html
+	- https://www.thatjsdude.com/jsConcepts/concepts/array.html
+	- https://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/
+	- JS Interview Questions https://www.youtube.com/playlist?list=PLIGDNOJWiL18m9eEwA6K5GqFx6C6-eht8
+	- Design Pattern in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL19ybjwD69t3G2yrQ9a0Pbij
+	- Writing Clean Code in Javascript https://www.youtube.com/playlist?list=PLIGDNOJWiL1_rJsSXnWH1YMxaPuWaDL44
+	- Javascript Quiz for Interviews https://www.youtube.com/playlist?list=PLIGDNOJWiL1_3vYHL_Ka3WlF5rATsStB_
+	- Learn Javascript, Crash Course https://www.youtube.com/playlist?list=PLIGDNOJWiL1-42-wM9jfgN364lzxwFFI2
+	- Javascript Lessons Everyday https://www.youtube.com/playlist?list=PLIGDNOJWiL19go98IKaQ4sqThyi2V67JG
+	- https://www.tutorialsteacher.com/typescript
+	- https://www.tutorialspoint.com/typescript/index.htm
+	- https://www.typescripttutorial.net/
+	- https://www.programiz.com/typescript
+	- https://www.learn-ts.org/#google_vignette
+	- https://www.scaler.com/topics/typescript/
+	- https://www.typescriptlang.org/docs/handbook/intro.html
+	- https://www.typescriptlang.org/play/
+	- https://www.totaltypescript.com/books/total-typescript-essentials
+	- https://www.totaltypescript.com/tutorials
+	- https://www.totaltypescript.com/tips
+	- https://www.totaltypescript.com/articles
+	- https://www.totaltypescript.com/concepts
+	- Complete TypeScript Course https://www.youtube.com/playlist?list=PL_euSNU_eLbfJEwuNa43lM89yfev537Mj
+	- TypeScript Tutorial in Hindi 2025 | Most Detailed explanations https://www.youtube.com/playlist?list=PL8p2I9GklV44fWXJGEsBvR_ylJClgdVAN
+	- TypeScript Fundamentals https://www.youtube.com/playlist?list=PL0teIBDEuMdvJ00wZHMSaqvI4h5EZXBf1
+	- https://www.geeksforgeeks.org/courses/category/programming-languages
+	- Different Programming Paradigms with Examples Using JavaScript https://youtu.be/PNjFzvEG0E4?si=MyvifEQ23--ii90R
+	- Solve This Classic Bracket Problem Like a Pro https://www.youtube.com/watch?v=HrNXLvWA6l4
+	- Functional Programming in Javascript https://www.youtube.com/playlist?list=PLzHoH-EeZ8dfyW_9J1skD9Dx_nftGZ-W5
+	- http://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
+	- Daily Javascript Lessons https://www.youtube.com/playlist?list=PLT5Jhb7lgSBMbcbZGQPJc20dkbswRr3Il
+	- Just JavaScript https://www.youtube.com/playlist?list=PL_L_J_Lv0U2r6AV7Q9CfI8JgRAxIv4Yvk
+	- Big O Notation https://youtu.be/4QdZAlZfqyY?si=90494qvdgBAVZsEk
+	- Data Structure Visualizations https://www.youtube.com/playlist?list=PLlDftNlvPbFD8I9W4gFnMXYXiLqpVvsEB
+	- Typescript Data Structures https://www.youtube.com/playlist?list=PLfYKys3TeaG-d49yuRJcnQlw4ijsmqc6I
+	- https://www.dofactory.com/javascript/design-patterns
+	- https://www.dofactory.com/javascript
+	- https://refactoring.guru/
+	- https://www.patterns.dev/
+	- https://javascriptpatterns.vercel.app/patterns
+	- https://js-design-patterns.vercel.app/#0
+	- https://design-patterns-101.vercel.app/
+2. Javascript Data Structures and Algorithms
+	- Javascript Data Structures and Algorithms (3) https://www.youtube.com/playlist?list=PL_euSNU_eLbcUD3E9Wt-TlJmSrYcdG324
+	- https://visualgo.net/en
+	- https://www.simplilearn.com/tutorials/data-structure-tutorial
+	- https://herovired.com/learning-hub/blogs
+	- https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+	- https://www.naukri.com/code360/library/data-structures-and-algorithms
+	- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+	- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+	- https://courses.algocamp.io/learn/DSA-In-Javascript
+	- https://www.geeksforgeeks.org/learn-data-structures-with-javascript-dsa-tutorial/
+	- https://github.com/trekhleb/javascript-algorithms
+	- https://www.scaler.com/topics/data-structures-in-javascript/
+	- https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
+	- Data Structures & Algorithms https://youtube.com/playlist?list=PLdNCznBZ77NrSAWDpUKIqxy6uYLnh-UJ-&si=GANzCnYh2sZTXK4G
+	- How To Implement Linked Lists With Test Driven Development In JavaScript https://youtu.be/gJjPWA8wpQg?si=0rODpQA3eiNqEmho
+	- Master Data Structures & Algorithms https://www.youtube.com/playlist?list=PLA3GkZPtsafYzRj2lk6OyquJtRXoDLR_S
+	- Data Structure and Algorithms Tutorials https://www.youtube.com/playlist?list=PLS1QulWo1RIaITXKLNSVR3XMJU_LtWY5B
+	- Data Structures and Algorithms https://www.youtube.com/playlist?list=PLOghUv2IDLKEt0fAfJONhUdImcgoNIoc3
+	- Data Structures and Algorithm With JavaScript in Hindi https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7
+	- Tutorial https://www.youtube.com/playlist?list=PLBjlBpv1-OTKGymFhf8ngL-4DC__mT6IY
+	- Algorithm https://www.youtube.com/playlist?list=PLBjlBpv1-OTLC95ycD9_7LYO3zRszKiVj
+	- Data Structures and Algorithms https://www.youtube.com/playlist?list=PLqR6Wq9GKBiuuxxkMlwYIjCm6l67waNaI
+	- Data Structure & Algorithm https://www.youtube.com/playlist?list=PLFGoYjJG_fqpNW4onglHmxyLHfs4pKAjc
+	- All Sorting Algorithms https://www.youtube.com/playlist?list=PLFGoYjJG_fqpVtMswMMWcY0WUuYqySiZ5
+	- Shorts https://www.youtube.com/@VijayDahiyaDeveloper/shorts
+	- Typescript DSA Course https://www.youtube.com/playlist?list=PLa72FipivD81DkPyKlsG99XAGVbnMfToV
+	- JavaScript Algorithms and Data Structures https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP
+	- Intro to Data Structures https://www.youtube.com/playlist?list=PLGdfV5UgThVNvC0woabFLkK4gggNU5pak
+	- Data Structures Playlist https://www.youtube.com/playlist?list=PLlDftNlvPbFAjpAItCWvIIJX68sav9-6N
+3. JavaScript Patterns
+	- https://www.scholarhat.com/tutorial/javascript/javascript-design-patterns
+	- Dependency Injection in Javascript https://www.youtube.com/watch?v=F9ZEZRGYWr8
+	- Singleton Design Pattern In Javascript https://www.youtube.com/watch?v=7u_7Gfczycc
+	- Observer Design Pattern In Javascript https://www.youtube.com/watch?v=7_T97F-2KQ4
+	- Proxy Design Pattern in Javascript https://www.youtube.com/watch?v=ktzA2CwTL7I
+	- Factory Design Pattern in Javascript https://www.youtube.com/watch?v=HyAsoq574ts
+	- Software Architecture (75) https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9
+	- Programming Patterns (33) https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe
+	- Software Engineering Highlights (38) https://www.youtube.com/playlist?list=PLQnljOFTspQWKPjGnVgA5oVIhNKJ5mDXg
+	- OOP Patterns https://youtube.com/playlist?list=PLug_z34YaEYvUHeEWOmq4zlF9u0IY541S&si=SW7qeLe17RlAgQE5
+	- Architectural Patterns https://youtube.com/playlist?list=PL285LgYq_FoJMIMzaQAVyfcvEaLXBZEw6&si=tQ4-4ensWKeVgLIZ
+	- Design patterns https://youtube.com/playlist?list=PL0iFifR5umck8Dqm51YewHERHUY7-Q2aZ&si=LIZmmUFCkO68PX4r
+	- Design Patterns https://youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f&si=_YddmvPT1Eq6MioU
+	- SOLID Design Principles https://youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&si=BEMo9GrhtTWK1LOV
+	- Clean Code https://youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79&si=m2xQS4s4tNOjnFUJ
+	- SOLID Design Principles https://www.youtube.com/playlist?list=PLXQpH_kZIxTWOcC8wvUHBMLSMQQ8LgcmU
+	- This is the Only Right Way to Write React clean-code - SOLID https://youtu.be/MSq_DCRxOxw?si=p5grJjTPqiyTbS02
+	- Design Patterns Tutorial in Hindi https://www.youtube.com/playlist?list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_
+	- Design Patterns https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0
+	- Design Patterns https://www.youtube.com/playlist?list=PLOghUv2IDLKEyNsW2fKCR8gxtlRGI1Usp
+	- Facade Design Pattern https://youtu.be/1oEqkRK3HYw?si=2RK4KtUHEcFGwCdE
+	- Design Patterns in 60 seconds https://www.youtube.com/playlist?list=PL-P_hNzCQhQgUmqxUZ-4JBChVTgP1Nthe
+	- Design Pattern https://www.youtube.com/playlist?list=PLqR6Wq9GKBis9wAMUV4bo02fVNWafjgS2
+	- Design Patterns https://www.youtube.com/playlist?list=PL18L3lKMddFqxkMhwMSAxpCwhEayD2IDd
+	- Design Patterns Primer https://www.youtube.com/playlist?list=PLTyWtrsGknYfiybyI_6R7KvHSql0DW-2v
+	- Design Patterns https://www.youtube.com/playlist?list=PLTCrU9sGybuo3HIJUKusfhB_m7QucuDTQ
+	- Design Patterns https://www.youtube.com/playlist?list=PLO6785UZapFX5bO4ZZSO7Unn2uOTNFqfQ
+	- Typescript https://www.youtube.com/playlist?list=PLa72FipivD80CCMq5UK2ivFsLE-FJFoyk
+	- Creational Design Patterns https://www.youtube.com/playlist?list=PLa72FipivD81tZGTG5Ex55LreCchuLSlH
+	- Structural Design Patterns https://www.youtube.com/playlist?list=PLa72FipivD80au4024gKw8e4kOelI36xr
+	- Behavioral Design patterns https://www.youtube.com/playlist?list=PLa72FipivD80PdAJCK6tXjBFedOScNUZL
+	- DESIGN PATTERNS https://www.youtube.com/playlist?list=PLVvjrrRCBy2LKvNBbBpUAN_ywK7NyMiC4

@@ -1,0 +1,90 @@
+- https://developer.confluent.io/get-started/dotnet/
+- https://docs.oracle.com/en-us/iaas/Content/Streaming/Tasks/streaming-kafka-dotnet-client-quickstart.htm
+- https://dev.to/dotnetdev04/apache-kafka-with-net-core-a-comprehensive-guide-57d
+- https://developer.confluent.io/
+- https://developer.confluent.io/courses/data-pipelines/intro/
+- https://dev.to/renukapatil/kafka-producer-and-consumer-example-in-net-6-with-aspnet-core-9i9
+- https://www.reddit.com/r/dotnet/comments/1ju6ywg/kafka_and_net_practical_guide_to_building/
+- https://thenewstack.io/why-python-data-engineers-should-know-kafka-and-flink/
+- https://data-guide.github.io/how-to-build-kafka-data-pipeline/
+- https://dataengineeracademy.com/module/how-to-build-an-event-driven-data-pipeline-using-kafka/
+- https://www.reddit.com/r/dataengineering/comments/1atccw5/question_on_data_pipeline_and_kafka_events/
+- https://portable.io/learn/kafka-data-pipelines
+- https://blog.dataengineerthings.org/build-real-time-streaming-data-pipelines-that-actually-work-cdb2eae575be
+- https://medium.com/@samarthgvasist/building-a-simple-data-pipeline-with-apache-kafka-2459aea2d2bd
+- Real-Time E-Commerce Data Engineering Project with Kafka 3h37m https://www.youtube.com/watch?v=e9GMjtayUnM
+	- https://strimzi.io/
+	- Kafka https://www.youtube.com/playlist?list=PL2We04F3Y_414xuRxkpSRO6T5sQvnEGac
+	- Messaging Queues in System Design https://youtu.be/XsJthAJemPU?si=7EDv_u46oRddFk8a
+	- https://developers.redhat.com/learn/apache-kafka/kafka-101
+	- https://www.youtube.com/@Confluent
+	- kafka tutorial for beginners https://www.youtube.com/playlist?list=PLA3GkZPtsafbAjKYkhWnD6GdhRtm6JrD1
+	- Kafka Crash Course 51m https://youtu.be/N9TDwaDfCW0?si=IFWvlu4KiZJwdcQT
+	- Kafka for beginners https://youtube.com/playlist?list=PLxoOrmZMsAWxXBF8h_TPqYJNsh3x4GyO4&si=qsdx4tqF3flPOqzr
+	- Kafka Tutorials in Hindi https://youtube.com/playlist?list=PLdUn31k8Q722_d3d18AZNNpsXoo3dmx6T&si=euDgRZ0m2tt8ZpMq
+	- Learn Apache Kafka in 90 Minutes https://youtu.be/QI5WRCdp0vs?si=aQ0yl3UjyNkaj7HS
+	- Apache Kafka On the Go https://www.youtube.com/playlist?list=PLa7VYi0yPIH3OY8zW7EU_pds2IKDHAfRj
+	- Apache Kafka https://www.youtube.com/playlist?list=PLf38f5LhQtheK16nwnCYFqH23WUUvZfSb
+	- Scalable Notification Service Using Kafka https://youtube.com/playlist?list=PLdUn31k8Q723lAfT2QOWoSA4C-UFQLDGI&si=pSeR08VmY6aEl8S4
+	- Design Notification System Like a Senior Engineer https://youtu.be/wxQmLHWkdI4?si=4F3uWCBhwT4TFRUk
+	- Apache Kafka Tutorial - Complete Crash Course for Beginners https://youtu.be/aOlDONHog50?si=0cymsRDvDuL5ZPHp
+	- Guide to Apache Kafka | Beginners https://youtube.com/playlist?list=PLHq1uqvAteVvMt63m2P1nUkHgMYahhJbl&si=Jsrg_2oSleqXn2Q9
+	- Kafka Crash Course - Hands-On Project https://youtu.be/B7CwU_tNYIE?si=BDpzR6zOSODNSZcD
+	- Kafka Tutorial for Beginners | Everything you need to get started https://youtu.be/QkdkLdMBuL0?si=HctX3ibKpqnp3gv4
+	- Kafka for beginners https://www.youtube.com/playlist?list=PLVz2XdJiJQxwpWGoNokohsSW2CysI6lDc
+	- Learn Microservices and Kafka with an E-commerce Example https://youtu.be/217EO1KZfH4?si=p5AdAROl_-H7I9sR
+	- Apache Kafka Crash Course | What is Kafka? https://youtu.be/ZJJHm_bd9Zo?si=nsotWzJkvTTRWzXI
+	- ksqlDB Videos by Confluent https://www.youtube.com/playlist?list=PLa7VYi0yPIH2eX8q3mPpZAn3qCS1eDX8W
+	- Course | Apache Kafka Fundamentals https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA
+	- Kafka Tutorials https://www.youtube.com/playlist?list=PLa7VYi0yPIH31ePSRZK0u9enchwz043K7
+	- Apache Kafka Tutorials https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH
+	- ksqlDB and Stream Processing Tutorials https://www.youtube.com/playlist?list=PLa7VYi0yPIH3ulxsOf5g43_QiB-HOg5_Y
+	- ksqlDB & Advanced Stream Processing https://www.youtube.com/playlist?list=PLa7VYi0yPIH0SG2lvtS2Aoa12F22jKYYJ
+	- Kafka Streams Tutorials | Kafka Streams https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s
+	- Building Data Pipelines with Apache Kafka® and Confluent https://www.youtube.com/playlist?list=PLa7VYi0yPIH1MculjFWJxs-aENPxRHHOS
+	- Apache Kafka® Architecture | Kafka's Internal Components https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN
+	- Designing Events and Event Streams https://www.youtube.com/playlist?list=PLa7VYi0yPIH145SVtPoh3Efv8xZ1ehUYy
+	- Schema Registry 101 | Introduction to Schema Registry in Apache Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH1KE10jwqmFEM61krd9WXQV
+	- Streaming Data Governance https://www.youtube.com/playlist?list=PLa7VYi0yPIH1sKNegs6Y8m92PRoYrcQzm
+	- Apache Kafka for .NET Developers https://www.youtube.com/playlist?list=PLa7VYi0yPIH0COW49gEL9-_bnid-i1Kjt
+	- Build an Event Model for an app built on Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH2jkYeRenjKCMxODp8z6dPy
+	- Getting Started with Apache Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH0xeDp2Iu1q_esSYeNsIxkZ
+	- Quick Concepts and How-Tos for Developers https://www.youtube.com/playlist?list=PLa7VYi0yPIH35Z89j_HoMEAb5vcr8bVfA
+	- Create a Hybrid and Multicloud Architecture https://www.youtube.com/playlist?list=PLa7VYi0yPIH0WFb9Cd00LXyPoDkkd9td6
+	- Mastering Production Data Streaming System https://www.youtube.com/playlist?list=PLa7VYi0yPIH2MhaY0MeZRgrGnuN6uCzrc
+	- Designing Event-Driven Microservices https://www.youtube.com/playlist?list=PLa7VYi0yPIH0IpUKXb3q7NSjpJGO9GGGZ
+	- Data Architecture Basics https://www.youtube.com/playlist?list=PLa7VYi0yPIH0QypJnW0OXOnbLvzJRP34C
+	- Event-Driven Microservices in Banking and Fraud Detection https://www.youtube.com/playlist?list=PLa7VYi0yPIH0n0qDF9mMiSbO1uORhAnSY
+	- Kafka Connect | Connectors in Practice https://www.youtube.com/playlist?list=PLf38f5LhQthc4pNQlDTocxsyUYdxFPU0Y
+	- Greatest Hits | Confluent Developer https://www.youtube.com/playlist?list=PLf38f5LhQthfrcMW4aqcy4C8FftVpHecN
+	- Kafka playlist https://www.youtube.com/playlist?list=PLaz3Ms051BAm_AUoDsNnjVv44w69lgzKn
+	- Real-Time Stock Market Data Pipeline | End-to-End Kafka & AWS Project (Hands-On!) https://youtu.be/XTAv7Ye1CGg?si=vq-WKiEhop9SXy5_
+	- Introduction to Apache Kafka and Flink on Confluent - Data Engineering Pipelines https://youtu.be/YyQPabxXDqQ?si=jWy1s3DVWcT5Shki
+	- Real Time Tweets Word Count Streaming Pipeline with Python, Kafka, Flink, Elasticsearch and Kibana https://youtu.be/ZP29tSlKJ3A?si=zbNJsGMQW-hy3LQu
+	- Apache Flink Deep Dive: Fault Tolerance and Parallel Dataflows - Snapshots Explained https://youtu.be/61ozKCKymi0?si=ZXvRE4zQnEYUhvTx
+	- Kafka Tutorial https://www.youtube.com/playlist?list=PLhqbwmTzNV1J-s-MmUVPlTRN3eFveB3IX
+	- Batch vs Real-Time Data Pipelines: When to Use What? | Step-by-Step Guide https://youtu.be/lKei72myN4o?si=NPPIjo8oc8KvLhFA
+	- Building a Real-Time Data Pipeline with PySpark, Kafka, and Redshift https://youtu.be/iluXuIM-als?si=m3NZXwQH2sxcw1eX
+	- AWS MSK | Apache Kafka https://www.youtube.com/playlist?list=PLl8w8gCvr4jKlT4YBYIpj0Gven9EBQI77
+	- https://www.youtube.com/@CodeWithYu/playlists
+	- Apache Kafka & Data Stream Processing https://www.youtube.com/playlist?list=PLuiPju9KQBnaCCUbpjzj5gFgGjROxi-vt
+	- I built a Real-Time Data Pipeline with Kafka, Debezium, Spark & Snowflake (And it Worked !) https://youtu.be/HfAf8ZtNAOc?si=BC7YYRRxZ33dHkKu
+	- System Design Concepts https://www.youtube.com/playlist?list=PL5dTjWUk_cPZU0i6YjMoS3BGxQMZJHn_c
+	- Introduction to Kafka | Stream Processing System | Simplified https://youtu.be/ynRI8R_tYkY?si=k7jEHojYTcbqRKWD
+	- The Ultimate Guide of Using Kafka with Node.js https://youtu.be/gTwXG8lC2GM?si=FjaKOp86B9E1_Mgw
+	- Kafka Tutorial - Node.js Producer & Consumer https://youtu.be/EiDLKECLcZw?si=yLy4v9mGr7HWUxrI
+	- Apache Kafka Projects https://www.youtube.com/playlist?list=PL_Ct8Cox2p8Welpojz5NNuQe6LeER0S3p
+	- Apache Kafka: From Cluster Setup to Event-Driven Mastery https://www.youtube.com/playlist?list=PLLhEJK7fQIxDBLRXXvHM73ACzSfUwefXQ
+	- Zero to Hero Kafka https://www.youtube.com/playlist?list=PL-P_hNzCQhQigUJf1wI0DqU6Km7i0v3yq
+	- Apache Kafka https://www.youtube.com/playlist?list=PL18L3lKMddFrQCV8fGciRf3Ckyift9GCV
+	- Advanced Kafka: Reliability, Failure https://www.youtube.com/playlist?list=PLC4Q2AL4g6zo7bP3KgFCHykmboskj8XFK
+	- Getting Started with Apache Kafka (KRaft Mode Included) https://www.youtube.com/playlist?list=PLC4Q2AL4g6zrwqRxnihftahnfr9LXBJ1X
+	- Kafka For Data Engineers https://www.youtube.com/playlist?list=PLiDUHlGx0KN-26098WeTueuoXJfz4Ct2u
+	- Kafka System Design | Full Course | Design & Architecture https://youtu.be/4TezK-w9_W0?si=yW13vYQllmqkuVUh
+	- https://www.youtube.com/@kai-waehner/videos
+	- Apache Kafka Tutorials https://www.youtube.com/playlist?list=PLiMWaCMwGJXlL8-E-xu8RBwyC5YfS3V5e
+	- Pulsar
+		- 5 Minutes About Apache Pulsar https://www.youtube.com/playlist?list=PL2g2h-wyI4SqeKH16czlcQ5x4Q_z-X7_m
+		- Learn Apache Pulsar https://www.youtube.com/playlist?list=PLWbrp-I4BRT-N1pC70w2EJa3ChFe3186j
+		- https://www.youtube.com/@streamnativeacademy8484
+		- Apache Pulsar: Finally an Alternative to Kafka? https://youtu.be/VD7y5h4AtgM?si=phtx_U8dnrbdOA35
