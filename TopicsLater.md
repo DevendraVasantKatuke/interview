@@ -3,6 +3,22 @@
 -	https://antithesis.com/resources/deterministic_simulation_testing/
 -	https://www.amplifypartners.com/writing
 -	https://antithesis.com/
+## Event Sourcing
+	- Event driven vs event sourcing https://youtu.be/y1KJITitFA8?si=bcnFfl9DnZrpGhzV
+	- Event Sourcing : what could possibly go wrong https://youtu.be/MYD4rrIqDhA?si=IrgFrRpfjhq1jdGK
+	- System Design - Event Sourcing https://youtu.be/JTmgi0vO5Ug?si=hBPPvvoVBzCu_ZCR
+	- Custom CQRS and Domain Events Setup https://www.youtube.com/playlist?list=PLYpjLpq5ZDGvQTc0MMZapXlPSRBABlpz1
+	- Event Sourcing https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ
+	- Event Sourcing and Event Storage with Apache Kafka https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
+	- CQRS - Event Sourcing https://www.youtube.com/playlist?list=PL-OjXpIFhMreyjOo4D5-HVIrUbb31VOSV
+	- Event Driven Design Vs Event Sourcing https://youtu.be/C471HVRetcQ?si=Njy2iVFQxjwMuj9G
+## CQRS
+	- https://cqrs.nu/
+	- https://docs.kurrent.io/
+	- https://academy.kurrent.io/courses
+	- https://www.kurrent.io/cqrs-pattern
+	- http://www.youtube.com/@Kurrent_io
+	- https://reimagined.github.io/resolve/docs/
 ## Mastra AI
 	- https://mastra.ai/
 	- https://refine.dev/core/docs/

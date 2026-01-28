@@ -1,13 +1,3 @@
-https://docs.dgraph.io/dgraph-overview
-https://docs.dgraph.io/graphql/
-https://graphql.org/learn/#tutorials
-https://hygraph.com/learn/graphql
-https://docs.github.com/en/graphql
-https://www.apollographql.com/docs/concepts/graphs
-https://graphql.com/learn/
-https://hasura.io/graphql/#overview-graphql
-https://www.howtographql.com/
-
 git config --global core.autocrlf false
 
 // run this file on CMD
